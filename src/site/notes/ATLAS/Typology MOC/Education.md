@@ -11,13 +11,17 @@ Education = provide the foundational tools so that [independent]() learning beco
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
+- [[Templars\|Templars]] : teach, mentor & counsel
 - [[ATLAS/Typology MOC/Informative\|Informative]]
 	- prefers to educate and inform
 	- exhibits explanatory tendencies
 	- aims to stir curiosity & explain
 	- Drawbacks : ambiguous language, unclear communication, others misinterpreting context 
+- [[ATLAS/Typology MOC/Concrete\|Concrete]]
+- [[ATLAS/Typology MOC/Affiliative\|Affiliative]] --> towards [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
+- [[ATLAS/Typology MOC/Systematic\|Systematic]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
-- [[ATLAS/Typology MOC/Parent\|Parent]]
+- [[ATLAS/Typology MOC/Parent\|Parent]] function 
 
 ## Introverted Thinking
 
@@ -65,3 +69,38 @@ No learning without motivation to learn. Passion is by far the most powerful eng
 Integration of the [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]] 
 
 A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.**
+## Ease to learn by Type 
+
+XXX = Ti + Se + Info + MT
+
+ISTP = 7 + 6 + 0 + 5 = 18
+ENFJ = 4 + 5 + 1 + 5 = 15
+ESTP = 6 + 7 + 0 + 0 = 13
+ISFJ = 5 + 3 + 5 + 0 = 13
+ESTJ = 3 + 2 + 1 + 5 = 11
+ESFJ = 4 + 2 + 5 + 0 = 11
+ESFP = 1 + 7 + 4 + 0 = 12
+INTP = 7 + 1 + 4 + 0 = 12
+ENTP = 6 + 0 + 4 + 0 = 10
+ENTJ = 3 + 5 + 2 + 0 = 10
+INFJ = 5 + 4 + 1 + 0 = 10
+ISFP = 0 + 6 + 4 + 0 = 10
+INFP = 0 + 1 + 3 + 5 = 9 
+INTJ = 2 + 4 + 2 + 0 = 8
+ISTJ = 2 + 3 + 1 + 0 = 6
+ENFP = 1 + 0 + 3 + 0 = 4
+
+
+Hero = 7
+P = 6
+C = 5
+I = 4
+N = 3
+C = 2
+T = 1
+Demon = 0
+
+info ego = 3
+sub & shadow = 1
+
+Mind Temple = 5 
