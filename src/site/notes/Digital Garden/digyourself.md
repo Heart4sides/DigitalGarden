@@ -3,8 +3,6 @@
 ---
 
 
-[[Digital Garden/Header\|Header]]
+[[ATLAS/Typology MOC/Education\|Education]]
 
-
-[[Digital Garden/Footer\|Footer]]
 
