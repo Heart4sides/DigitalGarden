@@ -9,8 +9,8 @@
 
 Education = provide the foundational tools so that [independent]() learning becomes possible for one's life.
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
-	- [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
-	- [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
+	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
+	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
 - [[ATLAS/Typology MOC/Informative\|Informative]]
 	- prefers to educate and inform
 	- exhibits explanatory tendencies
