@@ -3,3 +3,8 @@
 ---
 
 
+[[Digital Garden/Header\|Header]]
+
+
+[[Digital Garden/Footer\|Footer]]
+
