@@ -22,6 +22,7 @@ Education = provide the foundational tools so that [independent]() learning beco
 - [[ATLAS/Typology MOC/Systematic\|Systematic]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
 - [[ATLAS/Typology MOC/Parent\|Parent]] function 
+- [[Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 
 ## Introverted Thinking
 
