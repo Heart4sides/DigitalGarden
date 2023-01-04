@@ -13,9 +13,9 @@
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
-- [[Templars\|Templars]] : teach, mentor & counsel
+- [[Templars\|Templars]] : teach, <mark style="background: #FFB8EBA6;">mentor</mark> & <mark style="background: #FFB86CA6;">counsel</mark>
 - [[ATLAS/Typology MOC/Informative\|Informative]]
-	- prefers to educate and inform
+	- prefers to <mark style="background: #CACFD9A6;">educate</mark> and inform
 	- exhibits explanatory tendencies
 	- aims to stir curiosity & explain
 	- Drawbacks : ambiguous language, unclear communication, others misinterpreting context 
