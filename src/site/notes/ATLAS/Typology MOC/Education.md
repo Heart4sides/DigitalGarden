@@ -9,7 +9,13 @@
 
 ## Related topics 
 
-<mark style="background: #D2B3FFA6;">==Education==</mark> = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
+- [[ATLAS/Typology MOC/Concrete\|Concrete]]
+- [[ATLAS/Typology MOC/Affiliative\|Affiliative]] --> towards [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
+- [[ATLAS/Typology MOC/Systematic\|Systematic]] ?
+- [[Templars\|Templars]] : teach, mentor & counsel
+- [[ATLAS/Typology MOC/Parent\|Parent]] function 
+- [[Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
+- Education = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
@@ -19,12 +25,6 @@
 	- exhibits explanatory tendencies
 	- aims to stir curiosity & explain
 	- Drawbacks : ambiguous language, unclear communication, others misinterpreting context 
-- [[ATLAS/Typology MOC/Concrete\|Concrete]]
-- [[ATLAS/Typology MOC/Affiliative\|Affiliative]] --> towards [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
-- [[ATLAS/Typology MOC/Systematic\|Systematic]] ?
-- [[Templars\|Templars]] : teach, mentor & counsel
-- [[ATLAS/Typology MOC/Parent\|Parent]] function 
-- [[Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 
 ## Introverted Thinking
 
