@@ -2,12 +2,22 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/education/"}
 ---
 
-```toc
+
+[[ATLAS/Typology MOC/Education#Introverted Thinking\|Education#Introverted Thinking]]
+[[ATLAS/Typology MOC/Education#Extroverted Sensing\|Education#Extroverted Sensing]]
+
+Sources : 
+- [Wikipedia]()
+```embed
+title: 'Education - Wikipedia'
+image: 'https://upload.wikimedia.org/wikipedia/commons/f/f5/FBE_CTU_lecture.jpg'
+description: ''
+url: 'https://en.wikipedia.org/wiki/Education'
 ```
 
 ## Related topics 
 
-Education = provide the foundational tools so that [independent]() learning becomes possible for one's life.
+Education = provide the foundational tools so that independent learning becomes possible for one's life.
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
