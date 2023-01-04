@@ -4,12 +4,12 @@
 
 
 ## Sources
-- C.S. Joseph
+- <mark style="background: #FF5582A6;">C.S. Joseph</mark>
 - [Wikipedia](https://en.wikipedia.org/wiki/Education)
 
 ## Related topics 
 
-<mark style="background: #D2B3FFA6;">==Education==</mark> = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning becomes possible for one's life.
+<mark style="background: #D2B3FFA6;">==Education==</mark> = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
