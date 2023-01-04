@@ -4,8 +4,10 @@
 
 
 ## Contents 
+- [[ATLAS/Typology MOC/Education#Related topics\|Related Topics]]
 - [[ATLAS/Typology MOC/Education#Introverted Thinking\|Introverted Thinking]]
 - [[ATLAS/Typology MOC/Education#Extroverted Sensing\|Extroverted Sensing]]
+- 
 
 ## Sources
 - C.S. Joseph
