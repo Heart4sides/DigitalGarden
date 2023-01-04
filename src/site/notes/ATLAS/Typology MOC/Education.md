@@ -3,17 +3,13 @@
 ---
 
 
-[[ATLAS/Typology MOC/Education#Introverted Thinking\|Education#Introverted Thinking]]
-[[ATLAS/Typology MOC/Education#Extroverted Sensing\|Education#Extroverted Sensing]]
+## Contents 
+- [[ATLAS/Typology MOC/Education#Introverted Thinking\|Introverted Thinking]]
+- [[ATLAS/Typology MOC/Education#Extroverted Sensing\|Extroverted Sensing]]
 
-Sources : 
-- [Wikipedia]()
-```embed
-title: 'Education - Wikipedia'
-image: 'https://upload.wikimedia.org/wikipedia/commons/f/f5/FBE_CTU_lecture.jpg'
-description: ''
-url: 'https://en.wikipedia.org/wiki/Education'
-```
+## Sources
+- C.S. Joseph
+- [Wikipedia](https://en.wikipedia.org/wiki/Education)
 
 ## Related topics 
 
