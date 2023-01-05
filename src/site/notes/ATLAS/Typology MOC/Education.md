@@ -17,7 +17,7 @@
 - [[Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 - Education = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
 - [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
-	-  [[Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
+	-  [[ATLAS/Typology MOC/Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
 - [[Templars\|Templars]] : teach, <mark style="background: #FFB8EBA6;">mentor</mark> & <mark style="background: #FFB86CA6;">counsel</mark>
 - [[ATLAS/Typology MOC/Informative\|Informative]]
