@@ -8,15 +8,15 @@
 ==[[Quadra\|Quadra]]== : [[ATLAS/Typology MOC/Philosopher\|Philosopher]] 
 
 ==[[ATLAS/Typology MOC/Ego\|Ego]]==
-[[ATLAS/Typology MOC/Si Hero\|Si Hero]] | [[Te Parent\|Te Parent]] | [[ATLAS/Typology MOC/Fi Child\|Fi Child]] | [[ATLAS/Typology MOC/Ne inferior\|Ne inferior]]
+[[ATLAS/Typology MOC/Si Hero\|Si Hero]] | [[ATLAS/Typology MOC/Te Parent\|Te Parent]] | [[ATLAS/Typology MOC/Fi Child\|Fi Child]] | [[ATLAS/Typology MOC/Ne inferior\|Ne inferior]]
 
 ==[[ATLAS/Typology MOC/Shadow\|Shadow]]== 
-[[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]] | [[Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Fe Trickster\|Fe Trickster]] | [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]
+[[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Fe Trickster\|Fe Trickster]] | [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]
 
 ## 4 sides  
-==[[ATLAS/Typology MOC/Subconscious\|Subconscious]]== ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : ENFP
-==[[ATLAS/Typology MOC/Shadow\|Shadow]]== ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : ESTP
-==[[ATLAS/Typology MOC/Superego\|Superego]]== ([[ATLAS/Typology MOC/Axis\|Axis]]):   INFJ
+==[[ATLAS/Typology MOC/Subconscious\|Subconscious]]== ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ENFP\|ENFP]]
+==[[ATLAS/Typology MOC/Shadow\|Shadow]]== ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ESTP\|ESTP]]
+==[[ATLAS/Typology MOC/Superego\|Superego]]== ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/INFJ\|INFJ]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]]
@@ -38,12 +38,12 @@
 
 ## Mentions 
 ctrl + schift + Q
-[[EXTRAS/Templates/List of Types\|List of Types]]
-[[EXTRAS/Templates/MOC Function Template 1\|MOC Function Template 1]]
-[[EXTRAS/Templates/Quadra Template\|Quadra Template]]
-[[EXTRAS/Templates/Type Template\|Type Template]]
-[[EXTRAS/Templates/Typing Template\|Typing Template]]
-[[SOURCES/Type Theory/Attitudes/Cognitive attitude of the Inferior\|Cognitive attitude of the Inferior]]
+[[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
+[[EXTRAS/Templates/TPL Function\|TPL Function]]
+[[EXTRAS/Templates/TPL Quadra\|TPL Quadra]]
+[[EXTRAS/Templates/TPL Type\|TPL Type]]
+[[EXTRAS/Templates/TPL Typing\|TPL Typing]]
+[[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Inferior\|Cognitive attitude of the Inferior]]
 [[ATLAS/Mechanics\|Mechanics]]
 
 ## Examples 
