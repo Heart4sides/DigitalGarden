@@ -16,7 +16,7 @@
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego\|Ego]]
-[[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ti Parent👨\|Ti Parent👨]] | [[ATLAS/Typology MOC/Ti Child\|Ti Child]] | [[ATLAS/Typology MOC/Ti Inferior\|Ti Inferior]]
+[[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ti Parent 🤰\|Ti Parent 🤰]] | [[ATLAS/Typology MOC/Ti Child 🧒\|Ti Child 🧒]] | [[ATLAS/Typology MOC/Ti Inferior 👶\|Ti Inferior 👶]]
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
 [[ATLAS/Typology MOC/Ti Nemesis\|Ti Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Ti Trickster\|Ti Trickster]] | [[ATLAS/Typology MOC/Ti Demon\|Ti Demon]]
 
