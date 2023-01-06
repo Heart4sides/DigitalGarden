@@ -11,7 +11,7 @@
 [[ATLAS/Typology MOC/Si Hero\|Si Hero]] | [[ATLAS/Typology MOC/Te Parent\|Te Parent]] | [[ATLAS/Typology MOC/Fi Child\|Fi Child]] | [[ATLAS/Typology MOC/Ne inferior\|Ne inferior]]
 
 ==[[ATLAS/Typology MOC/Shadow\|Shadow]]== 
-[[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Fe Trickster\|Fe Trickster]] | [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]
+[[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]
 
 ## 4 sides  
 ==[[ATLAS/Typology MOC/Subconscious\|Subconscious]]== ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ENFP\|ENFP]]
