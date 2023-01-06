@@ -4,15 +4,15 @@
 
 
 ## Quadras
-[[SOURCES/Type Theory/Functions/Philosopher by CSJ\|Philosopher by CSJ]] | [[SOURCES/Type Theory/Functions/Wayfarer by CSJ\|Wayfarer by CSJ]] 
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/Wayfarer\|Wayfarer]] 
 
 ## Types 
 
-| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]&nbsp; |  |  [[ENTJ\|ENTJ]]      |  |
+| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]&nbsp; |  |  [[ATLAS/Typology MOC/ENTJ\|ENTJ]]      |  |
 |:---------------|:-----------|:---------------|:---------------|
-|  | [[ESFP\|ESFP]]   |  | [[ENFP\|ENFP]]       |
-| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]       | |  [[INTJ\|INTJ]]      |   |
-|  |  [[ISFP\|ISFP]]  |    | [[INFP\|INFP]]       |  
+|  | [[ATLAS/Typology MOC/ESFP\|ESFP]]   |  | [[ATLAS/Typology MOC/ENFP\|ENFP]]       |
+| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]       | |  [[ATLAS/Typology MOC/INTJ\|INTJ]]      |   |
+|  |  [[ATLAS/Typology MOC/ISFP\|ISFP]]  |    | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego\|Ego]]
