@@ -4,7 +4,7 @@
 
 
 4 ways
-- [[CARDS/New Notes/Functions\|Functions]] in [[CARDS/New Notes/Attitudes\|Attitudes]]
+- [[Cognitive Functions\|Cognitive Functions]]
 - [[Type Grid\|Type Grid]]
 - [[Temple\|Temple]]
 - 
