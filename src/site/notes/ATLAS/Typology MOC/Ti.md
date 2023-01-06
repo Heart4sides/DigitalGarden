@@ -4,21 +4,21 @@
 
 
 ## Quadras
-[[SOURCES/Type Theory/Functions/Crusader by CSJ\|Crusader by CSJ]] | [[SOURCES/Type Theory/Functions/Templar by CSJ\|Templar by CSJ]] 
+[[SOURCES/Type Theory by CSJ/Functions/Crusader by CSJ\|Crusader by CSJ]] | [[SOURCES/Type Theory by CSJ/Functions/Templar by CSJ\|Templar by CSJ]] 
 
 ## Types 
 
-| |  [[ESTP\|ESTP]]  |  | [[ENFJ\|ENFJ]]&nbsp; |
+| |  [[ATLAS/Typology MOC/ESTP\|ESTP]]  |  | [[ATLAS/Typology MOC/ENFJ\|ENFJ]]&nbsp; |
 |:---------------|:-----------|:---------------|:---------------|
 | [[ESFJ\|ESFJ]]       | | [[ATLAS/Typology MOC/ENTP\|ENTP]]&nbsp; | |
-| |  [[ISTP\|ISTP]]  |  | [[INFJ\|INFJ]]       |
-| [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; | |  [[INTP\|INTP]]      |  |  
+| |  [[ATLAS/Typology MOC/ISTP\|ISTP]]  |  | [[ATLAS/Typology MOC/INFJ\|INFJ]]       |
+| [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; | |  [[ATLAS/Typology MOC/INTP\|INTP]]      |  |  
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego\|Ego]]
-[[Ti Hero\|Ti Hero]] | [[Ti Parent\|Ti Parent]] | [[Ti Child\|Ti Child]] | [[Ti Inferior\|Ti Inferior]]
+[[ATLAS/Typology MOC/Ti Hero\|Ti Hero]] | [[ATLAS/Typology MOC/Ti Parent\|Ti Parent]] | [[ATLAS/Typology MOC/Ti Child\|Ti Child]] | [[ATLAS/Typology MOC/Ti Inferior\|Ti Inferior]]
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
-[[Ti Nemesis\|Ti Nemesis]] | [[Ti Critic\|Ti Critic]] | [[Ti Trickster\|Ti Trickster]] | [[Ti Demon\|Ti Demon]]
+[[ATLAS/Typology MOC/Ti Nemesis\|Ti Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Ti Trickster\|Ti Trickster]] | [[ATLAS/Typology MOC/Ti Demon\|Ti Demon]]
 
 ## Relationships 
 [[ATLAS/Typology MOC/Axis\|Axis]] :  [[ATLAS/Typology MOC/Fe\|Fe]] 
@@ -43,10 +43,10 @@ ctrl + schift + Q
 - [[ATLAS/Typology MOC/Judgement\|Judgement]]
 - [[ATLAS/Mechanics\|Mechanics]]
 - [[ATLAS/Typology MOC/Education\|Education]]
-- [[EXTRAS/Templates/MOC Function Template 1\|MOC Function Template 1]]
-- [[EXTRAS/Templates/Typing Template\|Typing Template]]
-- [[SOURCES/Type Theory/Other/Typing People by Text\|Typing People by Text]]
-- [[SOURCES/Type Theory/Type Grid/Temperament/Affiliative by CSJ\|Affiliative by CSJ]]
+- [[EXTRAS/Templates/TPL Function\|TPL Function]]
+- [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
+- [[SOURCES/Type Theory by CSJ/Other/Typing People by Text\|Typing People by Text]]
+- [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Affiliative by CSJ\|Affiliative by CSJ]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
