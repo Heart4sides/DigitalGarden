@@ -4,13 +4,8 @@
 
 
 ```mermaid
-
-graph LR; 
-
-A[Fi] --> Ti
-B[Ti] --> Fi
-
-class A internal-link;
-class B internal-link;
-
+graph RL;  
+    Crusader-->B[Philosopher];
+    class A internal-link;
+    class B internal-link;
 ```
