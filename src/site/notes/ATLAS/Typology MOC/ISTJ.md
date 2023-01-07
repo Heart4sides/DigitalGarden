@@ -5,13 +5,13 @@
 
 ## Quadra & Functions
 
-==[[Quadra\|Quadra]]== : [[ATLAS/Typology MOC/Philosopher\|Philosopher]] 
+==[[ATLAS/Functions & Attitudes/1. Quadra\|1. Quadra]]== : [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] 
 
 ==[[ATLAS/Typology MOC/Ego\|Ego]]==
-[[ATLAS/Typology MOC/Si Hero\|Si Hero]] | [[ATLAS/Typology MOC/Te Parent\|Te Parent]] | [[ATLAS/Typology MOC/Fi Child\|Fi Child]] | [[ATLAS/Typology MOC/Ne inferior\|Ne inferior]]
+[[ATLAS/Functions & Attitudes/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Functions & Attitudes/Fi Child 🧒\|Fi Child 🧒]] | [[ATLAS/Functions & Attitudes/Ne inferior 👶\|Ne inferior 👶]]
 
 ==[[ATLAS/Typology MOC/Shadow\|Shadow]]== 
-[[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]] | [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]] | [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]
+[[ATLAS/Functions & Attitudes/Se Nemesis 😟\|Se Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Ti Critic 👵\|Ti Critic 👵]] | [[ATLAS/Functions & Attitudes/Fe Trickster 🃏\|Fe Trickster 🃏]] | [[ATLAS/Functions & Attitudes/Ni Demon 😈\|Ni Demon 😈]]
 
 ## 4 sides  
 ==[[ATLAS/Typology MOC/Subconscious\|Subconscious]]== ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ENFP\|ENFP]]
