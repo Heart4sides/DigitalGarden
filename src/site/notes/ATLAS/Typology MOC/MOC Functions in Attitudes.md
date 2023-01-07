@@ -3,70 +3,70 @@
 ---
 
 
-| File                                                       | Function | Attitude     | Links                                      |
-| ---------------------------------------------------------- | -------- | ------------ | ------------------------------------------ |
-| [[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]]     | Fi       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]]     | Ne       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Ni Hero\|Ni Hero]]                 | Ni       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Se hero\|Se hero]]                 | Se       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Si Hero\|Si Hero]]                 | Si       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]]     | Te       | 1-Hero       | \-                                         |
-| [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]]     | Fe       | 1-Hero 🦸‍♂️ | \-                                         |
-| [[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]]     | Ti       | 1-Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Ti\|Ti]] \| [[ATLAS/Typology MOC/Hero\|Hero]] \| [[ATLAS/Typology MOC/INTP\|INTP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]] |
-| [[ATLAS/Typology MOC/Fe Parent\|Fe Parent]]             | Fe       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Fi Parent\|Fi Parent]]             | Fi       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Ne Parent\|Ne Parent]]             | Ne       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Ni Parent\|Ni Parent]]             | Ni       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Se Parent\|Se Parent]]             | Se       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Si Parent\|Si Parent]]             | Si       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Te Parent\|Te Parent]]             | Te       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Ti Parent 🤰\|Ti Parent 🤰]]       | Ti       | 2-Parent     | \-                                         |
-| [[ATLAS/Typology MOC/Fe Child\|Fe Child]]               | Fe       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Fi Child\|Fi Child]]               | Fi       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Ne Child\|Ne Child]]               | Ne       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Ni Child\|Ni Child]]               | Ni       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Se Child\|Se Child]]               | Se       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Si Child\|Si Child]]               | Si       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Te Child\|Te Child]]               | Te       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Ti Child 🧒\|Ti Child 🧒]]         | Ti       | 3-Child      | \-                                         |
-| [[ATLAS/Typology MOC/Fe Inferior\|Fe Inferior]]         | Fe       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Fi Inferior\|Fi Inferior]]         | Fi       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Ne inferior\|Ne inferior]]         | Ne       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Ni Inferior\|Ni Inferior]]         | Ni       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Se Inferior\|Se Inferior]]         | Se       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Si Inferior\|Si Inferior]]         | Si       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Te Inferior\|Te Inferior]]         | Te       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Ti Inferior 👶\|Ti Inferior 👶]]   | Ti       | 4-Inferior   | \-                                         |
-| [[ATLAS/Typology MOC/Fe Nemesis 😟\|Fe Nemesis 😟]]     | Fe       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Fi Nemesis\|Fi Nemesis]]           | Fi       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Ne Nemesis\|Ne Nemesis]]           | Ne       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Ni Nemesis\|Ni Nemesis]]           | Ni       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Se Nemesis\|Se Nemesis]]           | Se       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Si Nemesis\|Si Nemesis]]           | Si       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Te Nemesis\|Te Nemesis]]           | Te       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Ti Nemesis\|Ti Nemesis]]           | Ti       | 5-Nemesis    | \-                                         |
-| [[ATLAS/Typology MOC/Fe Critic 👵\|Fe Critic 👵]]       | Fe       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Fi Critic\|Fi Critic]]             | Fi       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Ne Critic\|Ne Critic]]             | Ne       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Ni Critic\|Ni Critic]]             | Ni       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Se Critic\|Se Critic]]             | Se       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Si Critic\|Si Critic]]             | Si       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Te Critic\|Te Critic]]             | Te       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Ti Critic\|Ti Critic]]             | Ti       | 6-Critic     | \-                                         |
-| [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | Fe       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Fi Trickster\|Fi Trickster]]       | Fi       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Ne Trickster\|Ne Trickster]]       | Ne       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Ni Trickster\|Ni Trickster]]       | Ni       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Se Trickster\|Se Trickster]]       | Se       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Si Trickster\|Si Trickster]]       | Si       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Te Trickster\|Te Trickster]]       | Te       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Ti Trickster\|Ti Trickster]]       | Ti       | 7-Trickster  | \-                                         |
-| [[ATLAS/Typology MOC/Fe Demon 😈\|Fe Demon 😈]]         | Fe       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Fi Demon\|Fi Demon]]               | Fi       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Ne Demon\|Ne Demon]]               | Ne       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Ni Demon\|Ni Demon]]               | Ni       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Se Demon\|Se Demon]]               | Se       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Ti Demon\|Ti Demon]]               | Si       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Si Demon\|Si Demon]]               | Si       | 8-Demon      | \-                                         |
-| [[ATLAS/Typology MOC/Te Demon\|Te Demon]]               | Te       | 8-Demon      | \-                                         |
+| File                                                                | Function | Attitude     | Links                                                          |
+| ------------------------------------------------------------------- | -------- | ------------ | -------------------------------------------------------------- |
+| [[ATLAS/Functions & Attitudes/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]]     | Fi       | 1-Hero       | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]               |
+| [[ATLAS/Functions & Attitudes/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]]     | Ne       | 1-Hero       | [[ATLAS/Functions & Attitudes/Ne\|Ne]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]]               |
+| [[ATLAS/Functions & Attitudes/Ni Hero 🦸‍♂️\|Ni Hero 🦸‍♂️]]     | Ni       | 1-Hero       | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]]               |
+| [[ATLAS/Functions & Attitudes/Se hero 🦸‍♂️\|Se hero 🦸‍♂️]]     | Se       | 1-Hero       | [[ATLAS/Functions & Attitudes/Se\|Se]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]               |
+| [[ATLAS/Functions & Attitudes/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]]     | Si       | 1-Hero       | [[ATLAS/Functions & Attitudes/Si\|Si]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]]     | Te       | 1-Hero       | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]               |
+| [[ATLAS/Functions & Attitudes/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]]     | Fe       | 1-Hero 🦸‍♂️ | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ESFJ\|ESFJ]]               |
+| [[ATLAS/Functions & Attitudes/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]]     | Ti       | 1-Hero 🦸‍♂️ | [[ATLAS/Functions & Attitudes/Ti\|Ti]] \| [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/INTP\|INTP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]               |
+| [[ATLAS/Functions & Attitudes/Fe Parent 🤰\|Fe Parent 🤰]]       | Fe       | 2-Parent     | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Fi Parent 🤰\|Fi Parent 🤰]]       | Fi       | 2-Parent     | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ne Parent 🤰\|Ne Parent 🤰]]       | Ne       | 2-Parent     | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Ni Parent 🤰\|Ni Parent 🤰]]       | Ni       | 2-Parent     | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \| [[ATLAS/Functions & Attitudes/Parent 🤰\|Parent 🤰]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]]                |
+| [[ATLAS/Functions & Attitudes/Se Parent 🤰\|Se Parent 🤰]]       | Se       | 2-Parent     | [[ATLAS/Functions & Attitudes/Se\|Se]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Si Parent 🤰\|Si Parent 🤰]]       | Si       | 2-Parent     | [[ATLAS/Functions & Attitudes/Si\|Si]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Te Parent 🤰\|Te Parent 🤰]]       | Te       | 2-Parent     | [[ATLAS/Functions & Attitudes/Te\|Te]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ti Parent 🤰\|Ti Parent 🤰]]       | Ti       | 2-Parent     | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Fe Child 🧒\|Fe Child 🧒]]         | Fe       | 3-Child      | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]]          |
+| [[ATLAS/Functions & Attitudes/Fi Child 🧒\|Fi Child 🧒]]         | Fi       | 3-Child      | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]                 |
+| [[ATLAS/Functions & Attitudes/Ne Child 🧒\|Ne Child 🧒]]         | Ne       | 3-Child      | [[ATLAS/Functions & Attitudes/Ne\|Ne]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ESFJ\|ESFJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]                 |
+| [[ATLAS/Functions & Attitudes/Ni Child 🧒\|Ni Child 🧒]]         | Ni       | 3-Child      | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]                 |
+| [[ATLAS/Functions & Attitudes/Se Child 🧒\|Se Child 🧒]]         | Se       | 3-Child      | [[ATLAS/Functions & Attitudes/Se\|Se]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]]                 |
+| [[ATLAS/Functions & Attitudes/Si Child 🧒\|Si Child 🧒]]         | Si       | 3-Child      | [[ATLAS/Functions & Attitudes/Si\|Si]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/INTP\|INTP]]                 |
+| [[ATLAS/Functions & Attitudes/Te Child 🧒\|Te Child 🧒]]         | Te       | 3-Child      | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]                 |
+| [[ATLAS/Functions & Attitudes/Ti Child 🧒\|Ti Child 🧒]]         | Ti       | 3-Child      | [[ATLAS/Functions & Attitudes/Ti\|Ti]] \| [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]] \| [[ATLAS/Typology MOC/ISFJ\|ISFJ]]                 |
+| [[ATLAS/Functions & Attitudes/Fe Inferior 👶\|Fe Inferior 👶]]   | Fe       | 4-Inferior   | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Fi Inferior 👶\|Fi Inferior 👶]]   | Fi       | 4-Inferior   | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ne inferior 👶\|Ne inferior 👶]]   | Ne       | 4-Inferior   | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Ni Inferior 👶\|Ni Inferior 👶]]   | Ni       | 4-Inferior   | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Se Inferior 👶\|Se Inferior 👶]]   | Se       | 4-Inferior   | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Si Inferior 👶\|Si Inferior 👶]]   | Si       | 4-Inferior   | [[ATLAS/Functions & Attitudes/Si\|Si]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Te Inferior 👶\|Te Inferior 👶]]   | Te       | 4-Inferior   | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior 👶]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]              |
+| [[ATLAS/Functions & Attitudes/Ti Inferior 👶\|Ti Inferior 👶]]   | Ti       | 4-Inferior   | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Fe Nemesis 😟\|Fe Nemesis 😟]]     | Fe       | 5-Nemesis    | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Fi Nemesis 😟\|Fi Nemesis 😟]]     | Fi       | 5-Nemesis    | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ne Nemesis 😟\|Ne Nemesis 😟]]     | Ne       | 5-Nemesis    | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Ni Nemesis 😟\|Ni Nemesis 😟]]     | Ni       | 5-Nemesis    | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Se Nemesis 😟\|Se Nemesis 😟]]     | Se       | 5-Nemesis    | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Si Nemesis 😟\|Si Nemesis 😟]]     | Si       | 5-Nemesis    | [[ATLAS/Functions & Attitudes/Si\|Si]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Te Nemesis 😟\|Te Nemesis 😟]]     | Te       | 5-Nemesis    | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Nemesis 😟\|Nemesis 😟]] \| [[ATLAS/Typology MOC/INTP\|INTP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]               |
+| [[ATLAS/Functions & Attitudes/Ti Nemesis 😟\|Ti Nemesis 😟]]     | Ti       | 5-Nemesis    | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Fe Critic 👵\|Fe Critic 👵]]       | Fe       | 6-Critic     | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Fi Critic 👵\|Fi Critic 👵]]       | Fi       | 6-Critic     | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ne Critic 👵\|Ne Critic 👵]]       | Ne       | 6-Critic     | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Ni Critic 👵\|Ni Critic 👵]]       | Ni       | 6-Critic     | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Se Critic 👵\|Se Critic 👵]]       | Se       | 6-Critic     | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Si Critic 👵\|Si Critic 👵]]       | Si       | 6-Critic     | [[ATLAS/Functions & Attitudes/Si\|Si]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Te Critic 👵\|Te Critic 👵]]       | Te       | 6-Critic     | [[ATLAS/Functions & Attitudes/Te\|Te]] \|  \|  \|                                              |
+| [[ATLAS/Functions & Attitudes/Ti Critic 👵\|Ti Critic 👵]]       | Ti       | 6-Critic     | \-                                                             |
+| [[ATLAS/Functions & Attitudes/Fe Trickster 🃏\|Fe Trickster 🃏]] | Fe       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]  |
+| [[ATLAS/Functions & Attitudes/Fi Trickster 🃏\|Fi Trickster 🃏]] | Fi       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]]  \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] |
+| [[ATLAS/Functions & Attitudes/Ne Trickster 🃏\|Ne Trickster 🃏]] | Ne       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]  |
+| [[ATLAS/Functions & Attitudes/Ni Trickster 🃏\|Ni Trickster 🃏]] | Ni       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]] \| [[ESFJ\|ESFJ]]  |
+| [[ATLAS/Functions & Attitudes/Se Trickster 🃏\|Se Trickster 🃏]] | Se       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Se\|Se]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \|  [[ATLAS/Typology MOC/INTP\|INTP]] |
+| [[ATLAS/Functions & Attitudes/Si Trickster 🃏\|Si Trickster 🃏]] | Si       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Si\|Si]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]]  |
+| [[ATLAS/Functions & Attitudes/Te Trickster 🃏\|Te Trickster 🃏]] | Te       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]] \| [[ATLAS/Typology MOC/ISFJ\|ISFJ]]  |
+| [[ATLAS/Functions & Attitudes/Ti Trickster 🃏\|Ti Trickster 🃏]] | Ti       | 7-Trickster  | [[ATLAS/Functions & Attitudes/Ti\|Ti]] \| [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]  |
+| [[ATLAS/Functions & Attitudes/Fe Demon 😈\|Fe Demon 😈]]         | Fe       | 8-Demon      | [[ATLAS/Functions & Attitudes/Fe\|Fe]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]          |
+| [[ATLAS/Functions & Attitudes/Fi Demon 😈\|Fi Demon 😈]]         | Fi       | 8-Demon      | [[ATLAS/Functions & Attitudes/Fi\|Fi]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INTP\|INTP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]          |
+| [[ATLAS/Functions & Attitudes/Ne Demon 😈\|Ne Demon 😈]]         | Ne       | 8-Demon      | [[ATLAS/Functions & Attitudes/Ne\|Ne]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]          |
+| [[ATLAS/Functions & Attitudes/Ni Demon 😈\|Ni Demon 😈]]         | Ni       | 8-Demon      | [[ATLAS/Functions & Attitudes/Ni\|Ni]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon 😈]] \| [[ATLAS/Typology MOC/ISFJ\|ISFJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]                 |
+| [[ATLAS/Functions & Attitudes/Se Demon 😈\|Se Demon 😈]]         | Se       | 8-Demon      | [[ATLAS/Functions & Attitudes/Se\|Se]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]]          |
+| [[ATLAS/Functions & Attitudes/Ti Demon 😈\|Ti Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Functions & Attitudes/Ti\|Ti]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]          |
+| [[ATLAS/Functions & Attitudes/Si Demon 😈\|Si Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Functions & Attitudes/Si\|Si]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]]          |
+| [[ATLAS/Functions & Attitudes/Te Demon 😈\|Te Demon 😈]]         | Te       | 8-Demon      | [[ATLAS/Functions & Attitudes/Te\|Te]] \| [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ESFJ\|ESFJ]]          |
 
