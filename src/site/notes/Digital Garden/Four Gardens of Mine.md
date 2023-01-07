@@ -3,6 +3,8 @@
 ---
 
 
+[Short TOC]
+
 Welcome to the Four Gardens of Mine.
 
 In these [[4 sides of the Mind\|Gardens]] I shall grow plants of a special kind. Alas we will never have the chance to contemplate them with our bodily eyes, and will merely be able to speculate on their fruits, for they exist only in our minds, but in ALL minds, and thus shape the [[ATLAS/Mechanics\|mechanisms]] of interaction of man to man and man to self.  
@@ -28,27 +30,5 @@ I shall observe various plants in their various states of growth as well as thos
 I shall invite my hosts to explore the garden at their own likings and gather the seeds which will help them grow in their own garden in their own unique way. 
 
 I shall listen to and be grateful for their appreciations, criticisms, warning and observations. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4 ways
-- [[Cognitive Functions\|Cognitive Functions]]
-- [[Type Grid\|Type Grid]]
-- [[Temple\|Temple]]
-- 
 
 [^1]: I say the game is human, but it is likely a game all species able to perceive and judge play as well. 
