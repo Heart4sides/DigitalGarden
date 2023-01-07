@@ -5,7 +5,7 @@
 
 Welcome to the Four Gardens of Mine.
 
-In these [[4 sides\|Gardens]] I shall grow plants of a special kind. Alas we will never have the chance to contemplate them with our bodily eyes, and will merely be able to speculate on their fruits, for they exist only in our minds, but in ALL minds, and thus shape the [[ATLAS/Mechanics\|mechanisms]] of interaction of man to man and man to self.  
+In these [[4 sides of the Mind\|Gardens]] I shall grow plants of a special kind. Alas we will never have the chance to contemplate them with our bodily eyes, and will merely be able to speculate on their fruits, for they exist only in our minds, but in ALL minds, and thus shape the [[ATLAS/Mechanics\|mechanisms]] of interaction of man to man and man to self.  
 
 The base number of these theoretical gardens is 4. 
 
