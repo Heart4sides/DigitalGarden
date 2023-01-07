@@ -56,7 +56,7 @@ ctrl + schift + Q
 [[ATLAS/Mechanics\|Mechanics]]
 [[ATLAS/Typology MOC/Intention\|Intention]]
 [[ATLAS/Typology MOC/Solve\|Solve]]
-[[Digital Garden/digyourself\|digyourself]]
+[[Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Quadra\|TPL Quadra]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
