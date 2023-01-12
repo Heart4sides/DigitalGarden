@@ -3,6 +3,17 @@
 ---
 
 
+## Keywords
+- Ensure the quality of the result
+- Get things done right the first time
+- Goal > [[ATLAS/Dictionary/Journey\|Journey]]
+- Plan 
+- [[deliberate\|deliberate]] 
+- [[measured\|measured]]
+- [[certainty\|certainty]]-focused 
+- [[control\|control]] 
+- [[ATLAS/Dictionary/Prepare\|prepare]]
+
 ## Related Notes 
 - [[ATLAS/Dictionary/Dictionary\|Dictionary]]
 - [[ATLAS/Typology MOC/Structure\|ATLAS/Typology MOC/Structure]]
@@ -14,11 +25,6 @@
 - [[ATLAS/Typology MOC/Body Temple\|Body Temple]] : final order, legacy 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
 - [[SOURCES/Type Theory by CSJ/Temples/Body Temple/Purpose Dyad/Greed by CSJ\|Greed by CSJ]] : outcome of a scarcity mindset / garanty the outcome by taking everything along the way 
-- [[deliberate\|deliberate]] 
-- [[measured\|measured]]
-- [[certainty\|certainty]]-focused 
-- [[control\|control]] 
-- [[ATLAS/Dictionary/Prepare\|prepare]]
 - 
 
 ## Types 
