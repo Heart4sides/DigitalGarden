@@ -16,9 +16,9 @@
 [[ATLAS/Functions & Attitudes/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Functions & Attitudes/Se Trickster 🃏\|Se Trickster 🃏]] | [[ATLAS/Functions & Attitudes/Fi Demon 😈\|Fi Demon 😈]]
 
 ## 4 sides  
-[[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : ESFJ
-[[ATLAS/Typology MOC/Shadow\|Shadow]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : ENTJ
-[[ATLAS/Typology MOC/Superego\|Superego]] ([[ATLAS/Typology MOC/Axis\|Axis]]):   ISFP
+[[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ESFJ\|ESFJ]]
+[[ATLAS/Typology MOC/Shadow\|Shadow]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ENTJ\|ENTJ]]
+[[ATLAS/Typology MOC/Superego\|Superego]] ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/ISFP\|ISFP]]
 
 ## Virtu & Vice
 [[ATLAS/Typology MOC/Apathy\|Apathy]] [[Attention\|Attention]] 
@@ -35,3 +35,4 @@
 
 ## Examples 
 [[ATLAS/Examples\|Examples]] 
+[[CARDS/Type Practice/By type/INTP list\|INTP list]]
