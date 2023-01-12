@@ -3,6 +3,8 @@
 ---
 
 
+VS [[ATLAS/Typology MOC/Outcome\|Outcome]]
+
 ## Keywords
 - Journey > Goal
 - Makes several attempts to the goal
