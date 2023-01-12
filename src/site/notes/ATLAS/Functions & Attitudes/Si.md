@@ -4,6 +4,7 @@
 
 
 ## Keywords
+- Introverted Sensing
 - Was
 - Personal consciousness
 - Personal experiences
