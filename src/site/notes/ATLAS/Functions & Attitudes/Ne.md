@@ -3,6 +3,16 @@
 ---
 
 
+## Keywords 
+- Extroverted Intuition
+- Collective Potential
+- Collective Fate
+- Provide Choices 
+- Sees Possibilities 
+- Predict consequences & outcomes 
+- Desirability
+- Original Chaos
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] 
 
@@ -32,7 +42,8 @@
 [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]]
 
 ## Dictionary
-
+- [[neuroplasticity\|neuroplasticity]] - [[adaptation\|adaptation]]
+- 
 
 ## Mentions 
 ctrl + schift + Q
