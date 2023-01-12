@@ -2,10 +2,19 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic/"}
 ---
 
+Vs [[ATLAS/Typology MOC/Affiliative\|Affiliative]]
 
 ## Keywords
-- What works 
+- What works - task focus
+- What gets results
 - Survival of the fittest 
+- Individualism
+- Independance, self-determination
+- Challenges authorities & existing ways of doing things
+- Act then ask for forgiveness
+- Distinguish
+- Optimize 
+- Frankness 
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] : 
