@@ -32,7 +32,7 @@
  [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] 
 
 ## Dictionary
-- IPOF : [[ATLAS/Dictionary/Outcome\|Outcome]]
+- IPOF : [[ATLAS/Typology MOC/Outcome\|Outcome]]
 - [[ATLAS/Typology MOC/Education\|Education]]
 - [[ATLAS/Dictionary/The How\|The How]]
 - [[ATLAS/Typology MOC/Reflection\|Reflection]] (mirror)
