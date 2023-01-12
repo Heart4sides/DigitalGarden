@@ -3,6 +3,8 @@
 ---
 
 
+VS [[ATLAS/Typology MOC/Movement\|Movement]] 
+
 ## Keywords
 - Ensure the quality of the result
 - Get things done right the first time
