@@ -24,7 +24,7 @@
 [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Virtu & Vice
- [[ATLAS/Typology MOC/Greed\|Greed]] [[ATLAS/Typology MOC/Generosity\|Generosity]] 
+[[ATLAS/Typology MOC/Generosity\|Generosity]] | [[ATLAS/Typology MOC/Greed\|Greed]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
