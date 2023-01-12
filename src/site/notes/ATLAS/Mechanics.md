@@ -19,7 +19,7 @@
 [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]]
 
 ## Interaction Styles
-[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Dictionary/Outcome\|Outcome]] | [[Progression\|Progression]]
+[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[Progression\|Progression]]
 
 ## Temperaments 
 [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative\|Affiliative]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] | [[ATLAS/Typology MOC/Interest\|Interest]]
