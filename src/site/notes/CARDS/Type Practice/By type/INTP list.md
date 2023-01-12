@@ -1,0 +1,41 @@
+---
+{"dg-publish":true,"permalink":"/cards/type-practice/by-type/intp-list/"}
+---
+
+
+- John Nash (a beautiful mind)
+- Alan Turing
+- Merlin (Merlin l'enchanteur) 
+    - "Le principal c'est l'ambition"
+    - "quel que soit ce que vous cherchez dépend de votre volonté"
+- Amazing Amy ? (Gone Girl) 
+- Hila Klein - Fashion Designer 
+- Main character (le goût de la haine)
+- Varys (GOT)
+- Paul Sheldon (Misery)
+- Klaus Mikaelson (Vampire Diaries) 
+- L (Death Note)
+- Alice ? (Alice au pays des merveilles)
+- Spiderman (Tom Holland) 
+- Yoda ? 
+- Garfield ? 
+- Velma (Scooby Doo) ? 
+- Alexei (Stranger things) ? 
+- Arthur Weasley ? 
+- Bugs bunny ? 
+- Smaug ? 
+- Thanos
+- Baron Harkonen
+    - "He who controls the spice controls the universe" = [[ATLAS/Typology MOC/Outcome\|Outcome]]
+- Timon & Pumba 
+- Charles Xavier
+- Horace Slughorn 
+- Jehan Frollo ? 
+- Oberyn Martell ? 
+- Dorian Gray ? 
+- Dionysos
+- Alfred ? (Batman)
+- stromae
+- Jin (Samourai Champloo)
+- King Pin (Daredevil series) -
+- Elijah ? (Incassable)
