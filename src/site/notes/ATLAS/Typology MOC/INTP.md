@@ -20,7 +20,7 @@
 [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Virtu & Vice
-[[Apathy\|Apathy]] [[Attention\|Attention]] 
+[[ATLAS/Typology MOC/Apathy\|Apathy]] [[Attention\|Attention]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
