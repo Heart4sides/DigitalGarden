@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/atlas/typology-moc/movement/"}
+---
+
+
+## Keywords
+- Journey > Goal
+- Makes several attempts to the goal
+- Progress
+- Speed
+- Fears inaction & stagnation
+- Introduce chaos into stagnant situations to trigger progress 
+- Adapt, adjust
+- Cut corners
+- Spontaneous, improvise 
+
+## Types 
+Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] : 
+- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
+- [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] 
+
+## Functions 
+[[ATLAS/Functions & Attitudes/Ne\|Ne]] | [[ATLAS/Functions & Attitudes/Ni\|Ni]] 
+
+## Temple 
+[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]] | [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
+
+## Mentions
+[[Movement by CSJ\|Movement by CSJ]]
+
