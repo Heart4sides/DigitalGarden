@@ -3,6 +3,27 @@
 ---
 
 
+## Keywords
+- Extroverted Feeling
+- The collective values & feelings
+- Manipulates people's feelings
+- [[ATLAS/Typology MOC/Accept\|accept]]
+- [[Inclusive\|Inclusive]]
+- [[ATLAS/Typology MOC/Deserve\|deserve]]
+- [[ATLAS/Typology MOC/Culture\|Culture]]
+- [[Support\|Support]]
+- [[Considerate\|Considerate]] 
+- [[Social\|Social]]
+- [[Praise\|Praise]]
+- [[Benefit\|Benefit]]
+- [[Common Knowledge\|Common Knowledge]]
+- [[ATLAS/Typology MOC/Conducive\|Conducive]]
+- [[Fondness\|Fondness]] 
+- [[ATLAS/Typology MOC/Balance\|Balance]] 
+- [[self-deprecation\|self-deprecation]] 
+- [[ATLAS/Typology MOC/Humility\|Humility]]
+- [[ATLAS/Dictionary/Guilt\|Guilt]]
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Templar\|1. Templar]] 
 
@@ -31,37 +52,6 @@
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
-
-## Dictionary
-- [[ATLAS/Typology MOC/Accept\|accept]]
-- [[Inclusive\|Inclusive]]
-- [[ATLAS/Typology MOC/Deserve\|deserve]]
-- [[ATLAS/Typology MOC/Culture\|Culture]]
-- [[Support\|Support]]
-- [[Considerate\|Considerate]] 
-- [[Social\|Social]]
-- [[Praise\|Praise]]
-- [[Benefit\|Benefit]]
-- [[Common Knowledge\|Common Knowledge]]
-- [[ATLAS/Typology MOC/Conducive\|Conducive]]
-- [[Fondness\|Fondness]] 
-- [[ATLAS/Typology MOC/Balance\|Balance]] 
-- [[self-deprecation\|self-deprecation]] 
-- [[ATLAS/Typology MOC/Humility\|Humility]]
-
-
-## Mentions 
-ctrl + schift + Q
-[[ATLAS/Dictionary/Prepare\|Prepare]]
-[[ATLAS/Mechanics\|Mechanics]]
-[[ATLAS/Typology MOC/Intention\|Intention]]
-[[ATLAS/Typology MOC/Solve\|Solve]]
-[[Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]
-[[EXTRAS/Templates/TPL Function\|TPL Function]]
-[[EXTRAS/Templates/TPL Quadra\|TPL Quadra]]
-[[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-- [[Output\|Output]] 
-
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
