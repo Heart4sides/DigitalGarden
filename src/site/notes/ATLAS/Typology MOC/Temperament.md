@@ -3,6 +3,8 @@
 ---
 
 
+What are you talking about ? What are you doing ? 
+
 Origin : Plato's Republic 
 
 ## The 4 temperaments
