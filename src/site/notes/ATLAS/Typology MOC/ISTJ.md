@@ -27,7 +27,7 @@
  
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]]
-[[Cognitive Origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Justification\|Justification]]
+[[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Justification\|Justification]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Absolution\|Absolution]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Wrath\|Wrath]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Discrimination\|Discrimination]]
