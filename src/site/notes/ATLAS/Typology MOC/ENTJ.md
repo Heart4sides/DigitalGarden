@@ -5,9 +5,13 @@
 
 ## Quadra & Functions
 [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
+
 [[ATLAS/Typology MOC/Ego\|Ego]]
+
 [[ATLAS/Functions & Attitudes/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Ni Parent 🤰\|Ni Parent 🤰]] |[[ATLAS/Functions & Attitudes/Se Child 🧒\|Se Child 🧒]]  | [[ATLAS/Functions & Attitudes/Fi Inferior 👶\|Fi Inferior 👶]]
+
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
+
 [[ATLAS/Functions & Attitudes/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Ne Critic 👵\|Ne Critic 👵]] |  [[ATLAS/Functions & Attitudes/Si Trickster 🃏\|Si Trickster 🃏]]| [[ATLAS/Functions & Attitudes/Fe Demon 😈\|Fe Demon 😈]]
 
 ## 4 sides  
@@ -32,14 +36,6 @@
 
 ## Dictionary
 
-
-## Mentions 
-ctrl + schift + Q
-[[ATLAS/Mechanics\|Mechanics]]
-[[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
-[[EXTRAS/Templates/TPL Function\|TPL Function]]
-[[EXTRAS/Templates/TPL Type\|TPL Type]]
-[[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
+[[CARDS/Type Practice/By type/ENTJ list\|ENTJ list]]
