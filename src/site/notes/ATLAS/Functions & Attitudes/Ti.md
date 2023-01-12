@@ -5,7 +5,8 @@
 ## Keywords
 - Introverted Thinking
 - [[ATLAS/Typology MOC/Deductive\|Deductive]]
-- [[ATLAS/Typology MOC/Knowledge\|Knowledge]]
+- Personal [[ATLAS/Typology MOC/Knowledge\|Knowledge]]
+- Personal Thinking
 - [[ATLAS/Dictionary/Certain\|Certain]]
 - Filter
 - candor
