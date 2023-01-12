@@ -15,7 +15,7 @@
 - [[Achievement\|Achievement]]
 - [[ATLAS/Typology MOC/Belief\|beliefs]]
 - Labels, Name dropping
-- Reference, sources 
+- References, sources 
 - Procedures, standardization
 - Rational, Common sese
 
