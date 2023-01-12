@@ -3,6 +3,22 @@
 ---
 
 
+## Keywords
+- Collective Thinking
+- Manipulate people's thoughts 
+- [[ATLAS/Typology MOC/Inductive\|Inductive]]
+- [[ATLAS/Typology MOC/Understand\|Understand]]
+- Rules
+- [[ATLAS/Typology MOC/Standard\|Standard]]
+- [[Status\|Status]], credentials
+- [[Achievement\|Achievement]]
+- [[ATLAS/Typology MOC/Belief\|beliefs]]
+- Labels, Name dropping
+- Reference, sources 
+- Procedures, standardization
+- Rational, Common sese
+
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
 
