@@ -3,6 +3,19 @@
 ---
 
 
+## Keywords 
+- Is - what's happening
+- Collective consciousness
+- Collective present & past
+- Manipulating the collective experience 
+- Kinetic Energy 
+- Reactions
+- Attention seeker
+- Demonstrate, show
+- Performance
+- Cultivate strength & skills
+- [[ATLAS/Dictionary/The How\|The How]]
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Templar\|1. Templar]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
 
