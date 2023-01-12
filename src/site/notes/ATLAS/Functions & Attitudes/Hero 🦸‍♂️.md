@@ -3,6 +3,20 @@
 ---
 
 
+The hero function is the first [[attitude\|attitude]] of the [[ATLAS/Typology MOC/Ego\|Ego]]. 
+It is the strongest function of our stack along with the [[ATLAS/Functions & Attitudes/Demon 😈\|Demon]]. 
+It has an infinite amount of energy. 
+It is the main protector of the [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior]]. 
+
+## Keywords
+- [[ATLAS/Typology MOC/Optimistic\|Optimistic]]
+- [[Loop\|Loop]] - with the [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]]
+- [[Arrogance\|Arrogance]]
+- [[ATLAS/Typology MOC/Gateway\|Gateway]] to the Ego
+- [[Perform\|Perform]] - the ultimate performer
+- Parent of the [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior]] 
+- Can rest on its laurels 
+
 ## In Attitudes
 
 [[ATLAS/Functions & Attitudes/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Ni Hero 🦸‍♂️\|Ni Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Se hero 🦸‍♂️\|Se hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]]
@@ -21,14 +35,7 @@
 ## Mentions 
 [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
 [The Hero's Journey - Experiencing Death and Rebirth](https://www.youtube.com/watch?v=tssOG2rS1AA) - Eternalised
-[[ATLAS/Typology MOC/Optimistic\|Optimistic]]
-[[Attitude\|Attitude]]
-[[Loop\|Loop]] - with the [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]]
-[[Arrogance\|Arrogance]]
-[[ATLAS/Typology MOC/Gateway\|Gateway]]
-[[Perform\|Perform]] - the ultimate performer
-Parent of the [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior]] 
-Can rest on its laurels 
+
 
 
 
