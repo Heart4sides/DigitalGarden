@@ -3,6 +3,21 @@
 ---
 
 
+## Keywords
+- Introverted Intuition 
+- Personal Future, Fate
+- Personal Freedom 
+- Desire
+- Passion
+- Willpower
+- Hope
+- Luck
+- Fire
+- Choice
+- Focus - Tunnel vision
+- Tenacity
+- Relentless
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Templar\|1. Templar]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
 
