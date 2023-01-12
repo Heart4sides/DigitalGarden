@@ -27,6 +27,8 @@
 [[Arrogance\|Arrogance]]
 [[ATLAS/Typology MOC/Gateway\|Gateway]]
 [[Perform\|Perform]] - the ultimate performer
+Parent of the [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior]] 
+Can rest on its laurels 
 
 
 
