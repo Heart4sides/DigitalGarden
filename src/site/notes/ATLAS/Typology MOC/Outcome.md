@@ -17,8 +17,6 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Dictionary/Prepare\|prepare]]
 
 ## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
-- [[ATLAS/Typology MOC/Structure\|ATLAS/Typology MOC/Structure]]
 - [[Background\|Background]]
 - [[ATLAS/Functions & Attitudes/Fi Hero 🦸‍♂️\|Fi Hero]] 
 - [[ATLAS/Functions & Attitudes/Te Hero 🦸‍♂️\|Te Hero]]
