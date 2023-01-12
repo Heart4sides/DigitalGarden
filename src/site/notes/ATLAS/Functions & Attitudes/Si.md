@@ -3,6 +3,22 @@
 ---
 
 
+## Keywords
+- Was
+- Personal consciousness
+- Personal experiences
+- Needs
+- Endurence, Fortitude, Steadfastness
+- Duty
+- Concentration
+- Attention
+- Sharing
+- Security, Safety
+- Faith
+- Comfort
+- Memory-Foam
+- Perseverence
+
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] 
 
