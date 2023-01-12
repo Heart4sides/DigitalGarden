@@ -5,6 +5,7 @@
 
 ## Keywords
 - Collective Thinking
+- Collective knowledge
 - Manipulate people's thoughts 
 - [[ATLAS/Typology MOC/Inductive\|Inductive]]
 - [[ATLAS/Typology MOC/Understand\|Understand]]
