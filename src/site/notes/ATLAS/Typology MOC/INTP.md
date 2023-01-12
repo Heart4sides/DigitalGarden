@@ -24,7 +24,7 @@
 
 ## Temple 
 [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
-[[Cognitive Origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Discovery\|Discovery]]
+[[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Discovery\|Discovery]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Generativity\|Generativity]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Gluttony\|Gluttony]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Hedonism\|Hedonism]]
