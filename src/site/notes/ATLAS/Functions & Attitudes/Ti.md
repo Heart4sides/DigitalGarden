@@ -2,6 +2,20 @@
 {"dg-publish":true,"permalink":"/atlas/functions-and-attitudes/ti/"}
 ---
 
+## Keywords
+- Introverted Thinking
+- [[ATLAS/Typology MOC/Deductive\|Deductive]]
+- [[ATLAS/Typology MOC/Knowledge\|Knowledge]]
+- [[ATLAS/Dictionary/Certain\|Certain]]
+- Filter
+- candor
+- separate
+- verify
+- facts
+- harsh
+- criticism
+- accuracy
+- authenticity
 
 ## Quadras
 [[SOURCES/Type Theory by CSJ/Functions/Crusader by CSJ\|Crusader by CSJ]] | [[SOURCES/Type Theory by CSJ/Functions/Templar by CSJ\|Templar by CSJ]] 
@@ -33,20 +47,7 @@
 [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
 
 ## Dictionary
-- [[ATLAS/Dictionary/Certain\|Certain]]
-- [[ATLAS/Typology MOC/Data\|Data]]
-- [[ATLAS/Typology MOC/Deductive\|Deductive]]
-- [[ATLAS/Typology MOC/Knowledge\|Knowledge]]
 
-## Mentions 
-ctrl + schift + Q
-- [[ATLAS/Typology MOC/Judgement\|Judgement]]
-- [[ATLAS/Mechanics\|Mechanics]]
-- [[ATLAS/Typology MOC/Education\|Education]]
-- [[EXTRAS/Templates/TPL Function\|TPL Function]]
-- [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-- [[SOURCES/Type Theory by CSJ/Other/Typing People by Text\|Typing People by Text]]
-- [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Affiliative by CSJ\|Affiliative by CSJ]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
