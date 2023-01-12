@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic/"}
+---
+
+
+## Keywords
+- What works 
+- Survival of the fittest 
+
+## Types 
+Types sharing preference for [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] : 
+- [[ATLAS/Typology MOC/Artisan\|Artisan]] : [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ESTP\|ESTP]]
+- [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] 
+
+## Functions 
+[[ATLAS/Functions & Attitudes/Ti\|Ti]] | [[ATLAS/Functions & Attitudes/Se\|Se]] 
+
+## Temple 
+
+## Mentions
+[[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Pragmatic by CSJ\|Pragmatic by CSJ]]
+
+
+
+## Music
+- [Survival of the Fittest - song and lyrics by Mobb Deep | Spotify](https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO?si=b42d5a2c68924071)
+- 
