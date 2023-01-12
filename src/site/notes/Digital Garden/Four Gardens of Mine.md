@@ -3,7 +3,9 @@
 ---
 
 
-[Short TOC]
+- The 16 archetypes 
+- How to type using the type grid
+- Developing the 4 sides of your mind 
 
 Welcome to the Four Gardens of Mine.
 
