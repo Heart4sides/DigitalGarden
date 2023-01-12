@@ -26,7 +26,7 @@
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Functions & Attitudes/Fe\|Fe]]
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Dictionary/Outcome\|Outcome]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]]
