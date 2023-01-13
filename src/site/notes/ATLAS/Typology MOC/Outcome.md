@@ -17,7 +17,7 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Dictionary/Prepare\|prepare]]
 
 ## Related Notes 
-- [[Background\|Background]]
+- [[ATLAS/Typology MOC/Background\|Background]]
 - [[ATLAS/Functions & Attitudes/Fi Hero 🦸‍♂️\|Fi Hero]] 
 - [[ATLAS/Functions & Attitudes/Te Hero 🦸‍♂️\|Te Hero]]
 - [[ATLAS/Functions & Attitudes/Se\|Se]] : IPOF
