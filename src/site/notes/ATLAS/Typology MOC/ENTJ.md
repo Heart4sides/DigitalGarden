@@ -4,7 +4,7 @@
 
 
 ## Quadra & Functions
-[[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
+[[ATLAS/Functions & Attitudes/4. Wayfarer\|4. Wayfarer]] 
 
 [[ATLAS/Typology MOC/Ego\|Ego]]
 
