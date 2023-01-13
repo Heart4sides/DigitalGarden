@@ -14,6 +14,15 @@ module.exports = function(eleventyConfig) {
             html: true
         })
         .use(require("markdown-it-footnote"))
+        .use(require("markdown-it-attrs"))
+        .use(require("markdown-it-hashtag"),{
+            hashtagRegExp: `[^\\s!@#$%^&*()=+.,\[{\\]};:'"?><]+`
+        })
+        .use(function(md){
+            md.renderer.rules.hashtag_open  = function(tokens, idx) {
+                return '<a class="tag" onclick="toggleTagSearch(this)">'
+            }
+        })
         .use(require('markdown-it-mathjax3'), {
             tex: {
                 inlineMath: [
