@@ -21,7 +21,7 @@
 
 
 ## Quadras
-[[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
+[[ATLAS/Functions & Attitudes/3. Philosopher\|Philosopher]] | [[ATLAS/Functions & Attitudes/4. Wayfarer\|Wayfarer]] 
 
 ## Types 
 
@@ -56,15 +56,11 @@ Te Hero 🦸‍♂️ | [[ATLAS/Functions & Attitudes/Te Parent 🤰\|Te Parent 
 
 ## Mentions 
 ctrl + schift + Q
+[[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
 
-
-[[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]]
-
-Quadra
-[[SOURCES/Type Theory by CSJ/Functions/Philosopher by CSJ\|Philosopher by CSJ]]
-[[SOURCES/Type Theory by CSJ/Functions/Wayfarer by CSJ\|Wayfarer by CSJ]]
-
-Dictionary
+## Quadra
+[[ATLAS/Functions & Attitudes/3. Philosopher\|Philosopher]]
+[[ATLAS/Functions & Attitudes/4. Wayfarer\|Wayfarer]]
