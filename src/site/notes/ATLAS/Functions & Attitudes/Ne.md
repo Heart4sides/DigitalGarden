@@ -17,7 +17,7 @@
 - Water
 
 ## Quadras
-[[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] 
+[[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/3. Philosopher\|3. Philosopher]] 
 
 ## Types 
 
