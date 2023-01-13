@@ -23,4 +23,4 @@
 
 | Mature | Immature |
 | -------- | --------- | 
-| [[Divine\|Divine]]   | [[Tyrant\|Tyrant]]  |  
+| [[Divine\|Divine]]   | [[ATLAS/Dictionary/Tyrant\|Tyrant]]  |  
