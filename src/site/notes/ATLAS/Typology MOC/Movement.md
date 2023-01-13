@@ -30,3 +30,6 @@ Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] :
 ## Mentions
 [[Movement by CSJ\|Movement by CSJ]]
 
+
+## Music
+- [Breakthru - Remastered 2011 - song and lyrics by Queen | Spotify](https://open.spotify.com/track/5Nuxdf0f5PpaeaPm4jrhiE?si=d848e45199bc4520)
