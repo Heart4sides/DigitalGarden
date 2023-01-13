@@ -17,7 +17,7 @@
 - [[ATLAS/Dictionary/The How\|The How]]
 
 ## Quadras
-[[ATLAS/Functions & Attitudes/1. Templar\|1. Templar]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
+[[ATLAS/Functions & Attitudes/2. Templar\|2. Templar]] | [[ATLAS/Functions & Attitudes/4. Wayfarer\|4. Wayfarer]] 
 
 ## Types 
 
