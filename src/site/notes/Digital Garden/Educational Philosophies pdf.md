@@ -12,8 +12,8 @@
 >
 >Fi + Te 
 >
-> #Te, #Fi, #Ne
-^01n2x1gpo0xn
+> #Te, #Fi, #Ne{ #01n2x1gpo0xn}
+
 
 
 >
@@ -22,8 +22,8 @@
 >
 >
 >
->#Ne
-^ivnjhzdbk8j
+>#Ne{ #ivnjhzdbk8j}
+
 
 
 >
@@ -32,8 +32,8 @@
 >
 >
 >
->#Te
-^keuf9c43mnl
+>#Te{ #keuf9c43mnl}
+
 
 
 >
@@ -42,8 +42,8 @@
 >
 >
 >
->#Te, #Fi
-^x5rnmlh5u99
+>#Te, #Fi{ #x5rnmlh5u99}
+
 
 
 >
@@ -52,8 +52,8 @@
 >
 >
 >
->#Fe
-^r9j0bky8mn
+>#Fe{ #r9j0bky8mn}
+
 
 
 >
@@ -62,5 +62,5 @@
 >
 >
 >
->#systematic
-^niyey0yyyo
+>#systematic{ #niyey0yyyo}
+
