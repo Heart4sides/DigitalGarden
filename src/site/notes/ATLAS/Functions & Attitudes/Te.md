@@ -17,7 +17,7 @@
 - Labels, Name dropping
 - References, sources 
 - Procedures, standardization
-- Rational, Common sese
+- Rational, Common sense
 
 
 ## Quadras
@@ -33,7 +33,7 @@
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego\|Ego]]
-Te Hero 🦸‍♂️ | [[ATLAS/Functions & Attitudes/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Functions & Attitudes/Te Child\|Te Child]] | [[ATLAS/Functions & Attitudes/Te Inferior 👶\|Te Inferior 👶]]
+Te Hero 🦸‍♂️ | [[ATLAS/Functions & Attitudes/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Typology MOC/Te Child\|Te Child]] | [[ATLAS/Functions & Attitudes/Te Inferior 👶\|Te Inferior 👶]]
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
 [[ATLAS/Functions & Attitudes/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Te Critic 👵\|Te Critic 👵]] | [[ATLAS/Functions & Attitudes/Te Trickster 🃏\|Te Trickster 🃏]] | [[ATLAS/Functions & Attitudes/Te Demon 😈\|Te Demon 😈]]
 
