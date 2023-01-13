@@ -25,7 +25,7 @@
 - [[ATLAS/Dictionary/Guilt\|Guilt]]
 
 ## Quadras
-[[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Templar\|1. Templar]] 
+[[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/2. Templar\|2. Templar]] 
 
 ## Types 
 
