@@ -36,7 +36,7 @@
 - [[Malevolent\|Malevolent]] : executor of sin nature (immaturity)
 - acess to one's [[maturity\|maturity]]
 - [[mysterious\|mysterious]]
-- [[Chaos\|chaos]] 
+- [[ATLAS/Typology MOC/Chaos\|Chaos]] 
 - [[ATLAS/Dictionary/The How\|the how]]
 - trying to find the right [[order\|order]]
 - using [[evil\|evil]] to produce [[good\|good]]
