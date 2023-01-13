@@ -7,7 +7,7 @@
 
 [[ATLAS/Functions & Attitudes/Ne Child 🧒\|Ne Child 🧒]] | [[ATLAS/Functions & Attitudes/Ni Child 🧒\|Ni Child 🧒]] | [[ATLAS/Functions & Attitudes/Se Child 🧒\|Se Child 🧒]] | [[ATLAS/Functions & Attitudes/Si Child 🧒\|Si Child 🧒]]
 
-[[ATLAS/Functions & Attitudes/Te Child 🧒\|Te Child 🧒]] | [[ATLAS/Functions & Attitudes/Ti Child 🧒\|Ti Child]] | [[ATLAS/Functions & Attitudes/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Functions & Attitudes/Fi Child 🧒\|Fi Child 🧒]]
+[[ATLAS/Functions & Attitudes/Te Child\|Te Child]] | [[ATLAS/Functions & Attitudes/Ti Child 🧒\|Ti Child]] | [[ATLAS/Functions & Attitudes/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Functions & Attitudes/Fi Child 🧒\|Fi Child 🧒]]
 
 ## Axis, Orbit, Reflect
 
