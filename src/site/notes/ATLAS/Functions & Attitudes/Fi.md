@@ -4,7 +4,7 @@
 
 
 ## Quadras
-[[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] | [[ATLAS/Functions & Attitudes/1. Wayfarer\|1. Wayfarer]] 
+[[ATLAS/Functions & Attitudes/3. Philosopher\|3. Philosopher]] | [[ATLAS/Functions & Attitudes/4. Wayfarer\|4. Wayfarer]] 
 
 ## Types 
 
