@@ -19,6 +19,7 @@
 - Comfort
 - Memory-Foam
 - Perseverence
+- Habit  
 
 ## Quadras
 [[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] | [[ATLAS/Functions & Attitudes/1. Philosopher\|1. Philosopher]] 
