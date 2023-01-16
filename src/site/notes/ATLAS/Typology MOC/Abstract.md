@@ -17,7 +17,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Abstract\|Abstract]] :
 - [[Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[ATLAS/Functions & Attitudes/Ne\|Ne]] | [[ATLAS/Functions & Attitudes/Ni\|Ni]] 
+[[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]] | [[ATLAS/Typology MOC/Heart Temple\|Heart Temple]] 
