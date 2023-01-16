@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Informative\|Informative]] :
 - [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] |  
 
 ## Functions 
-[[ATLAS/Functions & Attitudes/Fi\|Fi]] | [[ATLAS/Functions & Attitudes/Ne\|Ne]]
+[[ATLAS/Typology MOC/Fi\|Fi]] | [[ATLAS/Typology MOC/Ne\|Ne]]
 
 ## Temple 
 
