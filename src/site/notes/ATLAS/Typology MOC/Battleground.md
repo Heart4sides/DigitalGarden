@@ -4,10 +4,10 @@
 
 
 - [[ATLAS/Typology MOC/Reflection\|Reflection]] 
-- Of Titans : [[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - [[ATLAS/Functions & Attitudes/Demon 😈\|Demon 😈]]
-- Of Responsibility : [[ATLAS/Functions & Attitudes/Parent 🤰\|Parent 🤰]] - [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster 🃏]]
-- Of Innocence : [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] - [[ATLAS/Functions & Attitudes/Critic 👵\|Critic 👵]]
-- Of 
+- [[ATLAS/Typology MOC/Battleground of Titans\|Battleground of Titans]] : [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
+- [[ATLAS/Typology MOC/Battleground of Responsibility\|Battleground of Responsibility]] : [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] - [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]]
+- [[ATLAS/Typology MOC/Battleground of Innocence\|Battleground of Innocence]] : [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] - [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]]
+- [[ATLAS/Typology MOC/Battleground of Inhibition\|Battleground of Inhibition]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] - [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]]  
 
 ## Te - Fe
 
