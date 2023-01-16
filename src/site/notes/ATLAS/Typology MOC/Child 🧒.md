@@ -7,7 +7,7 @@
 
 [[ATLAS/Typology MOC/Ne Child 🧒\|Ne Child 🧒]] | [[ATLAS/Typology MOC/Ni Child 🧒\|Ni Child 🧒]] | [[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]]
 
-[[ATLAS/Typology MOC/Te Child\|Te Child]] | [[ATLAS/Typology MOC/Ti Child 🧒\|Ti Child]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]]
+[[ATLAS/Typology MOC/Te Child 🧒\|Te Child 🧒]] | [[ATLAS/Typology MOC/Ti Child 🧒\|Ti Child]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]]
 
 ## Axis, Orbit, Reflect
 
