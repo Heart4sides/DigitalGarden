@@ -3,11 +3,11 @@
 ---
 
 ## Functions
-[[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Functions & Attitudes/Te\|Te]] | [[ATLAS/Functions & Attitudes/Ti\|Ti]] | [[ATLAS/Functions & Attitudes/Fe\|Fe]] | [[ATLAS/Functions & Attitudes/Fi\|Fi]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Functions & Attitudes/Ne\|Ne]] | [[ATLAS/Functions & Attitudes/Ni\|Ni]] | [[ATLAS/Functions & Attitudes/Se\|Se]] | [[ATLAS/Functions & Attitudes/Si\|Si]]
+[[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Ti\|Ti]] | [[ATLAS/Typology MOC/Fe\|Fe]] | [[ATLAS/Typology MOC/Fi\|Fi]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] | [[ATLAS/Typology MOC/Se\|Se]] | [[ATLAS/Typology MOC/Si\|Si]]
 
 ## Attitudes
-[[ATLAS/Functions & Attitudes/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Parent 🤰\|Parent 🤰]] | [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]] | [[ATLAS/Functions & Attitudes/Inferior 👶\|Inferior 👶]] | [[ATLAS/Functions & Attitudes/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Critic 👵\|Critic 👵]] | [[ATLAS/Functions & Attitudes/Trickster 🃏\|Trickster 🃏]] | [[ATLAS/Functions & Attitudes/Demon 😈\|Demon 😈]]
+[[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] | [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] | [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]] | [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
 
 ## 4 sides of the Mind
 [[ATLAS/Typology MOC/Ego\|Ego]] | [[ATLAS/Typology MOC/Subconscious\|Subconscious]] | [[ATLAS/Typology MOC/Shadow\|Shadow]] | [[ATLAS/Typology MOC/Superego\|Superego]]
