@@ -7,13 +7,13 @@
 [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Quadra & Functions
-[[ATLAS/Functions & Attitudes/1. Crusader\|1. Crusader]] 
+[[ATLAS/Typology MOC/1. Crusader\|1. Crusader]] 
 
 [[ATLAS/Typology MOC/Ego\|Ego]]
-[[ATLAS/Functions & Attitudes/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Ne Parent 🤰\|Ne Parent 🤰]] | [[ATLAS/Functions & Attitudes/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Functions & Attitudes/Fe Inferior 👶\|Fe Inferior 👶]]
+[[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ne Parent 🤰\|Ne Parent 🤰]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 👶\|Fe Inferior 👶]]
 
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
-[[ATLAS/Functions & Attitudes/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Functions & Attitudes/Se Trickster 🃏\|Se Trickster 🃏]] | [[ATLAS/Functions & Attitudes/Fi Demon 😈\|Fi Demon 😈]]
+[[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Typology MOC/Se Trickster 🃏\|Se Trickster 🃏]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]]
 
 ## 4 sides  
 [[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ESFJ\|ESFJ]]
