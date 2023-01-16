@@ -20,7 +20,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Systematic\|Systematic]] :
 - [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] 
 
 ## Functions 
-[[ATLAS/Functions & Attitudes/Te\|Te]] | [[ATLAS/Functions & Attitudes/Si\|Si]]
+[[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Si\|Si]]
 
 ## Temple 
 [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] | [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
