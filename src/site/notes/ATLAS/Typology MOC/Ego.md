@@ -5,7 +5,7 @@
 
 - [[Consciousness\|Consciousness]]
 - theme : [[alignement\|alignement]] 
-- Lead : [[ATLAS/Functions & Attitudes/Child 🧒\|Child 🧒]]
+- Lead : [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]]
 - Attitude : [[ATLAS/Typology MOC/Optimistic\|Optimistic]]
 - mature: [[responsible\|responsible]]    
 - final product : [[order\|order]] 
