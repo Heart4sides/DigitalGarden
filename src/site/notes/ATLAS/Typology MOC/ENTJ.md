@@ -4,15 +4,15 @@
 
 
 ## Quadra & Functions
-[[ATLAS/Functions & Attitudes/4. Wayfarer\|4. Wayfarer]] 
+[[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
 
 [[ATLAS/Typology MOC/Ego\|Ego]]
 
-[[ATLAS/Functions & Attitudes/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[ATLAS/Functions & Attitudes/Ni Parent 🤰\|Ni Parent 🤰]] |[[ATLAS/Functions & Attitudes/Se Child 🧒\|Se Child 🧒]]  | [[ATLAS/Functions & Attitudes/Fi Inferior 👶\|Fi Inferior 👶]]
+[[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ni Parent 🤰\|Ni Parent 🤰]] |[[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]]  | [[ATLAS/Typology MOC/Fi Inferior 👶\|Fi Inferior 👶]]
 
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
 
-[[ATLAS/Functions & Attitudes/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[ATLAS/Functions & Attitudes/Ne Critic 👵\|Ne Critic 👵]] |  [[ATLAS/Functions & Attitudes/Si Trickster 🃏\|Si Trickster 🃏]]| [[ATLAS/Functions & Attitudes/Fe Demon 😈\|Fe Demon 😈]]
+[[ATLAS/Typology MOC/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[ATLAS/Typology MOC/Ne Critic 👵\|Ne Critic 👵]] |  [[ATLAS/Typology MOC/Si Trickster 🃏\|Si Trickster 🃏]]| [[ATLAS/Typology MOC/Fe Demon 😈\|Fe Demon 😈]]
 
 ## 4 sides  
 [[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : ISFP
