@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] :
 - [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] 
 
 ## Functions 
-[[ATLAS/Functions & Attitudes/Ti\|Ti]] | [[ATLAS/Functions & Attitudes/Se\|Se]] 
+[[ATLAS/Typology MOC/Ti\|Ti]] | [[ATLAS/Typology MOC/Se\|Se]] 
 
 ## Temple 
 
