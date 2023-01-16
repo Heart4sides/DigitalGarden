@@ -7,7 +7,7 @@
 
 The Grinch 
 
-They wanna ([[ATLAS/Functions & Attitudes/Ne\|Ne]]) use their little quality time ([[ATLAS/Functions & Attitudes/Fe\|Fe]]) with the Grinch 
+They wanna ([[ATLAS/Typology MOC/Ne\|Ne]]) use their little quality time ([[ATLAS/Typology MOC/Fe\|Fe]]) with the Grinch 
 I guess I could use a little social interaction 
 Am I just eating bc I'm [[bored\|bored]] ? 
 I don't know why I ever leave this place 
