@@ -3,9 +3,11 @@
 ---
 
 
-- The 16 archetypes 
-- How to type using the type grid
-- Developing the 4 sides of your mind 
+- [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]]
+- [[Digital Garden/The 16 archetypes\|The 16 archetypes]] 
+- How to type using the [[ATLAS/Typology MOC/Type Grid\|Type Grid]]
+- Developing the [[4 sides of the Mind\|4 sides of your mind]] 
+- [[ATLAS/Examples\|Examples]]
 
 Welcome to the Four Gardens of Mine.
 
