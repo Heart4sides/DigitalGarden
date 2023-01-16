@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Interest\|Interest]] :
 - [[Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[ATLAS/Functions & Attitudes/Fi\|Fi]] | [[ATLAS/Functions & Attitudes/Se\|Se]]
+[[ATLAS/Typology MOC/Fi\|Fi]] | [[ATLAS/Typology MOC/Se\|Se]]
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
