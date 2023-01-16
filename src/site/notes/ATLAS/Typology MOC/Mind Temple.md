@@ -20,8 +20,8 @@ Tags : #MOC #Mind
 [[ATLAS/Typology MOC/Education\|Education]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]
-[[ATLAS/Functions & Attitudes/Se\|Se]]
+[[ATLAS/Typology MOC/Se\|Se]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-[[ATLAS/Functions & Attitudes/Ti\|Ti]]
+[[ATLAS/Typology MOC/Ti\|Ti]]
 
