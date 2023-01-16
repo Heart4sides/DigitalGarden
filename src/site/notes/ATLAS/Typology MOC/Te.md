@@ -33,7 +33,7 @@
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego\|Ego]]
-Te Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Typology MOC/Te Child\|Te Child]] | [[ATLAS/Typology MOC/Te Inferior 👶\|Te Inferior 👶]]
+Te Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Typology MOC/Te Child 🧒\|Te Child 🧒]] | [[ATLAS/Typology MOC/Te Inferior 👶\|Te Inferior 👶]]
 [[ATLAS/Typology MOC/Shadow\|Shadow]] 
 [[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 👵\|Te Critic 👵]] | [[ATLAS/Typology MOC/Te Trickster 🃏\|Te Trickster 🃏]] | [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]
 
