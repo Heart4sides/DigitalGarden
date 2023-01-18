@@ -29,3 +29,8 @@ Types sharing preference for [[ATLAS/Typology MOC/Interest\|Interest]] :
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Interest by CSJ\|Interest by CSJ]]
+
+## Examples
+"I just wanted to be around the nature hoping that I would be getting some songs"
+"all you need is love you know [...] that's pretty wholesome"
+"I don't do anything for free"
