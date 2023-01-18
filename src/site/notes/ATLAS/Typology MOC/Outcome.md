@@ -70,8 +70,5 @@ Wikipedia
 ## Translations 
 
 
-## Useful Shortcuts
-Related Notes : ctrl + shift +Q
-Wordnik : ctrl + D
-Wikipedia : ctrl + W
-Translate : ctrl + shift + D 
+## Examples
+"I just wanted to be around the nature hoping that I would be getting some songs"
