@@ -7,7 +7,7 @@
 - [[Concept\|Concept]]
 - [[Implication\|Implication]]
 - [[Vizualization\|Vizualization]]
-- Hidden [[ATLAS/Typology MOC/Meaning\|meanings]] 
+- Hidden [[ATLAS/Dictionary/Meaning\|meanings]] 
 - [[Future\|Future]] - focused 
 - [[Potential\|Potential]]
 
