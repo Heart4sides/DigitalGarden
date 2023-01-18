@@ -15,7 +15,7 @@
 - provide[[challenge\|challenge]]
 - [[worry\|worry]]
 - [[uncertainty\|uncertainty]] vs [[certainty\|certainty]]
-- [[paranoïa\|paranoïa]]
+- [[ATLAS/Dictionary/Paranoïa\|Paranoïa]]
 - [[Concern\|Concern]] 
 - [[Confrontational\|Confrontational]] vs [[Peacekeeper\|Peacekeeper]]
 - The nemesis is there to force you to take action 
