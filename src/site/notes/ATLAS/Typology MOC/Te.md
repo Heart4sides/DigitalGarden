@@ -7,13 +7,13 @@
 - Collective Thinking
 - Collective knowledge
 - Manipulate people's thoughts 
-- [[ATLAS/Typology MOC/Inductive\|Inductive]]
-- [[ATLAS/Typology MOC/Understand\|Understand]]
+- [[ATLAS/Dictionary/Inductive\|Inductive]]
+- [[ATLAS/Dictionary/Understand\|Understand]]
 - Rules
-- [[ATLAS/Typology MOC/Standard\|Standard]]
+- [[ATLAS/Dictionary/Standard\|Standard]]
 - [[Status\|Status]], credentials
 - [[Achievement\|Achievement]]
-- [[ATLAS/Typology MOC/Belief\|beliefs]]
+- [[ATLAS/Dictionary/Belief\|beliefs]]
 - Labels, Name dropping
 - References, sources 
 - Procedures, standardization
