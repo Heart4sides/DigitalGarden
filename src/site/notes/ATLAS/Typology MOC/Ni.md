@@ -56,7 +56,7 @@ ctrl + schift + Q
 - [[ATLAS/Typology MOC/Orbit\|Orbit]]
 - [[EXTRAS/Templates/TPL Function\|TPL Function]]
 - [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-- [[ATLAS/Typology MOC/Intention\|Intention]]
+- [[ATLAS/Dictionary/Intention\|Intention]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
 - [[SOURCES/Vultology\|Vultology]]
 - [[ATLAS/Typology MOC/Direct\|Direct]]
