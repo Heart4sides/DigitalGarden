@@ -9,17 +9,14 @@
 
 [[ATLAS/Typology MOC/Te Critic 👵\|Te Critic 👵]] | [[ATLAS/Typology MOC/Ti Critic 👵\|Ti Critic 👵]] | [[ATLAS/Typology MOC/Fe Critic 👵\|Fe Critic]] | [[ATLAS/Typology MOC/Si Critic 👵\|Si Critic 👵]]
 
-
-## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
+## Keywords 
 - [[cynicism\|cynicism]]
 - [[ATLAS/Dictionary/Wisdom\|Wisdom]]
 - [[Witch\|Witch]]
 - [[Senile\|Senile]]
 - [[ATLAS/Typology MOC/Pessimistic\|Pessimistic]]
 - [[ignorance\|ignorance]]
-- 
-
+- [[ATLAS/Typology MOC/Ti\|Ti]]
 
 ## Wordnik
 
@@ -28,10 +25,3 @@
 
 
 ## Translations 
-
-
-## Useful Shortcuts
-Related Notes : ctrl + shift +Q
-Wordnik : ctrl + D
-Wikipedia : ctrl + W
-Translate : ctrl + shift + D 
