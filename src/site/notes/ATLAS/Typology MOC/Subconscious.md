@@ -7,7 +7,7 @@
  
 - conquering [[happiness\|happiness]]
 - [[ATLAS/Typology MOC/Gateway\|Gateway]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]]
-- [[ATLAS/Typology MOC/Lead\|Lead]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]]
+- [[ATLAS/Dictionary/Lead\|Lead]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]]
 - [[Courageous\|Courageous]], [[faithful\|faithful]] vs [[ATLAS/Typology MOC/Inferior 👶\|fearful]]
 - [[ignorant\|ignorant]] 
 - [[happy\|happy]]
