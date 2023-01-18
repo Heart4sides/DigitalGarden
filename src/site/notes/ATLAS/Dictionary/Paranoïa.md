@@ -10,7 +10,7 @@ It is the primary vice of the [[ATLAS/Typology MOC/INTJ\|INTJ]]
 
 ## Wordnik
 paranoia
-*noun*: A psychotic disorder characterized by delusions of persecution with or without [[grandeur\|grandeur]], often strenuously defended with [[apparent\|apparent]] logic and reason.
+*noun*: A psychotic disorder characterized by delusions of persecution with or without [[ATLAS/Dictionary/grandeur\|grandeur]], often strenuously defended with [[apparent\|apparent]] logic and reason.
 *noun*: Extreme, [[irrational\|irrational]] [[ATLAS/Dictionary/Trust\|distrust]] of others.
 *noun*: A chronic form of insanity characterized by very [[ATLAS/Dictionary/gradual\|gradual]] impairment of the intellect, [[ATLAS/Typology MOC/Systematic\|systematized]] delusion, and usually by delusions of persecution or mandatory delusions producing homicidal tendency. In its mild form paranoia may consist in the well-marked crotchetiness exhibited in persons commonly called “cranks.”  Paranoiacs usually show evidences of bodily and nervous degeneration, and many have hallucinations, esp. of sight and hearing.
 *noun*: Unwarranted [[Suspicion\|Suspicion]] of the [[ATLAS/Dictionary/Motive\|motives]] of others; -- used colloquially in a non-technical sense.
