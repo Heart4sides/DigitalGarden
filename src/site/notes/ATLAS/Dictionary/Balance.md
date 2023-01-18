@@ -5,7 +5,7 @@
 
 ## Related Notes 
 - [[ATLAS/Dictionary/Dictionary\|Dictionary]]
-- [[ATLAS/Typology MOC/Fe\|Fe]]
+- [[ATLAS/Typology MOC/Fe#Keywords\|Fe]]
 - [[SOURCES/Type Theory by CSJ/Temples/Heart Temple/Satisfaction Dyad/Envy by CSJ\|Envy by CSJ]]
 
 ## Wordnik
