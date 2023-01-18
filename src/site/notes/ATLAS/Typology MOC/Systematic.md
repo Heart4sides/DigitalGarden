@@ -27,3 +27,9 @@ Types sharing preference for [[ATLAS/Typology MOC/Systematic\|Systematic]] :
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Systematic by CSJ\|Systematic by CSJ]]
+
+## Examples
+"I couldn't have done it without him"
+"this is a fair trial where the jury hears what is happening and they decide was this justified or not"
+"when you're in positions of privileged access"
+"this is innefficient"
