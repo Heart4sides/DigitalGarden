@@ -16,7 +16,7 @@
 | [[ATLAS/Typology MOC/Data\|Data]]                         | \-                                                       |
 | [[ATLAS/Dictionary/Doubt\|Doubt]]                         | \-                                                       |
 | [[ATLAS/Dictionary/Endearing\|Endearing]]                 | endear                                                   |
-| [[ATLAS/Typology MOC/Envy\|Envy]]                         | \-                                                       |
+| [[ATLAS/Typology MOC/Envy\|Envy]]                         | envie                                                    |
 | [[ATLAS/Dictionary/Fetichism\|Fetichism]]                 | \-                                                       |
 | [[ATLAS/Dictionary/Help\|Help]]                           | \-                                                       |
 | [[ATLAS/Dictionary/Idea\|Idea]]                           | \-                                                       |
