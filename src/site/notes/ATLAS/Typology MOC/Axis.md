@@ -6,6 +6,7 @@
 - [[polarity\|polarity]] (cf [[magntism\|magntism]])
 - [[Conflict\|Conflict]] : Using one takes the energy from the other 
 - [[Opposites\|Opposites]] 
+- AC : alternate current 
 
 ## The 4 Axis
 - [[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]] : "I'm going to invest (Fi) in this belief (Te) because I feel good about it (Fi)"
