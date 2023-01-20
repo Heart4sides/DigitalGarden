@@ -5,6 +5,7 @@
 | File                                                         | alias                                                    |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
 | [[ATLAS/Typology MOC/Absolution\|Absolution]]             | absolve                                                  |
+| [[ATLAS/Dictionary/Admire\|Admire]]                       | \-                                                       |
 | [[ATLAS/Dictionary/Balance\|Balance]]                     | \-                                                       |
 | [[ATLAS/Dictionary/Belief\|Belief]]                       | believe, believes, believing, beliefs                    |
 | [[ATLAS/Dictionary/Boredom\|Boredom]]                     | bored, boring                                            |
@@ -14,20 +15,22 @@
 | [[ATLAS/Dictionary/Courage\|Courage]]                     | courageous                                               |
 | [[ATLAS/Dictionary/Covert Contract\|Covert Contract]]     | \-                                                       |
 | [[ATLAS/Typology MOC/Data\|Data]]                         | \-                                                       |
-| [[ATLAS/Dictionary/Doubt\|Doubt]]                         | \-                                                       |
 | [[ATLAS/Dictionary/Endearing\|Endearing]]                 | endear                                                   |
 | [[ATLAS/Typology MOC/Envy\|Envy]]                         | envie                                                    |
 | [[ATLAS/Dictionary/Fetichism\|Fetichism]]                 | \-                                                       |
 | [[ATLAS/Dictionary/Help\|Help]]                           | \-                                                       |
+| [[ATLAS/Typology MOC/Humility\|Humility]]                 | humble                                                   |
 | [[ATLAS/Dictionary/Idea\|Idea]]                           | \-                                                       |
 | [[ATLAS/Dictionary/Intention\|Intention]]                 | intend, intended, intent                                 |
 | [[ATLAS/Typology MOC/Manifestation\|Manifestation]]       | \-                                                       |
 | [[ATLAS/Dictionary/Meaning\|Meaning]]                     | meaningful, meanings, meaningless                        |
 | [[ATLAS/MOC General\|MOC General]]                        | \-                                                       |
+| [[ATLAS/Typology MOC/Modesty\|Modesty]]                   | \-                                                       |
 | [[ATLAS/Typology MOC/Ni\|Ni]]                             | Introverted Intuition, desire, hope, will, fire, passion |
 | [[ATLAS/Dictionary/Predict\|Predict]]                     | predictable, predictate, unpredictable, unpredictability |
 | [[ATLAS/Dictionary/Prepare\|Prepare]]                     | preparedness, prepared, preparation                      |
 | [[Streamline\|Streamline]]                                | \-                                                       |
+| [[Sunk cost\|Sunk cost]]                                  | \-                                                       |
 | [[ATLAS/Dictionary/The How\|The How]]                     | how, manner, mean                                        |
 | [[ATLAS/Dictionary/The Why\|The Why]]                     | ask why, know why                                        |
 | [[ATLAS/Theory MOC\|Theory MOC]]                          | \-                                                       |
