@@ -10,6 +10,9 @@ Most Pragmatic
 - STJ (Pragmatic Shadow) - NFJ (Pragmatic Sub)
 - NFP
 
+Chaîne de compatibilité : 
 - NTJ --🥇> NTP --🥉> SFP --🥇> SFJ --👨‍🏫> STP --🥇> STJ --🥉> NFJ --🥇> NFP
+- 1 + 2 (1) + 2 (2) + 2 (1) + 1
 
-1 + 2 (1) + 2 (2) + 2 (1) + 1
+Chaîne de camaraderie : 
+- NTJ --> SFP --> STP --> SFJ --> 
