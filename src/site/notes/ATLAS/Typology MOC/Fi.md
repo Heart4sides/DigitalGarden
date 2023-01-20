@@ -3,6 +3,16 @@
 ---
 
 
+## Keywords
+- Sense of Good vs Bad
+- Value, worth
+- Sympathy
+- Moral
+- Investment
+- Measure, weight
+- Personal philosophy
+- Gratitude
+
 ## Quadras
 [[ATLAS/Typology MOC/3. Philosopher\|3. Philosopher]] | [[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
 
