@@ -9,6 +9,7 @@
 - Personal consciousness
 - Personal experiences
 - Needs
+- Discipline
 - Endurence, Fortitude, Steadfastness
 - Duty
 - Concentration
