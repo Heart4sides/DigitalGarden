@@ -12,8 +12,8 @@
 --- Most Affiliative 🌐
 
 Chaîne de compatibilité : 
-- NTJ [[ATLAS/Typology MOC/Golden Pair\|🥇]]> NTP --🥉> SFP --🥇> SFJ --👨‍🏫> STP --🥇> STJ --🥉> NFJ --🥇> NFP
+- NTJ [[ATLAS/Typology MOC/Golden Pair\|🥇]] NTP 🥉 SFP 🥇 SFJ 👨‍🏫 STP 🥇 STJ 🥉 NFJ 🥇 NFP
 - 1 + 2 (1) + 2 (2) + 2 (1) + 1
 
 Chaîne de camaraderie : 
-NTJ --> SFP --> STP --> SFJ --> ? 
+NTJ 👊 SFP --> STP --> SFJ --> ? 
