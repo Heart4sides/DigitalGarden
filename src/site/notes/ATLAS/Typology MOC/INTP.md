@@ -4,7 +4,7 @@
 
 ## Type Grid
 [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Outcome\|Outcome]]
-[[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Quadra & Functions
 [[ATLAS/Typology MOC/1. Crusader\|1. Crusader]] 
