@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/entp/"}
 ---
 
+#type
 
 ## Quadra & Functions
 [[ATLAS/Typology MOC/1. Crusader\|Crusader]] [[ATLAS/Typology MOC/Ego\|Ego]]
@@ -16,7 +17,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]]
-[[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Virtu & Vice
 [[Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
