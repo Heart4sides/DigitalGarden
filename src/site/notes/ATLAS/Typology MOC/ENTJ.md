@@ -21,7 +21,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Structure\|Structure]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Outcome\|Outcome]]
-[[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Virtu & Vice
 [[ATLAS/Typology MOC/Generosity\|Generosity]] | [[ATLAS/Typology MOC/Greed\|Greed]] 
