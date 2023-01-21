@@ -3,6 +3,10 @@
 ---
 
 
+Recommended paths according to interest 
+- Discover the mechanisms of this science
+	- Cognitive Functions --> Type Grid 
+
 - [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]]
 - [[Digital Garden/The 16 archetypes\|The 16 archetypes]] 
 - How to type using the [[ATLAS/Typology MOC/Type Grid\|Type Grid]]
