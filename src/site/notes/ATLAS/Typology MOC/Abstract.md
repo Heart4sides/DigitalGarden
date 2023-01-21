@@ -13,7 +13,7 @@
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Abstract\|Abstract]] : 
-- [[Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] 
+- [[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] 
 - [[Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
