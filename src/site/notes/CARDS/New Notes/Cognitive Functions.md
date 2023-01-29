@@ -12,6 +12,19 @@ Input --> Process --> Output --> Feedback --> Input
 
 ```
 
+[[Input\|Input]] : 
+	[[ATLAS/Typology MOC/Ne\|Ne]] : possibilities
+	[[ATLAS/Typology MOC/Te\|Te]] : beliefs 
+[[Process\|Process]] : 
+	[[ATLAS/Typology MOC/Ni\|Ni]] : desire
+	[[ATLAS/Typology MOC/Ti\|Ti]] : deduction
+[[Output\|Output]] : 
+	[[ATLAS/Typology MOC/Se\|Se]] : performance
+	[[ATLAS/Typology MOC/Fe\|Fe]] : ethics
+[[Feedback\|Feedback]] : 
+	[[ATLAS/Typology MOC/Si\|Si]] : needs
+	[[ATLAS/Typology MOC/Fi\|Fi]] : morals
+
 ## Perception
 ```mermaid
 
