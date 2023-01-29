@@ -31,4 +31,6 @@
 	- [ ] [[Skeptical\|Skeptical]]
 - [ ] [[ATLAS/Typology MOC/Immature 🐎\|Immature 🐎]]
 	- [ ] [[Gullible\|Gullible]]
-	- [ ] 
+- [ ] "The parent is - trying to  impart some of its responsibilities and  confer some of its responsibilities upon  the hero so the person using their hero  becomes more responsible while using it"[^1]
+
+[^1]: [[SOURCES/Type Theory by CSJ/What Are The Four Sides of the Mind by CS Joseph\|What Are The Four Sides of the Mind by CS Joseph]]
