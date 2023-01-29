@@ -25,16 +25,20 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Typology MOC/Body Temple\|Body Temple]] : final order, legacy 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
 - [[SOURCES/Type Theory by CSJ/Temples/Body Temple/Purpose Dyad/Greed by CSJ\|Greed by CSJ]] : outcome of a scarcity mindset / garanty the outcome by taking everything along the way 
-- 
 
 ## Types 
-| [[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] |
-| -------- | -------- | -------- | -------- |
-|  |  | |  |
-|  |  |  |  |
-| [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] |
+- [[ATLAS/Typology MOC/Structure\|Structure]] : [[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]]
+- [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] 
 
-Wordnik
+## Functions
+[[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Te Inferior 👶\|Te Inferior 👶]]
+[[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Fi Inferior 👶\|Fi Inferior 👶]]
+[[ATLAS/Typology MOC/Ne Parent 🤰\|Ne Parent 🤰]] - [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]]
+[[ATLAS/Typology MOC/Ni Parent 🤰\|Ni Parent 🤰]] - [[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]] 
+
+Outcome = [[ATLAS/Typology MOC/Abstract\|Abstract]] + [[ATLAS/Typology MOC/Judgement\|Judger]]
+
+## Wordnik
 *noun*: An end result; a consequence. <i>synonym</i>: <strong> effect</strong>.
 *noun*: A going forth; a marauding expedition; incursion; inroad. Compare <internalXref urlencoded="outroad">outroad</internalXref>.
 *noun*: That which comes out of or results from something else; issue; result.
@@ -60,8 +64,7 @@ Wordnik
 |  |  | phase | channel |
 
 > [Additional info](https://www.wordnik.com/words/outcome)
-## 
-Wikipedia 
+## Wikipedia 
 
 > In probability theory, an **Outcome** is a possible result of an experiment or trial. Each possible outcome of a particular experiment is unique, and different outcomes are mutually exclusive (only one outcome will occur on each trial of the experiment). All of the possible outcomes of an experiment form the elements of a sample space.For the experiment where we flip a coin twice, the four possible outcomes that make up our sample space are (H, T), (T, H), (T, T) and (H, H), where "H" represents a "heads", and "T" represents a "tails". Outcomes should not be confused with events, which are sets (or informally, "groups") of outcomes. For comparison, we could define an event to occur when "at least one 'heads'" is flipped in the experiment - that is, when the outcome contains at least one 'heads'. This event would contain all outcomes in the sample space except the element (T, T).
 >
