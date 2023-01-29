@@ -8,7 +8,7 @@ Links :: [[ATLAS/Typology MOC/Reflection\|Reflection]]
 [[ATLAS/Typology MOC/Fe Parent 🤰\|Fe Parent 🤰]] ⚡ [[ATLAS/Typology MOC/Te Trickster 🃏\|Te Trickster 🃏]]
 
 [[ATLAS/Typology MOC/Mature 🐢\|Mature 🐢]]
-Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so other is can be free and i can finally be socially accepted as myself.
+Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so others can be free and i can finally be socially accepted as myself.
 
 [[ATLAS/Typology MOC/Immature 🐎\|Immature 🐎]]
 Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cultish types.
