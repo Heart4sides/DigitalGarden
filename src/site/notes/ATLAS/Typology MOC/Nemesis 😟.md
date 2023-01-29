@@ -13,7 +13,7 @@
 - [[villain\|villain]]
 - [[ally\|ally]]
 - provide[[challenge\|challenge]]
-- [[worry\|worry]]
+- [[Worry\|worry]]
 - [[uncertainty\|uncertainty]] vs [[certainty\|certainty]]
 - [[ATLAS/Dictionary/Paranoïa\|Paranoïa]]
 - [[Concern\|Concern]] 
