@@ -4,39 +4,56 @@
 
 
 ## 🎭 Characters
-1. Preferences
-	- Cognitive Functions 
-	- Types
-	- Morality 
-2. Potential 
+[[ATLAS/Typology MOC/Ego\|Ego]] 
+1. Personal Drama - [[ATLAS/Typology MOC/Fi\|Fi]]
+	- [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]]
+	- Attitudes 
+	- Type Grid 
+		- Temperament
+		- Interaction Style 
+	- Types 
+	- Internal Struggles 
+	- Quality of Life
+2. Collective Potential - [[ATLAS/Typology MOC/Ne\|Ne]]
 	- 4 sides 
 	- Integration - Type potential 
 	- Macro-potentials 
+	- Chaos
 
 ## 💞 Plot 
-1. Drama
-	- Group Ethics
+Unconscious
+1. Collective Drama
+	- Compatibility
 	- Sacred Things
 	- Fictional Typing
 	- Vultology
-2. Dreams
-		- Laws of Attraction  
-		- Focus
+	- Praise 
+	- Balance 
+	- Benefits 
+2. Personal Dreams
+	- Laws of Attraction   
+	- Focus
+	- Pathos
+	- Freedom
 
 ## 👨‍🏫 Teachings
-1. Learning
+Subconscious
+1. Personal Knowledge
 	- Mechanics
-2. Skill 
-	- Historical Typing 
+	- Critical Thinking
+2. Collective Realities  
 	- Practice 
+	- Historical Typing 
 
 ## 🏛️ Legacy
-1. Systems
+Superego
+2. Systems
 	- References 
 	- Rules
 	- Testing Grounds
-2. Traditions
+3. Traditions
 	- Development 
+	- Cognitive Origin
 	- Discoveries 
 
 
