@@ -9,7 +9,7 @@
 	- [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]]
 	- Attitudes 
 	- Type Grid 
-		- Temperament
+		- [[ATLAS/Typology MOC/Temperament\|Temperament]]
 		- Interaction Style 
 	- Types 
 	- Internal Struggles 
