@@ -3,6 +3,12 @@
 ---
 
 
+Humans have personal preferences for perceiving and judging the world, just like they have a preference for their right or left hand. Those preferences are called cognitive functions. The need for a hierarchy stems from the impossibility to perform these actions simultaneously although they are interdependant : 
+- Estimate the veracity AND the value of something, although the value depends on the veracity and the pursuit of veracity depends on value.  
+- Store AND desire, although the storage is composed of carried out desires and desires stem from seeing what has been. 
+- See physical reactions AND long term consequences, although consequences result from combined physical reactions and physical reactions bring potential into reality. 
+- Manipulate people's knowledge AND happiness, although knowledge enables increase in quality of life and quality of life enables learning. 
+
 ## IPOF
 ```mermaid
 
