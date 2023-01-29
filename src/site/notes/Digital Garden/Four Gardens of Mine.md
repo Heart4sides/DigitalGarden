@@ -8,27 +8,34 @@
 		- 4 sides 
 		- Integration - Type potential 
 		- Macro-potentials 
-	4. Fi 
+	2. Fi 
 		- Cognitive Functions 
 		- Types
 		- Morality 
-- 💞Plot : Ni-Fe 
-	- Group Ethics
-	- Laws of Attraction  
-	- Sacred Things
-	- Fictional Typing
-	- Focus
-	- Vultology
+- 💞Plot : Ni-Fe
+	- 2. Ni
+		- Laws of Attraction  
+		- Focus
+	- 3. Fe
+		- Group Ethics
+		- Sacred Things
+		- Fictional Typing
+		- Vultology
 - 👨‍🏫Teachings : Se-Ti
-	- Historical Typing 
-	- Mechanics 
-	- Practice 
+	- 3. Se
+		- Historical Typing 
+		- Practice 
+	- 2. Ti
+		- Mechanics 
 - 🏛️Heritage : Si-Te
-	- Development 
-	- References 
-	- Discoveries 
-	- Systems
-	- Testing Grounds
+	- 4. Si
+		- Development 
+		- Traditions
+		- Discoveries 
+	- 1. Te
+		- References 
+		- Systems
+		- Testing Grounds
 
 
 - Rules & References
