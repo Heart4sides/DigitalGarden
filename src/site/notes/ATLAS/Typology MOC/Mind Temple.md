@@ -16,7 +16,7 @@ Tags : #MOC #Mind
 [[ATLAS/Dictionary/Doubt\|Doubt]]
 [[ATLAS/Dictionary/The How\|The How]]
 [[ATLAS/Mechanics\|Mechanics]]
-[[ATLAS/Typology MOC/Axis\|Axis]]
+[[ATLAS/Typology MOC/Axis\|Axis]] 
 [[ATLAS/Typology MOC/Education\|Education]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]
