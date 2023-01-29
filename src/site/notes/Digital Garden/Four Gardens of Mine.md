@@ -3,39 +3,41 @@
 ---
 
 
-- 🎭Characters : Fi-Ne
-	1. Ne
-		- 4 sides 
-		- Integration - Type potential 
-		- Macro-potentials 
-	2. Fi 
-		- Cognitive Functions 
-		- Types
-		- Morality 
-- 💞Plot : Ni-Fe
-	- 2. Ni
+## 🎭 Characters
+1. Preferences
+	- Cognitive Functions 
+	- Types
+	- Morality 
+2. Potential 
+	- 4 sides 
+	- Integration - Type potential 
+	- Macro-potentials 
+
+## 💞 Plot 
+1. Drama
+	- Group Ethics
+	- Sacred Things
+	- Fictional Typing
+	- Vultology
+2. Dreams
 		- Laws of Attraction  
 		- Focus
-	- 3. Fe
-		- Group Ethics
-		- Sacred Things
-		- Fictional Typing
-		- Vultology
-- 👨‍🏫Teachings : Se-Ti
-	- 3. Se
-		- Historical Typing 
-		- Practice 
-	- 2. Ti
-		- Mechanics 
-- 🏛️Heritage : Si-Te
-	- 4. Si
-		- Development 
-		- Traditions
-		- Discoveries 
-	- 1. Te
-		- References 
-		- Systems
-		- Testing Grounds
+
+## 👨‍🏫 Teachings
+1. Learning
+	- Mechanics
+2. Skill 
+	- Historical Typing 
+	- Practice 
+
+## 🏛️ Legacy
+1. Systems
+	- References 
+	- Rules
+	- Testing Grounds
+2. Traditions
+	- Development 
+	- Discoveries 
 
 
 - Rules & References
