@@ -25,7 +25,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Interest\|Interest]] :
 [[ATLAS/Typology MOC/Fi\|Fi]] | [[ATLAS/Typology MOC/Se\|Se]]
 
 ## Temple 
-[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
+[[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Interest by CSJ\|Interest by CSJ]]
