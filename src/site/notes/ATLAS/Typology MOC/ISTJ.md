@@ -26,7 +26,7 @@
 [[Triviality\|Triviality]] |  [[Objectivity\|Objectivity]]
  
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple\|Soul Temple]]
+[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]]
 [[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Justification\|Justification]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Absolution\|Absolution]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Wrath\|Wrath]]
