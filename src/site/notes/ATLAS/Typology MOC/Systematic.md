@@ -23,7 +23,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Systematic\|Systematic]] :
 [[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Si\|Si]]
 
 ## Temple 
-[[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] | [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Systematic by CSJ\|Systematic by CSJ]]
