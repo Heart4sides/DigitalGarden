@@ -14,7 +14,9 @@
 | [[ATLAS/Dictionary/Conducive\|Conducive]]                 | contribute, contributing, promote, promoting             |
 | [[ATLAS/Dictionary/Courage\|Courage]]                     | courageous                                               |
 | [[ATLAS/Dictionary/Covert Contract\|Covert Contract]]     | \-                                                       |
+| [[ATLAS/Dictionary/Crafty\|Crafty]]                       | \-                                                       |
 | [[ATLAS/Typology MOC/Data\|Data]]                         | \-                                                       |
+| [[Depravity\|Depravity]]                                  | \-                                                       |
 | [[ATLAS/Dictionary/Endearing\|Endearing]]                 | endear                                                   |
 | [[ATLAS/Typology MOC/Envy\|Envy]]                         | envie                                                    |
 | [[ATLAS/Dictionary/Fetichism\|Fetichism]]                 | \-                                                       |
@@ -32,12 +34,12 @@
 | [[Streamline\|Streamline]]                                | \-                                                       |
 | [[Sunk cost\|Sunk cost]]                                  | \-                                                       |
 | [[ATLAS/Dictionary/The How\|The How]]                     | how, manner, mean                                        |
-| [[ATLAS/Dictionary/The Why\|The Why]]                     | ask why, know why                                        |
+| [[ATLAS/Dictionary/The Why\|The Why]]                     | ask why, know why, why                                   |
 | [[ATLAS/Theory MOC\|Theory MOC]]                          | \-                                                       |
 | [[EXTRAS/Templates/TPL 📖 Dictionary\|TPL 📖 Dictionary]] | \-                                                       |
 | [[ATLAS/Dictionary/Tyrant\|Tyrant]]                       | \-                                                       |
 | [[ATLAS/Dictionary/Understand\|Understand]]               | \-                                                       |
 | [[ATLAS/Typology MOC/Validation\|Validation]]             | valid, validate, validity, validating, validates         |
-| [[ATLAS/Dictionary/Wisdom\|Wisdom]]                       | wise                                                     |
+| [[ATLAS/Dictionary/Wisdom\|Wisdom]]                       | wise, wisdom, sagesse                                    |
 
 
