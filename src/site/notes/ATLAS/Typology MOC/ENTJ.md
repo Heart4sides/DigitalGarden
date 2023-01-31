@@ -27,7 +27,7 @@
 [[ATLAS/Typology MOC/Generosity\|Generosity]] | [[ATLAS/Typology MOC/Greed\|Greed]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 [[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Purpose\|Purpose]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Generosity\|Generosity]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Greed\|Greed]]
