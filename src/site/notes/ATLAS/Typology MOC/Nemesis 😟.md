@@ -20,4 +20,5 @@
 - [[Confrontational\|Confrontational]] vs [[Peacekeeper\|Peacekeeper]]
 - The nemesis is there to force you to take action 
 - You can only make peace with your ennemy 
+- Agent of the Demon 
 - The parent of the demon ? 
