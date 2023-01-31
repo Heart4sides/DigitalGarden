@@ -3,8 +3,8 @@
 ---
 
 
-- [[ATLAS/Typology MOC/Subconscious\|Subconscious]] - [[ATLAS/Typology MOC/Ego\|Ego]].
-- [[ATLAS/Typology MOC/Shadow\|Shadow]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
+- [[ATLAS/Typology MOC/Subconscious\|Subconscious]] - [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]].
+- [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - [[ATLAS/Typology MOC/Soul Temple\|soul]] - [[ATLAS/Typology MOC/Mind Temple\|mind]]
 - [[Heart\|Heart]] - [[Body\|Body]]
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Responding by CSJ\|Responding by CSJ]] exhibits reflection. Think before speaking: tend to reflect, then speak and act. 
