@@ -23,7 +23,7 @@
 [[Care\|Care]] | [[Guard\|Guard]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 [[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Discovery\|Discovery]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Generativity\|Generativity]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Gluttony\|Gluttony]]
