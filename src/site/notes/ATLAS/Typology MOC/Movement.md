@@ -25,7 +25,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] :
 [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]] | [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
+[[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
 ## Mentions
 [[Movement by CSJ\|Movement by CSJ]]
