@@ -3,7 +3,7 @@
 ---
 
 
-= transitory functions 
+= Transitory functions 
 
 ## Gateway to the 4 sides
 - [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] : Gateway to the Ego 
