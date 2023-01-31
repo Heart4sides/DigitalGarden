@@ -19,8 +19,8 @@
 - [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] - [[ATLAS/Typology MOC/Subconscious\|Subconscious]]
 
 ## Temples in Axis
-- [[ATLAS/Typology MOC/Soul Temple\|soul]] - [[ATLAS/Typology MOC/Body Temple\|body]]
-- [[ATLAS/Typology MOC/Heart Temple\|heart]] - [[ATLAS/Typology MOC/Mind Temple\|mind]]
+- [[ATLAS/Typology MOC/Soul Temple 👻\|soul]] - [[ATLAS/Typology MOC/Body Temple 🌳\|body]]
+- [[ATLAS/Typology MOC/Heart Temple 🎭\|heart]] - [[ATLAS/Typology MOC/Mind Temple ⚒️\|mind]]
 
 ## Personal Observations
 The Axis implies that one function is preferred to the other. 
