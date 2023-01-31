@@ -34,9 +34,9 @@
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |  |  [[ATLAS/Typology MOC/INTP\|INTP]]      | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
 ## Attitudes
-[[ATLAS/Typology MOC/Ego\|Ego]]
+[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Si Parent 🤰\|Si Parent 🤰]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Si Inferior 👶\|Si Inferior 👶]]
-[[ATLAS/Typology MOC/Shadow\|Shadow]] 
+[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
 [[ATLAS/Typology MOC/Si Nemesis 😟\|Si Nemesis 😟]] | [[ATLAS/Typology MOC/Si Critic 👵\|Si Critic 👵]] | [[ATLAS/Typology MOC/Si Trickster 🃏\|Si Trickster 🃏]] | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]
 
 ## Relationships 
