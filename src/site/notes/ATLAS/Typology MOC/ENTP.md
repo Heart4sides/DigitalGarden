@@ -23,7 +23,7 @@
 [[Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
 
 ## Temple 
-[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
+[[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 [[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Satisfaction\|Satisfaction]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Compassion\|Compassion]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Envy\|Envy]]
