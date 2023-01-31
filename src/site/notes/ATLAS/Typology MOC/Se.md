@@ -42,7 +42,7 @@
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Interest\|Interest]] 
 
 ## Temple 
- [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] 
+ [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Dictionary
 - IPOF : [[ATLAS/Typology MOC/Outcome\|Outcome]]
