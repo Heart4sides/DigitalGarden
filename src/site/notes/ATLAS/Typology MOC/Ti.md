@@ -45,7 +45,7 @@
 [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
 
 ## Temple 
-[[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
+[[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
 ## Dictionary
 
