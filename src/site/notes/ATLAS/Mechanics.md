@@ -10,7 +10,7 @@
 [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] | [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] | [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]] | [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
 
 ## 4 sides of the Mind
-[[ATLAS/Typology MOC/Ego\|Ego]] | [[ATLAS/Typology MOC/Subconscious\|Subconscious]] | [[ATLAS/Typology MOC/Shadow\|Shadow]] | [[ATLAS/Typology MOC/Superego\|Superego]]
+[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | [[ATLAS/Typology MOC/Subconscious\|Subconscious]] | [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] | [[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]]
 
 ## Types
 [[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
