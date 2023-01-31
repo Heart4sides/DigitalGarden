@@ -22,7 +22,7 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero]]
 - [[ATLAS/Typology MOC/Se\|Se]] : IPOF
 - [[ATLAS/Typology MOC/Fe\|Fe]] : IPOF
-- [[ATLAS/Typology MOC/Body Temple\|Body Temple]] : final order, legacy 
+- [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]] : final order, legacy 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
 - [[SOURCES/Type Theory by CSJ/Temples/Body Temple/Purpose Dyad/Greed by CSJ\|Greed by CSJ]] : outcome of a scarcity mindset / garanty the outcome by taking everything along the way 
 
