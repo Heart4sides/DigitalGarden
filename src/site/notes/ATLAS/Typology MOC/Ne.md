@@ -42,7 +42,7 @@
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple\|Soul Temple]]
+[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]]
 
 ## Dictionary
 - [[neuroplasticity\|neuroplasticity]] - [[adaptation\|adaptation]]
