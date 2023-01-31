@@ -44,7 +44,7 @@
 [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
+[[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 
 ## Dictionary
 
@@ -60,7 +60,7 @@ ctrl + schift + Q
 - [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
 - [[SOURCES/Vultology\|Vultology]]
 - [[ATLAS/Typology MOC/Direct\|Direct]]
-- [[ATLAS/Typology MOC/Heart Temple\|Heart]]
+- [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
