@@ -36,9 +36,9 @@
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |   |  [[ATLAS/Typology MOC/INTP\|INTP]]      |    |  
 
 ## Attitudes
-[[ATLAS/Typology MOC/Ego\|Ego]]
+[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Fe Parent 🤰\|Fe Parent 🤰]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 👶\|Fe Inferior 👶]]
-[[ATLAS/Typology MOC/Shadow\|Shadow]] 
+[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
 [[ATLAS/Typology MOC/Fe Nemesis 😟\|Fe Nemesis 😟]] | [[ATLAS/Typology MOC/Fe Critic 👵\|Fe Critic 👵]] | [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | [[ATLAS/Typology MOC/Fe Demon 😈\|Fe Demon 😈]]
 
 ## Relationships 
