@@ -16,7 +16,7 @@
 - [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] function 
 - [[Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 - Education = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
-- [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]]
+- [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
 	-  [[ATLAS/Typology MOC/Knowledge\|Knowledge]] = [[ATLAS/Typology MOC/Ti\|Ti]]
 	-  [[Skill\|Skill]] = [[ATLAS/Typology MOC/Se\|Se]]
 - [[Templars\|Templars]] : teach, <mark style="background: #FFB8EBA6;">mentor</mark> & <mark style="background: #FFB86CA6;">counsel</mark>
@@ -61,15 +61,15 @@ They respect the opinions of others by using their Fe, when:
 
 ## Temple Integration 
 
-Integration of the [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+Integration of the [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 
 When education is disconnected from the physical creation, it loses its connection with its usefulness, its reason for being. Knowledge is knowledge only if it can be applied in a concrete way and if its application lasts over time.
 
-Integration of the [[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
+Integration of the [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 
 No learning without motivation to learn. Passion is by far the most powerful engine of continuous learning.
 
-Integration of the [[ATLAS/Typology MOC/Soul Temple\|Soul Temple]] 
+Integration of the [[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] 
 
 A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.**
 ## Ease to learn by Type 
