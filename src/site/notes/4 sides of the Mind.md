@@ -3,7 +3,7 @@
 ---
 
 
-[[ATLAS/Typology MOC/Ego\|Ego]]
+[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Subconscious\|Subconscious]]
-[[ATLAS/Typology MOC/Shadow\|Shadow]]
-[[ATLAS/Typology MOC/Superego\|Superego]]
+[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]]
+[[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]]
