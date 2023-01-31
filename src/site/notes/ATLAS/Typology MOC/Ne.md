@@ -28,9 +28,9 @@
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |  |  [[ATLAS/Typology MOC/INTP\|INTP]]      | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
 ## Attitudes
-[[ATLAS/Typology MOC/Ego\|Ego]]
+[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ne Parent 🤰\|Ne Parent 🤰]] | [[ATLAS/Typology MOC/Ne Child 🧒\|Ne Child 🧒]] | [[ATLAS/Typology MOC/Ne inferior 👶\|Ne inferior 👶]]
-[[ATLAS/Typology MOC/Shadow\|Shadow]] 
+[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
 [[ATLAS/Typology MOC/Ne Nemesis 😟\|Ne Nemesis 😟]] | [[ATLAS/Typology MOC/Ne Critic 👵\|Ne Critic 👵]] | [[ATLAS/Typology MOC/Ne Trickster 🃏\|Ne Trickster 🃏]] | [[ATLAS/Typology MOC/Ne Demon 😈\|Ne Demon 😈]]
 
 ## Relationships 
