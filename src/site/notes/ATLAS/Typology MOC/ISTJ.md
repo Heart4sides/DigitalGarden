@@ -7,16 +7,16 @@
 
 ==[[ATLAS/Typology MOC/0. Quadra\|0. Quadra]]== : [[ATLAS/Typology MOC/3. Philosopher\|3. Philosopher]] 
 
-==[[ATLAS/Typology MOC/Ego\|Ego]]==
+==[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]==
 [[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]] | [[ATLAS/Typology MOC/Ne inferior 👶\|Ne inferior 👶]]
 
-==[[ATLAS/Typology MOC/Shadow\|Shadow]]== 
+==[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]]== 
 [[ATLAS/Typology MOC/Se Nemesis 😟\|Se Nemesis 😟]] | [[ATLAS/Typology MOC/Ti Critic 👵\|Ti Critic 👵]] | [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | [[ATLAS/Typology MOC/Ni Demon 😈\|Ni Demon 😈]]
 
 ## 4 sides  
 ==[[ATLAS/Typology MOC/Subconscious\|Subconscious]]== ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ENFP\|ENFP]]
-==[[ATLAS/Typology MOC/Shadow\|Shadow]]== ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ESTP\|ESTP]]
-==[[ATLAS/Typology MOC/Superego\|Superego]]== ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/INFJ\|INFJ]]
+==[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]]== ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ESTP\|ESTP]]
+==[[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]]== ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/INFJ\|INFJ]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]]
