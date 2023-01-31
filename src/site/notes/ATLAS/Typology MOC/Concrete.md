@@ -12,7 +12,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Concrete\|Concrete]] :
 [[ATLAS/Typology MOC/Si\|Si]] | [[ATLAS/Typology MOC/Se\|Se]] 
 
 ## Temple
-[[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] | [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Concrete by CSJ\|Concrete by CSJ]]
