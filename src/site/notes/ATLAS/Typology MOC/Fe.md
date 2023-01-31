@@ -51,7 +51,7 @@
 [[ATLAS/Typology MOC/Affiliative\|Affiliative]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Heart Temple\|Heart Temple]]
+[[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
