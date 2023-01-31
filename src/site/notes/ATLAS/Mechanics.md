@@ -28,7 +28,7 @@
 [[Crusader\|Crusader]] | [[Templar\|Templar]] | [[Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
 
 ## Temples 
-[[ATLAS/Typology MOC/Soul Temple\|Soul Temple]] | [[ATLAS/Typology MOC/Heart Temple\|Heart Temple]] | [[ATLAS/Typology MOC/Mind Temple\|Mind Temple]] | [[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 [[SOURCES/Type Theory by CSJ/Mechanics/Temple Wheels\|Temple Wheels]]
 
 ## Relationships 
