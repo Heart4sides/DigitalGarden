@@ -48,7 +48,7 @@
 [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative\|Affiliative]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Body Temple\|Body Temple]]
+[[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 
 ## Dictionary
 
