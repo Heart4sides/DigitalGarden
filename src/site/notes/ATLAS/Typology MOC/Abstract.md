@@ -20,7 +20,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Abstract\|Abstract]] :
 [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] 
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] 
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Abstract by CSJ\|Abstract by CSJ]]
