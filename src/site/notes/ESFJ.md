@@ -17,7 +17,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]]
-[[Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative\|Affiliative]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
+[[Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
 
 ## Virtu & Vice
 [[Care\|Care]] | [[Guard\|Guard]] 
