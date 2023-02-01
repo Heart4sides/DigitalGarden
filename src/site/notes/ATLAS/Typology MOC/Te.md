@@ -47,7 +47,7 @@ Te Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Te Parent 🤰\|Te Parent 🤰]] | 
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]]
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
 [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
