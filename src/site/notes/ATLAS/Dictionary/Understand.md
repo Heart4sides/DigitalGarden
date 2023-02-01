@@ -7,7 +7,7 @@
 - [[ATLAS/Dictionary/Dictionary\|Dictionary]]
 - [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
 - [[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]]
-- [[ATLAS/Typology MOC/Affiliative#Keywords\|Affiliative#Keywords]]  
+- [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦#Keywords\|Affiliative 👨‍👩‍👧‍👦#Keywords]]  
 - [[ATLAS/Typology MOC/Pride\|Pride]] & [[ATLAS/Typology MOC/Humility\|Humility]]
 
 ## Wordnik
