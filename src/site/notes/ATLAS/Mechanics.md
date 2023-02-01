@@ -22,13 +22,13 @@
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[Progression\|Progression]]
 
 ## Temperaments 
-[[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative\|Affiliative]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] | [[ATLAS/Typology MOC/Interest\|Interest]]
+[[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] | [[ATLAS/Typology MOC/Interest\|Interest]]
 
 ## Quadra 
 [[Crusader\|Crusader]] | [[Templar\|Templar]] | [[Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
 
 ## Temples 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
 [[SOURCES/Type Theory by CSJ/Mechanics/Temple Wheels\|Temple Wheels]]
 
 ## Relationships 
