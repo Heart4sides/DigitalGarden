@@ -42,7 +42,7 @@
 [[ATLAS/Typology MOC/Interest\|Interest]] 
 
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]]
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
 
 ## Dictionary
 
