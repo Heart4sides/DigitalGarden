@@ -5,7 +5,7 @@
 
 The thing that we seek most in life. 
 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] 
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] 
 [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] : [[ATLAS/Typology MOC/Justification\|Justification]]
 [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] : [[ATLAS/Typology MOC/Intimacy\|Intimacy]]
 
