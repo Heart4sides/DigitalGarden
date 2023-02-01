@@ -48,7 +48,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Initiating\|Initiating]] 
-[[ATLAS/Typology MOC/Affiliative\|Affiliative]] 
+[[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
