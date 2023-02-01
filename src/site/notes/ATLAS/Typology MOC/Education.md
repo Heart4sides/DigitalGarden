@@ -10,7 +10,7 @@
 ## Related topics 
 
 - [[ATLAS/Typology MOC/Concrete\|Concrete]]
-- [[ATLAS/Typology MOC/Affiliative\|Affiliative]] --> towards [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
+- [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] --> towards [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
 - [[ATLAS/Typology MOC/Systematic\|Systematic]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
 - [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] function 
@@ -69,7 +69,7 @@ Integration of the [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
 
 No learning without motivation to learn. Passion is by far the most powerful engine of continuous learning.
 
-Integration of the [[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]] 
+Integration of the [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] 
 
 A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.**
 ## Ease to learn by Type 
