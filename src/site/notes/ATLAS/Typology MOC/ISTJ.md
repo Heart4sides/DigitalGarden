@@ -20,13 +20,13 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]]
-[[Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative\|Affiliative]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
+[[Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
 
 ## Virtu & Vice
 [[Triviality\|Triviality]] |  [[Objectivity\|Objectivity]]
  
 ## Temple 
-[[ATLAS/Typology MOC/Soul Temple 👻\|Soul Temple 👻]]
+[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
 [[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Justification\|Justification]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Absolution\|Absolution]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Wrath\|Wrath]]
