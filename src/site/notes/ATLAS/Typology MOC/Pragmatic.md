@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic/"}
 ---
 
-Vs [[ATLAS/Typology MOC/Affiliative\|Affiliative]]
+Vs [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
 
 ## Keywords
 - What works - task focus
