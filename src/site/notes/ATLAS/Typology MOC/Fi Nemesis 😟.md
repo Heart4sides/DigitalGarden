@@ -4,4 +4,4 @@
 
 Links :: [[ATLAS/Typology MOC/Fi\|Fi]] |  |  | 
 [[ATLAS/Typology MOC/ENFJ\|ENFJ]]
-[[ESFJ\|ESFJ]]
+[[ATLAS/Typology MOC/ESFJ\|ESFJ]]
