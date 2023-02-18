@@ -15,8 +15,8 @@
 - [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I want (Ni) to do what you're doing (Se)" 
 
 ## 4 Sides in Axis
-- [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] - [[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]]
-- [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] - [[ATLAS/Typology MOC/Subconscious\|Subconscious]]
+- [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] - [[ATLAS/Typology MOC/Superego 👹\|Superego 👹]]
+- [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] - [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]]
 
 ## Temples in Axis
 - [[ATLAS/Typology MOC/Soul Temple 👥\|soul]] - [[ATLAS/Typology MOC/Body Temple 🌳\|body]]
