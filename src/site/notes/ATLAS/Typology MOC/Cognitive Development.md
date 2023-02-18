@@ -3,4 +3,4 @@
 ---
 
 
-Determines the [[Pole\|pole]] you are closer too
+Determines the [[ATLAS/Typology MOC/Pole\|Pole]] you are closer too
