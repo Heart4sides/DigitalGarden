@@ -13,7 +13,7 @@
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Obstinance by CSJ\|Obstinance by CSJ]]
 [[ATLAS/Dictionary/Doubt\|Doubt]]
 [[ATLAS/Dictionary/The How\|The How]]
-[[ATLAS/Mechanics\|Mechanics]]
+[[ATLAS/Mechanics MOC\|Mechanics MOC]]
 [[ATLAS/Typology MOC/Axis\|Axis]] 
 [[ATLAS/Typology MOC/Education\|Education]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]]
