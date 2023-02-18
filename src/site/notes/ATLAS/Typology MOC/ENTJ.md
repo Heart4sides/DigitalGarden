@@ -15,9 +15,9 @@
 [[ATLAS/Typology MOC/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[ATLAS/Typology MOC/Ne Critic 👵\|Ne Critic 👵]] |  [[ATLAS/Typology MOC/Si Trickster 🃏\|Si Trickster 🃏]]| [[ATLAS/Typology MOC/Fe Demon 😈\|Fe Demon 😈]]
 
 ## 4 sides  
-[[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : ISFP
+[[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : ISFP
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/INTP\|INTP]]
-[[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]] ([[ATLAS/Typology MOC/Axis\|Axis]]): [[ESFJ\|ESFJ]] 
+[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/Axis\|Axis]]): [[ATLAS/Typology MOC/ESFJ\|ESFJ]] 
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Structure\|Structure]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Outcome\|Outcome]]
@@ -28,7 +28,7 @@
 
 ## Temple 
 [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
-[[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Purpose\|Purpose]]
+[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] : [[ATLAS/Typology MOC/Purpose\|Purpose]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Generosity\|Generosity]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Greed\|Greed]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Subjugation\|Subjugation]]
