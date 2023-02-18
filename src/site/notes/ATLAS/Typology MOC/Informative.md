@@ -18,7 +18,7 @@
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Informative\|Informative]] : 
-- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
+- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
 - [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] 
 
 ## Functions 
