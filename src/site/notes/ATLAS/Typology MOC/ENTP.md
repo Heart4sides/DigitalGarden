@@ -11,20 +11,20 @@
 	[[ATLAS/Typology MOC/Ni Nemesis 😟\|Ni Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 👵\|Te Critic 👵]] | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]
 
 ## 4 sides  
-[[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ISFJ\|ISFJ]]
+[[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ISFJ\|ISFJ]]
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : INTJ
-[[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]] ([[ATLAS/Typology MOC/Axis\|Axis]]): ESFP
+[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/Axis\|Axis]]): ESFP
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]]
 [[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
 
 ## Virtu & Vice
-[[Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
+[[ATLAS/Typology MOC/Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
-[[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Satisfaction\|Satisfaction]]
+[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] : [[ATLAS/Typology MOC/Satisfaction\|Satisfaction]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Compassion\|Compassion]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Envy\|Envy]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Malevolence\|Malevolence]]
@@ -38,7 +38,7 @@
 - [[SOURCES/Type Theory by CSJ/Types Theory/Confessions of an ENTP\|Confessions of an ENTP]]
 - [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler - ENTP\|Hitler - ENTP]]
 - [[ATLAS/Dictionary/Certain\|Certain]]
-- [[ATLAS/Mechanics\|Mechanics]]
+- [[ATLAS/Mechanics MOC\|Mechanics MOC]]
 
 ## Examples 
 [[ATLAS/Examples\|Examples]]
