@@ -5,7 +5,7 @@
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Concrete\|Concrete]] : 
-- [[Guardian\|Guardian]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
+- [[ATLAS/Typology MOC/Guardian\|Guardian]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
 - [[ATLAS/Typology MOC/Artisan\|Artisan]] : [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ESTP\|ESTP]]
 
 ## Functions 
