@@ -52,7 +52,7 @@
 ## Mentions 
 ctrl + schift + Q
 - [[ATLAS/Dictionary/Dictionary\|Dictionary]]
-- [[ATLAS/Mechanics\|Mechanics]]
+- [[ATLAS/Mechanics MOC\|Mechanics MOC]]
 - [[ATLAS/Typology MOC/Orbit\|Orbit]]
 - [[EXTRAS/Templates/TPL Function\|TPL Function]]
 - [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
