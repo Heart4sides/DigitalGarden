@@ -25,7 +25,7 @@ Vs [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] : 
-- [[Guardian\|Guardian]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
+- [[ATLAS/Typology MOC/Guardian\|Guardian]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
 - [[Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
