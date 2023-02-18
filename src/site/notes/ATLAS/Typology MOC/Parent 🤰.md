@@ -21,7 +21,7 @@
 
 ## Roles of the Parent
 
-- [[Teaching\|Teaching]] : Bring maturity to teenagers
+- [[ATLAS/Dictionary/Teaching\|Teaching]] : Bring maturity to teenagers
 - [[Raising\|Raising]] : Bring happiness to children 
 
 ## Mentions
