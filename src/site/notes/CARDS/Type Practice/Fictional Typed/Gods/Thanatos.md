@@ -4,7 +4,7 @@
 
 
 ## Relatives 
-"Thanatos « le trépas » possède un frère jumeau, [[CARDS/Type Practice/Fictional Typed/Gods/Hypnos\|Hypnos]], personnalisation du sommeil et d’une forme de petite mort, et une sœur [[Lyssa\|Lyssa]], déesse de la folie furieuse destructrice."[^1]  
+"Thanatos « le trépas » possède un frère jumeau, [[CARDS/Type Practice/Fictional Typed/Gods/Hypnos\|Hypnos]], personnalisation du sommeil et d’une forme de petite mort, et une sœur [[CARDS/Type Practice/Fictional Typed/Gods/Lyssa\|Lyssa]], déesse de la folie furieuse destructrice."[^1]  
 
 ## Appearance
 "Thanatos est la personnification de la mort, réfugié dans le Tartare, séjour des morts. Redouté, son nom est tu par superstition, et il est représenté dans un corps amaigri, squelettique et souvent recouvert d’un voile, tenant une faux et une urne contenant des cendres. Ennemi des humains, au cœur d’airain, il considère les hommes comme faibles et sans intérêt."[^1]
@@ -18,4 +18,4 @@ Héraclès entre en lutte contre la mort, attache Thanatos pour délivrer Alcest
 "Thanatos sera au contraire l’aspiration à l’équilibre, la stabilité, la satiété hors de la faim, de la soif, image de la mort à l’instar d’un organisme parfait sans besoin de son environnement. Sur l’Olympe, Zeus et les treize autres olympiens viennent de gagner la guerre contre les Titans, ils se retrouvent dans un monde paisible, harmonieux et commencent à s’ennuyer. Le besoin de vie, Eros, se fait sentir pour ne pas chuter dans cet équilibre paradoxalement mortifère qu’est Thanatos. Alors ils inventent les humains pour se distraire !"[^1] 
 
 
-[^1]: [[Eros & Thanatos par l'IFP\|Eros & Thanatos par l'IFP]]
+[^1]: [[SOURCES/FUL Eros & Thanatos - IFP\|FUL Eros & Thanatos - IFP]]
