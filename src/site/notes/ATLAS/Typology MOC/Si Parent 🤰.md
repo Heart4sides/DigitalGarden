@@ -4,4 +4,4 @@
 
 Links :: [[ATLAS/Typology MOC/Si\|Si]] |  |  |  
 [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
-[[ESFJ\|ESFJ]]
+[[ATLAS/Typology MOC/ESFJ\|ESFJ]]
