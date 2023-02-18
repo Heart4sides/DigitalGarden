@@ -11,7 +11,7 @@
 | [[ATLAS/Typology MOC/Se hero 🦸‍♂️\|Se hero 🦸‍♂️]]     | Se       | 1-Hero       | [[ATLAS/Typology MOC/Se\|Se]] \| [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]               |
 | [[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]]     | Si       | 1-Hero       | [[ATLAS/Typology MOC/Si\|Si]] \|  \|  \|                                              |
 | [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]]     | Te       | 1-Hero       | [[ATLAS/Typology MOC/Te\|Te]] \| [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]               |
-| [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]]     | Fe       | 1-Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Fe\|Fe]] \| [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ESFJ\|ESFJ]]               |
+| [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]]     | Fe       | 1-Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Fe\|Fe]] \| [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ATLAS/Typology MOC/ESFJ\|ESFJ]]               |
 | [[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]]     | Ti       | 1-Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Ti\|Ti]] \| [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] \| [[ATLAS/Typology MOC/INTP\|INTP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]               |
 | [[ATLAS/Typology MOC/Fe Parent 🤰\|Fe Parent 🤰]]       | Fe       | 2-Parent     | [[ATLAS/Typology MOC/Fe\|Fe]] \|  \|  \|                                              |
 | [[ATLAS/Typology MOC/Fi Parent 🤰\|Fi Parent 🤰]]       | Fi       | 2-Parent     | [[ATLAS/Typology MOC/Fi\|Fi]] \|  \|  \|                                              |
@@ -23,7 +23,7 @@
 | [[ATLAS/Typology MOC/Ti Parent 🤰\|Ti Parent 🤰]]       | Ti       | 2-Parent     | \-                                                             |
 | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]]         | Fe       | 3-Child      | [[ATLAS/Typology MOC/Fe\|Fe]] \| [[ATLAS/Typology MOC/Child 🧒\|Child]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]]          |
 | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]]         | Fi       | 3-Child      | [[ATLAS/Typology MOC/Fi\|Fi]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]                 |
-| [[ATLAS/Typology MOC/Ne Child 🧒\|Ne Child 🧒]]         | Ne       | 3-Child      | [[ATLAS/Typology MOC/Ne\|Ne]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ESFJ\|ESFJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]                 |
+| [[ATLAS/Typology MOC/Ne Child 🧒\|Ne Child 🧒]]         | Ne       | 3-Child      | [[ATLAS/Typology MOC/Ne\|Ne]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ESFJ\|ESFJ]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]]                 |
 | [[ATLAS/Typology MOC/Ni Child 🧒\|Ni Child 🧒]]         | Ni       | 3-Child      | [[ATLAS/Typology MOC/Ni\|Ni]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]                 |
 | [[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]]         | Se       | 3-Child      | [[ATLAS/Typology MOC/Se\|Se]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]]                 |
 | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]]         | Si       | 3-Child      | [[ATLAS/Typology MOC/Si\|Si]] \| [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/INTP\|INTP]]                 |
@@ -56,7 +56,7 @@
 | [[ATLAS/Typology MOC/Fe Trickster 🃏\|Fe Trickster 🃏]] | Fe       | 7-Trickster  | [[ATLAS/Typology MOC/Fe\|Fe]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]  |
 | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | Fi       | 7-Trickster  | [[ATLAS/Typology MOC/Fi\|Fi]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]]  \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] |
 | [[ATLAS/Typology MOC/Ne Trickster 🃏\|Ne Trickster 🃏]] | Ne       | 7-Trickster  | [[ATLAS/Typology MOC/Fi\|Fi]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]] \| [[ATLAS/Typology MOC/ISTP\|ISTP]]  |
-| [[ATLAS/Typology MOC/Ni Trickster 🃏\|Ni Trickster 🃏]] | Ni       | 7-Trickster  | [[ATLAS/Typology MOC/Ni\|Ni]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]] \| [[ESFJ\|ESFJ]]  |
+| [[ATLAS/Typology MOC/Ni Trickster 🃏\|Ni Trickster 🃏]] | Ni       | 7-Trickster  | [[ATLAS/Typology MOC/Ni\|Ni]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ESTJ\|ESTJ]] \| [[ATLAS/Typology MOC/ESFJ\|ESFJ]]  |
 | [[ATLAS/Typology MOC/Se Trickster 🃏\|Se Trickster 🃏]] | Se       | 7-Trickster  | [[ATLAS/Typology MOC/Se\|Se]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \|  [[ATLAS/Typology MOC/INTP\|INTP]] |
 | [[ATLAS/Typology MOC/Si Trickster 🃏\|Si Trickster 🃏]] | Si       | 7-Trickster  | [[ATLAS/Typology MOC/Si\|Si]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/ENTJ\|ENTJ]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]]  |
 | [[ATLAS/Typology MOC/Te Trickster 🃏\|Te Trickster 🃏]] | Te       | 7-Trickster  | [[ATLAS/Typology MOC/Te\|Te]] \| [[ATLAS/Typology MOC/Trickster 🃏\|Trickster]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]] \| [[ATLAS/Typology MOC/ISFJ\|ISFJ]]  |
@@ -68,5 +68,5 @@
 | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]         | Se       | 8-Demon      | [[ATLAS/Typology MOC/Se\|Se]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]]          |
 | [[ATLAS/Typology MOC/Ti Demon 😈\|Ti Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Typology MOC/Ti\|Ti]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]          |
 | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Typology MOC/Si\|Si]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]]          |
-| [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]         | Te       | 8-Demon      | [[ATLAS/Typology MOC/Te\|Te]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ESFJ\|ESFJ]]          |
+| [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]         | Te       | 8-Demon      | [[ATLAS/Typology MOC/Te\|Te]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ATLAS/Typology MOC/ESFJ\|ESFJ]]          |
 
