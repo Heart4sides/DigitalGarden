@@ -3,4 +3,4 @@
 ---
 
 
-[[Demon by CSJ\|Demon by CSJ]]
+[[SOURCES/Type Theory by CSJ/Attitudes/Demon by CSJ\|Demon by CSJ]]
