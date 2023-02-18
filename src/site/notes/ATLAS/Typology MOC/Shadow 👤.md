@@ -16,14 +16,14 @@
 - [[ATLAS/Typology MOC/Lust\|Lust]] - [[ATLAS/Typology MOC/Idolatry\|Idolatry]]
 - [[ATLAS/Typology MOC/Wrath\|Wrath]] - [[ATLAS/Typology MOC/Discrimination\|Discrimination]] 
 - [[ATLAS/Typology MOC/Vainglory\|Vainglory]] - [[ATLAS/Typology MOC/Desacration\|Desacration]]
-- [[SOURCES/Envy by Contrapoints\|Envy by Contrapoints]] - [[ATLAS/Typology MOC/Malevolence\|Malevolence]]
+- [[ATLAS/Typology MOC/Envy\|Envy]] - [[ATLAS/Typology MOC/Malevolence\|Malevolence]]
 - [[ATLAS/Typology MOC/Pride\|Pride]] - [[ATLAS/Typology MOC/Obstinance\|Obstinance]]
 - [[ATLAS/Typology MOC/Sloth\|Sloth]] - [[ATLAS/Typology MOC/Manifestation\|Manifestation]]
 - [[ATLAS/Typology MOC/Greed\|Greed]] - [[ATLAS/Typology MOC/Subjugation\|Subjugation]]
 
 ## 4 sides 
 - [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] : [[ATLAS/Typology MOC/Orbit\|Orbit]]
-- [[ATLAS/Typology MOC/Subconscious\|Subconscious]] : [[ATLAS/Typology MOC/Axis\|Axis]]
+- [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] : [[ATLAS/Typology MOC/Axis\|Axis]]
 - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[ATLAS/Typology MOC/Reflection\|Reflection]]
 
 ## Characteristics 
