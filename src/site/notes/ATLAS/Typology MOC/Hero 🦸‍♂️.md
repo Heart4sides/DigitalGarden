@@ -38,7 +38,7 @@ It is the main protector of the [[ATLAS/Typology MOC/Inferior 👶\|Inferior]].
 
 ## Wordnik
 hero
-*noun*: In mythology and legend, a man, often of divine ancestry, who is endowed with great [[ATLAS/Dictionary/Courage\|Courage]] and strength, celebrated for his bold exploits, and [[Favour\|favored]] by the gods.
+*noun*: In mythology and legend, a man, often of divine ancestry, who is endowed with great [[ATLAS/Dictionary/Courage\|Courage]] and strength, celebrated for his bold exploits, and [[ATLAS/Dictionary/Favour\|favored]] by the gods.
 *noun*: A person noted for feats of courage or nobility of purpose, especially one who has risked or sacrificed his or her life.
 *noun*: A person noted for special achievement in a particular field: <i>synonym</i>: <strong> celebrity</strong>.
 *noun*: The principal character in a novel, poem, or dramatic presentation.
