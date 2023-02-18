@@ -16,16 +16,16 @@
 [[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Typology MOC/Se Trickster 🃏\|Se Trickster 🃏]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]]
 
 ## 4 sides  
-[[ATLAS/Typology MOC/Subconscious\|Subconscious]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ESFJ\|ESFJ]]
+[[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ESFJ\|ESFJ]]
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ENTJ\|ENTJ]]
-[[ATLAS/Typology MOC/Superego 👹👼\|Superego 👹👼]] ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/ISFP\|ISFP]]
+[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/ISFP\|ISFP]]
 
 ## Virtu & Vice
-[[ATLAS/Typology MOC/Apathy\|Apathy]] [[Attention\|Attention]] 
+[[ATLAS/Typology MOC/Apathy\|Apathy]] [[ATLAS/Typology MOC/Attention\|Attention]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
-[[Cognitive origin\|Cognitive Origin]] : [[ATLAS/Typology MOC/Discovery\|Discovery]]
+[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] : [[ATLAS/Typology MOC/Discovery\|Discovery]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Generativity\|Generativity]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Gluttony\|Gluttony]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Hedonism\|Hedonism]]
