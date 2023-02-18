@@ -3,7 +3,7 @@
 ---
 
 
-- [[ATLAS/Typology MOC/Subconscious\|Subconscious]] - [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]].
+- [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] - [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]].
 - [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - [[ATLAS/Typology MOC/Soul Temple 👥\|soul]] - [[ATLAS/Typology MOC/Mind Temple ⚒️\|mind]]
 - [[Heart\|Heart]] - [[Body\|Body]]
