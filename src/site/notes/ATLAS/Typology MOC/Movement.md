@@ -18,7 +18,7 @@ VS [[ATLAS/Typology MOC/Outcome\|Outcome]]
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] : 
-- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
+- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
 - [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] 
 
 ## Functions 
@@ -28,7 +28,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] :
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
 ## Mentions
-[[Movement by CSJ\|Movement by CSJ]]
+[[SOURCES/Type Theory by CSJ/Movement by CSJ\|Movement by CSJ]]
 
 
 ## Music
