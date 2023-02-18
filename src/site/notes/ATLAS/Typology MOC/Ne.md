@@ -23,7 +23,7 @@
 
 | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]&nbsp; | |   | |
 |:---------------|:-----------|:---------------|:---------------|
-| [[ESFJ\|ESFJ]]       |  | [[ATLAS/Typology MOC/ENTP\|ENTP]]&nbsp; | [[ATLAS/Typology MOC/ENFP\|ENFP]]       |
+| [[ATLAS/Typology MOC/ESFJ\|ESFJ]]       |  | [[ATLAS/Typology MOC/ENTP\|ENTP]]&nbsp; | [[ATLAS/Typology MOC/ENFP\|ENFP]]       |
 | [[ATLAS/Typology MOC/ISTJ\|ISTJ]]       |  |   |    |
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |  |  [[ATLAS/Typology MOC/INTP\|INTP]]      | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
