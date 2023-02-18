@@ -3,7 +3,7 @@
 ---
 
 
-Background is one of 4 [[Interaction Style\|Interaction Style]]
+Background is one of 4 [[ATLAS/Typology MOC/Interaction Style\|Interaction Style]]
 
 [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]]
 
