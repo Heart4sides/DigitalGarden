@@ -8,6 +8,11 @@
 [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/ESTJ\|ESTJ]]
 [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]] : [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/ESFJ\|ESFJ]]
 
+[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] 
+[[ATLAS/Typology MOC/Pole\|Pole]]
+[[Living Virtu\|Living Virtu]]
+[[Deadly Sin\|Deadly Sin]] 
+
 ## Wheel of Perception 
 
 ```mermaid
