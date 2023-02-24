@@ -36,7 +36,7 @@
 ## Mentions 
 - [[CARDS/Type Practice/By type/ENTP list\|ENTP list]]
 - [[SOURCES/Type Theory by CSJ/Types Theory/Confessions of an ENTP\|Confessions of an ENTP]]
-- [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler - ENTP\|Hitler - ENTP]]
+- [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler\|Hitler]]
 - [[ATLAS/Dictionary/Certain\|Certain]]
 - [[ATLAS/Mechanics MOC\|Mechanics MOC]]
 
