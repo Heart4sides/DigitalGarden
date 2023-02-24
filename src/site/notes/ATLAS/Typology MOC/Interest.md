@@ -19,7 +19,7 @@
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Interest\|Interest]] : 
 - [[ATLAS/Typology MOC/Artisan\|Artisan]] : [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ESTP\|ESTP]]
-- [[Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
+- [[ATLAS/Typology MOC/Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
 [[ATLAS/Typology MOC/Fi\|Fi]] | [[ATLAS/Typology MOC/Se\|Se]]
