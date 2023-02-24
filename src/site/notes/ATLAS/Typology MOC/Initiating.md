@@ -11,7 +11,7 @@
 
 ## Types 
 Types sharing preference for [[ATLAS/Typology MOC/Initiating\|Initiating]] :
-- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
+- [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] 
 - [[ATLAS/Typology MOC/Structure\|Structure]] : [[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]]
 
 ## Functions 
