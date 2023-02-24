@@ -36,7 +36,6 @@
 | [[ATLAS/Dictionary/Sunk cost\|Sunk cost]]                 | \-                                                       |
 | [[ATLAS/Dictionary/The How\|The How]]                     | how, manner, mean                                        |
 | [[ATLAS/Dictionary/The Why\|The Why]]                     | ask why, know why, why                                   |
-| [[ATLAS/Theory MOC\|Theory MOC]]                          | \-                                                       |
 | [[EXTRAS/Templates/TPL 📖 Dictionary\|TPL 📖 Dictionary]] | \-                                                       |
 | [[ATLAS/Dictionary/Tyrant\|Tyrant]]                       | \-                                                       |
 | [[ATLAS/Dictionary/Understand\|Understand]]               | \-                                                       |
