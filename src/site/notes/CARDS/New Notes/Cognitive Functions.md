@@ -3,11 +3,15 @@
 ---
 
 
-Humans have personal preferences for perceiving and judging the world, just like they have a preference for their right or left hand. Those preferences are called cognitive functions. The need for a hierarchy stems from the impossibility to perform these actions simultaneously although they are interdependant : 
-- Estimate the veracity AND the value of something, although the value depends on the veracity and the pursuit of veracity depends on value.  
-- Store AND desire, although the storage is composed of carried out desires and desires stem from seeing what has been. 
-- See physical reactions AND long term consequences, although consequences result from combined physical reactions and physical reactions bring potential into reality. 
-- Manipulate people's knowledge AND happiness, although knowledge enables increase in quality of life and quality of life enables learning. 
+Cognitive Functions are mental tools to be used and improved to deal with life and other humans. 
+Like with our hands, some functions are prefered over others, such that we are more at ease with some functions than others. 
+
+Example : some prefer to judge wether something is true or false, while others prefer to judge whether something is right or wrong. 
+These preferences exclude each other : 
+- [[ATLAS/Typology MOC/Ti\|Ti]] (*Deduce*) excludes [[ATLAS/Typology MOC/Fi\|Fi]] (*Weigh*) : to judge wether sth is true / false ([[ATLAS/Typology MOC/Ti\|Ti]]) one must retrain itself to judge whether it is good / bad ([[ATLAS/Typology MOC/Fi\|Fi]])
+- [[ATLAS/Typology MOC/Si\|Si]] (*Sense*) excludes [[ATLAS/Typology MOC/Ni\|Ni]] (*Imagine*) 
+- [[ATLAS/Typology MOC/Se\|Se]] (*React*) excludes [[ATLAS/Typology MOC/Ne\|Ne]] (*Predict*)
+- [[ATLAS/Typology MOC/Te\|Te]] (*Believe*) excludes [[ATLAS/Typology MOC/Fe\|Fe]] (*Empathize*) 
 
 ## IPOF
 ```mermaid
