@@ -20,4 +20,4 @@
 
 
 [[ATLAS/Mechanics MOC\|Mechanics MOC]]
-Source of the concept : [[SOURCES/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
+Source of the concept : [[SOURCES/People/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
