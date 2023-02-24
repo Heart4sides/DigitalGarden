@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/4-sides-of-the-mind/"}
 ---
 
-up :: [[ATLAS/Theory MOC\|Theory MOC]] 
-ref :: [[SOURCES/C.S. Joseph\|C.S. Joseph]]
+up :: [[ATLAS/Psychology MOC\|Psychology MOC]] 
+ref :: [[SOURCES/People/C.S. Joseph\|C.S. Joseph]]
 
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] 
 [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]]
