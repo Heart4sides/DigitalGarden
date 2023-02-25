@@ -10,7 +10,7 @@ tags :: #on/philosophy #on/education
 
 ==Traditionalists== 
 - Teachers : Extroverted Templars (direct, affiliative, Ti)
-- Students : Introverted Philosophers (disciplined, Te, affiliative)
+- Students : Introverted Philosophers (disciplined, Te, affiliative)****
 
 ==Contemporary== 
 - Teachers : NPs (Ne, informative, abstract)
