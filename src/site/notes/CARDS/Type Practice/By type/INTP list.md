@@ -39,4 +39,5 @@
 - Jin (Samourai Champloo)
 - King Pin (Daredevil series) -
 - Elijah ? (Incassable)
-- Amos (The Expanse)
+- Amos (The Expanse - cf S3E7)
+- 
