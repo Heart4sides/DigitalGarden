@@ -24,6 +24,7 @@ productlaunchformula.com
 - John Gallagher - herbal medicine 
 - Hamilton - Tennis
 - LaFollette - surface pattern design 
+- Berry the Juggler
 
 ```timestamp 
  11:55
@@ -85,3 +86,13 @@ How to get People on your list ?
 ==The Squeeze Page==
 Dean Jackson 
 2 options : give their email to get sth for free or leave the page. 
+```timestamp 
+ 01:47:33
+ ```
+==The traditional sales letter==
+```timestamp 
+ 01:52:51
+ ```
+==The sideways sales letter==
+10 day sequence instead of 10 pages 
+3 pieces of content 
