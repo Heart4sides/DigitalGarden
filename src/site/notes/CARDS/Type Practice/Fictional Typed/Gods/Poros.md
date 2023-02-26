@@ -11,6 +11,6 @@ Poros is the father of [[CARDS/Type Practice/Fictional Typed/Gods/Eros\|Eros]].
 Based on this, we can conclude that Poros is a [[ATLAS/Typology MOC/1. Crusader\|Crusader]]. 
 
 [^1]: [[SOURCES/FUL Eros & Thanatos - IFP\|FUL Eros & Thanatos - IFP]]
-[^2]: [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[^2]: [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
 [^3]: [[ATLAS/Typology MOC/Si\|Si]] ? 
 [^4]: [[ATLAS/Typology MOC/Ti\|Ti]]
