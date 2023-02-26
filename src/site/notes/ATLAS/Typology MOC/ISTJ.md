@@ -20,7 +20,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]]
-[[ATLAS/Typology MOC/Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] 
+[[ATLAS/Typology MOC/Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] 
 
 ## Virtu & Vice
 [[Triviality\|Triviality]] |  [[Objectivity\|Objectivity]]
