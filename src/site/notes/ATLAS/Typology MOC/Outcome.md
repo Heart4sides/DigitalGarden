@@ -20,7 +20,7 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Typology MOC/Background\|Background]]
 - [[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero]] 
 - [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero]]
-- [[ATLAS/Typology MOC/Se\|Se]] : IPOF
+- [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] : IPOF
 - [[ATLAS/Typology MOC/Fe\|Fe]] : IPOF
 - [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]] : final order, legacy 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
