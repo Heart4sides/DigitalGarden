@@ -17,7 +17,7 @@
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]]
-[[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
 [[ATLAS/Typology MOC/Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
