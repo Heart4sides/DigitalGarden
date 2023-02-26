@@ -39,7 +39,7 @@
 ## Type Grid 
 [[ATLAS/Typology MOC/Responding\|Responding]]
 [[ATLAS/Typology MOC/Informative\|Informative]]
-[[ATLAS/Typology MOC/Interest\|Interest]] 
+[[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
