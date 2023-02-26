@@ -4,7 +4,7 @@
 
 ## Functions
 [[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Ti\|Ti]] | [[ATLAS/Typology MOC/Fe\|Fe]] | [[ATLAS/Typology MOC/Fi\|Fi]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] | [[ATLAS/Typology MOC/Se\|Se]] | [[ATLAS/Typology MOC/Si\|Si]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] | [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] | [[ATLAS/Typology MOC/Si\|Si]]
 
 ## Attitudes
 [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] | [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] | [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]] | [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
@@ -22,7 +22,7 @@
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[Progression\|Progression]]
 
 ## Temperaments 
-[[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic\|Systematic]] | [[ATLAS/Typology MOC/Interest\|Interest]]
+[[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] | [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
 
 ## Quadra 
 [[Crusader\|Crusader]] | [[Templar\|Templar]] | [[Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
