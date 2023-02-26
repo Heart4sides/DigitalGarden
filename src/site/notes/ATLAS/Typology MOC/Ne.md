@@ -36,7 +36,7 @@
 ## Relationships 
 [[ATLAS/Typology MOC/Axis\|Axis]] : [[ATLAS/Typology MOC/Si\|Si]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]] : [[ATLAS/Typology MOC/Ni\|Ni]]
-[[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Se\|Se]]
+[[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
