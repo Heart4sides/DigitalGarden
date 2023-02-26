@@ -10,7 +10,7 @@ Example : some prefer to judge wether something is true or false, while others p
 These preferences exclude each other : 
 - [[ATLAS/Typology MOC/Ti\|Ti]] (*Deduce*) excludes [[ATLAS/Typology MOC/Fi\|Fi]] (*Weigh*) : to judge wether sth is true / false ([[ATLAS/Typology MOC/Ti\|Ti]]) one must retrain itself to judge whether it is good / bad ([[ATLAS/Typology MOC/Fi\|Fi]])
 - [[ATLAS/Typology MOC/Si\|Si]] (*Sense*) excludes [[ATLAS/Typology MOC/Ni\|Ni]] (*Imagine*) 
-- [[ATLAS/Typology MOC/Se\|Se]] (*React*) excludes [[ATLAS/Typology MOC/Ne\|Ne]] (*Predict*)
+- [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] (*React*) excludes [[ATLAS/Typology MOC/Ne\|Ne]] (*Predict*)
 - [[ATLAS/Typology MOC/Te\|Te]] (*Believe*) excludes [[ATLAS/Typology MOC/Fe\|Fe]] (*Empathize*) 
 
 ## IPOF
@@ -29,7 +29,7 @@ Input --> Process --> Output --> Feedback --> Input
 	[[ATLAS/Typology MOC/Ni\|Ni]] : desire
 	[[ATLAS/Typology MOC/Ti\|Ti]] : deduction
 [[Output\|Output]] : 
-	[[ATLAS/Typology MOC/Se\|Se]] : performance
+	[[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] : performance
 	[[ATLAS/Typology MOC/Fe\|Fe]] : ethics
 [[Feedback\|Feedback]] : 
 	[[ATLAS/Typology MOC/Si\|Si]] : needs
@@ -46,7 +46,7 @@ Ne --> Ni --> Se --> Si --> Ne
 
 [[ATLAS/Typology MOC/Ne\|Ne]] : [[ATLAS/Typology MOC/Ne\|Extroverted Intuition]]
 [[ATLAS/Typology MOC/Ni\|Ni]] : [[ATLAS/Typology MOC/Ni\|Introverted Intuition]]
-[[ATLAS/Typology MOC/Se\|Se]] : [[ATLAS/Typology MOC/Se\|Extroverted Sensation]]
+[[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] : [[ATLAS/Typology MOC/Se 💨🌬️\|Extroverted Sensation]]
 [[ATLAS/Typology MOC/Si\|Si]] : [[ATLAS/Typology MOC/Si\|Introverted Sensation]]
 
 ## Judgement
