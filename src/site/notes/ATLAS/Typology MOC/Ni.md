@@ -36,7 +36,7 @@
 [[ATLAS/Typology MOC/Ni Nemesis 😟\|Ni Nemesis 😟]] | [[ATLAS/Typology MOC/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Typology MOC/Ni Trickster 🃏\|Ni Trickster 🃏]] | [[ATLAS/Typology MOC/Ni Demon 😈\|Ni Demon 😈]]
 
 ## Relationships 
-[[ATLAS/Typology MOC/Axis\|Axis]] : [[ATLAS/Typology MOC/Se\|Se]]
+[[ATLAS/Typology MOC/Axis\|Axis]] : [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]] : [[ATLAS/Typology MOC/Ne\|Ne]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Si\|Si]]
 
