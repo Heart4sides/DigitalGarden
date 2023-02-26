@@ -16,7 +16,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Initiating\|Initiating]] :
 
 ## Functions 
 [[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Fe\|Fe]] 
-[[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Se\|Se]] 
+[[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] 
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]]
