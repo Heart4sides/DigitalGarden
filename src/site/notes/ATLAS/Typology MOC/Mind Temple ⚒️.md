@@ -18,7 +18,7 @@
 [[ATLAS/Typology MOC/Education\|Education]]
 [[ATLAS/Typology MOC/Orbit\|Orbit]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]
-[[ATLAS/Typology MOC/Se\|Se]]
+[[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
 [[ATLAS/Typology MOC/Ti\|Ti]]
