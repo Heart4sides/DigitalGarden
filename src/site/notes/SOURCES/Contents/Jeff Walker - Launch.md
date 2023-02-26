@@ -96,3 +96,20 @@ Dean Jackson
 ==The sideways sales letter==
 10 day sequence instead of 10 pages 
 3 pieces of content 
+==Reciprocity==
+Give great free content during the pre-launch
+```timestamp 
+ 02:19:19
+ ```
+==Trust==
+Much easier to influence sb if they trust you. 
+==Anticipation==
+Let's you grab your market's attention and not let go. 
+```timestamp 
+ 02:22:52
+ ```
+==Likability==
+gracious, kind, generous and honest
+```timestamp 
+ 02:24:40
+ ```
