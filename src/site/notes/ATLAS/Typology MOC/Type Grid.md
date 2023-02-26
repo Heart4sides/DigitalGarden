@@ -9,7 +9,7 @@
 ## Temperaments 
 - [[ATLAS/Typology MOC/Abstract\|Abstract]] vs [[ATLAS/Typology MOC/Concrete\|Concrete]]
 - [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] vs [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
-- [[ATLAS/Typology MOC/Systematic\|Systematic]] vs [[ATLAS/Typology MOC/Interest\|Interest]]
+- [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] vs [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
 
 Sources : Plato, David Kersey, C.S. Joseph
 
