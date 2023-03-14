@@ -3,7 +3,7 @@
 ---
 
 **Title:** No More Mr. Nice Guy!  
-**Author:** Robert A. Glover  
+**Author:** [[SOURCES/Authors/Robert A. Glover\|Robert A. Glover]]  
 **Tag::** #book 
 **Category**: #on/Family & #on/relationships
 **Description**: Debunks the "nice guy syndrome," the need to please others at one's own expense with the hope of receiving happiness, love, and fulfillment, and offers advice for how to rediscover oneself, revive one's sex life, and build better relationships with others.}[^1]
