@@ -6,7 +6,7 @@
 It is the primary vice of the [[ATLAS/Typology MOC/INTJ\|INTJ]]
 
 ## Sources 
-[[SOURCES/Paranoïa, la folie qui fait l'histoire - Luigi Zola\|Paranoïa, la folie qui fait l'histoire - Luigi Zola]]
+[[SOURCES/Contents/Paranoïa, la folie qui fait l'histoire - Luigi Zola\|Paranoïa, la folie qui fait l'histoire - Luigi Zola]]
 
 ## Wordnik
 paranoia
