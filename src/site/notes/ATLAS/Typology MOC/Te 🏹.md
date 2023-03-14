@@ -34,14 +34,14 @@
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-Te Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Te Parent 🤰\|Te Parent 🤰]] | [[ATLAS/Typology MOC/Te Child 🧒\|Te Child 🧒]] | [[ATLAS/Typology MOC/Te Inferior 👶\|Te Inferior 👶]]
+Te Hero 🦸‍♂️ | [[ATLAS/Typology MOC/Te Parent 🤨\|Te Parent 🤨]] | [[ATLAS/Typology MOC/Te Child 🧒\|Te Child 🧒]] | [[ATLAS/Typology MOC/Te Inferior 😨\|Te Inferior 😨]]
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
-[[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 👵\|Te Critic 👵]] | [[ATLAS/Typology MOC/Te Trickster 🃏\|Te Trickster 🃏]] | [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]
+[[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]] | [[ATLAS/Typology MOC/Te Trickster 🤡\|Te Trickster 🤡]] | [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]
 
 ## Relationships 
-[[ATLAS/Typology MOC/Axis\|Axis]] : [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
-[[ATLAS/Typology MOC/Orbit\|Orbit]] : [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]
-[[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Fe 🔨\|Fe 🔨]]
+[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
+[[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] : [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]
+[[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
