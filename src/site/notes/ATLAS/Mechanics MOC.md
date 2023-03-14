@@ -3,11 +3,11 @@
 ---
 
 ## Functions
-[[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Ti\|Ti]] | [[ATLAS/Typology MOC/Fe\|Fe]] | [[ATLAS/Typology MOC/Fi\|Fi]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Ni\|Ni]] | [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] | [[ATLAS/Typology MOC/Si\|Si]]
+[[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Attitudes
-[[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤰\|Parent 🤰]] | [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] | [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]] | [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
+[[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] | [[ATLAS/Typology MOC/Child 👼\|Child 👼]] | [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
 
 ## 4 sides of the Mind
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] | [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] | [[ATLAS/Typology MOC/Superego 👹\|Superego 👹]]
@@ -37,4 +37,4 @@
 [[SOURCES/Type Theory by CSJ/Relationships/Golden\|Golden]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Bronze\|Bronze]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred\|Kindred]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
 
 ### Internal 
-[[ATLAS/Typology MOC/Axis\|Axis]] | [[ATLAS/Typology MOC/Reflection\|Reflection]] | [[ATLAS/Typology MOC/Orbit\|Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] | [[ATLAS/Typology MOC/Reflection\|Reflection]] | [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
