@@ -3,12 +3,12 @@
 ---
 
 
-- Purpose : Conquering [[Happiness\|Happiness]]
+- Purpose : Conquering [[ATLAS/Dictionary/Happiness\|Happiness]]
 - Final product : [[humble\|humble]]
-- [[ATLAS/Typology MOC/Gateway\|Gateway]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]]
-- [[ATLAS/Dictionary/Lead\|Lead]] : [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]]
-- [[ATLAS/Typology MOC/Guidance Function\|Guidance Function]] : [[ATLAS/Typology MOC/Child 🧒\|Child 🧒]] 
-- [[Courageous\|Courageous]], [[faithful\|faithful]] vs [[ATLAS/Typology MOC/Inferior 👶\|fearful]]
+- [[ATLAS/Typology MOC/Gateway\|Gateway]] : [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]]
+- [[ATLAS/Dictionary/Lead\|Lead]] : [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]]
+- [[ATLAS/Typology MOC/Guidance Function\|Guidance Function]] : [[ATLAS/Typology MOC/Child 👼\|Child 👼]] 
+- [[Courageous\|Courageous]], [[faithful\|faithful]] vs [[ATLAS/Typology MOC/Inferior 😨\|fearful]]
 - [[Ignorant\|Ignorant]], [[ATLAS/Typology MOC/Immature 🐎\|Immature 🐎]]
 - [[Happy\|Happy]]
 - Transformed
