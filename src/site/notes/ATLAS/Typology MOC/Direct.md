@@ -18,7 +18,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Direct\|Direct]] :
 - [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Ni\|Ni]] 
+[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
 
 ## Temple 
 
