@@ -20,8 +20,8 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Typology MOC/Background\|Background]]
 - [[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero]] 
 - [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero]]
-- [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] : IPOF
-- [[ATLAS/Typology MOC/Fe\|Fe]] : IPOF
+- [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] : IPOF
+- [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] : IPOF
 - [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]] : final order, legacy 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
 - [[SOURCES/Type Theory by CSJ/Temples/Body Temple/Purpose Dyad/Greed by CSJ\|Greed by CSJ]] : outcome of a scarcity mindset / garanty the outcome by taking everything along the way 
@@ -31,10 +31,10 @@ VS [[ATLAS/Typology MOC/Movement\|Movement]]
 - [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] 
 
 ## Functions
-[[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Te Inferior 👶\|Te Inferior 👶]]
+[[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Te Inferior 😨\|Te Inferior 😨]]
 [[ATLAS/Typology MOC/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] - [[ATLAS/Typology MOC/Fi Inferior 👶\|Fi Inferior 👶]]
-[[ATLAS/Typology MOC/Ne Parent 🤰\|Ne Parent 🤰]] - [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]]
-[[ATLAS/Typology MOC/Ni Parent 🤰\|Ni Parent 🤰]] - [[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]] 
+[[ATLAS/Typology MOC/Ne Parent 🤨\|Ne Parent 🤨]] - [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]]
+[[ATLAS/Typology MOC/Ni Parent 🤨\|Ni Parent 🤨]] - [[ATLAS/Typology MOC/Se Child 🧒\|Se Child 🧒]] 
 
 Outcome = [[ATLAS/Typology MOC/Abstract\|Abstract]] + [[ATLAS/Typology MOC/Judgement\|Judger]]
 
