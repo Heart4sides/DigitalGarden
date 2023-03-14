@@ -8,8 +8,8 @@ tags ::
 
 Functions exchange energy through : 
 - Internally
-	- cognitive [[ATLAS/Typology MOC/Axis\|axis]]
-	- cognitive [[ATLAS/Typology MOC/Orbit\|orbit]]
+	- cognitive [[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]
+	- cognitive [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]]
 	- cognitive [[ATLAS/Typology MOC/Reflection\|reflection]]
 - Externally 
 	- [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] / [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]]
