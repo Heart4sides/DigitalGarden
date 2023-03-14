@@ -8,7 +8,7 @@
 ## Gateway to the 4 sides
 - [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] : Gateway to the Ego 
 - [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] : Shadow 
-- [[ATLAS/Typology MOC/Inferior 👶\|Inferior 👶]] : Subconscious
+- [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] : Subconscious
 - [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]] : Superego
 
 ## External Gateways
