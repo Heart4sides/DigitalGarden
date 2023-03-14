@@ -113,3 +113,74 @@ gracious, kind, generous and honest
 ```timestamp 
  02:24:40
  ```
+==Events and ritual==  
+Powerful experiences  
+==Community==  
+Social norms  
+==Scarcity==  
+Force people to make a decision  
+Negative consequences if people don't take action  
+Most important advice  
+```timestamp  
+2:29:19  
+```  
+==Social Proof==  
+Base your action on what other people say or do  
+```timestamp  
+2:36:00  
+```  
+==Pre-pre-launch==  
+Sth cool is coming  
+Most clandestine  
+Simplest and easiest part  
+Start building a tribe  
+Testing the market's lvl of interest to your idea  
+Gather info to finalize product offer  
+Don't sell anything  
+1-2 emails / video / survey / social media  
+Tease curiosity (closely related to anticipation)  
+Get their help, make it collaborative  
+Get objections  
+Make it fun, humorous, exciting - reset the ticking attention bomb  
+Just ask feedback on a project  
+"We're close from launch date"  
+"We need to make sure that we have everything covered"  
+Give your own attention  
+Ask for top 2 questions, instead of objections, they'll give you their objections  
+  
+Enter the conversation that's already going on in the prospect's mind --> use their feedback, respond to it  
+  
+```timestamp  
+3:11:46  
+```  
+==Pre-launch==  
+1. The opportunity/the journey  
+Answer the question why should they care ? Why should they listen ?  
+Opportunity for transformation or change  
+People buy an end result not a tool  
+Show the opportunity  
+Teach in 5-10min - that they can put to use quickly  
+Don't ever assume they remember your last email  
+Warn them in the last email that you're gonna present a limited offer in your next email  
+```timestamp  
+3:33:40  
+```  
+Sale 7-10 days  
+PLC 1 : opportunity  
+PLC 2 : transformatin  
+PLC 3 : ownership  
+PLC 4 : open card enrollment  
+Enroll themselves in their future self  
+  
+Open card : 5 days for 1st launch  
+```timestamp
+3:43:00  
+```
+3 scarcity tactics  
+- price will go up  
+- bonus (strongest)  
+Scarcity is to be used towards the end.  
+At the beginning, focus on social Proof.  
+  
+Mail 3 times on the last day.  
+Show case studies
