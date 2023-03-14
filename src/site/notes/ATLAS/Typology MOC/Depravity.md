@@ -4,7 +4,7 @@
 
 
 ## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
+- [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
 
 
 ## Wordnik
