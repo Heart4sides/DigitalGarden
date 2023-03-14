@@ -4,3 +4,6 @@ netlify/functions/search/data.json
 netlify/functions/search/index.json
 # Local Netlify folder
 .netlify
+dist/atlas/typology-moc/fe/index.html
+./src/site/notes/ATLAS/Typology MOC/Fe 🔨.md
+./src/site/notes/ATLAS/Typology MOC/Fe 💉.md
