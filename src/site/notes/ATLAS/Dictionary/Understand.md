@@ -4,7 +4,7 @@
 
 
 ## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
+- [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
 - [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
 - [[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]]
 - [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦#Keywords\|Affiliative 👨‍👩‍👧‍👦#Keywords]]  
