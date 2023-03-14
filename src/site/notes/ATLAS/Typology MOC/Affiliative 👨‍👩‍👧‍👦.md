@@ -29,7 +29,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧
 - [[ATLAS/Typology MOC/Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Fe\|Fe]] | [[ATLAS/Typology MOC/Si\|Si]]
+[[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Temple 
 
