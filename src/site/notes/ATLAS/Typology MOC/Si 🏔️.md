@@ -35,13 +35,13 @@
 
 ## Attitudes
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Si Parent 🤰\|Si Parent 🤰]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Si Inferior 👶\|Si Inferior 👶]]
+[[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Si Parent 🤨\|Si Parent 🤨]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Si Inferior 😨\|Si Inferior 😨]]
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
-[[ATLAS/Typology MOC/Si Nemesis 😟\|Si Nemesis 😟]] | [[ATLAS/Typology MOC/Si Critic 👵\|Si Critic 👵]] | [[ATLAS/Typology MOC/Si Trickster 🃏\|Si Trickster 🃏]] | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]
+[[ATLAS/Typology MOC/Si Nemesis 😟\|Si Nemesis 😟]] | [[ATLAS/Typology MOC/Si Critic 🤔\|Si Critic 🤔]] | [[ATLAS/Typology MOC/Si Trickster 🤡\|Si Trickster 🤡]] | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]
 
 ## Relationships 
-[[ATLAS/Typology MOC/Axis\|Axis]] : [[ATLAS/Typology MOC/Ne 🌊💦💧\|Ne 🌊💦💧]]
-[[ATLAS/Typology MOC/Orbit\|Orbit]] : [[ATLAS/Typology MOC/Se 💨\|Se 💨]]
+[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+[[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] : [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  :[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
 
 ## Type Grid 
