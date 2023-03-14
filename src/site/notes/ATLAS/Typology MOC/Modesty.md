@@ -4,7 +4,7 @@
 
 
 ## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
+- [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
 - [[Judgemental\|Judgemental]]
 - 
 
@@ -42,5 +42,5 @@
 ## Translations 
 
 ## Stanford
-[[SOURCES/FUL Modesty by Stanford\|FUL Modesty by Stanford]]
-[[SOURCES/EXT Modesty by Stanford\|EXT Modesty by Stanford]]
+[[SOURCES/Contents/FUL Modesty by Stanford\|FUL Modesty by Stanford]]
+[[SOURCES/Contents/EXT Modesty by Stanford\|EXT Modesty by Stanford]]
