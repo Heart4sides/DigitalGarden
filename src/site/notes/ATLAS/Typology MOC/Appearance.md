@@ -3,5 +3,5 @@
 ---
 
 
-[[ATLAS/Typology MOC/Te\|Te]]
+[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]
 
