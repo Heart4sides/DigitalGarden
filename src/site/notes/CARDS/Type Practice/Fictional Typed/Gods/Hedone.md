@@ -21,4 +21,4 @@ Godess of [[ATLAS/Dictionary/Voluptuousness\|Voluptuousness]][^1]
 > The Stoics held a negative view of _hēdonē,_ arguing that it is not in accordance with nature and reason. This can be understood within the philosophy's position that emotions are by definition excessive or are excessive impulses that exceed the measure of natural reason and – as in other forms of excess – leads to other evils of irrationality.[12
 > [Wikipedia](https://en.wikipedia.org/wiki/Hedone)
 
-[^1]: [[SOURCES/FUL Eros & Thanatos - IFP\|FUL Eros & Thanatos - IFP]]
+[^1]: [[SOURCES/Contents/Eros & Thanatos - IFP\|Eros & Thanatos - IFP]]
