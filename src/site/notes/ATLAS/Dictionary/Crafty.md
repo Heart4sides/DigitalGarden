@@ -4,8 +4,8 @@
 
 
 ## Related Notes 
-- [[ATLAS/Dictionary/Dictionary\|Dictionary]]
-- [[ATLAS/Typology MOC/Ne\|Ne]]
+- [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
+- [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
 
 ## Wordnik
 
