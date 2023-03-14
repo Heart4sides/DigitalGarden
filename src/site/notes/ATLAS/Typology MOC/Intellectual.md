@@ -12,7 +12,7 @@
 ## Type Grid Axis 
 [[ATLAS/Typology MOC/Abstract\|Abstract]]
 [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
-[[ATLAS/Typology MOC/Systematic\|Systematic]]
+[[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
 
 ## Political Worldview
 [[Autocracy\|Autocracy]]
