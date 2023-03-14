@@ -7,9 +7,9 @@
 
 ## Attitudes 
 - [[ATLAS/Typology MOC/Gateway\|Gateway]] : [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]]
-- [[ATLAS/Dictionary/Lead\|Lead]] : [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]]
-- [[ATLAS/Typology MOC/Guidance Function\|Guidance]] : [[ATLAS/Typology MOC/Critic 👵\|Critic 👵]] 
-- [[ATLAS/Typology MOC/Trickster 🃏\|Trickster 🃏]]
+- [[ATLAS/Dictionary/Lead\|Lead]] : [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]]
+- [[ATLAS/Typology MOC/Guidance Function\|Guidance]] : [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] 
+- [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]]
 - [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
 
 ## Vice & Pole
@@ -22,15 +22,15 @@
 - [[ATLAS/Typology MOC/Greed\|Greed]] - [[ATLAS/Typology MOC/Subjugation\|Subjugation]]
 
 ## 4 sides 
-- [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] : [[ATLAS/Typology MOC/Orbit\|Orbit]]
-- [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] : [[ATLAS/Typology MOC/Axis\|Axis]]
+- [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] : [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]]
+- [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] : [[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]
 - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[ATLAS/Typology MOC/Reflection\|Reflection]]
 
 ## Characteristics 
 - [[ATLAS/Dictionary/Certain\|certain]] / uncertain
 - [[ATLAS/Dictionary/Wisdom\|Wisdom]]
 	- battle against [[ignorance\|ignorance]]
-	- [[ATLAS/Typology MOC/Critic 👵\|Critic]] development
+	- [[ATLAS/Typology MOC/Critic 🤔\|Critic]] development
 	- final product
 - [[worried\|worried]]
 - [[ATLAS/Typology MOC/double-binding\|double-binding]]
