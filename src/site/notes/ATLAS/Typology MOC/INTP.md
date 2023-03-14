@@ -10,15 +10,15 @@
 [[ATLAS/Typology MOC/1. Crusader\|1. Crusader]] 
 
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ne Parent 🤰\|Ne Parent 🤰]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 👶\|Fe Inferior 👶]]
+[[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ne Parent 🤨\|Ne Parent 🤨]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 😨\|Fe Inferior 😨]]
 
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
-[[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Ni Critic 👵\|Ni Critic 👵]] | [[ATLAS/Typology MOC/Se Trickster 🃏\|Se Trickster 🃏]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]]
+[[ATLAS/Typology MOC/Te Nemesis 😟\|Te Nemesis 😟]] | [[ATLAS/Typology MOC/Ni Critic 🤔\|Ni Critic 🤔]] | [[ATLAS/Typology MOC/Se Trickster 🤡\|Se Trickster 🤡]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]]
 
 ## 4 sides  
 [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ESFJ\|ESFJ]]
-[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] ([[ATLAS/Typology MOC/Orbit\|Orbit]]) : [[ATLAS/Typology MOC/ENTJ\|ENTJ]]
-[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/Axis\|Axis]]):   [[ATLAS/Typology MOC/ISFP\|ISFP]]
+[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] ([[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]]) : [[ATLAS/Typology MOC/ENTJ\|ENTJ]]
+[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]):   [[ATLAS/Typology MOC/ISFP\|ISFP]]
 
 ## Virtu & Vice
 [[ATLAS/Typology MOC/Apathy\|Apathy]] [[ATLAS/Typology MOC/Attention\|Attention]] 
