@@ -15,8 +15,8 @@ Types sharing preference for [[ATLAS/Typology MOC/Initiating\|Initiating]] :
 - [[ATLAS/Typology MOC/Structure\|Structure]] : [[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]]
 
 ## Functions 
-[[ATLAS/Typology MOC/Te\|Te]] | [[ATLAS/Typology MOC/Fe\|Fe]] 
-[[ATLAS/Typology MOC/Ne\|Ne]] | [[ATLAS/Typology MOC/Se 💨🌬️\|Se 💨🌬️]] 
+[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] 
+[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] 
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]]
