@@ -7,20 +7,20 @@ Source des textes : Télérama, hors-série sur Gustave Flaubert
 Source de l'analyse : C.S. Joseph, Linda Berens, David Kersey 
 
 Analyse de Yves Leclerc : 
-"Libre au sein de sa famille, ils se sentait enfermé ([[ATLAS/Typology MOC/Ni\|Ni]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[ATLAS/Typology MOC/Si\|disciplin]]e militaire."
+"Libre au sein de sa famille, ils se sentait enfermé ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[ATLAS/Typology MOC/Si 🏔️\|disciplin]]e militaire."
 
-> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[ATLAS/Typology MOC/Ni\|Ni]]) et qu'il a fait régner l'ordre ([[ATLAS/Typology MOC/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
-- [[ATLAS/Typology MOC/Ne\|Ne]]
+> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]]) et qu'il a fait régner l'ordre ([[ATLAS/Typology MOC/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
+- [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
 - [[ATLAS/Typology MOC/Outcome\|Outcome]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
-- [[ATLAS/Typology MOC/Fi\|Fi]] evaluation   
+- [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] evaluation   
 
 > "La découverte d'une turpitude derrière une façade honorable lui procure ainsi une grande jouissance. Car pour lui la respectabilité sociale est forcément une façade."
-- Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[ATLAS/Typology MOC/Te\|Te]]) plus que l'authenticité ([[ATLAS/Typology MOC/Ti\|Ti]]). 
+- Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]) plus que l'authenticité ([[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]). 
 
 > Bovarysme selon Jules de Gaultier : "le pouvoir départi à l'homme de se concevoir autre qu'il n'est"
-- [[ATLAS/Typology MOC/Fi\|Fi]] : sens de sa propre identité
+- [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] : sens de sa propre identité
 - [[ATLAS/Typology MOC/Abstract\|abstraction]] + [[ATLAS/Typology MOC/Manifestation\|Manifestation]]
 
 "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
