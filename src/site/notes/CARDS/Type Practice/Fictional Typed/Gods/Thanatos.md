@@ -18,4 +18,4 @@ Héraclès entre en lutte contre la mort, attache Thanatos pour délivrer Alcest
 "Thanatos sera au contraire l’aspiration à l’équilibre, la stabilité, la satiété hors de la faim, de la soif, image de la mort à l’instar d’un organisme parfait sans besoin de son environnement. Sur l’Olympe, Zeus et les treize autres olympiens viennent de gagner la guerre contre les Titans, ils se retrouvent dans un monde paisible, harmonieux et commencent à s’ennuyer. Le besoin de vie, Eros, se fait sentir pour ne pas chuter dans cet équilibre paradoxalement mortifère qu’est Thanatos. Alors ils inventent les humains pour se distraire !"[^1] 
 
 
-[^1]: [[SOURCES/FUL Eros & Thanatos - IFP\|FUL Eros & Thanatos - IFP]]
+[^1]: [[SOURCES/Contents/Eros & Thanatos - IFP\|Eros & Thanatos - IFP]]
