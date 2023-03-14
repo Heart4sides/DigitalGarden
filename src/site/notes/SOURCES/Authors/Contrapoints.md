@@ -182,7 +182,7 @@ him, which is exactly what happened with the Cathy Newman interview.
 ## Men 
 
 ![Pasted image 20230117235055.png](/img/user/EXTRAS/Images/Pasted%20image%2020230117235055.png)
-[[ATLAS/Typology MOC/Se 💨\|Se 💨]]
+[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118000425.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118000425.png)
 ![Pasted image 20230118001116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001116.png)
 lack of [[ATLAS/Typology MOC/Purpose\|purpose]], lack of [[ATLAS/Dictionary/Struggle\|Struggle]]
@@ -278,8 +278,8 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
 [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] & [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
-[[ATLAS/Typology MOC/Se 💨\|Se 💨]]
+[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
-[[ATLAS/Typology MOC/Se 💨\|Se 💨]] & [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
+[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] & [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
 
 
