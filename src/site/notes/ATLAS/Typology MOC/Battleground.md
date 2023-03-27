@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground/","created":"","updated":""}
 ---
 
 
