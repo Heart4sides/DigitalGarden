@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/understand/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/understand/","created":"","updated":""}
 ---
 
 
