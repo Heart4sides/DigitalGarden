@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/motive/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/motive/","created":"","updated":""}
 ---
 
 
