@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/se-trickster/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/se-trickster/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] | [[ATLAS/Typology MOC/INFP\|INFP]] |  [[ATLAS/Typology MOC/INTP\|INTP]]
