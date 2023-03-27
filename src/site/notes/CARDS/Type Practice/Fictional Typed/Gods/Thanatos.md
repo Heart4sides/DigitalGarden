@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/thanatos/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/thanatos/","created":"","updated":""}
 ---
 
 
