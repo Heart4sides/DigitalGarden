@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"","updated":""}
 ---
 
 
