@@ -70,13 +70,8 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 # Examples
 
 > [!example]
+> https://simplicable.com/society/attitudes
 > 
-> ```embed
-title: '160 Examples of Attitudes'
-image: 'https://simplicable.com/images/1920p/dance_beijing_11439_1IZjS7o.jpg'
-description: 'The definition of attitude with examples.'
-url: 'https://simplicable.com/society/attitudes'
-> ```
 
 
 # Mentions
