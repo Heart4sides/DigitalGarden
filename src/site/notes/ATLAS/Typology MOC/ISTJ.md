@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"","updated":""}
 ---
 
 
