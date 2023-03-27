@@ -62,6 +62,11 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 > a disposition to respond favorably or unfavorably to an object, person, institution, or event 
 > (1988 : 4)
 
+# Research
+
+[https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744)
+[The Dynamics of Persuasion: Communication and Attitudes in the Twenty-First ... - Richard M. Perloff - Google Books](https://books.google.fr/books?hl=en&lr=&id=CDHwDwAAQBAJ&oi=fnd&pg=PT6&dq=attitude+studies+psychology+-covid&ots=TP4cSUXt7p&sig=7i74IdCQg5zQdvP2Tw_zsQ74bUc&redir_esc=y#v=onepage&q=attitude%20studies%20psychology%20-covid&f=false)
+
 
 # Examples
 
