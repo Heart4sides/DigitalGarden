@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/","created":"","updated":""}
 ---
 
 
