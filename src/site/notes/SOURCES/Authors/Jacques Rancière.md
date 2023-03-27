@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/jacques-ranciere/"}
+{"dg-publish":true,"permalink":"/sources/authors/jacques-ranciere/","created":"","updated":""}
 ---
 
 up :: 
