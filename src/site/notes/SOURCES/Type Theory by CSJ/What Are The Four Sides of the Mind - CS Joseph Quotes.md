@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/what-are-the-four-sides-of-the-mind-cs-joseph-quotes/"}
+{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/what-are-the-four-sides-of-the-mind-cs-joseph-quotes/","created":"","updated":""}
 ---
 
 
