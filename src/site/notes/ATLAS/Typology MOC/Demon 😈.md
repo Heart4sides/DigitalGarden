@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/demon/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/demon/","created":"","updated":""}
 ---
 
 
