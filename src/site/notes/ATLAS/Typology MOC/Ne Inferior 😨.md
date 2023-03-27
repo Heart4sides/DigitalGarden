@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-inferior/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-inferior/","created":"","updated":""}
 ---
 
 
