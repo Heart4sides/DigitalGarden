@@ -98,3 +98,15 @@ Research Methods in Language Attitudes
 [Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
 "The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
 "The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
+
+[(143) PSY 2510 Social Psychology: The Source of a Persuasive Message - YouTube](https://youtu.be/BX-PJGbi4s0)
+![Pasted image 20230327130336.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327130336.png)
+![Pasted image 20230327130744.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327130744.png)
+![Pasted image 20230327131116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131116.png)
+![Pasted image 20230327131134.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131134.png)
+
+[PSY 2510 Social Psychology: Persuasive Messages, Informational Strategies - YouTube](https://youtu.be/JpfEqR17E2s)
+![Pasted image 20230327131605.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131605.png)
+![Pasted image 20230327132122.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327132122.png)
+![Pasted image 20230327133008.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327133008.png)
+![Pasted image 20230327133026.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327133026.png)
