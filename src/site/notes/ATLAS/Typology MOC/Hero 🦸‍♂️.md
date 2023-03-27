@@ -3,7 +3,7 @@
 ---
 
 
-The hero function is the first [[attitude\|attitude]] of the [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]. 
+The hero function is the first [[ATLAS/Typology MOC/Attitude\|attitude]] of the [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]. 
 It is the strongest function of our stack along with the [[ATLAS/Typology MOC/Demon 😈\|Demon]]. 
 It has an infinite amount of energy. 
 It is the main protector of the [[ATLAS/Typology MOC/Inferior 😨\|Inferior]]. 
