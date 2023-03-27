@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/linda-v-berens-understanding-yourself-and-others/"}
+{"dg-publish":true,"permalink":"/sources/contents/linda-v-berens-understanding-yourself-and-others/","created":"","updated":""}
 ---
 
 **Title:** Understanding Yourself and Others  
