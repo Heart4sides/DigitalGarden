@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/psychology-moc/","tags":["on/psychology"],"created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/psychology-moc/","tags":["on/psychology"],"dgShowTags":true,"created":"","updated":""}
 ---
 
 up :: 
 ref :: 
 tags :: #on/psychology 
+#on/psychology 
 
 ## 16 Types System
 - [[ATLAS/Mechanics MOC\|Mechanics MOC]]
