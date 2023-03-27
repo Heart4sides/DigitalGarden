@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/how-does-initiating-compare-to-responding-csj-quotes/"}
+{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/how-does-initiating-compare-to-responding-csj-quotes/","created":"","updated":""}
 ---
 
 
