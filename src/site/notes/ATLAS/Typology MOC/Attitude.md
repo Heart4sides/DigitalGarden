@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","created":"","updated":""}
 ---
 
-#on/psychology 
+Tags :: #on/psychology 
 
 # Typological Attitudes 
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
@@ -17,7 +17,9 @@
 Source : John Beebe, Energies and Patterns of Psychological Types 
 
 # Meaning
+
 ## Wordnik 
+
 *noun*: A manner of thinking, feeling, or behaving that reflects a state of mind or disposition.
 *noun*: Arrogant or aggressive disposition or behavior.
 *noun*: A position of the body or manner of carrying oneself: <i>synonym</i>: <strong> posture</strong>.
@@ -36,8 +38,7 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 |  |  |  | habit | bent |
 |  |  |  | hard-target | bias |
 |  |  |  | idea | carriage |
-
-> [Additional info](https://www.wordnik.com/words/attitude)
+ [Additional info](https://www.wordnik.com/words/attitude)
 
 ## Wikipedia
 > [Wikipedia](https://en.wikipedia.org/wiki/Attitude_(psychology))
@@ -61,6 +62,17 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 > (1988 : 4)
 
 
+# Examples
+
+> [!example]
+> 
+> ```embed
+title: '160 Examples of Attitudes'
+image: 'https://simplicable.com/images/1920p/dance_beijing_11439_1IZjS7o.jpg'
+description: 'The definition of attitude with examples.'
+url: 'https://simplicable.com/society/attitudes'
+> ```
+
 
 # Mentions
 
@@ -76,37 +88,17 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 > "Our environment, the world in which we live and work, is a mirror of our attitudes and expectations."
 > Earl Nightingale
 
-Khan Academy 
+## Khan Academy 
 > [Components of attitudes | Behavior | MCAT | Khan Academy - YouTube](https://www.youtube.com/watch?v=cDq1_R-J51w)
 ![Pasted image 20230327092934.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327092934.png)
 
-[[Frank M. LoShiavo\|Frank M. LoShiavo]]
-[PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY)
-![Pasted image 20230327093507.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327093507.png)
+## [[SOURCES/Authors/Frank M. LoShiavo\|Frank M. LoShiavo]]
+[(143) PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr)
 
-[(142) PSY 2510 Social Psychology: The Link Between Attitudes and Behavior - YouTube](https://www.youtube.com/watch?v=tohd2AJ2bvI)
-Gap between stated attitudes and behaviours. 
-![Pasted image 20230327094459.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327094459.png)
-
-[PSY 2510 Social Psychology: Two Routes to Persuasion - YouTube](https://www.youtube.com/watch?v=P9jYb_f6qGM)
-![Pasted image 20230327095312.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095312.png)
-![Pasted image 20230327095933.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095933.png)![Pasted image 20230327095519.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095519.png)
-
-![Pasted image 20230327095854.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095854.png)
-
-Research Methods in Language Attitudes 
+## Research Methods in Language Attitudes 
 [Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
-"The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
-"The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
+> [!quote]
+> "The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
 
-[(143) PSY 2510 Social Psychology: The Source of a Persuasive Message - YouTube](https://youtu.be/BX-PJGbi4s0)
-![Pasted image 20230327130336.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327130336.png)
-![Pasted image 20230327130744.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327130744.png)
-![Pasted image 20230327131116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131116.png)
-![Pasted image 20230327131134.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131134.png)
-
-[PSY 2510 Social Psychology: Persuasive Messages, Informational Strategies - YouTube](https://youtu.be/JpfEqR17E2s)
-![Pasted image 20230327131605.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327131605.png)
-![Pasted image 20230327132122.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327132122.png)
-![Pasted image 20230327133008.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327133008.png)
-![Pasted image 20230327133026.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327133026.png)
+> [!quote]
+> "The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
