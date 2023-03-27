@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/compatibility/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/compatibility/","created":"","updated":""}
 ---
 
 
