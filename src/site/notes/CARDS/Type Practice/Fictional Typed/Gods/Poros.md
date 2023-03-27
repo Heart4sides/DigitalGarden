@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/poros/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/poros/","created":"","updated":""}
 ---
 
 Poros is the father of [[CARDS/Type Practice/Fictional Typed/Gods/Eros\|Eros]]. 
