@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/depravity/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/depravity/","created":"","updated":""}
 ---
 
 
