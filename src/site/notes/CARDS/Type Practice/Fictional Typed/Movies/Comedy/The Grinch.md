@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/comedy/the-grinch/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/comedy/the-grinch/","created":"","updated":""}
 ---
 
 
