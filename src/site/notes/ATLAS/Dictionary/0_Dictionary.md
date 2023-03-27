@@ -76,6 +76,7 @@
 | [[ATLAS/Dictionary/The How\|The How]]                                     | how, manner, mean                                                              |
 | [[ATLAS/Dictionary/The Why\|The Why]]                                     | ask why, know why, why                                                         |
 | [[ATLAS/Dictionary/three-quarter life crisis\|three-quarter life crisis]] | \-                                                                             |
+| [[ATLAS/Dictionary/Tricky\|Tricky]]                                       | \-                                                                             |
 | [[ATLAS/Dictionary/Trust\|Trust]]                                         | trusting, trustworthy, distrust, distrusting, confiance, méfiance              |
 | [[ATLAS/Dictionary/Tyrant\|Tyrant]]                                       | \-                                                                             |
 | [[ATLAS/Dictionary/Understand\|Understand]]                               | \-                                                                             |
