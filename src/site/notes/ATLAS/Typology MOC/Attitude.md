@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","created":"","updated":""}
 ---
 
 
 # Typological Attitudes 
-
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
 3. [[ATLAS/Typology MOC/Child 👼\|Child 👼]]
 4. [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]]
-
 1. [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]]
 2. [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]]
 3. [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]]
@@ -18,7 +16,6 @@
 Source : John Beebe, Energies and Patterns of Psychological Types 
 
 # Meaning
-
 ## Wordnik 
 *noun*: A manner of thinking, feeling, or behaving that reflects a state of mind or disposition.
 *noun*: Arrogant or aggressive disposition or behavior.
