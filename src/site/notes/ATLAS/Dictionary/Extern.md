@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/extern/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/extern/","created":"","updated":""}
 ---
 
