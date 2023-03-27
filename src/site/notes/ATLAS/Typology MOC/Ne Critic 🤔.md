@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-critic/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-critic/","created":"","updated":""}
 ---
 
 
