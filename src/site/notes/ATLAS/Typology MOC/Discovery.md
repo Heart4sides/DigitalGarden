@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/discovery/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/discovery/","created":"","updated":""}
 ---
 
 
