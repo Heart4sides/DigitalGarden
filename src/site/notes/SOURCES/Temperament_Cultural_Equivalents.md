@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/temperament-cultural-equivalents/"}
+{"dg-publish":true,"permalink":"/sources/temperament-cultural-equivalents/","created":"","updated":""}
 ---
 
 
