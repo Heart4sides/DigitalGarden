@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/hitler/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/hitler/","created":"","updated":""}
 ---
 
 up :: 
