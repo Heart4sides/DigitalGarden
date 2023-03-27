@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/temple/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/temple/","created":"","updated":""}
 ---
 
 
