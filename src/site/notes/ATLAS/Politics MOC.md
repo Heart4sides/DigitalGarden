@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/politics-moc/"}
+{"dg-publish":true,"permalink":"/atlas/politics-moc/","created":"","updated":""}
 ---
 
 up :: 
