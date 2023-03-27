@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/streamline/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/streamline/","created":"","updated":""}
 ---
 
 ## Related Notes 
