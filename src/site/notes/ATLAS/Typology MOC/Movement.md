@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/movement/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/movement/","created":"","updated":""}
 ---
 
 
