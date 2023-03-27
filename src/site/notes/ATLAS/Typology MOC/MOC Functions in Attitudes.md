@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/moc-functions-in-attitudes/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/moc-functions-in-attitudes/","created":"","updated":""}
 ---
 
 
