@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/child/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/child/","created":"","updated":""}
 ---
 
 
