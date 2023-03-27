@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ti-inferior/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ti-inferior/","created":"","updated":""}
 ---
 
 
