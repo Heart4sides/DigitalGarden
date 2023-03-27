@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/macro-typing/denmark/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/macro-typing/denmark/","created":"","updated":""}
 ---
 
 
