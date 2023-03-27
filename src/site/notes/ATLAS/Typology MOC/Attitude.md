@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","tags":["food"],"created":"","updated":""}
 ---
 
 
