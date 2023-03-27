@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/dario-nardi/"}
+{"dg-publish":true,"permalink":"/sources/authors/dario-nardi/","created":"","updated":""}
 ---
 
 up :: [[ATLAS/Psychology MOC\|Psychology MOC]]
