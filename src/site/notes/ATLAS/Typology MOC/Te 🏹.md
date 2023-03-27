@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/te/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/te/","created":"","updated":""}
 ---
 
 
