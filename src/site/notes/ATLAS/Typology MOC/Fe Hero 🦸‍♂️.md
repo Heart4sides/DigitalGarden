@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-hero/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-hero/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] | [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] | [[ATLAS/Typology MOC/ESFJ\|ESFJ]]
