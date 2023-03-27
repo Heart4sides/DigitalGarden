@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/golden-pair/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/golden-pair/","created":"","updated":""}
 ---
 
