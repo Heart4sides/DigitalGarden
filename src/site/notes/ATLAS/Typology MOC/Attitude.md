@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","tags":["on/psychology"],"created":"","updated":""}
 ---
 
-Tags :: #on/psychology 
-hey !
+
 # Typological Attitudes 
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
