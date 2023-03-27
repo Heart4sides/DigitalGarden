@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi/","created":"","updated":""}
 ---
 
 
