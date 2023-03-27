@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/"}
+{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"","updated":""}
 ---
 
 **Title:** Aion  
