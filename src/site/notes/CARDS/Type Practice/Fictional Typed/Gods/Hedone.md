@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/hedone/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/hedone/","created":"","updated":""}
 ---
 
 
