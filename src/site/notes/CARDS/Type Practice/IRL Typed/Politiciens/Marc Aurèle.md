@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/marc-aurele/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/marc-aurele/","created":"","updated":""}
 ---
 
 up :: 
