@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/te-critic/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/te-critic/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] |  |  | 
