@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni-inferior/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni-inferior/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] |  |  | 
