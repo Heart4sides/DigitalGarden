@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-critic/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-critic/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] |  |  | 
