@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-parent/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-parent/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] |  |  | 
