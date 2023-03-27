@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/paranoia/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/paranoia/","created":"","updated":""}
 ---
 
 
