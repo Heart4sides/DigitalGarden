@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/sloth/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/sloth/","created":"","updated":""}
 ---
 
 up :: [[Deadly Sin\|Deadly Sin]]
