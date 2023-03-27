@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/robert-a-glover-no-more-mr-nice-guy/"}
+{"dg-publish":true,"permalink":"/sources/contents/robert-a-glover-no-more-mr-nice-guy/","created":"","updated":""}
 ---
 
 **Title:** No More Mr. Nice Guy!  
