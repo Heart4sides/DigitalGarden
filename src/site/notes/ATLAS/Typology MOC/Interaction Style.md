@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/interaction-style/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/interaction-style/","created":"","updated":""}
 ---
 
 
