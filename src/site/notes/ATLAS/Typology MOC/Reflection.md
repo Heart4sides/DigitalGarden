@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/reflection/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/reflection/","created":"","updated":""}
 ---
 
 
