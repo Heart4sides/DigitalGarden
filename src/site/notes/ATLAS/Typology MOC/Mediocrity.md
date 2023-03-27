@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/mediocrity/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/mediocrity/","created":"","updated":""}
 ---
 
 
