@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/carl-jung/"}
+{"dg-publish":true,"permalink":"/sources/authors/carl-jung/","created":"","updated":""}
 ---
 
 Up :: [[ATLAS/Psychology MOC\|Psychology]]
