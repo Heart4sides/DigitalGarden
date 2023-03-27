@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/guardian/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/guardian/","created":"","updated":""}
 ---
 
 up :: [[ATLAS/Typology MOC/Type Grid\|Type Grid]] 
