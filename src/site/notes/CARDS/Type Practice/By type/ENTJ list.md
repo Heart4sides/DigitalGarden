@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/by-type/entj-list/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/by-type/entj-list/","created":"","updated":""}
 ---
 
 
