@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ti-nemesis/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ti-nemesis/","created":"","updated":""}
 ---
 
 
