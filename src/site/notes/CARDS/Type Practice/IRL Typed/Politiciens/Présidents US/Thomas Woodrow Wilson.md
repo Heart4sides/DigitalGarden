@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/thomas-woodrow-wilson/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/thomas-woodrow-wilson/","created":"","updated":""}
 ---
 
 up :: 
