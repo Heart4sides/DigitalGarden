@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/merit/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/merit/","created":"","updated":""}
 ---
 
 
