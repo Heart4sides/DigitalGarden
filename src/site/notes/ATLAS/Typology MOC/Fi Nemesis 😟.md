@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-nemesis/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-nemesis/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] |  |  | 
