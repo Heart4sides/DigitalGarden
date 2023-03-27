@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/seymour-hersh/"}
+{"dg-publish":true,"permalink":"/sources/authors/seymour-hersh/","created":"","updated":""}
 ---
 
 up :: 
