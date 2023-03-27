@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/si-nemesis/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/si-nemesis/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] |  |  |  
