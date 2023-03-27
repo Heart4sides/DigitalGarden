@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/rival/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/rival/","created":"","updated":""}
 ---
 
 
