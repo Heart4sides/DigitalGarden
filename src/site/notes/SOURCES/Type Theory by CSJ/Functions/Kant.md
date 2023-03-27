@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/functions/kant/"}
+{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/functions/kant/","created":"","updated":""}
 ---
 
 
