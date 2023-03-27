@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/education/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/education/","created":"","updated":""}
 ---
 
 
