@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/sd/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/sd/","created":"","updated":""}
 ---
 
 
