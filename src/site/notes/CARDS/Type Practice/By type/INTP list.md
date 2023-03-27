@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/by-type/intp-list/"}
+{"dg-publish":true,"permalink":"/cards/type-practice/by-type/intp-list/","created":"","updated":""}
 ---
 
 
