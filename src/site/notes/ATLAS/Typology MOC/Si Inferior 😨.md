@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/si-inferior/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/si-inferior/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] |  |  |  
