@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/0-dictionary/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/0-dictionary/","created":"","updated":""}
 ---
 
 | File                                                                         | alias                                                                          |
