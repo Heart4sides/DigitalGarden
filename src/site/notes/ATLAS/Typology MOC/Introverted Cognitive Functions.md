@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/introverted-cognitive-functions/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/introverted-cognitive-functions/","created":"","updated":""}
 ---
 
 Source Functions
