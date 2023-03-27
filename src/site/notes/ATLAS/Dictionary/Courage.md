@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/courage/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/courage/","created":"","updated":""}
 ---
 
 
