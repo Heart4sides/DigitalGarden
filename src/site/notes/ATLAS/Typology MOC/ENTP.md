@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"","updated":""}
 ---
 
 #type
