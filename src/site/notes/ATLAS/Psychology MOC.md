@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/psychology-moc/"}
+{"dg-publish":true,"permalink":"/atlas/psychology-moc/","created":"","updated":""}
 ---
 
 up :: 
