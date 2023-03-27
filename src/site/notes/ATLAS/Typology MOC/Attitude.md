@@ -3,6 +3,7 @@
 ---
 
 Tags :: #on/psychology 
+hey !
 # Typological Attitudes 
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
