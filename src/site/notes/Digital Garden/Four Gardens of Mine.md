@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"","updated":""}
 ---
 
 
