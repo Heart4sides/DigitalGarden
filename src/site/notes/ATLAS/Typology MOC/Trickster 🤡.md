@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/trickster/"}
 ---
 
-Up : [[ATLAS/Typology MOC/Attitudes\|Attitudes]]
+Up : [[ATLAS/Typology MOC/Attitude\|Attitude]]
 
 ## In Attitudes
 [[ATLAS/Typology MOC/Ne Trickster 🤡\|Ne Trickster 🤡]] | [[ATLAS/Typology MOC/Ni Trickster 🤡\|Ni Trickster 🤡]] | [[ATLAS/Typology MOC/Se Trickster 🤡\|Se Trickster 🤡]] | [[ATLAS/Typology MOC/Si Trickster 🤡\|Si Trickster 🤡]]
