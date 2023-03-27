@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/se-parent/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/se-parent/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] |  |  | 
