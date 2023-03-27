@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/4-sides-of-the-mind/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/4-sides-of-the-mind/","created":"","updated":""}
 ---
 
 up :: [[ATLAS/Psychology MOC\|Psychology MOC]] 
