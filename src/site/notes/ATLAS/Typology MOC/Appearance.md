@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/appearance/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/appearance/","created":"","updated":""}
 ---
 
 
