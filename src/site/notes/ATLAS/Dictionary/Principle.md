@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/principle/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/principle/","created":"","updated":""}
 ---
 
 
