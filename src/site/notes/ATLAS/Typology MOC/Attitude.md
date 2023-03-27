@@ -2,16 +2,17 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","created":"","updated":""}
 ---
 
+#on/psychology 
 
 # Typological Attitudes 
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
 3. [[ATLAS/Typology MOC/Child 👼\|Child 👼]]
 4. [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]]
-1. [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]]
-2. [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]]
-3. [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]]
-4. [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
+5. [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]]
+6. [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]]
+7. [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]]
+8. [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
 
 Source : John Beebe, Energies and Patterns of Psychological Types 
 
@@ -49,24 +50,31 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 
 ## Gordon Allport
 
+> [!quote] 
 > "a mental and neural state of readiness, organized through experience, and exerting a directive or dynamic influence upon the individal's response to all objects and situations with which it is related." (1935: 810)
+> 
 > "Without guiding attitudes the individual is confused and baffled. Some kind of preparation is essential before [they] can make a satisfactory observation, pass suitable judgement, or make any but the most primitive reflex type of response. Attitudes determine for each individual what [they] will see and hear, what [they] will think ad what [they] will do."
 
 ## Ajzen 
-> "a disposition to respond favorably or unfavorably to an object, person, institution, or event" (1988 : 4)
+> [!quote] 
+> a disposition to respond favorably or unfavorably to an object, person, institution, or event 
+> (1988 : 4)
 
 
 
 # Mentions
 
-John C. Maxwell
+> [!quote] 
 > "People may hear your words, but they feel your attitude." 
+> John C. Maxwell
 
-Viktor E. Frankl 
+> [!quote] 
 > "Everything can be taken from a man but one thing: the last of human freedoms - to choose one's attitude in any given set of circumstances, to choose one's own way."
+> Viktor E. Frankl 
 
-Earl Nightingale
-> "Our environment, the world in which we live and work, is a mirror of our attitudes and expectations." 
+> [!quote] 
+> "Our environment, the world in which we live and work, is a mirror of our attitudes and expectations."
+> Earl Nightingale
 
 Khan Academy 
 > [Components of attitudes | Behavior | MCAT | Khan Academy - YouTube](https://www.youtube.com/watch?v=cDq1_R-J51w)
