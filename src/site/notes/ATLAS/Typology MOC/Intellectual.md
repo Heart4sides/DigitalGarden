@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/intellectual/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/intellectual/","created":"","updated":""}
 ---
 
 
