@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/intention/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/intention/","created":"","updated":""}
 ---
 
 
