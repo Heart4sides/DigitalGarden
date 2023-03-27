@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/","created":"","updated":""}
 ---
 
 Tags :: #type 
