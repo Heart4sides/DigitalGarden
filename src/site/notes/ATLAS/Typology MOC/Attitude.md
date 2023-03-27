@@ -3,7 +3,6 @@
 ---
 
 Tags :: #on/psychology 
-
 # Typological Attitudes 
 1. [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
@@ -16,6 +15,7 @@ Tags :: #on/psychology
 
 Source : John Beebe, Energies and Patterns of Psychological Types 
 
+---
 # Meaning
 
 ## Wordnik 
