@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/passivity/"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/passivity/","created":"","updated":""}
 ---
 
 
