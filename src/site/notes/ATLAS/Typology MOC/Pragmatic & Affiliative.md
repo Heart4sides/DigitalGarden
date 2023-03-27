@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic-and-affiliative/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic-and-affiliative/","created":"","updated":""}
 ---
 
 
