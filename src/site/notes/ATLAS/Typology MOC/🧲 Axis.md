@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/axis/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/axis/","created":"","updated":""}
 ---
 
 
