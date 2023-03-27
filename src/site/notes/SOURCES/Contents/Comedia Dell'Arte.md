@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/"}
+{"dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/","created":"","updated":""}
 ---
 
 
