@@ -42,6 +42,7 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 > [Additional info](https://www.wordnik.com/words/attitude)
 
 ## Wikipedia
+> [Wikipedia](https://en.wikipedia.org/wiki/Attitude_(psychology))
 > "In psychology, **Attitude** is a psychological construct that is a mental and emotional entity that inheres or characterizes a person, their attitude is their  approach to something, or their personal view on it. Attitude involves their mindset, outlook and feelings. Attitudes are complex and are an acquired state through life experience. Attitude is an individual's predisposed state of mind regarding a value and it is precipitated through a responsive expression towards oneself, a person, place, thing, or event (the attitude object) which in turn influences the individual's thought and action.
 >
 > Most simply understood attitudes in psychology are the feelings individuals have about themselves and the world. Prominent psychologist Gordon Allport described this latent psychological construct as "the most distinctive and indispensable concept in contemporary social psychology." Attitudes can be formed from a person's past and present. Key topics in the study of attitudes include attitude strength, attitude change, consumer behavior, and attitude-behavior relationships."
@@ -51,7 +52,12 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 
 ## Gordon Allport
 
-> "a mental and neural state of readiness, organized through experience, and exerting a directive or dynamic influence upon the individal's response to all objects and situations with which it is related."
+> "a mental and neural state of readiness, organized through experience, and exerting a directive or dynamic influence upon the individal's response to all objects and situations with which it is related." (1935: 810)
+> "Without guiding attitudes the individual is confused and baffled. Some kind of preparation is essential before [they] can make a satisfactory observation, pass suitable judgement, or make any but the most primitive reflex type of response. Attitudes determine for each individual what [they] will see and hear, what [they] will think ad what [they] will do."
+
+## Ajzen 
+> "a disposition to respond favorably or unfavorably to an object, person, institution, or event" (1988 : 4)
+
 
 
 # Mentions
@@ -82,3 +88,8 @@ Gap between stated attitudes and behaviours.
 ![Pasted image 20230327095933.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095933.png)![Pasted image 20230327095519.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095519.png)
 
 ![Pasted image 20230327095854.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327095854.png)
+
+Research Methods in Language Attitudes 
+[Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
+"The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
+"The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
