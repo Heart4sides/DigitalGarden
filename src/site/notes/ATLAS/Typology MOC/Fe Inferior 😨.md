@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-inferior/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-inferior/","created":"","updated":""}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] |  |  | 
