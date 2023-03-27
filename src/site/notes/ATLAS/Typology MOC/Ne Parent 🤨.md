@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-parent/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ne-parent/","created":"","updated":""}
 ---
 
 
