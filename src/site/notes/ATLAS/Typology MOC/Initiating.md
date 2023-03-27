@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"","updated":""}
 ---
 
 
