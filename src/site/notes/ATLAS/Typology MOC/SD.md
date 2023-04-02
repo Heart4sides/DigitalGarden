@@ -10,3 +10,5 @@ Meaning the person favored and developed his or her [[ATLAS/Typology MOC/Subcons
 "The default goal the brain has is to become SD/SF" [^1]
 
 [^1]: [[ATLAS/Typology MOC/Fi Trickster 🃏#CSJ\|Fi Trickster 🃏#CSJ]]
+
+Attached to the Subconscious Temple = [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
