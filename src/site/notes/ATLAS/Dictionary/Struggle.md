@@ -3,7 +3,7 @@
 ---
 
 
-[[ATLAS/Typology MOC/1. Crusader\|Crusader]]s believe life is a constant struggle. 
+[[ATLAS/Typology MOC/Crusader\|Crusader]]s believe life is a constant struggle. 
 
 ## Wordnik
 struggle
