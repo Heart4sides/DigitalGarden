@@ -10,3 +10,5 @@ Meaning the person favored and developed his or her [[ATLAS/Typology MOC/Shadow 
 "No one wants to become UD/UF"[^1]
 
 [^1]: [[ATLAS/Typology MOC/Fi Trickster 🃏#CSJ\|Fi Trickster 🃏#CSJ]]
+
+Attached to the Shadow Temple = [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
