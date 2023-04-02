@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"","updated":""}
 ---
 
+2023-04-02
 
 ## Keywords
 - Extraversion : 
@@ -23,3 +24,5 @@ Types sharing preference for [[ATLAS/Typology MOC/Initiating\|Initiating]] :
 [[SOURCES/Type Theory by CSJ/How Does Initiating Compare To Responding - CSJ - Quotes\|How Does Initiating Compare To Responding - CSJ - Quotes]]
 
 [^1]: [extra- - Wiktionary](https://en.wiktionary.org/wiki/extra-#:~:text=English-,Etymology,being%20on%20the%20outside%E2%80%9D).)
+[^2]: 
+[^3]: 
