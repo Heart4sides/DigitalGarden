@@ -5,7 +5,7 @@
 #type
 
 ## Quadra & Functions
-[[ATLAS/Typology MOC/1. Crusader\|Crusader]] [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
+[[ATLAS/Typology MOC/Crusader\|Crusader]] [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 	[[ATLAS/Typology MOC/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ti Parent 🤨\|Ti Parent 🤨]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Si Inferior 😨\|Si Inferior 😨]]
 [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]] [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
 	[[ATLAS/Typology MOC/Ni Nemesis 😟\|Ni Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]] | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]
