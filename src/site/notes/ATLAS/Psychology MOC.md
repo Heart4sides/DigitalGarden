@@ -12,13 +12,7 @@
 - Purpose : [[ATLAS/Typology MOC/Temple\|Temple]] 
 - Nurture : [[ATLAS/Typology MOC/Octogram\|Octogram]]
 
-## Psychology Sources
-- [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
-- [[SOURCES/Authors/Carl Jung\|Carl Jung]]
-- [[SOURCES/John Beebe/John Beebe\|John Beebe]]
-- [[SOURCES/Authors/Linda Berens\|Linda Berens]]
-- [[David Kersey\|David Kersey]]
-- [[SOURCES/Authors/Dario Nardi\|Dario Nardi]]
+[[Analytical Psychology Sources\|Analytical Psychology Sources]]
 
 | File                                                                  | References                                                                                                                                          |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
