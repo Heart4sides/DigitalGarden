@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/atlas/typology-moc/quadra/","created":"","updated":""}
+---
+
+
+Quadra : 4 types sharing the same 4 functions. Each type within the quadra has a unique order of preference for these functions. 
+
+[[ATLAS/Typology MOC/Crusader\|Crusader]]
+[[ATLAS/Typology MOC/Templar\|Templar]]
+[[ATLAS/Typology MOC/3. Philosopher\|Philosopher]]
+[[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]]
