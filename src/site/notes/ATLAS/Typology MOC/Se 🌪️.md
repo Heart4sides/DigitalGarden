@@ -17,7 +17,7 @@
 - [[ATLAS/Dictionary/The How\|The How]]
 
 ## Quadras
-[[ATLAS/Typology MOC/2. Templar\|2. Templar]] | [[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
+[[ATLAS/Typology MOC/Templar\|Templar]] | [[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
 
 ## Types 
 
