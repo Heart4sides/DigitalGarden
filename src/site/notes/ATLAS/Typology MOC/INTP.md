@@ -7,7 +7,7 @@
 [[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
 
 ## Quadra & Functions
-[[ATLAS/Typology MOC/1. Crusader\|1. Crusader]] 
+[[ATLAS/Typology MOC/Crusader\|Crusader]] 
 
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ne Parent 🤨\|Ne Parent 🤨]] | [[ATLAS/Typology MOC/Si Child 🧒\|Si Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 😨\|Fe Inferior 😨]]
