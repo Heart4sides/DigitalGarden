@@ -5,7 +5,7 @@
 Tags :: #type 
 
 ## Quadra & Functions
-[[ATLAS/Typology MOC/1. Crusader\|1. Crusader]]
+[[ATLAS/Typology MOC/Crusader\|Crusader]]
 > [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Si Parent 🤨\|Si Parent 🤨]] | [[ATLAS/Typology MOC/Ne Child 🧒\|Ne Child 🧒]] | [[ATLAS/Typology MOC/Ti Inferior 😨\|Ti Inferior 😨]]
 > [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
