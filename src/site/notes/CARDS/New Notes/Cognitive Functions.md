@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"","updated":"2023-04-03T23:06:56.070+02:00"}
 ---
 
 
