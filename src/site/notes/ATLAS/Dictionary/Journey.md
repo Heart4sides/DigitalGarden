@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/journey/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/dictionary/journey/","created":"","updated":"2023-01-12T14:18:26.989+01:00"}
 ---
 
 
