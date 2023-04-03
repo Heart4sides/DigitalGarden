@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/sf-and-fantasy/blade-runner/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/sf-and-fantasy/blade-runner/","created":"","updated":"2023-01-14T00:47:40.151+01:00"}
 ---
 
 [[ATLAS/Examples\|Examples]]
