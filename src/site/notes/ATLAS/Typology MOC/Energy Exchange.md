@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/energy-exchange/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/energy-exchange/","created":"","updated":"2023-03-09T10:20:07.873+01:00"}
 ---
 
 up :: [[ATLAS/Mechanics MOC\|Mechanics MOC]]
