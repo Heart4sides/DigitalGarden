@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/guidance-function/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/guidance-function/","created":"","updated":"2023-03-09T10:12:54.266+01:00"}
 ---
 
 
