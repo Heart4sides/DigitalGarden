@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/by-type/entj-list/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/type-practice/by-type/entj-list/","created":"","updated":"2023-01-12T15:03:35.674+01:00"}
 ---
 
 
