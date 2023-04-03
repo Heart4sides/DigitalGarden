@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/abstract/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/abstract/","created":"","updated":"2023-02-26T16:55:09.875+01:00"}
 ---
 
 ## Keywords 
