@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-trickster/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-trickster/","created":"","updated":"2023-03-09T09:56:51.440+01:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster]]  | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ESTP\|ESTP]]
