@@ -5,7 +5,7 @@
 
 ## Quadra & Functions
 
-==[[ATLAS/Typology MOC/Quadra\|Quadra]]== : [[ATLAS/Typology MOC/3. Philosopher\|3. Philosopher]] 
+==[[ATLAS/Typology MOC/Quadra\|Quadra]]== : [[ATLAS/Typology MOC/Philosopher\|Philosopher]] 
 
 ==[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]==
 [[ATLAS/Typology MOC/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Te Parent 🤨\|Te Parent 🤨]] | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]] | [[ATLAS/Typology MOC/Ne Inferior 😨\|Ne Inferior 😨]]
