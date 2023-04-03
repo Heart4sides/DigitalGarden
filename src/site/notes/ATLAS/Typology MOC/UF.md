@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/uf/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/uf/","created":"","updated":"2023-03-28T18:53:46.297+02:00"}
 ---
 
 
