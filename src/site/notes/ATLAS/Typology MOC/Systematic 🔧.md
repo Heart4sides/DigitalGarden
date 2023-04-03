@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/systematic/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/systematic/","created":"","updated":"2023-02-26T16:43:19.482+01:00"}
 ---
 
 As opposed to the prefererence for [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
