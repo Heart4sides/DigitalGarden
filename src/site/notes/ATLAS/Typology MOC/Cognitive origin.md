@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/cognitive-origin/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/cognitive-origin/","created":"","updated":"2023-02-18T16:06:51.215+01:00"}
 ---
 
 
