@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/soul-temple/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/soul-temple/","created":"","updated":"2023-02-19T16:46:18.384+01:00"}
 ---
 
 
