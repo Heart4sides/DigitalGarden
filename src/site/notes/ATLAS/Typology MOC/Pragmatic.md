@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/pragmatic/","created":"","updated":"2023-03-08T10:14:41.367+01:00"}
 ---
 
 Vs [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
