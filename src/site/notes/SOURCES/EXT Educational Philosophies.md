@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/ext-educational-philosophies/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/sources/ext-educational-philosophies/","created":"","updated":"2023-04-03T22:24:04.033+02:00"}
 ---
 
 up :: [[ATLAS/Philosophy MOC\|Philosophy]]
