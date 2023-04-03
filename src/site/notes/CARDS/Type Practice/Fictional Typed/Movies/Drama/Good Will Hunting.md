@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/drama/good-will-hunting/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/drama/good-will-hunting/","created":"","updated":"2023-01-14T00:48:13.470+01:00"}
 ---
 
 [[ATLAS/Examples\|Examples]]
