@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/daniel-kahneman-thinking-fast-and-slow/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/sources/contents/daniel-kahneman-thinking-fast-and-slow/","created":"","updated":"2023-02-28T10:53:24.209+01:00"}
 ---
 
 **Title:** Thinking, Fast and Slow  
