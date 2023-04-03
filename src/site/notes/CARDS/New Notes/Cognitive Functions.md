@@ -20,7 +20,7 @@ graph LR;
 a(Input)
 b(Process)
 a --> b --> Output --> Feedback --> Input
-click a "obsidian://open?vault=Obsidian%20Vault&file=Input"
+click a "obsidian://advanced-uri?vault=Obsidian%20Vault&filepath=Input.md"
 click b "https://www.youtube.com/"
 ```
 
