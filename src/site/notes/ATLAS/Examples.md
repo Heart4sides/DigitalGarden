@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/examples/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/examples/","created":"","updated":"2023-01-14T00:50:26.476+01:00"}
 ---
 
 
