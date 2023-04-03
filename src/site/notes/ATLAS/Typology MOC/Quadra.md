@@ -7,5 +7,5 @@ Quadra : 4 types sharing the same 4 functions. Each type within the quadra has a
 
 [[ATLAS/Typology MOC/Crusader\|Crusader]]
 [[ATLAS/Typology MOC/Templar\|Templar]]
-[[ATLAS/Typology MOC/3. Philosopher\|Philosopher]]
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]]
 [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]]
