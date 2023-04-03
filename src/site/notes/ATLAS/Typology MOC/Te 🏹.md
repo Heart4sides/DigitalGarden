@@ -22,7 +22,7 @@
 
 
 ## Quadras
-[[ATLAS/Typology MOC/3. Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]] 
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]] 
 
 ## Types 
 
@@ -63,5 +63,5 @@ ctrl + schift + Q
 [[ATLAS/Examples 1\|Examples 1]] 
 
 ## Quadra
-[[ATLAS/Typology MOC/3. Philosopher\|Philosopher]]
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]]
 [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]]
