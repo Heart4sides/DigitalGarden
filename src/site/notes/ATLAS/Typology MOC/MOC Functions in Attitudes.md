@@ -66,7 +66,7 @@
 | [[ATLAS/Typology MOC/Ne Demon 😈\|Ne Demon 😈]]         | Ne       | 8-Demon      | [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] \| [[ATLAS/Typology MOC/ESFP\|ESFP]]          |
 | [[ATLAS/Typology MOC/Ni Demon 😈\|Ni Demon 😈]]         | Ni       | 8-Demon      | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]] \| [[ATLAS/Typology MOC/ISFJ\|ISFJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]                 |
 | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]         | Se       | 8-Demon      | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFP\|ENFP]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]]         |
-| [[ATLAS/Typology MOC/Ti Demon 😈\|Ti Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]         |
 | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/INFJ\|INFJ]]         |
+| [[ATLAS/Typology MOC/Ti Demon 😈\|Ti Demon 😈]]         | Si       | 8-Demon      | [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/INFP\|INFP]] \| [[ATLAS/Typology MOC/ISFP\|ISFP]]         |
 | [[ATLAS/Typology MOC/Te Demon 😈\|Te Demon 😈]]         | Te       | 8-Demon      | [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] \| [[ATLAS/Typology MOC/Demon 😈\|Demon]] \| [[ATLAS/Typology MOC/ENFJ\|ENFJ]] \| [[ATLAS/Typology MOC/ESFJ\|ESFJ]]          |
 
