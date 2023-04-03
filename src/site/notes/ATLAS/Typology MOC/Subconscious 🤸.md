@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/subconscious/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/subconscious/","created":"","updated":"2023-03-09T10:07:10.442+01:00"}
 ---
 
 
