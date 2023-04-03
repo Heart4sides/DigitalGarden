@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"MM DD, YYYY","updated":"2023-04-03T23:55:29.353+02:00"}
 ---
 
 
