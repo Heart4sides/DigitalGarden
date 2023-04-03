@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/pole/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/pole/","created":"","updated":"2023-02-01T19:47:59.414+01:00"}
 ---
 
 
