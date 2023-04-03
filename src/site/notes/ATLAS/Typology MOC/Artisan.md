@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/artisan/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/artisan/","created":"","updated":"2023-02-24T19:03:35.500+01:00"}
 ---
 
 
