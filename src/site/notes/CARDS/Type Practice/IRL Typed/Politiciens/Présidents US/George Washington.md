@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/george-washington/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/george-washington/","created":"","updated":"2023-02-19T16:11:11.753+01:00"}
 ---
 
 up :: 
