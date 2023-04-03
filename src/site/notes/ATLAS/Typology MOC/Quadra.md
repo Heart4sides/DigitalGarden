@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/quadra/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/quadra/","created":"","updated":"2023-04-03T22:24:03.656+02:00"}
 ---
 
 
