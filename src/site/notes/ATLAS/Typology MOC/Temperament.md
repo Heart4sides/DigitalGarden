@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/temperament/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/temperament/","created":"","updated":"2023-02-26T15:55:20.709+01:00"}
 ---
 
 
