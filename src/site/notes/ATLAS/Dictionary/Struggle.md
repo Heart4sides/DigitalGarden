@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/struggle/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/dictionary/struggle/","created":"","updated":"2023-04-02T17:23:55.401+02:00"}
 ---
 
 
