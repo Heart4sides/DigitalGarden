@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/shadow/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/shadow/","created":"","updated":"2023-03-09T10:20:08.560+01:00"}
 ---
 
 
