@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/critic/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/critic/","created":"","updated":"2023-03-08T19:08:28.367+01:00"}
 ---
 
 
