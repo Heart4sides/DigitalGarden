@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ud/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ud/","created":"","updated":"2023-03-28T18:54:17.560+02:00"}
 ---
 
 
