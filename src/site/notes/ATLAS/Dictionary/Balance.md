@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/balance/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/dictionary/balance/","created":"","updated":"2023-03-08T08:28:52.332+01:00"}
 ---
 
 
