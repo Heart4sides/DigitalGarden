@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/inferior/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/inferior/","created":"","updated":"2023-03-08T19:06:36.182+01:00"}
 ---
 
 
