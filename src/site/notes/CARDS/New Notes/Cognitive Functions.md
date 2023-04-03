@@ -18,8 +18,10 @@ These preferences exclude each other :
 
 graph LR; 
 a(Input)
-a --> Process --> Output --> Feedback --> Input
+b(Process)
+a --> b --> Output --> Feedback --> Input
 click a "obsidian://open?vault=Obsidian%20Vault&file=Input"
+click b "https://www.youtube.com/"
 ```
 
 [[Input\|Input]] : 
