@@ -17,9 +17,9 @@ These preferences exclude each other :
 ```mermaid
 
 graph LR; 
-
-Input --> Process --> Output --> Feedback --> Input
-
+a(Input)
+a --> Process --> Output --> Feedback --> Input
+click a "obsidian://open?vault=Obsidian%20Vault&file=Input"
 ```
 
 [[Input\|Input]] : 
