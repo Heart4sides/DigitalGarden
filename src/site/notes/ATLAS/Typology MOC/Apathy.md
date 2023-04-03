@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/apathy/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/apathy/","created":"","updated":"2023-02-26T16:45:13.022+01:00"}
 ---
 
 
