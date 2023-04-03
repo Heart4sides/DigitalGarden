@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/bigotry/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/dictionary/bigotry/","created":"","updated":"2023-01-18T15:27:13.137+01:00"}
 ---
 
 
