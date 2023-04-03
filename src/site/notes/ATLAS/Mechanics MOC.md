@@ -25,7 +25,7 @@
 [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] | [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
 
 ## Quadra 
-[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Templar\|Templar]] | [[Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
+[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Templar\|Templar]] | [[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
 
 ## Temples 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
