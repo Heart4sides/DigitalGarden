@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/fetichism/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/dictionary/fetichism/","created":"","updated":"2023-03-08T08:28:52.889+01:00"}
 ---
 
 
