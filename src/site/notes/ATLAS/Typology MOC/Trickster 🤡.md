@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/trickster/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/trickster/","created":"","updated":"2023-03-27T09:09:33.696+02:00"}
 ---
 
 Up : [[ATLAS/Typology MOC/Attitude\|Attitude]]
