@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/sf/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/sf/","created":"","updated":"2023-03-28T18:53:21.175+02:00"}
 ---
 
 
