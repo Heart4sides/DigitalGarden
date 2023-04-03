@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/interest/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/interest/","created":"","updated":"2023-03-08T10:14:41.067+01:00"}
 ---
 
 
