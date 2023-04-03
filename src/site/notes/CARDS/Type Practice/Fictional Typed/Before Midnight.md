@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/before-midnight/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/before-midnight/","created":"","updated":"2023-02-03T09:50:15.442+01:00"}
 ---
 
 
