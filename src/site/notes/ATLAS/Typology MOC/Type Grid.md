@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/type-grid/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/type-grid/","created":"","updated":"2023-02-28T23:50:17.303+01:00"}
 ---
 
 
