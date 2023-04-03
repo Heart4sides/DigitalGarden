@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/nemesis/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/nemesis/","created":"","updated":"2023-02-18T16:34:07.887+01:00"}
 ---
 
 
