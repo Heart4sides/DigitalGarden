@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","created":"","updated":"2023-01-18T15:30:44.527+01:00"}
 ---
 
 [[ATLAS/Typology MOC/Envy\|Envy]]
