@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/intp/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/intp/","created":"","updated":"2023-04-02T17:23:56.372+02:00"}
 ---
 
 ## Type Grid
