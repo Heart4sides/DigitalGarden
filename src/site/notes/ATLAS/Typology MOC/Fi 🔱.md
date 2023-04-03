@@ -15,7 +15,7 @@
 - Looking to increase its value
 
 ## Quadras
-[[ATLAS/Typology MOC/3. Philosopher\|3. Philosopher]] | [[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
 
 ## Types 
 
