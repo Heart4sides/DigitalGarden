@@ -17,7 +17,7 @@
 - Water
 
 ## Quadras
-[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/3. Philosopher\|3. Philosopher]] 
+[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Philosopher\|Philosopher]] 
 
 ## Types 
 
