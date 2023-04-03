@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mechanics-moc/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/mechanics-moc/","created":"","updated":"2023-03-09T10:20:07.460+01:00"}
 ---
 
 ## Functions
