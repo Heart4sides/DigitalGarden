@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/te-child/","created":"","updated":""}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/te-child/","created":"","updated":"2023-03-09T10:07:10.512+01:00"}
 ---
 
 
