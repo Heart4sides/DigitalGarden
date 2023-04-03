@@ -39,7 +39,7 @@ tags :: #on/philosophy #on/education
 
 
 ## Perennialism
-[[ATLAS/Typology MOC/3. Philosopher\|Philosopher]] temperament 
+[[ATLAS/Typology MOC/Philosopher\|Philosopher]] temperament 
 > "For Perennialists, the aim of education is to ensure that students acquire understandings ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]) about the great ([[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]) ideas ([[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]) of Western civilization."
 > "The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most essential level, do not change." [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] 
 > "The loftiest accomplishments ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]) of humankind are emphasized– the great works of literature and art, the laws ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]) or [[ATLAS/Dictionary/Principle\|principles]] ([[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]) of science."
