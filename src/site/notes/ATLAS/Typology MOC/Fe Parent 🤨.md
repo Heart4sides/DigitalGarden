@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-parent/","created":"","updated":"2023-02-27T19:46:42.489+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fe-parent/","created":"2023-01-05T12:05:05.186+01:00","updated":"2023-02-27T19:46:42.489+01:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] |  |  | 
