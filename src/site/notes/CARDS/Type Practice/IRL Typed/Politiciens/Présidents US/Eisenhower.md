@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/eisenhower/","created":"","updated":"2023-02-19T16:10:57.639+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/politiciens/presidents-us/eisenhower/","created":"2022-12-22T17:17:18.482+01:00","updated":"2023-02-19T16:10:57.639+01:00"}
 ---
 
 up :: 
