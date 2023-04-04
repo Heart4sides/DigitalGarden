@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"","updated":"2023-04-03T12:08:57.655+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-03T12:08:57.655+02:00"}
 ---
 
 2023-04-02
