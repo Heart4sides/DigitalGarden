@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/philosophy-moc/","created":"","updated":"2023-02-18T15:44:44.601+01:00"}
+{"dg-publish":true,"permalink":"/atlas/philosophy-moc/","created":"2023-02-18T15:16:26.544+01:00","updated":"2023-02-18T15:44:44.601+01:00"}
 ---
 
 up :: 
