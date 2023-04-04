@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"MM DD, YYYY","updated":"2023-04-03T23:55:29.353+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-04T16:11:01.468+02:00"}
 ---
 
 
@@ -47,3 +47,13 @@ ctrl + schift + Q
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
+
+'<script src="https://utteranc.es/client.js"
+        repo="Heart4sides/Comment_Section"
+        issue-term="pathname"
+        theme="icy-dark"
+        crossorigin="anonymous"
+        async>
+</script>'
+
+
