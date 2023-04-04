@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/hedone/","created":"","updated":"2023-03-08T10:04:30.531+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/gods/hedone/","created":"2023-01-21T15:02:22.674+01:00","updated":"2023-03-08T10:04:30.531+01:00"}
 ---
 
 
