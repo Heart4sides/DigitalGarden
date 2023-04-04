@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entj/","created":"","updated":"2023-03-09T10:20:07.570+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-03-09T10:20:07.570+01:00"}
 ---
 
 
