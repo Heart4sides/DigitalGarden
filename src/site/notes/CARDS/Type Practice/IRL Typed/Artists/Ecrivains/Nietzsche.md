@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/nietzsche/","created":"","updated":"2023-02-18T15:24:06.517+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/nietzsche/","created":"2022-12-23T06:16:00.196+01:00","updated":"2023-02-18T15:24:06.517+01:00"}
 ---
 
 up :: [[ATLAS/Philosophy MOC\|Philosophy MOC]] | [[ATLAS/Examples\|Examples]]
