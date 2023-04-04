@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"","updated":"2023-03-08T08:28:52.730+01:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-03-08T08:28:52.730+01:00"}
 ---
 
 
