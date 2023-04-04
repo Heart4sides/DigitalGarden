@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/softlocking/","created":"","updated":"2023-02-01T19:57:15.661+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/softlocking/","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-02-01T19:57:15.661+01:00"}
 ---
 
 
