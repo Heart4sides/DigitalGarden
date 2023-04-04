@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","tags":["on/psychology"],"created":"","updated":"2023-03-27T17:11:53.658+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/attitude/","tags":["on/psychology"],"created":"2022-12-27T19:17:32.729+01:00","updated":"2023-03-27T17:11:53.658+02:00"}
 ---
 
 
