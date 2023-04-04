@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"","updated":"2023-04-02T17:24:05.292+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-02T17:24:05.292+02:00"}
 ---
 
 
