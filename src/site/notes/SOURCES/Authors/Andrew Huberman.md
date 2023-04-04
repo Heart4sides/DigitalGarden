@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/andrew-huberman/","created":"","updated":"2023-03-10T11:07:09.463+01:00"}
+{"dg-publish":true,"permalink":"/sources/authors/andrew-huberman/","created":"2023-02-01T18:05:58.167+01:00","updated":"2023-03-10T11:07:09.463+01:00"}
 ---
 
 up :: 
