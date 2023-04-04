@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/envy/","created":"","updated":"2023-03-08T08:28:53.791+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-03-08T08:28:53.791+01:00"}
 ---
 
 
