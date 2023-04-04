@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/mind-temple/","created":"","updated":"2023-03-09T10:20:08.334+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-03-09T10:20:08.334+01:00"}
 ---
 
 
