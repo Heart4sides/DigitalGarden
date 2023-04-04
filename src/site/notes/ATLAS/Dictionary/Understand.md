@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/understand/","created":"","updated":"2023-03-08T08:28:53.520+01:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-03-08T08:28:53.520+01:00"}
 ---
 
 
