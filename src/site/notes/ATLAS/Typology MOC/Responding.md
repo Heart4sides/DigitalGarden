@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/responding/","created":"","updated":"2023-02-01T00:01:03.983+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-01T00:01:03.983+01:00"}
 ---
 
 
