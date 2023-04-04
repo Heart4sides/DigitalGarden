@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/","created":"","updated":"2023-03-08T10:05:09.611+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-03-08T10:05:09.611+01:00"}
 ---
 
 
