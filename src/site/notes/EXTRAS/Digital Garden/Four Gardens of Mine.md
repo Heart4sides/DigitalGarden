@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"","updated":"2023-02-19T16:14:33.189+01:00"}
+{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-02-19T16:14:33.189+01:00"}
 ---
 
 
