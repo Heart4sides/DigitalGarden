@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-inferior/","created":"","updated":"2023-02-26T16:45:14.302+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi-inferior/","created":"2023-01-05T12:02:02.686+01:00","updated":"2023-02-26T16:45:14.302+01:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] |  |  | 
