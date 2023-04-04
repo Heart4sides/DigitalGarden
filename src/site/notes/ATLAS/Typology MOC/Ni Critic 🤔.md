@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni-critic/","created":"","updated":"2023-02-26T16:40:50.619+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni-critic/","created":"2023-01-01T23:02:50.204+01:00","updated":"2023-02-26T16:40:50.619+01:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] |  |  | 
