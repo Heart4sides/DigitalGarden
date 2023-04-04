@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/modesty/","created":"","updated":"2023-03-08T08:28:53.902+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/modesty/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-03-08T08:28:53.902+01:00"}
 ---
 
 
