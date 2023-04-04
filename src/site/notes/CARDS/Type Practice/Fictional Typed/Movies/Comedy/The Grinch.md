@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/comedy/the-grinch/","created":"","updated":"2023-02-27T19:46:42.972+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/fictional-typed/movies/comedy/the-grinch/","created":"2022-12-13T22:16:55.816+01:00","updated":"2023-02-27T19:46:42.972+01:00"}
 ---
 
 
