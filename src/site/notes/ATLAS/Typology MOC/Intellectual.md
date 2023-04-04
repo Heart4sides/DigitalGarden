@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/intellectual/","created":"","updated":"2023-02-26T15:54:55.970+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/intellectual/","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-02-26T15:54:55.970+01:00"}
 ---
 
 
