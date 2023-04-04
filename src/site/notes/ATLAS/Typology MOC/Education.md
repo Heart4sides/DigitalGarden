@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/education/","created":"","updated":"2023-03-09T10:12:54.165+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/education/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-03-09T10:12:54.165+01:00"}
 ---
 
 
