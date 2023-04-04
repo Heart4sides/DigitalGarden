@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-04T21:20:55.927+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-04T21:30:06.976+02:00"}
 ---
 
 Ref :: 
@@ -133,7 +133,8 @@ Henri Leroy
  03:58
  ```
 [[Bruno Le Maire\|Bruno Le Maire]]
-"Ca sent la fin de règne" [[ATLAS/Typology MOC/-Ne💦\|-Ne💦]]
+
+"Ca sent la fin de règne" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 ```timestamp 
  05:07
  ```
@@ -192,11 +193,16 @@ complexe, pervers
 	"Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
 	"C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]]
 ```timestamp 
- 06:25
+ [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
  ```
 [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://youtu.be/oMo0EMf5XCg?t=387)
 [[Olivier Faure\|Olivier Faure]]
-
+	Journaliste : "Vous souhaitez" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
+	Olivier : "Je me rappelle" [[-Si🏔️\|-Si🏔️]]
+	"Le président de la République avait une vision de l'exemplarité" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
+	"Ils font ce qu'ils veulent" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
+	"La meilleure façon d'inciter les gens" [[-systematic⚙️\|-systematic⚙️]]
+	
 
 # Commentaires
 <script src="https://utteranc.es/client.js"
