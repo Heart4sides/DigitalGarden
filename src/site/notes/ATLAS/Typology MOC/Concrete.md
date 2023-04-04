@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/concrete/","created":"","updated":"2023-03-08T10:14:40.784+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-03-08T10:14:40.784+01:00"}
 ---
 
 
