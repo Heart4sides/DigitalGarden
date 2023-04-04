@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ego/","created":"","updated":"2023-03-09T10:12:54.248+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-03-09T10:12:54.248+01:00"}
 ---
 
 
