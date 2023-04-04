@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground-of-responsibility/","created":"","updated":"2023-03-09T10:13:42.954+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-03-09T10:13:42.954+01:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Reflection\|Reflection]] 
