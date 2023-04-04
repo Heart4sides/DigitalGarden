@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/hero/","created":"","updated":"2023-03-09T10:20:08.016+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-03-09T10:20:08.016+01:00"}
 ---
 
 
