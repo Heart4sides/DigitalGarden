@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T18:23:33.616+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T18:28:33.236+02:00"}
 ---
 
 
@@ -188,7 +188,9 @@ complexe, pervers
  00:36
  ```
 [[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]] - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
-> [!Quote]- 
+> [!Quote]- [[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> 
 > "C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 > "Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 > "Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
