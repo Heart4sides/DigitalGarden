@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T12:37:29.024+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T12:52:48.379+02:00"}
 ---
 
 
@@ -199,6 +199,14 @@ complexe, pervers
  06:25
  ```
  [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
+
+```button
+name 06:25
+type link
+action https://youtu.be/oMo0EMf5XCg?t=387
+color 
+```
+
 [[Olivier Faure\|Olivier Faure]]
 	Journaliste : "Vous souhaitez" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 	Olivier : "Je me rappelle" [[-Si🏔️\|-Si🏔️]]
