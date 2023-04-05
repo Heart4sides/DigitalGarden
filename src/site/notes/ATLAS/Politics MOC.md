@@ -14,6 +14,7 @@ tags ::
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Présidents US/George Washington\|George Washington]]         | \-      |
 | [[ATLAS/Typology MOC/Guardian\|Guardian]]                                                                | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler\|Hitler]]                                             | ENTP    |
+| [[Jsuispascontent\|Jsuispascontent]]                                                                     | \-      |
 | [[SOURCES/Authors/Le Media Pour Tous\|Le Media Pour Tous]]                                               | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Marc Aurèle\|Marc Aurèle]]                                   | \-      |
 | [[SOURCES/Authors/Pierre-Yves Rougeyron\|Pierre-Yves Rougeyron]]                                         | \-      |
