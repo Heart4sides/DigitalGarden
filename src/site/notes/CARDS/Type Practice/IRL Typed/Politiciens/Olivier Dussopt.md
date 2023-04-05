@@ -19,7 +19,8 @@ Ref ::
 
 
 > [!Quote]- [[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+>(Source :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV))
+><iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 > 
 > "C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 > "Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
