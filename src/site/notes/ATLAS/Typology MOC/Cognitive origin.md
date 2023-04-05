@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/cognitive-origin/","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-02-18T16:06:51.215+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/cognitive-origin/","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-04-05T10:27:06.679+02:00"}
 ---
 
 
 The thing that we seek most in life. 
 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] 
-[[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] : [[ATLAS/Typology MOC/Justification\|Justification]]
+[[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ISTJ\|ISTJ]] : [[ATLAS/Typology MOC/Justification\|ATLAS/Typology MOC/Justification]]
 [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] : [[ATLAS/Typology MOC/Intimacy\|Intimacy]]
 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
