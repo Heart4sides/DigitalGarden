@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T13:12:36.299+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T13:14:00.446+02:00"}
 ---
 
 
@@ -200,7 +200,7 @@ complexe, pervers
  ```
  [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
 [[Olivier Faure\|Olivier Faure]]
->[!quote]- Closed by default 
+>[!quote]-
 >Journaliste : "Vous souhaitez" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 >Olivier : "Je me rappelle" [[-Si🏔️\|-Si🏔️]]
 >"Le président de la République avait une vision de l'exemplarité" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
