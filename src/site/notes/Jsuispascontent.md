@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-04T21:30:06.976+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T12:31:06.238+02:00"}
 ---
 
 Ref :: 
@@ -147,7 +147,7 @@ Henri Leroy
 ```timestamp 
  01:20
  ```
-[[Olivier Dussopt\|Olivier Dussopt]]
+[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
 Retraites
 ```timestamp 
  03:43
@@ -177,7 +177,9 @@ complexe, pervers
 ```timestamp 
  11:39
  ```
-[[Olivier Dussopt\|Olivier Dussopt]]
+[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
+{ #3f4474}
+
 
 # 08/02/2023
 ```timestamp-url 
@@ -187,15 +189,17 @@ complexe, pervers
  00:36
  ```
 [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://youtu.be/oMo0EMf5XCg?t=36)
-[[Olivier Dussopt\|Olivier Dussopt]]
+[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
 	"C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 	"Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 	"Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
 	"C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]]
+{ #b3c4ec}
+
 ```timestamp 
  [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
  ```
-[OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://youtu.be/oMo0EMf5XCg?t=387)
+ [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
 [[Olivier Faure\|Olivier Faure]]
 	Journaliste : "Vous souhaitez" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 	Olivier : "Je me rappelle" [[-Si🏔️\|-Si🏔️]]
