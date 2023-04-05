@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-03-08T10:14:42.092+01:00"}
+{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-05T10:27:06.907+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
@@ -258,7 +258,7 @@ Trans = narcissistic male fetichist who preys on women
  ```
 ![Pasted image 20230118015531.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118015531.png)
 [[Cruelty\|Cruelty]]
-[[ATLAS/Typology MOC/Justification\|Justification]]
+[[ATLAS/Typology MOC/Justification\|ATLAS/Typology MOC/Justification]]
 ```timestamp 
  01:13:14
  ```
