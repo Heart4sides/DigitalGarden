@@ -48,6 +48,7 @@
 | [[ATLAS/Dictionary/Intention\|Intention]]                                 | intend, intended, intent                                                       |
 | [[ATLAS/Dictionary/Intern\|Intern]]                                       | Internal                                                                       |
 | [[ATLAS/Dictionary/Journey\|Journey]]                                     | \-                                                                             |
+| [[ATLAS/Dictionary/Justify\|Justify]]                                     | \-                                                                             |
 | [[ATLAS/Dictionary/Kudos\|Kudos]]                                         | kudo                                                                           |
 | [[ATLAS/Dictionary/Lead\|Lead]]                                           | \-                                                                             |
 | [[ATLAS/Dictionary/Meaning\|Meaning]]                                     | meaningful, meanings, meaningless                                              |
