@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-02-19T16:46:18.384+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-04-05T10:27:06.779+02:00"}
 ---
 
 
@@ -20,7 +20,7 @@ Integrity
 [[ATLAS/Typology MOC/Lust\|Lust]] | [[ATLAS/Typology MOC/Wrath\|Wrath]]
 
 **COGNITIVE ORIGIN**
-[[ATLAS/Typology MOC/Intimacy\|Intimacy]] | [[ATLAS/Typology MOC/Justification\|Justification]]
+[[ATLAS/Typology MOC/Intimacy\|Intimacy]] | [[ATLAS/Typology MOC/Justification\|ATLAS/Typology MOC/Justification]]
 
 **ASPIRATION POLE**
 [[ATLAS/Typology MOC/Objectification\|Objectification]] | [[ATLAS/Typology MOC/Impartiality\|Impartiality]]
