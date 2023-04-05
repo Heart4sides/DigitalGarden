@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-03T22:24:03.523+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-05T10:27:06.761+02:00"}
 ---
 
 
@@ -27,7 +27,7 @@
  
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
-[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] : [[ATLAS/Typology MOC/Justification\|Justification]]
+[[ATLAS/Typology MOC/Cognitive origin\|Cognitive origin]] : [[ATLAS/Typology MOC/Justification\|ATLAS/Typology MOC/Justification]]
 [[Living Virtu\|Living Virtu]] : [[ATLAS/Typology MOC/Absolution\|Absolution]]
 [[Deadly Sin\|Deadly Sin]] : [[ATLAS/Typology MOC/Wrath\|Wrath]]
 [[Shadow Pole\|Shadow Pole]] : [[ATLAS/Typology MOC/Discrimination\|Discrimination]]
