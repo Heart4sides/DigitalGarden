@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-04T16:59:34.010+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-05T13:13:49.713+02:00"}
 ---
 
 
-> [!FAQ]- Closed by default
+> [!FAQ]-
 > what ?
 
 ## Types 
