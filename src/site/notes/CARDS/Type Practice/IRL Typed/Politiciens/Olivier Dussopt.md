@@ -18,12 +18,11 @@ Ref ::
 
 
 
-[OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://youtu.be/oMo0EMf5XCg?t=36)
-[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
-	"C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
-	"Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
-	"Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
-	"C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]] 
+> [!Quote]- 
+> "C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
+> "Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
+> "Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
+> "C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]] 
 
 </div></div>
 
