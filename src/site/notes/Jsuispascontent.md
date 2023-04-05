@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T13:14:00.446+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T13:32:40.669+02:00"}
 ---
 
 
@@ -187,25 +187,26 @@ complexe, pervers
 ```timestamp 
  00:36
  ```
-[OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://youtu.be/oMo0EMf5XCg?t=36)
-[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]]
-	"C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
-	"Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
-	"Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
-	"C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]]
+[[CARDS/Type Practice/IRL Typed/Politiciens/Olivier Dussopt\|Olivier Dussopt]] - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
+> [!Quote]- 
+> "C'est une évidence" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
+> "Qu'est-ce que vous en savez ?" [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
+> "Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
+> "C'est un fait que je conteste" [[ATLAS/Functions & Attitudes/-direct➡️\|-direct➡️]]
 { #b3c4ec}
 
 ```timestamp 
  06:25
  ```
- [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
-[[Olivier Faure\|Olivier Faure]]
+ [06:25](https://youtu.be/oMo0EMf5XCg?t=387) - [[Olivier Faure\|Olivier Faure]]
 >[!quote]-
 >Journaliste : "Vous souhaitez" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 >Olivier : "Je me rappelle" [[-Si🏔️\|-Si🏔️]]
 >"Le président de la République avait une vision de l'exemplarité" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 >"Ils font ce qu'ils veulent" [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
 >"La meilleure façon d'inciter les gens" [[-systematic⚙️\|-systematic⚙️]]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qt4g7Djy5AE?start=203" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Commentaires
 <script src="https://utteranc.es/client.js"
