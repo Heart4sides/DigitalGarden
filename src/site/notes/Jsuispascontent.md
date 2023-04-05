@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/jsuispascontent/","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T12:31:06.238+02:00"}
+{"dg-publish":true,"permalink":"/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-05T12:37:29.024+02:00"}
 ---
 
-Ref :: 
 
 # 02/04/2023
 ```timestamp-url 
@@ -197,7 +196,7 @@ complexe, pervers
 { #b3c4ec}
 
 ```timestamp 
- [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
+ 06:25
  ```
  [06:25](https://youtu.be/oMo0EMf5XCg?t=387) 
 [[Olivier Faure\|Olivier Faure]]
