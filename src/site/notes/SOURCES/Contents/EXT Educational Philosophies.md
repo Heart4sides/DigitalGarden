@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T20:32:01.352+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:07:17.817+02:00"}
 ---
 
-🏠 :: [[ATLAS/Philosophy 🗺️\|Philosophy]]
+🏠 :: [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]
 ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf](https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf)
 
 ## Comparison 
@@ -56,9 +56,11 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 	- Stability [[-result🎯\|-result🎯]]
 	- Absolute rules [[-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
-	- 5/5 - ESTJ 
-	- 4/5 - INFP, ISTJ, INTP, ISFJ
-	- 3/5 - ENFP
+	- 4/4 - ESTJ 
+	- 3/4 - INFP, ISTJ, INTP, ISFJ, ENTJ
+	- 2/4 - INTJ, ISFP,  ENFP, ENTP, ESFJ
+	- 1/4 - ENFJ, ESTP, ESFP 
+	- 0/4 - INFJ, ISTP
 
 
 
