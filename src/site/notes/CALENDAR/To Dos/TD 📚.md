@@ -6,9 +6,9 @@
 # Unread yet 
 | File                                                                                                                           | Author                     | Cover                                                                                                                      | Pages | Category                    |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----- | --------------------------- |
-| [[SOURCES/Contents/William Strauss Neil Howe - The Fourth Turning\|William Strauss Neil Howe - The Fourth Turning]]         | William Strauss, Neil Howe | ![\|100](https://books.google.com/books/content?id=d8bBFGJq79sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 400   | History                     |
 | [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Linda V Berens - Understanding Yourself and Others]] | Linda V. Berens            | ![\|100](https://books.google.com/books/content?id=7AbYVKn0_MYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 52    | Myers-Briggs Type Indicator |
 | [[SOURCES/Contents/Johann Chapoutot - Libres d'obéir\|Johann Chapoutot - Libres d'obéir]]                                   | Johann Chapoutot           | ![\|100](https://www.cairn.info/vign_rev/GALL_NRFB/GALL_CHAPO_2020_01.jpg)                                                 | 176   | \-                          |
+| [[SOURCES/Contents/William Strauss Neil Howe - The Fourth Turning\|William Strauss Neil Howe - The Fourth Turning]]         | William Strauss, Neil Howe | ![\|100](https://books.google.com/books/content?id=d8bBFGJq79sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api) | 400   | History                     |
 
 ---
 # Reading ongoing 
