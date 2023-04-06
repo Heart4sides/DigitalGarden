@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:07:17.817+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:16:21.720+02:00"}
 ---
 
 🏠 :: [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]
@@ -56,11 +56,11 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 	- Stability [[-result🎯\|-result🎯]]
 	- Absolute rules [[-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
-	- 4/4 - ESTJ 
-	- 3/4 - INFP, ISTJ, INTP, ISFJ, ENTJ
-	- 2/4 - INTJ, ISFP,  ENFP, ENTP, ESFJ
-	- 1/4 - ENFJ, ESTP, ESFP 
-	- 0/4 - INFJ, ISTP
+	- 4/4 - [[ATLAS/Typology MOC/Philosopher\|Dquad]] ESTJ 
+	- 3/4 - [[ATLAS/Typology MOC/Philosopher\|Dquad]] (INFP, ISTJ), [[ATLAS/Typology MOC/Crusader\|Aquad]] (INTP, ISFJ), [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]](ENTJ)
+	- 2/4 - [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]] (INTJ, ISFP),  [[ATLAS/Typology MOC/Philosopher\|Dquad]] ENFP, [[ATLAS/Typology MOC/Crusader\|Aquad]] (ENTP, ESFJ)
+	- 1/4 - [[ATLAS/Typology MOC/Templar\|BQuad]] (ENFJ, ESTP), [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]] ESFP 
+	- 0/4 - [[ATLAS/Typology MOC/Templar\|BQuad]] (INFJ, ISTP)
 
 
 
