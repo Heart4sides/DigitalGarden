@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-03T22:24:03.681+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-06T19:47:54.887+02:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 [[ATLAS/Typology MOC/Si Nemesis 😟\|Si Nemesis 😟]] | [[ATLAS/Typology MOC/Si Critic 🤔\|Si Critic 🤔]] | [[ATLAS/Typology MOC/Si Trickster 🤡\|Si Trickster 🤡]] | [[ATLAS/Typology MOC/Si Demon 😈\|Si Demon 😈]]
 
 ## Relationships 
-[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
 [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] : [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  :[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
 
