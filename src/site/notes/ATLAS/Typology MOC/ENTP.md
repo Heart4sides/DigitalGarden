@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-02T17:23:55.579+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-06T23:01:48.387+02:00"}
 ---
 
 #type
@@ -16,7 +16,7 @@
 [[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]): ESFP
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]]
+[[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]]
 [[ATLAS/Typology MOC/Intellectual\|Intellectual]] : [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
