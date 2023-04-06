@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:55:09.912+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-06T19:47:54.559+02:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Informative\|Informative]] :
 - [[ATLAS/Typology MOC/Background\|Background]] : [[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] | [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+[[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] | [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
 
 ## Temple 
 
