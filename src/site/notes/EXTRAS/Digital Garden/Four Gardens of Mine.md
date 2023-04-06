@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-02-19T16:14:33.189+01:00"}
+{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-04-06T19:04:27.194+02:00"}
 ---
 
 
@@ -8,3 +8,9 @@ Growing ideas on...
 - [[ATLAS/Philosophy MOC\|Philosophy]] 
 - [[ATLAS/Politics MOC\|Politics]] 
 - 
+
+#on/psychology 
+#on/education 
+#on/politics 
+#on/philosophy 
+#on/health 
