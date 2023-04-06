@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/nietzsche/","created":"2022-12-23T06:16:00.196+01:00","updated":"2023-04-06T19:33:31.190+02:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/nietzsche/","created":"2022-12-23T06:16:00.196+01:00","updated":"2023-04-06T20:58:19.707+02:00"}
 ---
 
-up :: [[ATLAS/Philosophy 🗺️\|Philosophy 🗺️]] | [[ATLAS/Examples\|Examples]]
+up :: [[ATLAS/moc · Philosophy 🗺️\|moc · Philosophy 🗺️]] | [[ATLAS/Examples\|Examples]]
 ref :: 
 tags :: #on/philosophy #examples 
 
