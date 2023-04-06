@@ -8,7 +8,7 @@ tags ::
 
 | File                                                                                                        | Ch_Type |
 | ----------------------------------------------------------------------------------------------------------- | ------- |
-| [[SOURCES/Authors/Contrapoints\|Contrapoints]]                                                           | \-      |
+| [[SOURCES/Authors/Contrapoints\|Contrapoints]]                                                           | INFJ    |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Présidents US/Eisenhower\|Eisenhower]]                       | \-      |
 | [[SOURCES/Authors/Etienne Chouard\|Etienne Chouard]]                                                     | \-      |
 | [[EXTRAS/Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]                                     | \-      |
