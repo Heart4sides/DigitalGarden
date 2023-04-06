@@ -11,10 +11,12 @@ tags ::
 | [[SOURCES/Authors/Contrapoints\|Contrapoints]]                                                           | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Présidents US/Eisenhower\|Eisenhower]]                       | \-      |
 | [[SOURCES/Authors/Etienne Chouard\|Etienne Chouard]]                                                     | \-      |
+| [[EXTRAS/Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]                                     | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Présidents US/George Washington\|George Washington]]         | \-      |
 | [[ATLAS/Typology MOC/Guardian\|Guardian]]                                                                | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler\|Hitler]]                                             | ENTP    |
 | [[Jsuispascontent\|Jsuispascontent]]                                                                     | \-      |
+| [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                        | \-      |
 | [[SOURCES/Authors/Le Media Pour Tous\|Le Media Pour Tous]]                                               | \-      |
 | [[CARDS/Type Practice/IRL Typed/Politiciens/Marc Aurèle\|Marc Aurèle]]                                   | \-      |
 | [[SOURCES/Authors/Pierre-Yves Rougeyron\|Pierre-Yves Rougeyron]]                                         | \-      |
