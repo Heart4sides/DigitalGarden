@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T19:47:51.329+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T21:21:16.774+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
