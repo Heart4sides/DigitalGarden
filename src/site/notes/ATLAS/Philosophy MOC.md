@@ -1,29 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/philosophy-moc/","created":"2023-02-18T15:16:26.544+01:00","updated":"2023-02-18T15:44:44.601+01:00"}
+{"dg-publish":true,"permalink":"/atlas/philosophy-moc/","created":"2023-02-18T15:16:26.544+01:00","updated":"2023-04-06T19:31:24.455+02:00"}
 ---
 
 up :: 
 ref :: 
 tags :: 
 
-
-| File                                                                                  | Ch_Type |
-| ------------------------------------------------------------------------------------- | ------- |
-| [[SOURCES/Authors/Alain Badiou\|Alain Badiou]]                                     | \-      |
-| [[SOURCES/Authors/Alain de Botton\|Alain de Botton]]                               | \-      |
-| [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]                                       | \-      |
-| [[SOURCES/Authors/Carl Jung\|Carl Jung]]                                           | \-      |
-| [[SOURCES/Authors/Contrapoints\|Contrapoints]]                                     | \-      |
-| [[SOURCES/EXT Educational Philosophies\|EXT Educational Philosophies]]             | \-      |
-| [[EXTRAS/Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]               | \-      |
-| [[SOURCES/Contents/Generational Theory\|Generational Theory]]                      | \-      |
-| [[CARDS/Type Practice/Fictional Typed/Movies/Biopic/Hannah Arendt\|Hannah Arendt]] | INTJ    |
-| [[SOURCES/Authors/Jacob Geller\|Jacob Geller]]                                     | \-      |
-| [[SOURCES/Authors/Jacques Rancière\|Jacques Rancière]]                             | \-      |
-| [[SOURCES/Type Theory by CSJ/Functions/Kant\|Kant]]                                | INTP    |
-| [[SOURCES/Authors/Linda Berens\|Linda Berens]]                                     | \-      |
-| [[SOURCES/Authors/Monsieur Phi\|Monsieur Phi]]                                     | \-      |
-| [[CARDS/Type Practice/IRL Typed/Artists/Ecrivains/Nietzsche\|Nietzsche]]           | INTJ    |
-| [[SOURCES/Authors/Philosophy Maps\|Philosophy Maps]]                               | \-      |
+> [!quote] Authors list
+> (Source :: )
+>| File                                                      | Type | Ref                                                                                                                                  |
+| --------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [[SOURCES/Authors/Alain Badiou\|Alain Badiou]]         | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/Alain de Botton\|Alain de Botton]]   | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]           | ENTP | [Home](https://csjoseph.life/) \| [Udja Typing App](https://www.udja.app/#/) \| [Youtube Channel](https://www.youtube.com/@CSJoseph) |
+| [[SOURCES/Authors/Carl Jung\|Carl Jung]]               | INTP | [[SOURCES/Contents/CG Jung - Aion\|Aion]] \| Psychological Types                                                                                      |
+| [[SOURCES/Authors/Contrapoints\|Contrapoints]]         | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/Jacob Geller\|Jacob Geller]]         | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/Jacques Rancière\|Jacques Rancière]] | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/Linda Berens\|Linda Berens]]         | \-   | [Home](https://lindaberens.com/) \| [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Understanding Yourself and Others]]        |
+| [[SOURCES/Authors/Monsieur Phi\|Monsieur Phi]]         | \-   | \-                                                                                                                                   |
+| [[SOURCES/Authors/Philosophy Maps\|Philosophy Maps]]   | \-   | \-                                                                                                                                   |
 
 
