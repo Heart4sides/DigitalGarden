@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-03T23:47:32.604+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-06T19:47:54.516+02:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |   |  [[ATLAS/Typology MOC/INTP\|INTP]]      |        |  
 
 [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] 
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid
 [[ATLAS/Typology MOC/Interaction Style\|Interaction Style]] : 
