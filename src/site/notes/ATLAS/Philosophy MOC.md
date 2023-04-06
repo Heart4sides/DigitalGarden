@@ -15,6 +15,7 @@ tags ::
 | [[SOURCES/Authors/Carl Jung\|Carl Jung]]                                           | \-      |
 | [[SOURCES/Authors/Contrapoints\|Contrapoints]]                                     | \-      |
 | [[SOURCES/EXT Educational Philosophies\|EXT Educational Philosophies]]             | \-      |
+| [[EXTRAS/Digital Garden/Four Gardens of Mine\|Four Gardens of Mine]]               | \-      |
 | [[SOURCES/Contents/Generational Theory\|Generational Theory]]                      | \-      |
 | [[CARDS/Type Practice/Fictional Typed/Movies/Biopic/Hannah Arendt\|Hannah Arendt]] | INTJ    |
 | [[SOURCES/Authors/Jacob Geller\|Jacob Geller]]                                     | \-      |
