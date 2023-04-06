@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T21:21:16.774+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T23:01:49.556+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
@@ -39,7 +39,7 @@
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Movement\|Movement]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
+[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
