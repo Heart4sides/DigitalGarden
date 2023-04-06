@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-03-08T10:05:09.611+01:00"}
+{"dg-publish":true,"permalink":"/cards/type-practice/irl-typed/artists/ecrivains/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-06T19:47:55.062+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Analyse de Yves Leclerc :
 "Libre au sein de sa famille, ils se sentait enfermé ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[ATLAS/Typology MOC/Si 🏔️\|disciplin]]e militaire."
 
 > "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]]) et qu'il a fait régner l'ordre ([[ATLAS/Typology MOC/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
-- [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+- [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
 - [[ATLAS/Typology MOC/Outcome\|Outcome]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
