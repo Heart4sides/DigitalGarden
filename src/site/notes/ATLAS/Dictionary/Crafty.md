@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-03-08T08:28:52.730+01:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-06T19:47:54.047+02:00"}
 ---
 
 
 ## Related Notes 
 - [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
-- [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+- [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
 
 ## Wordnik
 
