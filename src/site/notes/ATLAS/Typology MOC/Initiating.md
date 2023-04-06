@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-03T12:08:57.655+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-06T19:47:54.591+02:00"}
 ---
 
 2023-04-02
@@ -17,7 +17,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Initiating\|Initiating]] :
 
 ## Functions 
 [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] 
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] 
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] 
 
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]]
