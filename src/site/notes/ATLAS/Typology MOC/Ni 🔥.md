@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-02T17:24:05.292+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T19:47:54.820+02:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 
 ## Relationships 
 [[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
-[[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] : [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]]
+[[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] : [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
