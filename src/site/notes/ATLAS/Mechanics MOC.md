@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mechanics-moc/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-03-09T10:20:07.460+01:00"}
+{"dg-publish":true,"permalink":"/atlas/mechanics-moc/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-06T19:47:54.413+02:00"}
 ---
 
 ## Functions
 [[ATLAS/Typology MOC/Judgement\|Judgement]] | [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Attitudes
 [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] | [[ATLAS/Typology MOC/Child 👼\|Child 👼]] | [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
