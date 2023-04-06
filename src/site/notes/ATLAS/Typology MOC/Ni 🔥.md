@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T19:47:54.820+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-06T23:01:48.998+02:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 [[ATLAS/Typology MOC/Reflection\|Reflection]]  : [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Movement\|Movement]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
+[[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]] | [[ATLAS/Typology MOC/Abstract\|Abstract]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]]
