@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/movement/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:55:10.015+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/movement/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-06T19:47:54.617+02:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Movement\|Movement]] :
 - [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
