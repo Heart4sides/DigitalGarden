@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:16:21.720+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:24:22.354+02:00"}
 ---
 
 🏠 :: [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]
@@ -38,16 +38,13 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 
 
 ## Perennialism
-[[ATLAS/Typology MOC/Philosopher\|Philosopher]] temperament 
 >[!Quote]- Perennialism 
->"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] [#Ti] of Western civilization."
->[[understandings\|understandings]] [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]] 
->[[great\|great]] [[-Fi🔱\|-Fi🔱]]
->[[ideas\|ideas]] [[-Ti 🗡️\|-Ti 🗡️]]
+>"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] of Western civilization."
+ [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]] [[-Fi🔱\|-Fi🔱]] 
 >
->"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most essential level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
+>"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
 >
->"The loftiest accomplishments [imo [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]] of humankind are emphasized– the great works of literature and art, the laws [[[-Te🏹\|[-Te🏹]]] or [[ATLAS/Dictionary/Principle\|principles]] [[[-Fi🔱\|[-Fi🔱]]] of science."
+>"The loftiest [[accomplishments\|accomplishments]] of humankind are emphasized– the great works of literature and art, the [[laws\|laws]] or [[ATLAS/Dictionary/Principle\|principles]] of science."
 - Preference for 
 	- Other people's original thoughts with respect to the source [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
 	- Achievements, actions held in high regard [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]]
@@ -59,11 +56,8 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 	- 4/4 - [[ATLAS/Typology MOC/Philosopher\|Dquad]] ESTJ 
 	- 3/4 - [[ATLAS/Typology MOC/Philosopher\|Dquad]] (INFP, ISTJ), [[ATLAS/Typology MOC/Crusader\|Aquad]] (INTP, ISFJ), [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]](ENTJ)
 	- 2/4 - [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]] (INTJ, ISFP),  [[ATLAS/Typology MOC/Philosopher\|Dquad]] ENFP, [[ATLAS/Typology MOC/Crusader\|Aquad]] (ENTP, ESFJ)
-	- 1/4 - [[ATLAS/Typology MOC/Templar\|BQuad]] (ENFJ, ESTP), [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]] ESFP 
-	- 0/4 - [[ATLAS/Typology MOC/Templar\|BQuad]] (INFJ, ISTP)
-
-
-
+	- 1/4 - [[ATLAS/Typology MOC/Templar\|Bquad]] (ENFJ, ESTP), [[ATLAS/Typology MOC/4. Wayfarer\|Gquad]] ESFP 
+	- 0/4 - [[ATLAS/Typology MOC/Templar\|Bquad]] (INFJ, ISTP)
 
 ## Essentialism
 > "Essentialists believe that there is a common core of knowledge ([[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]) that needs to be transmitted to students in a [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]], [[ATLAS/Typology MOC/Si 🏔️\|disciplined]] ([[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]) way."
