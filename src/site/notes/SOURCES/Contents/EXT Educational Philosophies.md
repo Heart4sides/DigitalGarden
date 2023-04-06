@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:24:22.354+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T21:25:41.999+02:00"}
 ---
 
 🏠 :: [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]
@@ -39,7 +39,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 
 ## Perennialism
 >[!Quote]- Perennialism 
->"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] of Western civilization."
+>"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] of Western civilization." 
  [[ATLAS/Functions & Attitudes/-Te🏹\|-Te🏹]] [[-Fi🔱\|-Fi🔱]] 
 >
 >"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
