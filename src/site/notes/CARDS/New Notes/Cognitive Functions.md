@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-03T23:06:56.070+02:00"}
+{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-06T19:47:54.948+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Example : some prefer to judge wether something is true or false, while others p
 These preferences exclude each other : 
 - [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] (*Deduce*) excludes [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] (*Weigh*) : to judge wether sth is true / false ([[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]) one must retrain itself to judge whether it is good / bad ([[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]])
 - [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] (*Sense*) excludes [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] (*Imagine*) 
-- [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] (*React*) excludes [[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] (*Predict*)
+- [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] (*React*) excludes [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] (*Predict*)
 - [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] (*Believe*) excludes [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] (*Empathize*) 
 
 ## IPOF
@@ -23,7 +23,7 @@ a --> b --> Output --> Feedback --> Input
 ```
 
 [[Input\|Input]] : 
-	[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] : possibilities
+	[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] : possibilities
 	[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] : beliefs 
 [[Process\|Process]] : 
 	[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] : desire
@@ -44,7 +44,7 @@ Ne --> Ni --> Se --> Si --> Ne
 
 ```
 
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] : [[ATLAS/Typology MOC/Ne 💦\|Extroverted Intuition]]
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] : [[ATLAS/Typology MOC/Ne 💧\|Extroverted Intuition]]
 [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] : [[ATLAS/Typology MOC/Ni 🔥\|Introverted Intuition]]
 [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] : [[ATLAS/Typology MOC/Se 🌪️\|Extroverted Sensation]]
 [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] : [[ATLAS/Typology MOC/Si 🏔️\|Introverted Sensation]]
