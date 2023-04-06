@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:55:09.875+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-06T19:47:54.459+02:00"}
 ---
 
 ## Keywords 
@@ -17,7 +17,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Abstract\|Abstract]] :
 - [[ATLAS/Typology MOC/Idealist\|Idealist]] : [[ATLAS/Typology MOC/INFP\|INFP]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] | [[ATLAS/Typology MOC/ENFP\|ENFP]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] 
