@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-05T13:13:49.713+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-06T19:47:54.838+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 | |  |    | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
 [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
-[[ATLAS/Typology MOC/Ne 💦\|Ne 💦]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
