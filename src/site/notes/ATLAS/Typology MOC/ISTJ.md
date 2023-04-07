@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-07T16:23:21.275+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-07T16:48:45.084+02:00"}
 ---
 
 
@@ -44,7 +44,7 @@ ctrl + schift + Q
 [[EXTRAS/Templates/TPL Type\|TPL Type]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
 [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Inferior\|Cognitive attitude of the Inferior]]
-[[ATLAS/Mechanics MOC\|Mechanics MOC]]
+[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
