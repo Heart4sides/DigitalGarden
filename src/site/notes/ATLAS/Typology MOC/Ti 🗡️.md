@@ -4,7 +4,7 @@
 
 ## Keywords
 - Introverted Thinking
-- [[ATLAS/Typology MOC/Deductive\|Deductive]]
+- [[ATLAS/Dictionary/Deductive\|Deductive]]
 - Personal [[ATLAS/Typology MOC/Knowledge\|Knowledge]]
 - Personal Thinking
 - [[ATLAS/Dictionary/Certain\|Certain]]
