@@ -51,7 +51,7 @@
 | [[ATLAS/Typology MOC/Ni Critic 🤔\|Ni Critic 🤔]]       | Ni       | 6-Critic     | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] \|  \|  \|                                              |
 | [[ATLAS/Typology MOC/Se Critic 🤔\|Se Critic 🤔]]       | Se       | 6-Critic     | \-                                                                |
 | [[ATLAS/Typology MOC/Si Critic 🤔\|Si Critic 🤔]]       | Si       | 6-Critic     | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] \|  \|  \|                                             |
-| [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]]       | Te       | 6-Critic     | [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] \|  \|  \|                                              |
+| [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]]       | Te       | 6-Critic     | [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] \| [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]]                |
 | [[ATLAS/Typology MOC/Ti Critic 🤔\|Ti Critic 🤔]]       | Ti       | 6-Critic     | \-                                                                |
 | [[ATLAS/Typology MOC/Fe Trickster 🤡\|Fe Trickster 🤡]] | Fe       | 7-Trickster  | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] \| [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] \| [[ATLAS/Typology MOC/INTJ\|INTJ]] \| [[ATLAS/Typology MOC/ISTJ\|ISTJ]]             |
 | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | Fi       | 7-Trickster  | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] \| [[ATLAS/Typology MOC/Trickster 🤡\|Trickster]]  \| [[ATLAS/Typology MOC/ENTP\|ENTP]] \| [[ATLAS/Typology MOC/ESTP\|ESTP]] |
