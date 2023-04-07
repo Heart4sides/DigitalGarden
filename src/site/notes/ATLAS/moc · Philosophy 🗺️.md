@@ -20,7 +20,8 @@
 
 
 # Content
-| File                                                                               | Ref                                                                                                                    |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [[SOURCES/Contents/EXT Educational Philosophies\|EXT Educational Philosophies]] | \-                                                                                                                     |
-| [[SOURCES/Contents/Generational Theory\|Generational Theory]]                   | [[SOURCES/Contents/William Strauss Neil Howe - The Fourth Turning\|William Strauss Neil Howe - The Fourth Turning]] |
+| File                                                                                                                                         | Ref                                                                                                                    |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| [[SOURCES/Contents/EXT Educational Philosophies\|EXT Educational Philosophies]]                                                           | \-                                                                                                                     |
+| [[SOURCES/Contents/Generational Theory\|Generational Theory]]                                                                             | [[SOURCES/Contents/William Strauss Neil Howe - The Fourth Turning\|William Strauss Neil Howe - The Fourth Turning]] |
+| [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]] | [Noam Chomsky: The Strange Bubble of French Intellectuals - YouTube](https://youtu.be/772WncdxCSw)                     |
