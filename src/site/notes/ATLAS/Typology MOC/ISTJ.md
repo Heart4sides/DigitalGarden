@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-06T23:01:48.904+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-07T16:23:21.275+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 ==[[ATLAS/Typology MOC/Superego 👹\|Superego 👹]]== ([[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]):   [[ATLAS/Typology MOC/INFJ\|INFJ]]
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]]
+[[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Progression➕\|Progression➕]]
 [[ATLAS/Typology MOC/Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] 
 
 ## Virtu & Vice
