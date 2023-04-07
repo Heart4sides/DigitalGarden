@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-06T23:01:48.656+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-07T16:23:20.761+02:00"}
 ---
 
 Tags :: #type 
@@ -17,7 +17,7 @@ Tags :: #type
 [[ATLAS/Typology MOC/Superego 👹\|Superego 👹]] ([[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]]):  ENTJ 
 
 ## Type Grid 
-[[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]]
+[[ATLAS/Typology MOC/Starter\|Starter]] : [[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Progression➕\|Progression➕]]
 [[ATLAS/Typology MOC/Guardian\|Guardian]]  : [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] 
 
 ## Virtu & Vice
