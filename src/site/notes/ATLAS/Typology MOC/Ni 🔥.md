@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-07T16:23:21.376+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-07T16:48:45.470+02:00"}
 ---
 
 
@@ -52,7 +52,7 @@
 ## Mentions 
 ctrl + schift + Q
 - [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
-- [[ATLAS/Mechanics MOC\|Mechanics MOC]]
+- [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 - [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]]
 - [[EXTRAS/Templates/TPL Function\|TPL Function]]
 - [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
