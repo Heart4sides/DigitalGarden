@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-03-09T10:20:08.334+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-07T16:48:45.386+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Obstinance by CSJ\|Obstinance by CSJ]]
 [[ATLAS/Dictionary/Doubt\|Doubt]]
 [[ATLAS/Dictionary/The How\|The How]]
-[[ATLAS/Mechanics MOC\|Mechanics MOC]]
+[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 [[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] 
 [[ATLAS/Typology MOC/Education\|Education]]
 [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]]
