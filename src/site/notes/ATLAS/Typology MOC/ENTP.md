@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-07T16:23:20.673+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-07T16:48:44.017+02:00"}
 ---
 
 #type
@@ -38,7 +38,7 @@
 - [[SOURCES/Type Theory by CSJ/Types Theory/Confessions of an ENTP\|Confessions of an ENTP]]
 - [[CARDS/Type Practice/IRL Typed/Politiciens/Hitler\|Hitler]]
 - [[ATLAS/Dictionary/Certain\|Certain]]
-- [[ATLAS/Mechanics MOC\|Mechanics MOC]]
+- [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 
 ## Examples 
 [[ATLAS/Examples\|Examples]]
