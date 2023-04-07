@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-07T13:03:01.915+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-07T16:48:45.780+02:00"}
 ---
 
 
 ## Depth Psychology - 16 Types System
-- [[ATLAS/Mechanics MOC\|Mechanics MOC]]
+- [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 - Base Unit : [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]] 
 - Dynamics within the Self : [[ATLAS/Typology MOC/4 sides of the Mind\|4 sides of the Mind]] 
 - Behavioral Typing System : [[ATLAS/Typology MOC/Type Grid\|Type Grid]]
