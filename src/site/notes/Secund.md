@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-04-07T16:08:06.154+02:00"}
+{"dg-publish":true,"permalink":"/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-04-07T19:03:38.082+02:00"}
 ---
 
 Ref :: 
