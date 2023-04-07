@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-06T19:47:54.047+02:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/crafty/","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-07T10:47:43.710+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 *adjective*: Skilled in or marked by underhandedness (manigance, dissimulation), deviousness (sournoiserie, perfidie), or deception.
 *adjective*: Skillful; dexterous.
 *undefined*: Possessing or displaying skill, especially manual skill or art: as, “<em>crafty</em> work,”
-*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; cunning; artful; wily; sly.
+*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; [[cunning\|cunning]]; artful; wily; sly.
 *undefined*: Characterized by or springing from craft or deceit: as, <em>crafty</em> wiles.
 *adjective*: Relating to, or characterized by, craft or skill; dexterous.
 *adjective*: Possessing dexterity; skilled; skillful.
