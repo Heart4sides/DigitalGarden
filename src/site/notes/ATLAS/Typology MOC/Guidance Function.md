@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-03-09T10:12:54.266+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-07T16:48:44.603+02:00"}
 ---
 
 
@@ -19,5 +19,5 @@
 - Learns from the [[ATLAS/Typology MOC/Gateway\|Gateway]]
 
 
-[[ATLAS/Mechanics MOC\|Mechanics MOC]]
+[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 Source of the concept : [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
