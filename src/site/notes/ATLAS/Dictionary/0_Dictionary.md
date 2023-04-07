@@ -23,6 +23,7 @@
 | [[ATLAS/Dictionary/Covert Contract\|Covert Contract]]                     | \-                                                                             |
 | [[ATLAS/Dictionary/Crafty\|Crafty]]                                       | \-                                                                             |
 | [[ATLAS/Dictionary/Culture\|Culture]]                                     | \-                                                                             |
+| [[ATLAS/Dictionary/Deductive\|Deductive]]                                 | \-                                                                             |
 | [[ATLAS/Dictionary/Deserve\|Deserve]]                                     | \-                                                                             |
 | [[ATLAS/Dictionary/Désinvolte\|Désinvolte]]                               | \-                                                                             |
 | [[ATLAS/Dictionary/diffidence\|diffidence]]                               | \-                                                                             |
