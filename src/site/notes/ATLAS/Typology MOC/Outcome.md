@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-06T23:01:49.088+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-07T16:23:21.438+02:00"}
 ---
 
 
-VS [[ATLAS/Typology MOC/Progression🔦\|Progression🔦]] 
+VS [[ATLAS/Typology MOC/Progression➕\|Progression➕]] 
 
 ## Keywords
 - Ensure the quality of the result
