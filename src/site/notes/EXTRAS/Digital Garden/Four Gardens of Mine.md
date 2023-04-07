@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-04-06T20:58:19.744+02:00"}
+{"dg-publish":true,"permalink":"/extras/digital-garden/four-gardens-of-mine/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-04-07T10:29:30.311+02:00"}
 ---
 
 
 Growing ideas on...
-- [[ATLAS/Psychology MOC\|Psychology MOC]] : from [[SOURCES/John Beebe/John Beebe\|John Beebe]]'s 8 functions model & [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]'s 4 sides of the mind 
-- [[ATLAS/moc · Philosophy 🗺️\|Philosophy]] 
-- [[ATLAS/Politics MOC\|Politics]] 
+- [[ATLAS/Psychology MOC\|Psychology]] | #on/psychology | Relationship with self and others 
+- [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]  | #on/philosophy | Love of Wisdom 
+- Fi   How to live
+- [[ATLAS/Politics MOC\|Politics]] | #on/politics | Collective 
 - 
 
-#on/psychology 
 #on/education 
 #on/politics 
 #on/philosophy 
