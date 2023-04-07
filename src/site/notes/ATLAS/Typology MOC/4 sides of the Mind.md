@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-03-09T10:15:26.366+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-07T11:26:34.391+02:00"}
 ---
 
-up :: [[ATLAS/Psychology MOC\|Psychology MOC]] 
+up :: [[ATLAS/MOC · Psychology 🗺️\|MOC · Psychology 🗺️]] 
 ref :: [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
 
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] 
