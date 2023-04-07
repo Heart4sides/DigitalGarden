@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-06T23:01:49.435+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-07T16:23:22.101+02:00"}
 ---
 
 🏠 :: [[ATLAS/moc · Philosophy 🗺️\|Philosophy]]
@@ -73,7 +73,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 > "Effective teachers provide experiences so that students can learn by doing ([[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]])"
 > "Curriculum content is derived from student [[ATLAS/Typology MOC/Interest 🤝\|interests]] and questions."
 > "The scientific [[ATLAS/Typology MOC/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[ATLAS/Typology MOC/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[ATLAS/Dictionary/The How\|how]] one comes to know."
-> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[ATLAS/Typology MOC/Progression🔦\|Progression🔦]] [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
+> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[ATLAS/Typology MOC/Progression➕\|Progression➕]] [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[ATLAS/Typology MOC/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
 > "Social reconstructionism is a philosophy that emphasizes the addressing of social questions and a quest to create a better society and worldwide democracy" [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
