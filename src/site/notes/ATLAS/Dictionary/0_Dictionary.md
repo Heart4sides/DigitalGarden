@@ -73,6 +73,7 @@
 | [[ATLAS/Dictionary/Status\|Status]]                                       | \-                                                                             |
 | [[ATLAS/Dictionary/Struggle\|Struggle]]                                   | \-                                                                             |
 | [[ATLAS/Dictionary/Sunk cost\|Sunk cost]]                                 | \-                                                                             |
+| [[ATLAS/Dictionary/Sympathy\|Sympathy]]                                   | \-                                                                             |
 | [[ATLAS/Dictionary/Teaching\|Teaching]]                                   | \-                                                                             |
 | [[ATLAS/Dictionary/The How\|The How]]                                     | how, manner, mean                                                              |
 | [[ATLAS/Dictionary/The Why\|The Why]]                                     | ask why, know why, why                                                         |
