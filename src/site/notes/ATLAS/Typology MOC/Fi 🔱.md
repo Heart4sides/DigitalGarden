@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-03T22:24:03.314+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-07T16:15:41.635+02:00"}
 ---
 
 
 ## Keywords
 - Sense of Good vs Bad
 - Value, worth
-- Sympathy
+- [[ATLAS/Dictionary/Sympathy\|Sympathy]]
 - Moral
 - Investment
 - Measure, weight
@@ -26,10 +26,11 @@
 |  |  [[ATLAS/Typology MOC/ISFP\|ISFP]]  |    | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
 ## Attitudes
-[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[ATLAS/Typology MOC/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Fi Parent 🤨\|Fi Parent 🤨]] | [[ATLAS/Typology MOC/Fi Child 🧒\|Fi Child 🧒]] | [[ATLAS/Typology MOC/Fi Inferior 👶\|Fi Inferior 👶]]
-[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
-[[ATLAS/Typology MOC/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[ATLAS/Typology MOC/Fi Critic 🤔\|Fi Critic 🤔]] | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]]
+> [!info] [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
+[[Fi 🔱 Hero\|Fi 🔱 Hero]] | [[Fi 🔱 Parent\|Fi 🔱 Parent]] | [[Fi 🔱 Child\|Fi 🔱 Child]] | [[Fi 🔱 Inferior\|Fi 🔱 Inferior]]
+
+> [!info] [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
+[[Fi 🔱 Nemesis\|Fi 🔱 Nemesis]] | [[Fi 🔱 Critic\|Fi 🔱 Critic]] | [[Fi 🔱 Trickster\|Fi 🔱 Trickster]] | [[Fi 🔱 Demon\|Fi 🔱 Demon]]
 
 ## Relationships 
 [[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] : [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] 
