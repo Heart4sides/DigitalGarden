@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-06T19:47:54.948+02:00"}
+{"dg-publish":true,"permalink":"/cards/new-notes/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-07T16:03:22.573+02:00"}
 ---
 
 
@@ -22,7 +22,7 @@ b(Process)
 a --> b --> Output --> Feedback --> Input
 ```
 
-[[Input\|Input]] : 
+[[Input 🌊\|Input 🌊]] : 
 	[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] : possibilities
 	[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] : beliefs 
 [[Process\|Process]] : 
