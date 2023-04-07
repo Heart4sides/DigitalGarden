@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-07T16:23:20.761+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-07T16:48:44.215+02:00"}
 ---
 
 Tags :: #type 
@@ -36,7 +36,7 @@ Tags :: #type
 
 ## Mentions 
 ctrl + schift + Q
-[[ATLAS/Mechanics MOC\|Mechanics MOC]]
+[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 [[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Type\|TPL Type]]
