@@ -7,7 +7,7 @@ Ref ::
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] or secundary prefered functions
 [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] secund in the function stack
 [[SOURCES/Contents/Daniel Kahneman - Thinking, Fast and Slow\|Daniel Kahneman - Thinking, Fast and Slow]]'s [[System 2\|System 2]] 
-[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] is the secund function of the [[ATLAS/Typology MOC/Wheel of perception\|Wheel of perception]]
+[[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] is the secund function of the [[ATLAS/Typology MOC/Wheel of perception\|Wheel of perception]]
 
 
 # Comments 
