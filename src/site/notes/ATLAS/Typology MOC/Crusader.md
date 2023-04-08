@@ -9,7 +9,7 @@
 - Survivors
 	- Sacrifice for other's happiness
 	- Adversity & Hardship seen as ever present & to be endured
-- Faith ([[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]) in the truth ([[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]])
+- Faith ([[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) in the truth ([[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]])
 - Cold as ice
 
 ## Types 
@@ -20,8 +20,8 @@
 |       |  |     |      |
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |   |  [[ATLAS/Typology MOC/INTP\|INTP]]      |        |  
 
-[[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] | [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] 
-[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+[[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] | [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] 
+[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid
 [[ATLAS/Typology MOC/Interaction Style\|Interaction Style]] : 
