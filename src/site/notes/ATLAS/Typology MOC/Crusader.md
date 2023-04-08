@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-06T21:12:53.528+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-08T10:59:03.418+02:00"}
 ---
 
 
