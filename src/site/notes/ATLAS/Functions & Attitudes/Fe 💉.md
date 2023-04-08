@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-08T09:58:56.599+02:00"}
+{"dg-publish":true,"permalink":"/atlas/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-08T11:24:06.531+02:00"}
 ---
 
 
@@ -49,8 +49,15 @@
 | [[ATLAS/Typology MOC/ISFJ\|ISFJ]]&nbsp; |   |  [[ATLAS/Typology MOC/INTP\|INTP]]      |    |  
 
 ## Attitudes
-[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Fe Parent 🤨\|Fe Parent 🤨]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Fe Inferior 😨\|Fe Inferior 😨]]
+| [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]     | [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] | 
+|----------------- |---| 
+| [[ATLAS/Typology MOC/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Fi Nemesis 😟\|Fi Nemesis 😟]] | 
+| [[ATLAS/Typology MOC/Fe Parent 🤨\|Fe Parent 🤨]]  | [[ATLAS/Typology MOC/Fi Critic 🤔\|Fi Critic 🤔]] |
+| [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]]   | [[ATLAS/Typology MOC/Fi Trickster 🤡\|Fi Trickster 🤡]] |
+| [[ATLAS/Typology MOC/Fe Inferior 😨\|Fe Inferior 😨]] | [[ATLAS/Typology MOC/Fi Demon 😈\|Fi Demon 😈]] |
+
+
+---
 [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
 [[ATLAS/Typology MOC/Fe Nemesis 😟\|Fe Nemesis 😟]] | [[ATLAS/Typology MOC/Fe Critic 🤔\|Fe Critic 🤔]] | [[ATLAS/Typology MOC/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[ATLAS/Typology MOC/Fe Demon 😈\|Fe Demon 😈]]
 
