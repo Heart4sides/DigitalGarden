@@ -14,8 +14,8 @@
 | [[ATLAS/Typology MOC/ISTJ\|ISTJ]]       |  |      |      |
 | |  |    | [[ATLAS/Typology MOC/INFP\|INFP]]       |  
 
-[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
-[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+[[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
+[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
 [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
