@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-08T10:59:05.215+02:00"}
+{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-08T11:35:36.078+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
 ## Contrapoints' Type
-- [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]]
-	- [[ATLAS/Dictionary/Fetichism\|Fetichism]]
-	- [[ATLAS/Typology MOC/Lust\|Lust]]
-	- [[ATLAS/Dictionary/Identity\|Identity]] 
+- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+	- [[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
+	- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
+	- [[CARDS/Related Concepts & Theories/Identity\|Identity]] 
 - [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I love attention !"
 - [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] : empathize with the person but still criticize  
-- [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]] : analyzing situations on a case by case basis 
+- [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
-- [[ATLAS/Typology MOC/ESTP\|ESTP]] or [[ATLAS/Typology MOC/INFJ\|INFJ]] 
+- [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 
 ## The Darkness 
 [The Darkness | ContraPoints - YouTube](```timestamp-url 
@@ -86,7 +86,7 @@ Glamour ethymology
  22:06
  ```
 ![Pasted image 20230119210256.png](/img/user/EXTRAS/Images/Pasted%20image%2020230119210256.png)
-[[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]] [[ATLAS/Typology MOC/Soul Temple 👥\|Soul]] 
+[[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
 ```timestamp 
  24:20
  ```
@@ -135,7 +135,7 @@ It reaches out accross a void
 ![Pasted image 20230119213058.png](/img/user/EXTRAS/Images/Pasted%20image%2020230119213058.png)
 
 ## Jordan Peterson
-[[CARDS/Youtube Video Notes/Jordan Peterson\|Jordan Peterson]]
+[[SOURCES/Contents/Jordan Peterson\|Jordan Peterson]]
 ![Pasted image 20230118001102.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001102.png)
 ![Pasted image 20230117233231.png](/img/user/EXTRAS/Images/Pasted%20image%2020230117233231.png)
 
@@ -182,35 +182,35 @@ him, which is exactly what happened with the Cathy Newman interview.
 ## Men 
 
 ![Pasted image 20230117235055.png](/img/user/EXTRAS/Images/Pasted%20image%2020230117235055.png)
-[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118000425.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118000425.png)
 ![Pasted image 20230118001116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001116.png)
-lack of [[ATLAS/Typology MOC/Purpose\|purpose]], lack of [[ATLAS/Dictionary/Struggle\|Struggle]]
+lack of [[CARDS/Depth Psychology Theory/Purpose\|Purpose]], lack of [[CARDS/Related Concepts & Theories/Struggle\|Struggle]]
 
 ## J.K. Rowling
 [J.K. Rowling | ContraPoints - YouTube](```timestamp-url 
  https://www.youtube.com/watch?v=7gDKbT_l2us```
 ![Pasted image 20230118003626.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118003626.png)
-[[ATLAS/Typology MOC/Objectification\|Objectification]]
-[[ATLAS/Dictionary/Bigotry\|Bigotry]] = hate that poses a political threat to the target group
-Why [[ATLAS/Dictionary/Understand\|Understand]] ? Because "When you dehumanize the villain you become unable to recognize the villain within"
+[[CARDS/Depth Psychology Theory/Objectification\|Objectification]]
+[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] = hate that poses a political threat to the target group
+Why [[CARDS/Related Concepts & Theories/Understand\|Understand]] ? Because "When you dehumanize the villain you become unable to recognize the villain within"
 ![Pasted image 20230118004910.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118004910.png)
 ```timestamp 
  24:29
  ```
 ![Pasted image 20230118005157.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118005157.png)
-[[ATLAS/Dictionary/Bigotry\|Bigotry]] is a reaction to threat
+[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is a reaction to threat
 ![Pasted image 20230118005540.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118005540.png)
 "Some questions should be dissolved rather than solved" wittgenstein
 ![Pasted image 20230118010021.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010021.png)
-[[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
 ![Pasted image 20230118010038.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010038.png)
 [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]]
 ![Pasted image 20230118010112.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010112.png)
-[[ATLAS/Typology MOC/Concrete\|Concrete]]
+[[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
 ![Pasted image 20230118010128.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010128.png)
 ![Pasted image 20230118011749.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118011749.png)
-[[ATLAS/Typology MOC/Chastity\|Chastity]]
+[[CARDS/Depth Psychology Theory/Chastity\|Chastity]]
 ```timestamp 
  47:40
  ```
@@ -218,12 +218,12 @@ Why [[ATLAS/Dictionary/Understand\|Understand]] ? Because "When you dehumanize t
 ```timestamp 
  51:26
  ```
-What X is NOT : [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
+What X is NOT : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
 ```timestamp 
  54:12
  ```
 ![Pasted image 20230118013122.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118013122.png)
-[[self-deprecation\|self-deprecation]] = [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[self-deprecation\|self-deprecation]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
 ```timestamp 
  58:37
  ```
@@ -232,7 +232,7 @@ Is he describing an INTJ ??
 ```timestamp 
  59:20
  ```
-Freud about [[ATLAS/Dictionary/Fetichism\|Fetichism]]
+Freud about [[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
 ```timestamp 
  01:00:06
  ```
@@ -240,46 +240,46 @@ Freud about [[ATLAS/Dictionary/Fetichism\|Fetichism]]
 Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118014124.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014124.png)
 ![Pasted image 20230118014140.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014140.png)
-- Lack of [[Identity \|Identity ]] ([[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]])
-- [[ATLAS/Typology MOC/Lust\|Lust]]
+- Lack of [[Identity \|Identity ]] ([[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]])
+- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
 ```timestamp 
  01:03:41
  ```
 ![Pasted image 20230118014508.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014508.png)
-"These are the thoughts of someone's who's been hurt" = [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] 
+"These are the thoughts of someone's who's been hurt" = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
 ![Pasted image 20230118014907.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014907.png)
-[[ATLAS/Dictionary/Paranoïa\|Paranoïa]]
+[[CARDS/Related Concepts & Theories/Paranoïa\|Paranoïa]]
 ```timestamp 
  01:09:18
  ```
-[[ATLAS/Dictionary/Bigotry\|Bigotry]] is often rooted in trauma
+[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is often rooted in trauma
 ```timestamp 
  01:10:58
  ```
 ![Pasted image 20230118015531.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118015531.png)
 [[Cruelty\|Cruelty]]
-[[ATLAS/Typology MOC/Justification\|ATLAS/Typology MOC/Justification]]
+[[CARDS/Depth Psychology Theory/Justification\|Justification]]
 ```timestamp 
  01:13:14
  ```
-[[ATLAS/Dictionary/Bigotry\|Bigotry]] is not a slur (insulte)
+[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is not a slur (insulte)
 ```timestamp 
  01:15:49
  ```
 ![Pasted image 20230118020135.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118020135.png)
-[[ATLAS/Dictionary/Fetichism\|Fetichism]]
+[[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
 ```timestamp 
  01:22:43
  ```
 ![Pasted image 20230118020849.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118020849.png)
 
 ![Pasted image 20230118021123.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021123.png)
-[[ATLAS/Typology MOC/Validation\|Validation]]
+[[Validation\|Validation]]
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
-[[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] & [[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
-[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
-[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] & [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
 
 
