@@ -4,7 +4,7 @@
 
 Ref :: [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
 
-[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] ➡️ 👉▶️ [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] 
+[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] ➡️ 👉▶️ [[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] [[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] 
 
 # Comments 
 <script src="https://utteranc.es/client.js"
