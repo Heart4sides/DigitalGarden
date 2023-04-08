@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-03-09T10:20:07.570+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-08T01:01:47.195+02:00"}
 ---
 
 
 ## Quadra & Functions
-[[ATLAS/Typology MOC/4. Wayfarer\|4. Wayfarer]] 
+[[ATLAS/Typology MOC/Wayfarer\|Wayfarer]] 
 
 [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 
