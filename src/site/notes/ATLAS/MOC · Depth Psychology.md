@@ -1,13 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-07T16:49:34.335+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-08T09:28:55.398+02:00"}
 ---
+
+
+LVL1 - Theory of Depth Psychology
+LVL2 - Associated Theories 
+LVL3 - Typing Collectives
+LVL 4 - Typing Individuals
 
 ## Cognitive Functions
 [[ATLAS/Typology MOC/Judgement\|Judgement]] : 
-- [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] - [[ATLAS/Dictionary/Belief\|believe]] 
--  [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] [[deduces\|deduces]]
--  [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] | [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] | [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]]
+- [[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] - [[ATLAS/Dictionary/Belief\|believe]] 
+-  [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] [[deduces\|deduces]]
+-  [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] 
+-  [[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] | [[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] | [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Attitudes
 [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] | [[ATLAS/Typology MOC/Child 👼\|Child 👼]] | [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
@@ -28,7 +35,7 @@
 [[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] | [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
 
 ## Quadra 
-[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Templar\|Templar]] | [[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
+[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Templar\|Templar]] | [[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/Wayfarer\|Wayfarer]] 
 
 ## Temples 
 [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
