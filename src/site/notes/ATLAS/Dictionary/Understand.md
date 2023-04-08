@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-03-08T08:28:53.520+01:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-08T01:09:39.688+02:00"}
 ---
 
 
 ## Related Notes 
 - [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
 - [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
-- [[SOURCES/Type Theory by CSJ/Functions/Te-Fi\|Te-Fi]]
+- [[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]]
 - [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦#Keywords\|Affiliative 👨‍👩‍👧‍👦#Keywords]]  
 - [[ATLAS/Typology MOC/Pride\|Pride]] & [[ATLAS/Typology MOC/Humility\|Humility]]
 
