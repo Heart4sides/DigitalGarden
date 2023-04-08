@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-03-09T10:13:42.954+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-08T11:24:05.994+02:00"}
 ---
 
 Links :: [[ATLAS/Typology MOC/Reflection\|Reflection]] 
@@ -34,7 +34,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 [[ATLAS/Typology MOC/Immature 🐎\|Immature 🐎]]
 Only help people to get credibility, which is a covert contract.
 
-[[ATLAS/Typology MOC/Ti Parent 🤨\|Ti Parent 🤨]] ⚡ [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]]
+[[ATLAS/Typology MOC/Ti Parent 🤨\|Ti Parent 🤨]] ⚡ [[ATLAS/Typology MOC/Fi Trickster 🤡\|Fi Trickster 🤡]]
 [[ATLAS/Typology MOC/Mature 🐢\|Mature 🐢]]
 Learn to take all of the harm onto itself. Learn how to become the pariah and thus lead by example. All that with self-respect so you don't sacrifice yourself for others. The only way to break their conditioning is if you break your conditioning first. Established social norms may not be healthy. Slay these norms with Ti parent and take the fallout (pariah) for the benefit of others. I break the rules or the chains so that people can be free and I can finally be accepted as myself. Who cares if your feelings are accurate / valid / right / justified ? Be honest about what you feel, which invites criticism from the other party.
 
