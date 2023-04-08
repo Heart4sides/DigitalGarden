@@ -4,7 +4,7 @@
 
 ref :: [Wikipedia](https://en.wikipedia.org/wiki/Educational%20perennialism)
 
-> [!quote]- [[ATLAS/Typology MOC/-Ne💧\|-Ne💧]]
+> [!quote]- [[ATLAS/Functions & Attitudes/-Ne💧\|-Ne💧]]
 > "Perennialists believe that one should teach the things that are of everlasting pertinence to all people everywhere" [^1]
 
 > [!quote]- [[-Fi🔱\|-Fi🔱]] > [[-Ti🗡️\|-Ti🗡️]]
