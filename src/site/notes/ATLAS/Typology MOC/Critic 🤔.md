@@ -16,7 +16,7 @@
 - [[Senile\|Senile]]
 - [[ATLAS/Typology MOC/Pessimistic\|Pessimistic]]
 - [[ignorance\|ignorance]]
-- [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]
+- [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
 
 ## Wordnik
 ## critic
