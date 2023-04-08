@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-08T01:01:47.374+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-08T11:24:06.027+02:00"}
 ---
 
 #type
@@ -8,7 +8,7 @@
 [[ATLAS/Typology MOC/Crusader\|Crusader]] [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 	[[ATLAS/Typology MOC/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Ti Parent 🤨\|Ti Parent 🤨]] | [[ATLAS/Typology MOC/Fe Child 🧒\|Fe Child 🧒]] | [[ATLAS/Typology MOC/Si Inferior 😨\|Si Inferior 😨]]
 [[ATLAS/Typology MOC/Wayfarer\|Wayfarer]] [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] 
-	[[ATLAS/Typology MOC/Ni Nemesis 😟\|Ni Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]] | [[ATLAS/Typology MOC/Fi Trickster 🃏\|Fi Trickster 🃏]] | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]
+	[[ATLAS/Typology MOC/Ni Nemesis 😟\|Ni Nemesis 😟]] | [[ATLAS/Typology MOC/Te Critic 🤔\|Te Critic 🤔]] | [[ATLAS/Typology MOC/Fi Trickster 🤡\|Fi Trickster 🤡]] | [[ATLAS/Typology MOC/Se Demon 😈\|Se Demon 😈]]
 
 ## 4 sides  
 [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] ([[ATLAS/Typology MOC/Reflection\|Reflection]]) : [[ATLAS/Typology MOC/ISFJ\|ISFJ]]
