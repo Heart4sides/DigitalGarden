@@ -9,7 +9,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Concrete\|Concrete]] :
 - [[ATLAS/Typology MOC/Artisan\|Artisan]] : [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ESTP\|ESTP]]
 
 ## Functions 
-[[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] | [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] 
+[[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] | [[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] 
 
 ## Temple
 [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
