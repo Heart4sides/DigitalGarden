@@ -5,19 +5,19 @@
 #on/psychology 
 
 [[primary parenting\|primary parenting]]
-[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] is primary in the [[ATLAS/Typology MOC/Wheel of perception\|Wheel of perception]].
-[[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] is primary in the [[Wheel of perception\|Wheel of perception]].
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
 
-The [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] is primary in the [[ATLAS/Typology MOC/4 sides of the Mind\|4 sides of the Mind]]. 
+The [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind\|4 sides of the Mind]]. 
 
-- [[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - primary in the [[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-	- [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]]
-	- [[ATLAS/Typology MOC/Child 👼\|Child 👼]]
-- [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] - primary in the [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]]
+- [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - primary in the [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
+	- [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
+	- [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+- [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] - primary in the [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 
-The [[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] is the primary temple.
+The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] is the primary temple.
 
-[[ATLAS/Typology MOC/SD\|SD]][[ATLAS/Typology MOC/SF\|SF]] is our primary octogram. 
+[[CARDS/Depth Psychology Theory/SD\|SD]][[CARDS/Depth Psychology Theory/SF\|SF]] is our primary octogram. 
 
 [[primary parenting\|primary parenting]]
 
