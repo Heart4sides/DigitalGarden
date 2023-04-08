@@ -22,7 +22,7 @@ Types sharing preference for [[ATLAS/Typology MOC/Progression➕\|Progression➕
 - [[ATLAS/Typology MOC/Finisher\|Finisher]] : [[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]] 
 
 ## Functions 
-[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] | [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] 
+[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] 
 
 ## Temple 
 [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]]
