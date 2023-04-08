@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-04-04T17:37:45.051+02:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-04-08T01:01:47.004+02:00"}
 ---
 
 [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
@@ -7,7 +7,7 @@
 ## Types 
 
 ### Types who seek to be admired
-- [[ATLAS/Typology MOC/4. Wayfarer\|Wayfarer]]
+- [[ATLAS/Typology MOC/Wayfarer\|Wayfarer]]
 - [[ATLAS/Typology MOC/Reverance\|Reverance]] Dyad
 
 ## Wordnik![Pasted image 20230404173539.png](/img/user/EXTRAS/Images/Pasted%20image%2020230404173539.png)
