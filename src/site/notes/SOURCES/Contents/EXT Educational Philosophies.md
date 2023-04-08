@@ -40,16 +40,16 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 ## Perennialism
 >[!Quote]- Perennialism 
 >"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] of Western civilization." 
- [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Te🏹\|-Te🏹]] [[-Fi🔱\|-Fi🔱]] 
+ [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] [[-Fi🔱\|-Fi🔱]] 
 >
 >"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
 >
 >"The loftiest [[accomplishments\|accomplishments]] of humankind are emphasized– the great works of literature and art, the [[laws\|laws]] or [[CARDS/Related Concepts & Theories/Principle\|principles]] of science."
 - Preference for 
-	- Other people's original thoughts with respect to the source [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Te🏹\|-Te🏹]]
-	- Achievements, actions held in high regard [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Te🏹\|-Te🏹]]
+	- Other people's original thoughts with respect to the source [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
+	- Achievements, actions held in high regard [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- Value Hierarchy of acts and legacy [[-Fi🔱\|-Fi🔱]] 
-	- Predictability [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Ne💧\|-Ne💧]], [[-result🎯\|-result🎯]]
+	- Predictability [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]], [[-result🎯\|-result🎯]]
 	- Stability [[-result🎯\|-result🎯]]
 	- Absolute rules [[-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
