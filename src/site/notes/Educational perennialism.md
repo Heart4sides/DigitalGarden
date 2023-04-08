@@ -4,7 +4,7 @@
 
 ref :: [Wikipedia](https://en.wikipedia.org/wiki/Educational%20perennialism)
 
-> [!quote]- [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Ne💧\|-Ne💧]]
+> [!quote]- [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]
 > "Perennialists believe that one should teach the things that are of everlasting pertinence to all people everywhere" [^1]
 
 > [!quote]- [[-Fi🔱\|-Fi🔱]] > [[-Ti🗡️\|-Ti🗡️]]
