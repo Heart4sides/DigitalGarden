@@ -4,13 +4,13 @@
 
 ref :: [Wikipedia](https://en.wikipedia.org/wiki/Educational%20perennialism)
 
-> [!quote]- [[ATLAS/Functions & Attitudes/-Ne💧\|-Ne💧]]
+> [!quote]- [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Ne💧\|-Ne💧]]
 > "Perennialists believe that one should teach the things that are of everlasting pertinence to all people everywhere" [^1]
 
 > [!quote]- [[-Fi🔱\|-Fi🔱]] > [[-Ti🗡️\|-Ti🗡️]]
 > "and that the emphasis should be on [[principles\|principles]], not [[facts\|facts]]." [^1]
 
-> [!quote]- [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+> [!quote]- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
 > "Since people are human, one should teach first about humans, rather than machines or techniques"[^1]
 
 > [!quote]-
