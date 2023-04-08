@@ -7,7 +7,7 @@ ref :: [Fetching Title#26xo](https://www.youtube.com/watch?v=A9kl3_vnXjI)
 Tags :: #on/philosophy #on/education 
 
 
-[[ATLAS/Typology MOC/Education\|Education]] 
+[[CARDS/Depth Psychology Theory/Education\|Education]] 
 
 [Et si on arrêtait de prendre les gens pour des cons ? | Les idées larges | ARTE - YouTube](https://www.youtube.com/watch?v=A9kl3_vnXjI)
 ![Pasted image 20230131225508.png](/img/user/EXTRAS/Images/Pasted%20image%2020230131225508.png)
@@ -28,4 +28,4 @@ L'égalité est un point de départ.
 - Maître explicateur = abrutisseur
 - Toujours postuler qu'il peut faire mieux que n'importe qui
 - "convaincre sa peur"
-- On apprend soi-même ([[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Responding\|Introverted]]) ce qui nous vient d'autrui ([[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Initiating\|Initiating]])
+- On apprend soi-même ([[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Responding\|Introverted]]) ce qui nous vient d'autrui ([[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Initiating\|Initiating]])
