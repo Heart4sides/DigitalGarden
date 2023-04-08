@@ -5,7 +5,7 @@
 
 ## Related Notes 
 - [[ATLAS/Dictionary/0_Dictionary\|0_Dictionary]]
-- [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]]
+- [[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]]
 
 ## Wordnik
 
