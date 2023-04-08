@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-07T16:23:21.438+02:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-08T10:59:04.214+02:00"}
 ---
 
 
