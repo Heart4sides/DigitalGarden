@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-04-07T19:03:38.082+02:00"}
+{"dg-publish":true,"permalink":"/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-04-08T12:01:12.377+02:00"}
 ---
 
 Ref :: 
 
-[[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] or secundary prefered functions
-[[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] secund in the function stack
+[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] or secundary prefered functions
+[[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] secund in the function stack
 [[SOURCES/Contents/Daniel Kahneman - Thinking, Fast and Slow\|Daniel Kahneman - Thinking, Fast and Slow]]'s [[System 2\|System 2]] 
-[[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] is the secund function of the [[ATLAS/Typology MOC/Wheel of perception\|Wheel of perception]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] is the secund function of the [[Wheel of perception\|Wheel of perception]]
 
 
 # Comments 
