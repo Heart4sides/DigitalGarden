@@ -5,11 +5,11 @@
 
 ## Depth Psychology - 16 Types System
 - [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
-- The Mind is divided into [[ATLAS/Typology MOC/4 sides of the Mind\|4 sides]], each having its own personality type. 
+- The Mind is divided into [[CARDS/Depth Psychology Theory/4 sides of the Mind\|4 sides]], each having its own personality type. 
 - Each side or type displays preference for 2 cognitive axis out of a total of 4 : 
 	- 1 axis of [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : 
 		- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] or [[SOURCES/Type Theory by CSJ/Functions/Si-Ne\|Si-Ne]] 
-	- 1 axis of [[ATLAS/Typology MOC/Judgement\|Judgement]]
+	- 1 axis of [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]
 		- [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] or [[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]] 
 	- 
 
