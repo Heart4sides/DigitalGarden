@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-01-18T15:30:44.527+01:00"}
 ---
 
-[[ATLAS/Typology MOC/Envy\|Envy]]
+[[CARDS/Depth Psychology Theory/Envy\|Envy]]
 [[SOURCES/Authors/Contrapoints\|Contrapoints]]
 
 ```timestamp-url 
