@@ -1,0 +1,26 @@
+---
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-03-09T10:20:08.871+01:00"}
+---
+
+
+## In Attitudes
+
+[[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]] | [[CARDS/Depth Psychology Theory/Ni Child 🧒\|Ni Child 🧒]] | [[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]] | [[CARDS/Depth Psychology Theory/Si Child 🧒\|Si Child 🧒]]
+
+[[Te Child 🧒\|Te Child 🧒]] | [[Ti Child 🧒\|Ti Child]] | [[CARDS/Depth Psychology Theory/Fe Child 🧒\|Fe Child 🧒]] | [[CARDS/Depth Psychology Theory/Fi Child 🧒\|Fi Child 🧒]]
+
+## Axis, Orbit, Reflect
+
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
+
+[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[Trickster 🤡\|Trickster 🤡]]
+
+[[CARDS/Depth Psychology Theory/Reflection\|Reflection]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
+
+[[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]]
+
+## Mature vs Immature
+
+| Mature | Immature |
+| -------- | --------- | 
+| [[Divine\|Divine]]   | [[CARDS/Related Concepts & Theories/Tyrant\|Tyrant]]  |  
