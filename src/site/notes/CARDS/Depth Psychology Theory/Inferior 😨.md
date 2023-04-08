@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/inferior/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-03-08T19:06:36.182+01:00"}
+---
+
+
+## In Attitudes 
+
+[[CARDS/Depth Psychology Theory/Ne Inferior 😨\|Ne Inferior 😨]] | [[CARDS/Depth Psychology Theory/Ni Inferior 😨\|Ni Inferior 😨]] | [[CARDS/Depth Psychology Theory/Se Inferior 😨\|Se Inferior 😨]] | [[CARDS/Depth Psychology Theory/Si Inferior 😨\|Si Inferior 😨]]
+
+[[Te Inferior 😨\|Te Inferior 😨]] | [[Ti Inferior 😨\|Ti Inferior 😨]] | [[CARDS/Depth Psychology Theory/Fe Inferior 😨\|Fe Inferior 😨]] | [[CARDS/Depth Psychology Theory/Si Inferior 😨\|Si Inferior 😨]]
