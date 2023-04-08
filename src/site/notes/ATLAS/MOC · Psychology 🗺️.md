@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-07T16:48:45.780+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-08T01:11:08.961+02:00"}
 ---
 
 
 ## Depth Psychology - 16 Types System
 - [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
-- Base Unit : [[CARDS/New Notes/Cognitive Functions\|Cognitive Functions]] 
-- Dynamics within the Self : [[ATLAS/Typology MOC/4 sides of the Mind\|4 sides of the Mind]] 
-- Behavioral Typing System : [[ATLAS/Typology MOC/Type Grid\|Type Grid]]
-- Purpose : [[ATLAS/Typology MOC/Temple\|Temple]] 
-- Nurture : [[ATLAS/Typology MOC/Octogram\|Octogram]]
+- The Mind is divided into [[ATLAS/Typology MOC/4 sides of the Mind\|4 sides]], each having its own personality type. 
+- Each side or type displays preference for 2 cognitive axis out of a total of 4 : 
+	- 1 axis of [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : 
+		- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] or [[SOURCES/Type Theory by CSJ/Functions/Si-Ne\|Si-Ne]] 
+	- 1 axis of [[ATLAS/Typology MOC/Judgement\|Judgement]]
+		- [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] or [[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]] 
+	- 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
