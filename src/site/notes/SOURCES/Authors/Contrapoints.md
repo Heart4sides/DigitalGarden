@@ -182,7 +182,7 @@ him, which is exactly what happened with the Cathy Newman interview.
 ## Men 
 
 ![Pasted image 20230117235055.png](/img/user/EXTRAS/Images/Pasted%20image%2020230117235055.png)
-[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
+[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118000425.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118000425.png)
 ![Pasted image 20230118001116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001116.png)
 lack of [[ATLAS/Typology MOC/Purpose\|purpose]], lack of [[ATLAS/Dictionary/Struggle\|Struggle]]
@@ -218,12 +218,12 @@ Why [[ATLAS/Dictionary/Understand\|Understand]] ? Because "When you dehumanize t
 ```timestamp 
  51:26
  ```
-What X is NOT : [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]
+What X is NOT : [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
 ```timestamp 
  54:12
  ```
 ![Pasted image 20230118013122.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118013122.png)
-[[self-deprecation\|self-deprecation]] = [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
+[[self-deprecation\|self-deprecation]] = [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]]
 ```timestamp 
  58:37
  ```
@@ -246,7 +246,7 @@ Trans = narcissistic male fetichist who preys on women
  01:03:41
  ```
 ![Pasted image 20230118014508.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014508.png)
-"These are the thoughts of someone's who's been hurt" = [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] 
+"These are the thoughts of someone's who's been hurt" = [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] 
 ![Pasted image 20230118014907.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014907.png)
 [[ATLAS/Dictionary/Paranoïa\|Paranoïa]]
 ```timestamp 
@@ -276,10 +276,10 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118021123.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021123.png)
 [[ATLAS/Typology MOC/Validation\|Validation]]
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
-[[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] & [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] 
+[[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] & [[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
-[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]]
+[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
-[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] & [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]]
+[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] & [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]]
 
 
