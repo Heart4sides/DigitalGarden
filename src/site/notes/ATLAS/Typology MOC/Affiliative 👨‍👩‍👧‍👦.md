@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typology-moc/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-02-27T19:46:42.166+01:00"}
+{"dg-publish":true,"permalink":"/atlas/typology-moc/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-08T10:59:03.321+02:00"}
 ---
 
 Vs [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]]
