@@ -9,36 +9,36 @@ LVL3 - Typing Collectives
 LVL 4 - Typing Individuals
 
 ## Cognitive Functions
-[[ATLAS/Typology MOC/Judgement\|Judgement]] : 
-- [[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] - [[ATLAS/Dictionary/Belief\|believe]] 
--  [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] [[deduces\|deduces]]
--  [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] 
--  [[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] | [[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] | [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Judgement\|Judgement]] : 
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] - [[CARDS/Related Concepts & Theories/Belief\|believe]] 
+-  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] [[deduces\|deduces]]
+-  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
+-  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
+[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Attitudes
-[[ATLAS/Typology MOC/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[ATLAS/Typology MOC/Parent 🤨\|Parent 🤨]] | [[ATLAS/Typology MOC/Child 👼\|Child 👼]] | [[ATLAS/Typology MOC/Inferior 😨\|Inferior 😨]] | [[ATLAS/Typology MOC/Nemesis 😟\|Nemesis 😟]] | [[ATLAS/Typology MOC/Critic 🤔\|Critic 🤔]] | [[ATLAS/Typology MOC/Trickster 🤡\|Trickster 🤡]] | [[ATLAS/Typology MOC/Demon 😈\|Demon 😈]]
+[[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] | [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]] | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] | [[Trickster 🤡\|Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 
 ## 4 sides of the Mind
-[[ATLAS/Typology MOC/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | [[ATLAS/Typology MOC/Subconscious 🤸\|Subconscious 🤸]] | [[ATLAS/Typology MOC/Shadow 👤\|Shadow 👤]] | [[ATLAS/Typology MOC/Superego 👹\|Superego 👹]]
+[[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
 
 ## Types
-[[ATLAS/Typology MOC/ESTJ\|ESTJ]] | [[ATLAS/Typology MOC/ESTP\|ESTP]] | [[ATLAS/Typology MOC/ENTJ\|ENTJ]] | [[ATLAS/Typology MOC/ENFJ\|ENFJ]] 
-[[ATLAS/Typology MOC/ESFJ\|ESFJ]] | [[ATLAS/Typology MOC/ESFP\|ESFP]] | [[ATLAS/Typology MOC/ENTP\|ENTP]] | [[ATLAS/Typology MOC/ENFP\|ENFP]]
-[[ATLAS/Typology MOC/ISTJ\|ISTJ]] | [[ATLAS/Typology MOC/ISTP\|ISTP]] | [[ATLAS/Typology MOC/INTJ\|INTJ]] | [[ATLAS/Typology MOC/INFJ\|INFJ]]
-[[ATLAS/Typology MOC/ISFJ\|ISFJ]] | [[ATLAS/Typology MOC/ISFP\|ISFP]] | [[ATLAS/Typology MOC/INTP\|INTP]] | [[ATLAS/Typology MOC/INFP\|INFP]]
+[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
+[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
+[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
+[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]
 
 ## Interaction Styles
-[[ATLAS/Typology MOC/Initiating\|Initiating]] | [[ATLAS/Typology MOC/Responding\|Responding]] | [[ATLAS/Typology MOC/Direct\|Direct]] | [[ATLAS/Typology MOC/Informative\|Informative]] | [[ATLAS/Typology MOC/Outcome\|Outcome]] | [[Progression\|Progression]]
+[[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Outcome\|Outcome]] | [[Progression\|Progression]]
 
 ## Temperaments 
-[[ATLAS/Typology MOC/Abstract\|Abstract]] | [[ATLAS/Typology MOC/Concrete\|Concrete]] | [[ATLAS/Typology MOC/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[ATLAS/Typology MOC/Pragmatic\|Pragmatic]] | [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]] | [[ATLAS/Typology MOC/Interest 🤝\|Interest 🤝]]
+[[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] | [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]]
 
 ## Quadra 
-[[ATLAS/Typology MOC/Crusader\|Crusader]] | [[ATLAS/Typology MOC/Templar\|Templar]] | [[ATLAS/Typology MOC/Philosopher\|Philosopher]] | [[ATLAS/Typology MOC/Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
 
 ## Temples 
-[[ATLAS/Typology MOC/Soul Temple 👥\|Soul Temple 👥]] | [[ATLAS/Typology MOC/Heart Temple 🎭\|Heart Temple 🎭]] | [[ATLAS/Typology MOC/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[ATLAS/Typology MOC/Body Temple 🌳\|Body Temple 🌳]]
+[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 [[SOURCES/Type Theory by CSJ/Mechanics/Temple Wheels\|Temple Wheels]]
 
 ## Relationships 
@@ -47,4 +47,4 @@ LVL 4 - Typing Individuals
 [[SOURCES/Type Theory by CSJ/Relationships/Golden\|Golden]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Bronze\|Bronze]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred\|Kindred]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
 
 ### Internal 
-[[ATLAS/Typology MOC/🧲 Axis\|🧲 Axis]] | [[ATLAS/Typology MOC/Reflection\|Reflection]] | [[ATLAS/Typology MOC/🔄 Orbit\|🔄 Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] | [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
