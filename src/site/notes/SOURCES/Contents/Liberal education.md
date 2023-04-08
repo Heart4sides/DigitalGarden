@@ -7,7 +7,7 @@
 > "a philosophy of education that empowers individuals with broad knowledge and transferable skills, and a stronger sense of values, ethics, and civic engagement ... characterized by challenging encounters with important issues, and more a way of studying than a specific course or field of study"[^1]
 
 >[!note]-
->[[-Ti🗡️\|-Ti🗡️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/-Se🌪️\|-Se🌪️]]
+>[[-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]
 [[-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]]
 [[-systematic⚙️\|-systematic⚙️]] 
 
