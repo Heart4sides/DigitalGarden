@@ -7,4 +7,4 @@ up :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
 ref :: 
 tags :: #on/philosophy 
 
-Considérer l'homme comme une fin plutôt qu'un moyen : [[ATLAS/Typology MOC/Purpose\|Purpose]] 
+Considérer l'homme comme une fin plutôt qu'un moyen : [[CARDS/Depth Psychology Theory/Purpose\|Purpose]] 
