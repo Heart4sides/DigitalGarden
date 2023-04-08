@@ -12,5 +12,5 @@ Based on this, we can conclude that Poros is a [[ATLAS/Typology MOC/Crusader\|Cr
 
 [^1]: [[SOURCES/Contents/Eros & Thanatos - IFP\|Eros & Thanatos - IFP]]
 [^2]: [[ATLAS/Typology MOC/Systematic 🔧\|Systematic 🔧]]
-[^3]: [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] ? 
-[^4]: [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]
+[^3]: [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] ? 
+[^4]: [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
