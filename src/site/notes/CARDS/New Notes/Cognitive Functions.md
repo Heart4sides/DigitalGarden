@@ -8,10 +8,10 @@ Like with our hands, some functions are prefered over others, such that we are m
 
 Example : some prefer to judge wether something is true or false, while others prefer to judge whether something is right or wrong. 
 These preferences exclude each other : 
-- [[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] (*Deduce*) excludes [[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] (*Weigh*) : to judge wether sth is true / false ([[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]]) one must retrain itself to judge whether it is good / bad ([[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]])
-- [[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] (*Sense*) excludes [[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] (*Imagine*) 
-- [[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] (*React*) excludes [[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] (*Predict*)
-- [[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] (*Believe*) excludes [[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] (*Empathize*) 
+- [[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] (*Deduce*) excludes [[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]] (*Weigh*) : to judge wether sth is true / false ([[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]) one must retrain itself to judge whether it is good / bad ([[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]])
+- [[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] (*Sense*) excludes [[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] (*Imagine*) 
+- [[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] (*React*) excludes [[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] (*Predict*)
+- [[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] (*Believe*) excludes [[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] (*Empathize*) 
 
 ## IPOF
 ```mermaid
@@ -23,17 +23,17 @@ a --> b --> Output --> Feedback --> Input
 ```
 
 [[Input 🌊\|Input 🌊]] : 
-	[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] : possibilities
-	[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] : beliefs 
+	[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] : possibilities
+	[[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] : beliefs 
 [[Process\|Process]] : 
-	[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] : desire
-	[[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] : deduction
+	[[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] : desire
+	[[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] : deduction
 [[Output\|Output]] : 
-	[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] : performance
-	[[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] : ethics
+	[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] : performance
+	[[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] : ethics
 [[Feedback\|Feedback]] : 
-	[[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] : needs
-	[[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] : morals
+	[[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] : needs
+	[[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]] : morals
 
 ## Perception
 ```mermaid
@@ -44,10 +44,10 @@ Ne --> Ni --> Se --> Si --> Ne
 
 ```
 
-[[ATLAS/Typology MOC/Ne 💧\|Ne 💧]] : [[ATLAS/Typology MOC/Ne 💧\|Extroverted Intuition]]
-[[ATLAS/Typology MOC/Ni 🔥\|Ni 🔥]] : [[ATLAS/Typology MOC/Ni 🔥\|Introverted Intuition]]
-[[ATLAS/Typology MOC/Se 🌪️\|Se 🌪️]] : [[ATLAS/Typology MOC/Se 🌪️\|Extroverted Sensation]]
-[[ATLAS/Typology MOC/Si 🏔️\|Si 🏔️]] : [[ATLAS/Typology MOC/Si 🏔️\|Introverted Sensation]]
+[[ATLAS/Functions & Attitudes/Ne 💧\|Ne 💧]] : [[ATLAS/Functions & Attitudes/Ne 💧\|Extroverted Intuition]]
+[[ATLAS/Functions & Attitudes/Ni 🔥\|Ni 🔥]] : [[ATLAS/Functions & Attitudes/Ni 🔥\|Introverted Intuition]]
+[[ATLAS/Functions & Attitudes/Se 🌪️\|Se 🌪️]] : [[ATLAS/Functions & Attitudes/Se 🌪️\|Extroverted Sensation]]
+[[ATLAS/Functions & Attitudes/Si 🏔️\|Si 🏔️]] : [[ATLAS/Functions & Attitudes/Si 🏔️\|Introverted Sensation]]
 
 ## Judgement
 ```mermaid
@@ -58,8 +58,8 @@ Te --> Ti --> Fe --> Fi --> Te
 
 ```
 
-[[ATLAS/Typology MOC/Te 🏹\|Te 🏹]] : [[ATLAS/Typology MOC/Te 🏹\|Extroverted Thinking]] 
-[[ATLAS/Typology MOC/Ti 🗡️\|Ti 🗡️]] : [[ATLAS/Typology MOC/Ti 🗡️\|Introverted Thinking]]
-[[ATLAS/Typology MOC/Fe 💉\|Fe 💉]] : [[ATLAS/Typology MOC/Fe 💉\|Extroverted Feeling]]
-[[ATLAS/Typology MOC/Fi 🔱\|Fi 🔱]] : [[ATLAS/Typology MOC/Fi 🔱\|Introverted Feeling]]
+[[ATLAS/Functions & Attitudes/Te 🏹\|Te 🏹]] : [[ATLAS/Functions & Attitudes/Te 🏹\|Extroverted Thinking]] 
+[[ATLAS/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] : [[ATLAS/Functions & Attitudes/Ti 🗡️\|Introverted Thinking]]
+[[ATLAS/Functions & Attitudes/Fe 💉\|Fe 💉]] : [[ATLAS/Functions & Attitudes/Fe 💉\|Extroverted Feeling]]
+[[ATLAS/Functions & Attitudes/Fi 🔱\|Fi 🔱]] : [[ATLAS/Functions & Attitudes/Fi 🔱\|Introverted Feeling]]
 
