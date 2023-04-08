@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/dictionary/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-03-27T09:09:33.610+02:00"}
+{"dg-publish":true,"permalink":"/atlas/dictionary/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-08T10:59:03.035+02:00"}
 ---
 
 
