@@ -6,7 +6,7 @@
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] = Discovery
 
 Living Virtu ([[CARDS/Depth Psychology Theory/SF\|SF]]): [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]
-Deadly Sin ([[UF\|UF]]) : [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]] 
+Deadly Sin ([[CARDS/Depth Psychology Theory/UF\|UF]]) : [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]] 
 
 Subconscious Pole ([[CARDS/Depth Psychology Theory/SD\|SD]]) : [[CARDS/Depth Psychology Theory/Servility\|Servility]]
-Unconscious Pole ([[UD\|UD]]) : [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]
+Unconscious Pole ([[CARDS/Depth Psychology Theory/UD\|UD]]) : [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]
