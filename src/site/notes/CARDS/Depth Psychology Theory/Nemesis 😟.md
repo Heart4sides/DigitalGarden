@@ -15,7 +15,7 @@
 - provide[[challenge\|challenge]]
 - [[Worry\|Worry]]
 - [[uncertainty\|uncertainty]] vs [[certainty\|certainty]]
-- [[CARDS/Related Concepts & Theories/Paranoïa\|Paranoïa]]
+- [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
 - [[Concern\|Concern]] 
 - [[Confrontational\|Confrontational]] vs [[Peacekeeper\|Peacekeeper]]
 - The nemesis is there to force you to take action 
