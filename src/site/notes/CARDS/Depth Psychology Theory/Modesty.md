@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-08T12:38:22.097+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-10T10:45:43.272+02:00"}
 ---
 
 
 ## Related Notes 
-- [[CARDS/Related Concepts & Theories/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
+- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[Judgemental\|Judgemental]]
 - 
 
