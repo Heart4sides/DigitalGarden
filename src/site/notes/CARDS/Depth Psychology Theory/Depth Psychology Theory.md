@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-10T16:54:16.828+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-10T21:33:38.274+02:00"}
 ---
 
 
@@ -89,8 +89,7 @@
 - **Functions & Attitudes**
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
@@ -149,21 +148,21 @@
 - [[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]]
 - [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]]
 - [[CARDS/Depth Psychology Theory/Ne Demon 😈\|Ne Demon 😈]]
-- [[CARDS/Depth Psychology Theory/Ne Hero 🦸‍♂️\|Ne Hero 🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ne Inferior 😨\|Ne Inferior 😨]]
 - [[CARDS/Depth Psychology Theory/Ne Nemesis 😟\|Ne Nemesis 😟]]
 - [[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]]
 - [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
-- [[CARDS/Depth Psychology Theory/Ni Child 🧒\|Ni Child 🧒]]
-- [[CARDS/Depth Psychology Theory/Ni Critic 🤔\|Ni Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Ni Demon 😈\|Ni Demon 😈]]
-- [[CARDS/Depth Psychology Theory/Ni Hero 🦸‍♂️\|Ni Hero 🦸‍♂️]]
-- [[CARDS/Depth Psychology Theory/Ni Inferior 😨\|Ni Inferior 😨]]
-- [[CARDS/Depth Psychology Theory/Ni Nemesis 😟\|Ni Nemesis 😟]]
-- [[CARDS/Depth Psychology Theory/Ni Parent 🤨\|Ni Parent 🤨]]
-- [[CARDS/Depth Psychology Theory/Ni Trickster 🤡\|Ni Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Ni vs Si\|Ni vs Si]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Child🧒\|Ni🔥Child🧒]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]]
+- [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]
 - [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]
 - [[CARDS/Depth Psychology Theory/Octogram\|Octogram]]
@@ -176,7 +175,8 @@
 - [[CARDS/Depth Psychology Theory/Pragmatic & Affiliative\|Pragmatic & Affiliative]]
 - [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]]
-- [[[[Progression\|[[Progression]][[CARDS/Depth Psychology Theory/Proud\|Proud]]
+- [[CARDS/Depth Psychology Theory/Progression\|Progression]]
+- [[CARDS/Depth Psychology Theory/Proud\|Proud]]
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
 - [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 - [[CARDS/Depth Psychology Theory/Quarter-life crisis\|Quarter-life crisis]]
