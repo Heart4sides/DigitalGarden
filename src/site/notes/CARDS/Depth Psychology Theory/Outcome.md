@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-08T11:36:52.480+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-08T11:36:52.480+02:00"}
 ---
 
 
