@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-07T16:23:21.465+02:00"}
+{"dg-publish":true,"permalink":"/type-grid/","noteIcon":"","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-10T16:54:16.709+02:00"}
 ---
 
 
@@ -18,6 +18,6 @@ Sources : Plato, David Kersey, C.S. Joseph
 ## Interaction Styles 
 - [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] vs [[CARDS/Depth Psychology Theory/Responding\|Responding]]
 - [[CARDS/Depth Psychology Theory/Direct\|Direct]] vs [[CARDS/Depth Psychology Theory/Informative\|Informative]]
-- [[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]] vs [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
+- [[CARDS/Depth Psychology Theory/Progression\|Progression]] vs [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
 
 Sources : Linda Berens, C.S. Joseph 
