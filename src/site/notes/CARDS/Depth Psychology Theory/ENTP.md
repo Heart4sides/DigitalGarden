@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-08T11:24:06.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-10T16:54:14.703+02:00"}
 ---
 
 #type
@@ -16,7 +16,7 @@
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]): ESFP
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]]
+[[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]]
 [[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
