@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/courage/","created":"2023-01-17T22:10:34.461+01:00","updated":"2023-04-10T10:45:45.412+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/courage/","noteIcon":"","created":"2023-01-17T22:10:34.461+01:00","updated":"2023-04-10T10:45:45.412+02:00"}
 ---
 
 
