@@ -35,7 +35,7 @@ LVL 4 - Typing Individuals
 [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] | [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]]
 
 ## Quadra 
-[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
 
 ## Temples 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
