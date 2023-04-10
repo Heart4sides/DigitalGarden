@@ -8,7 +8,7 @@
 - Treasure gatherer
 - Pirates
 - "Life is about strengthening my position so that I can choose who to bring along with me."
-- Seek admiration and loyalty, but [[CARDS/Related Concepts & Theories/Doubt\|Doubt]] others’ ability to provide it. 
+- Seek admiration and loyalty, but [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]] others’ ability to provide it. 
 - [[Sharing\|Sharing]] the treasure with whom they choose
 - [[Suspicion\|Suspicion]]
 - [[Self-mockery\|Self-mockery]]
