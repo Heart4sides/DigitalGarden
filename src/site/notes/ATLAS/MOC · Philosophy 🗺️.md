@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-philosophy/","tags":["on/philosophy"],"created":"2023-02-18T15:16:26.544+01:00","updated":"2023-04-06T21:00:27.192+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-philosophy/","tags":["on/philosophy"],"created":"2023-02-18T15:16:26.544+01:00","updated":"2023-04-10T11:25:13.364+02:00"}
 ---
 
-🔼 :: [[ATLAS/Four Gardens of Mine\|Four Gardens of Mine]]
+🔼 :: [[ATLAS/Type a Cross 💠\|Type a Cross 💠]]
 
 # Authors 
 | File                                                      | Type     | Ref                                                                                                                                                                                                                                                                                                                                |
