@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-07T16:48:45.386+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-07T16:48:45.386+02:00"}
 ---
 
 
