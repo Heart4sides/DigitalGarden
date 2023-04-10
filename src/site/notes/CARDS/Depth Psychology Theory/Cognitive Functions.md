@@ -22,7 +22,7 @@ b(Process)
 a --> b --> Output --> Feedback --> Input
 ```
 
-[[Input 🌊\|Input 🌊]] : 
+[[CARDS/Depth Psychology Theory/Input 🌊\|Input 🌊]] : 
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] : possibilities
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] : beliefs 
 [[Process\|Process]] : 
