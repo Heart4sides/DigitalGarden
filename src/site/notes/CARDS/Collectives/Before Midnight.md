@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/before-midnight/","created":"2023-02-03T00:16:36.791+01:00","updated":"2023-02-03T09:50:15.442+01:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/before-midnight/","noteIcon":"","created":"2023-02-03T00:16:36.791+01:00","updated":"2023-02-03T09:50:15.442+01:00"}
 ---
 
 
