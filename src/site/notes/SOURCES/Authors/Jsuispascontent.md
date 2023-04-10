@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/jsuispascontent/","tags":["on/politics"],"created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-06T17:16:02.843+02:00"}
+{"dg-publish":true,"permalink":"/sources/authors/jsuispascontent/","tags":["on/politics"],"noteIcon":"","created":"2023-04-03T15:35:09.794+02:00","updated":"2023-04-06T17:16:02.843+02:00"}
 ---
 
 
