@@ -21,5 +21,6 @@ ref ::
 | File                                                                                                                                         | Ch_Type |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                         | \-      |
+| [[SOURCES/Contents/On the News · Alain de Botton\|On the News · Alain de Botton]]                                                         | \-      |
 | [[SOURCES/Contents/Tabibian x Interviews\|Tabibian x Interviews]]                                                                         | \-      |
 | [[SOURCES/Contents/The Invention of Individual Responsibility · Then and Now\|The Invention of Individual Responsibility · Then and Now]] | \-      |
