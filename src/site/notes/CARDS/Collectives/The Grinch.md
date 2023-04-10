@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/the-grinch/","noteIcon":"","created":"2022-12-13T22:16:55.816+01:00","updated":"2023-04-08T10:59:04.762+02:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/the-grinch/","noteIcon":"","created":"2022-12-13T22:16:55.816+01:00","updated":"2023-04-10T21:33:37.837+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 The Grinch 
 
-They wanna ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]]) use their little quality time ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]) with the Grinch 
+They wanna ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]) use their little quality time ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]) with the Grinch 
 I guess I could use a little social interaction 
 Am I just eating bc I'm [[bored\|bored]] ? 
 I don't know why I ever leave this place 
