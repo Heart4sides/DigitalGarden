@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-04-08T11:35:35.548+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","noteIcon":"","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-04-08T11:35:35.548+02:00"}
 ---
 
 
