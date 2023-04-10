@@ -7,7 +7,7 @@ Ref ::
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] or secundary prefered functions
 [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] secund in the function stack
 [[SOURCES/Contents/Daniel Kahneman - Thinking, Fast and Slow\|Daniel Kahneman - Thinking, Fast and Slow]]'s [[System 2\|System 2]] 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] is the secund function of the [[Wheel of perception\|Wheel of perception]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
 
 
 # Comments 
