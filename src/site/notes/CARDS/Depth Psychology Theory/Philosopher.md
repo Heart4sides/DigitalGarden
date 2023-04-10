@@ -28,14 +28,14 @@
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
 ## Dictionary
-- [[CARDS/Related Concepts & Theories/Principle\|Principle]]
-- [[CARDS/Related Concepts & Theories/Standard\|Standard]]
+- [[CARDS/· Related Concepts & Theories ·/Principle\|Principle]]
+- [[CARDS/· Related Concepts & Theories ·/Standard\|Standard]]
 - [[Success\|Success]]
 - [[Secret\|Secret]]
 - [[Righteous\|Righteous]]
 - [[Academic\|Academic]]
 - [[Civic Duty\|Civic Duty]]
-- [[CARDS/Related Concepts & Theories/Conservative\|Conservative]] 
+- [[CARDS/· Related Concepts & Theories ·/Conservative\|Conservative]] 
 - [[Blackmail\|Blackmail]]
 - [[I win button\|I win button]]
 - [[Manipulative\|Manipulative]]
