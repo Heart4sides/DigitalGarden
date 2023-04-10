@@ -7,7 +7,7 @@
 
 ## Attitudes 
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
-- [[CARDS/Related Concepts & Theories/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
+- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] 
 - [[Trickster 🤡\|Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
@@ -27,8 +27,8 @@
 - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[CARDS/Depth Psychology Theory/Reflection\|Reflection]]
 
 ## Characteristics 
-- [[CARDS/Related Concepts & Theories/Certain\|Certain]] / uncertain
-- [[CARDS/Related Concepts & Theories/Wisdom\|Wisdom]]
+- [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] / uncertain
+- [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
 	- battle against [[ignorance\|ignorance]]
 	- [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic]] development
 	- final product
@@ -38,7 +38,7 @@
 - acess to one's [[maturity\|maturity]]
 - [[mysterious\|mysterious]]
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]] 
-- [[CARDS/Related Concepts & Theories/The How\|The How]]
+- [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - trying to find the right [[order\|order]]
 - using [[evil\|evil]] to produce [[good\|good]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
