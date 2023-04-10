@@ -7,14 +7,14 @@
 - Collective Thinking
 - Collective knowledge
 - Manipulate people's thoughts 
-- [[CARDS/Related Concepts & Theories/Inductive\|Inductive]]
-- [[CARDS/Related Concepts & Theories/Understand\|Understand]]
+- [[CARDS/· Related Concepts & Theories ·/Inductive\|Inductive]]
+- [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
 - Rules
 	- If this is true...then this rule applies 
-- [[CARDS/Related Concepts & Theories/Standard\|Standard]]
-- [[CARDS/Related Concepts & Theories/Status\|Status]], credentials
+- [[CARDS/· Related Concepts & Theories ·/Standard\|Standard]]
+- [[CARDS/· Related Concepts & Theories ·/Status\|Status]], credentials
 - [[Achievement\|Achievement]]
-- [[CARDS/Related Concepts & Theories/Belief\|beliefs]]
+- [[CARDS/· Related Concepts & Theories ·/Belief\|beliefs]]
 - Labels, Name dropping
 - References, sources 
 - Procedures, standardization
