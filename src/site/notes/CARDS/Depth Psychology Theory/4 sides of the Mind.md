@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-08T11:35:26.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","noteIcon":"","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-08T11:35:26.027+02:00"}
 ---
 
 up :: [[ATLAS/MOC · Psychology 🗺️\|MOC · Psychology 🗺️]] 
