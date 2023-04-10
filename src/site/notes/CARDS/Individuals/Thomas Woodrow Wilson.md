@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/thomas-woodrow-wilson/","created":"2022-12-20T15:48:11.862+01:00","updated":"2023-02-19T16:13:09.881+01:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/thomas-woodrow-wilson/","noteIcon":"","created":"2022-12-20T15:48:11.862+01:00","updated":"2023-02-19T16:13:09.881+01:00"}
 ---
 
 up :: 
