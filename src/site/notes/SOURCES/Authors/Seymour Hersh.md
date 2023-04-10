@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/seymour-hersh/","created":"2023-02-24T12:15:34.786+01:00","updated":"2023-02-24T12:40:56.343+01:00"}
+{"dg-publish":true,"permalink":"/sources/authors/seymour-hersh/","noteIcon":"","created":"2023-02-24T12:15:34.786+01:00","updated":"2023-02-24T12:40:56.343+01:00"}
 ---
 
 up :: 
