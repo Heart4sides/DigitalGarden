@@ -7,7 +7,7 @@
 - [[Concept\|Concept]]
 - [[Implication\|Implication]]
 - [[Vizualization\|Vizualization]]
-- Hidden [[CARDS/Related Concepts & Theories/Meaning\|meanings]] 
+- Hidden [[CARDS/· Related Concepts & Theories ·/Meaning\|meanings]] 
 - [[Future\|Future]] - focused 
 - [[Potential\|Potential]]
 
