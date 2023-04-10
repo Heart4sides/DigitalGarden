@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/","created":"2023-01-29T16:25:19.886+01:00","updated":"2023-01-29T17:38:18.260+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/","noteIcon":"","created":"2023-01-29T16:25:19.886+01:00","updated":"2023-01-29T17:38:18.260+01:00"}
 ---
 
 
