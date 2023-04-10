@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/billy-milligan/","created":"2023-04-04T23:26:23.852+02:00","updated":"2023-04-07T13:20:05.587+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/billy-milligan/","noteIcon":"","created":"2023-04-04T23:26:23.852+02:00","updated":"2023-04-07T13:20:05.587+02:00"}
 ---
 
 
