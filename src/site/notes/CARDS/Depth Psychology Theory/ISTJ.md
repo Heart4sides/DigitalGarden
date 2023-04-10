@@ -8,10 +8,10 @@
 ==[[CARDS/Depth Psychology Theory/Quadra\|Quadra]]== : [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] 
 
 ==[[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]==
-[[CARDS/Depth Psychology Theory/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[Te Parent 🤨\|Te Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fi Child 🧒\|Fi Child 🧒]] | [[CARDS/Depth Psychology Theory/Ne Inferior 😨\|Ne Inferior 😨]]
+[[CARDS/Depth Psychology Theory/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te Parent 🤨\|Te Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fi Child 🧒\|Fi Child 🧒]] | [[CARDS/Depth Psychology Theory/Ne Inferior 😨\|Ne Inferior 😨]]
 
 ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== 
-[[CARDS/Depth Psychology Theory/Se Nemesis 😟\|Se Nemesis 😟]] | [[Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ni Demon 😈\|Ni Demon 😈]]
+[[CARDS/Depth Psychology Theory/Se Nemesis 😟\|Se Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ni Demon 😈\|Ni Demon 😈]]
 
 ## 4 sides  
 ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
@@ -29,7 +29,7 @@
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] : [[CARDS/Depth Psychology Theory/Justification\|Justification]]
 [[Living Virtu\|Living Virtu]] : [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
-[[Deadly Sin\|Deadly Sin]] : [[Wrath\|Wrath]]
+[[Deadly Sin\|Deadly Sin]] : [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
 [[Shadow Pole\|Shadow Pole]] : [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]]
 [[Sub Pole\|Sub Pole]] : [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]
 
