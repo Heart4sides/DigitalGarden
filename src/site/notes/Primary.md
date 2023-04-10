@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/primary/","noteIcon":"","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-10T17:18:43.202+02:00"}
+{"dg-publish":true,"permalink":"/primary/","noteIcon":"","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-10T21:33:40.424+02:00"}
 ---
 
 #on/psychology 
 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]].
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]].
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
 
 The [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]. 
