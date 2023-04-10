@@ -8,13 +8,13 @@ VS [[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]]
 ## Keywords
 - Ensure the quality of the result
 - Get things done right the first time
-- Goal > [[CARDS/Related Concepts & Theories/Journey\|Journey]]
+- Goal > [[CARDS/· Related Concepts & Theories ·/Journey\|Journey]]
 - Plan 
 - [[deliberate\|deliberate]] 
 - [[measured\|measured]]
 - [[certainty\|certainty]]-focused 
 - [[control\|control]] 
-- [[CARDS/Related Concepts & Theories/Prepare\|Prepare]]
+- [[CARDS/· Related Concepts & Theories ·/Prepare\|Prepare]]
 
 ## Related Notes 
 - [[CARDS/Depth Psychology Theory/Background\|Background]]
