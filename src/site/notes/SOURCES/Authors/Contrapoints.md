@@ -5,9 +5,9 @@
 Tags :: #on/philosophy #on/politics 
 ## Contrapoints' Type
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-	- [[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
+	- [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 	- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
-	- [[CARDS/Related Concepts & Theories/Identity\|Identity]] 
+	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
 - [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I love attention !"
 - [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] : empathize with the person but still criticize  
 - [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] : analyzing situations on a case by case basis 
@@ -185,21 +185,21 @@ him, which is exactly what happened with the Cathy Newman interview.
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 ![Pasted image 20230118000425.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118000425.png)
 ![Pasted image 20230118001116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001116.png)
-lack of [[CARDS/Depth Psychology Theory/Purpose\|Purpose]], lack of [[CARDS/Related Concepts & Theories/Struggle\|Struggle]]
+lack of [[CARDS/Depth Psychology Theory/Purpose\|Purpose]], lack of [[CARDS/· Related Concepts & Theories ·/Struggle\|Struggle]]
 
 ## J.K. Rowling
 [J.K. Rowling | ContraPoints - YouTube](```timestamp-url 
  https://www.youtube.com/watch?v=7gDKbT_l2us```
 ![Pasted image 20230118003626.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118003626.png)
 [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]
-[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] = hate that poses a political threat to the target group
-Why [[CARDS/Related Concepts & Theories/Understand\|Understand]] ? Because "When you dehumanize the villain you become unable to recognize the villain within"
+[[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]] = hate that poses a political threat to the target group
+Why [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]] ? Because "When you dehumanize the villain you become unable to recognize the villain within"
 ![Pasted image 20230118004910.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118004910.png)
 ```timestamp 
  24:29
  ```
 ![Pasted image 20230118005157.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118005157.png)
-[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is a reaction to threat
+[[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]] is a reaction to threat
 ![Pasted image 20230118005540.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118005540.png)
 "Some questions should be dissolved rather than solved" wittgenstein
 ![Pasted image 20230118010021.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010021.png)
@@ -232,7 +232,7 @@ Is he describing an INTJ ??
 ```timestamp 
  59:20
  ```
-Freud about [[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
+Freud about [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 ```timestamp 
  01:00:06
  ```
@@ -248,11 +248,11 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118014508.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014508.png)
 "These are the thoughts of someone's who's been hurt" = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
 ![Pasted image 20230118014907.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014907.png)
-[[CARDS/Related Concepts & Theories/Paranoïa\|Paranoïa]]
+[[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
 ```timestamp 
  01:09:18
  ```
-[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is often rooted in trauma
+[[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]] is often rooted in trauma
 ```timestamp 
  01:10:58
  ```
@@ -262,12 +262,12 @@ Trans = narcissistic male fetichist who preys on women
 ```timestamp 
  01:13:14
  ```
-[[CARDS/Related Concepts & Theories/Bigotry\|Bigotry]] is not a slur (insulte)
+[[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]] is not a slur (insulte)
 ```timestamp 
  01:15:49
  ```
 ![Pasted image 20230118020135.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118020135.png)
-[[CARDS/Related Concepts & Theories/Fetichism\|Fetichism]]
+[[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 ```timestamp 
  01:22:43
  ```
