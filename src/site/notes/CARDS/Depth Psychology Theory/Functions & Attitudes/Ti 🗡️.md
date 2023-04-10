@@ -19,7 +19,7 @@
 - authenticity
 
 ## Quadras
-[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[Templar\|Templar]] 
+[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] 
 
 ## Types 
 
@@ -31,9 +31,9 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[Ti Parent 🤨\|Ti Parent 🤨]] | [[Ti Child 🧒\|Ti Child 🧒]] | [[Ti Inferior 😨\|Ti Inferior 😨]]
+[[CARDS/Depth Psychology Theory/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti Child 🧒\|Ti Child 🧒]] | [[CARDS/Depth Psychology Theory/Ti Inferior 😨\|Ti Inferior 😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[Ti Nemesis 😟\|Ti Nemesis 😟]] | [[Ti Critic 🤔\|Ti Critic 🤔]] | [[Ti Trickster 🤡\|Ti Trickster 🤡]] | [[Ti Demon 😈\|Ti Demon 😈]]
+[[CARDS/Depth Psychology Theory/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ti Trickster 🤡\|Ti Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti Demon 😈\|Ti Demon 😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
