@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-03-28T18:53:21.175+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-03-28T18:53:21.175+02:00"}
 ---
 
 
