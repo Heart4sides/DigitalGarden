@@ -7,7 +7,7 @@
 
 [[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]] | [[CARDS/Depth Psychology Theory/Ni Child 🧒\|Ni Child 🧒]] | [[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]] | [[CARDS/Depth Psychology Theory/Si Child 🧒\|Si Child 🧒]]
 
-[[Te Child 🧒\|Te Child 🧒]] | [[Ti Child 🧒\|Ti Child]] | [[CARDS/Depth Psychology Theory/Fe Child 🧒\|Fe Child 🧒]] | [[CARDS/Depth Psychology Theory/Fi Child 🧒\|Fi Child 🧒]]
+[[CARDS/Depth Psychology Theory/Te Child 🧒\|Te Child 🧒]] | [[CARDS/Depth Psychology Theory/Ti Child 🧒\|Ti Child]] | [[CARDS/Depth Psychology Theory/Fe Child 🧒\|Fe Child 🧒]] | [[CARDS/Depth Psychology Theory/Fi Child 🧒\|Fi Child 🧒]]
 
 ## Axis, Orbit, Reflect
 
