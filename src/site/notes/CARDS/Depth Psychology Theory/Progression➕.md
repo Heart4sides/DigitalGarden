@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-07T16:23:22.244+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-07T16:23:22.244+02:00"}
 ---
 
 
