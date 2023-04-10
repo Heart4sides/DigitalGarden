@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/direct/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:43:16.188+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/direct/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-10T21:27:44.928+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Direct\|Direct]] :
 - [[CARDS/Depth Psychology Theory/Finisher\|Finisher]] : [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] 
 
 ## Temple 
 
