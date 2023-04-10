@@ -19,7 +19,7 @@ Vice of the [[CARDS/Depth Psychology Theory/INTP\|INTP]]
 | hypernym |same-context |synonym |
 | --- | --- | --- |
 | passiveness | boredom | Laodiceanism |
-| [[CARDS/Related Concepts & Theories/passivity\|passivity]] | carelessness | abeyance |
+| [[CARDS/· Related Concepts & Theories ·/passivity\|passivity]] | carelessness | abeyance |
 |  | dejection | abstraction |
 |  | discouragement | abulia |
 |  | hopelessness | accidia |
