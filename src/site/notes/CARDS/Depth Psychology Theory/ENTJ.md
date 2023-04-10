@@ -38,4 +38,4 @@
 
 ## Examples 
 [[Examples 1\|Examples 1]] 
-[[CARDS/Typing Individuals/By type/ENTJ list\|ENTJ list]]
+[[CARDS/Individuals/By type/ENTJ list\|ENTJ list]]
