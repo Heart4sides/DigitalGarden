@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-10T10:45:48.372+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","noteIcon":"","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-10T10:45:48.372+02:00"}
 ---
 
 
