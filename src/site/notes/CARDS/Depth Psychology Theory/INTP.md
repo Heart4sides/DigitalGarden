@@ -35,4 +35,4 @@
 
 ## Examples 
 [[Examples\|Examples]] 
-[[CARDS/Typing Individuals/By type/INTP list\|INTP list]]
+[[CARDS/Individuals/By type/INTP list\|INTP list]]
