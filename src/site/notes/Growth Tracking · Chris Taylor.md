@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/growth-tracking-chris-taylor/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-08T19:03:36.092+02:00"}
+{"dg-publish":true,"permalink":"/growth-tracking-chris-taylor/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-10T10:25:28.936+02:00"}
 ---
 
 #on/depthpsychology 
@@ -14,7 +14,7 @@ Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouT
 | [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]     | Rest          | Diligence      |
 | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]  | Vulnerability | Happiness      |
 
-| ➕  | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]           | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]     |                |
+| ➕  | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]           | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]     |                
 | ---------------- | ------------ | -------------- |
 |     🔗             | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] |
 |                  | Depth        | Revolution     |
@@ -23,3 +23,11 @@ Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouT
 | [[Trickster 🤡\|Trickster 🤡]] | Curiosity    | Ignorance      |
 | [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]     | Adversity    | Fear           |
 
+# Comments 
+<script src="https://utteranc.es/client.js"
+        repo="Heart4sides/Comment_Section"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>
