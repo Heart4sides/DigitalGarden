@@ -21,7 +21,7 @@
 
 ## Roles of the Parent
 
-- [[CARDS/Related Concepts & Theories/Teaching\|Teaching]] : Bring maturity to teenagers
+- [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]] : Bring maturity to teenagers
 - [[Raising\|Raising]] : Bring happiness to children 
 
 ## Mentions
