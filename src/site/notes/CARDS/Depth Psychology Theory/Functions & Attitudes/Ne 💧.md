@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-10T16:54:15.192+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-10T21:11:06.094+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
@@ -21,11 +21,13 @@
 
 ## Types 
 
-| [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]&nbsp; | |   | |
-|:---------------|:-----------|:---------------|:---------------|
-| [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]       |  | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]&nbsp; | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]       |
-| [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]       |  |   |    |
-| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; |  |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      | [[CARDS/Depth Psychology Theory/INFP\|INFP]]       |  
+|            | **[[CARDS/Depth Psychology Theory/Guardian\|Guardian]]** | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | **[[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]]** | **[[CARDS/Depth Psychology Theory/Idealist\|Idealist]]** |
+|:---------- |:-------- |:------- |:------------ |:-------- |
+| **[[CARDS/Depth Psychology Theory/Structure\|Structure]]**  | **[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]**     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
+| **[[CARDS/Depth Psychology Theory/Starter\|Starter]]**    | **[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]**     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | **[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]**         | **[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]**     |
+| **[[CARDS/Depth Psychology Theory/Finisher\|Finisher]]**   | **[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]**     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
+| **[[CARDS/Depth Psychology Theory/Background\|Background]]** | **[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]**     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | **[[CARDS/Depth Psychology Theory/INTP\|INTP]]**         | **[[CARDS/Depth Psychology Theory/INFP\|INFP]]**     |      
+
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
