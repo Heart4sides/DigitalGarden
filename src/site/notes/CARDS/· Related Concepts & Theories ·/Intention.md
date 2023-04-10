@@ -14,7 +14,7 @@
 
 ### Temples 
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]] : demonstrate why sb was justified in what they did or intended 
-- [[Wrath\|Wrath]] : when believe sb was not justified in what they did or intended
+- [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] : when believe sb was not justified in what they did or intended
 
 ### Examples 
 - [[CARDS/Individuals/Mozart\|Mozart]]
