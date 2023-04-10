@@ -44,7 +44,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 >
 >"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
 >
->"The loftiest [[accomplishments\|accomplishments]] of humankind are emphasized– the great works of literature and art, the [[laws\|laws]] or [[CARDS/Related Concepts & Theories/Principle\|principles]] of science."
+>"The loftiest [[accomplishments\|accomplishments]] of humankind are emphasized– the great works of literature and art, the [[laws\|laws]] or [[CARDS/· Related Concepts & Theories ·/Principle\|principles]] of science."
 - Preference for 
 	- Other people's original thoughts with respect to the source [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- Achievements, actions held in high regard [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
@@ -61,18 +61,18 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 
 ## Essentialism
 > "Essentialists believe that there is a common core of knowledge ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]) that needs to be transmitted to students in a [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplined]] ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) way."
-> "The emphasis in this conservative perspective is on  intellectual and moral [[CARDS/Related Concepts & Theories/Standard\|standards]] ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]) that schools should teach"
+> "The emphasis in this conservative perspective is on  intellectual and moral [[CARDS/· Related Concepts & Theories ·/Standard\|standards]] ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]) that schools should teach"
 > "Schooling should be practical, preparing students to become valuable members of society ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]])."
 > "It should focus on facts ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]) -the objective reality ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]) out there--and "the basics," training students to read, write, speak, and compute clearly and logically ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]])."
 > "Students should be taught hard work, [[CARDS/Depth Psychology Theory/Reverance\|respect]] for [[CARDS/Depth Psychology Theory/Authority\|Authority]], and [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|discipline]]" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Progressivism
 > "Progressivists believe that education should focus on the whole child, rather than on the content or the teacher." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract\|Abstract]]) by active [[CARDS/Related Concepts & Theories/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete\|Concrete]])." 
+> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract\|Abstract]]) by active [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete\|Concrete]])." 
 > "Learning is rooted in the questions of learners that arise through experiencing the world ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]). It is active ([[CARDS/Depth Psychology Theory/Initiating\|extraverted]]), not passive. The learner is a problem solver and thinker ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]) who makes meaning through his or her individual experience in the physical ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) and cultural ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) context"
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest 🤝\|interests]] and questions."
-> "The scientific [[CARDS/Depth Psychology Theory/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/Related Concepts & Theories/The How\|how]] one comes to know."
+> "The scientific [[CARDS/Depth Psychology Theory/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
 > "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
@@ -84,7 +84,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 > "draws upon multiple theories, styles, or ideas to gain complementary insights into a subject, or applies different theories in particular cases" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]]
 
 ## Existentialism
-[[CARDS/Typing Individuals/IRL Typed/Artists/Ecrivains/Jean Paul Sartre\|Jean Paul Sartre]], [[CARDS/Typing Individuals/IRL Typed/Artists/Ecrivains/Nietzsche\|Nietzsche]], [[Kierkegaard\|Kierkegaard]]
+[[CARDS/Individuals/Jean Paul Sartre\|Jean Paul Sartre]], [[CARDS/Individuals/Nietzsche\|Nietzsche]], [[Kierkegaard\|Kierkegaard]]
 > "While the famous existentialists would passionately disagree with one another on many basic philosophical issues, what they shared was a respect for individualism." [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] 
 > "In particular, they argued that traditional approaches to philosophy do not adequately respect the unique concerns of each individual." [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
 > "Jean Paul Sartre's classic formulation of existentialism--that "existence precedes essence"-- means that there exists no universal, inborn human nature. We are born and exist, and then we ourselves freely determine our essence (that is, our innermost nature)" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]]
