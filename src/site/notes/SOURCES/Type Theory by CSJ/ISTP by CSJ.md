@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/istp-by-csj/","created":"2022-12-29T21:53:12.312+01:00","updated":"2023-01-02T16:44:26.493+01:00"}
+{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/istp-by-csj/","noteIcon":"","created":"2022-12-29T21:53:12.312+01:00","updated":"2023-01-02T16:44:26.493+01:00"}
 ---
 
 
