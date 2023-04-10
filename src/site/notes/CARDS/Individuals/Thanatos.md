@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/thanatos/","created":"2023-01-21T15:15:11.756+01:00","updated":"2023-03-08T10:04:30.708+01:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/thanatos/","noteIcon":"","created":"2023-01-21T15:15:11.756+01:00","updated":"2023-03-08T10:04:30.708+01:00"}
 ---
 
 
