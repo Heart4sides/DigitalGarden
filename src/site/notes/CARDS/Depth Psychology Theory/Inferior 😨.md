@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/inferior/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-03-08T19:06:36.182+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/inferior/","noteIcon":"","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-03-08T19:06:36.182+01:00"}
 ---
 
 
