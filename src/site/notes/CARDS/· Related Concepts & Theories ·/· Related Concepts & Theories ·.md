@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-10T10:46:01.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-10T12:24:42.863+02:00"}
 ---
 
 
@@ -85,7 +85,11 @@
 - [[CARDS/· Related Concepts & Theories ·/Vergogne\|Vergogne]]
 - [[CARDS/· Related Concepts & Theories ·/Voluptuousness\|Voluptuousness]]
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
+- [[CARDS/· Related Concepts & Theories ·/Worry\|Worry]]
 - [[CARDS/· Related Concepts & Theories ·/Worth by Merriam-Webster\|Worth by Merriam-Webster]]
+- [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
+- [[CARDS/· Related Concepts & Theories ·/Yang\|Yang]]
+- [[CARDS/· Related Concepts & Theories ·/Yin\|Yin]]
 
 
 
