@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-02-26T15:55:20.709+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","noteIcon":"","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-02-26T15:55:20.709+01:00"}
 ---
 
 
