@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:43:19.482+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:43:19.482+01:00"}
 ---
 
 As opposed to the prefererence for [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]]
