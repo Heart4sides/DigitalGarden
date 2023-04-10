@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/jacques-ranciere/","created":"2023-01-31T22:54:03.393+01:00","updated":"2023-02-26T17:20:24.757+01:00"}
+{"dg-publish":true,"permalink":"/sources/authors/jacques-ranciere/","noteIcon":"","created":"2023-01-31T22:54:03.393+01:00","updated":"2023-02-26T17:20:24.757+01:00"}
 ---
 
 up :: 
