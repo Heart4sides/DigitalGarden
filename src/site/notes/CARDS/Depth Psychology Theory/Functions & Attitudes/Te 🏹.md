@@ -34,9 +34,9 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-Te Hero 🦸‍♂️ | [[Te Parent 🤨\|Te Parent 🤨]] | [[Te Child 🧒\|Te Child 🧒]] | [[Te Inferior 😨\|Te Inferior 😨]]
+Te Hero 🦸‍♂️ | [[CARDS/Depth Psychology Theory/Te Parent 🤨\|Te Parent 🤨]] | [[CARDS/Depth Psychology Theory/Te Child 🧒\|Te Child 🧒]] | [[CARDS/Depth Psychology Theory/Te Inferior 😨\|Te Inferior 😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[Te Nemesis 😟\|Te Nemesis 😟]] | [[Te Critic 🤔\|Te Critic 🤔]] | [[Te Trickster 🤡\|Te Trickster 🤡]] | [[Te Demon 😈\|Te Demon 😈]]
+[[CARDS/Depth Psychology Theory/Te Nemesis 😟\|Te Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
