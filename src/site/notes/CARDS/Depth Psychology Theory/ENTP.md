@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-08T11:24:06.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-08T11:24:06.027+02:00"}
 ---
 
 #type
