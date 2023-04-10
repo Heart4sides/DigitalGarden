@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/streamline/","created":"2023-01-12T13:17:44.369+01:00","updated":"2023-04-08T12:38:22.146+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/streamline/","created":"2023-01-12T13:17:44.369+01:00","updated":"2023-04-10T10:45:43.443+02:00"}
 ---
 
 ## Related Notes 
-- [[CARDS/Related Concepts & Theories/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
+- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 
 
 ## Wordnik
