@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-10T16:54:15.952+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-10T21:33:38.912+02:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Progression\|Progre
 - [[CARDS/Depth Psychology Theory/Finisher\|Finisher]] : [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
