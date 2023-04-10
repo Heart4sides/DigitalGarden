@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/softlocking/","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-08T11:24:06.411+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/softlocking/","noteIcon":"","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-08T11:24:06.411+02:00"}
 ---
 
 
