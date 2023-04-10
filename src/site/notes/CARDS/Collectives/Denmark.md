@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/denmark/","created":"2023-01-20T21:09:08.408+01:00","updated":"2023-01-20T21:19:25.595+01:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/denmark/","noteIcon":"","created":"2023-01-20T21:09:08.408+01:00","updated":"2023-01-20T21:19:25.595+01:00"}
 ---
 
 
