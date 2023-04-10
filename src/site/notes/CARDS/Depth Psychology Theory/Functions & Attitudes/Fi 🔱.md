@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-08T10:59:05.715+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-08T10:59:05.715+02:00"}
 ---
 
 
