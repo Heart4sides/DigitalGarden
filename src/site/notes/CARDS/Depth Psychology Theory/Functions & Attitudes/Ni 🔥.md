@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-08T12:38:21.944+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-10T10:45:42.520+02:00"}
 ---
 
 
@@ -51,12 +51,12 @@
 
 ## Mentions 
 ctrl + schift + Q
-- [[CARDS/Related Concepts & Theories/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
+- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 - [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]
 - [[EXTRAS/Templates/TPL Function\|TPL Function]]
 - [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-- [[CARDS/Related Concepts & Theories/Intention\|Intention]]
+- [[CARDS/· Related Concepts & Theories ·/Intention\|Intention]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
 - [[SOURCES/Contents/Vultology\|Vultology]]
 - [[CARDS/Depth Psychology Theory/Direct\|Direct]]
