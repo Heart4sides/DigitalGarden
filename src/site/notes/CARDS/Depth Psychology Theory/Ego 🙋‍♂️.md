@@ -7,11 +7,11 @@
 - theme : [[alignement\|alignement]]
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] 
-- [[CARDS/Related Concepts & Theories/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
 - Attitude : [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - mature: [[responsible\|responsible]]    
 - final product : [[order\|order]] 
 - Ego-focused people tend to be boring & bland
 - Light of the [[Soul\|Soul]]
 - [[Hare\|Hare]]
-- [[CARDS/Related Concepts & Theories/The Why\|The Why]]
+- [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
