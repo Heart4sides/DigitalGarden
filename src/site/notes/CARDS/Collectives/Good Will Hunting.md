@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/good-will-hunting/","created":"2022-12-23T05:30:34.100+01:00","updated":"2023-01-14T00:48:13.470+01:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/good-will-hunting/","noteIcon":"","created":"2022-12-23T05:30:34.100+01:00","updated":"2023-01-14T00:48:13.470+01:00"}
 ---
 
 [[Examples\|Examples]]
