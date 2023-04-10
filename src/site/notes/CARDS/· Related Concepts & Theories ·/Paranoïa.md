@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/paranoia/","created":"2023-01-18T14:39:11.982+01:00","updated":"2023-02-26T15:54:54.660+01:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/paranoia/","noteIcon":"","created":"2023-01-18T14:39:11.982+01:00","updated":"2023-02-26T15:54:54.660+01:00"}
 ---
 
 
