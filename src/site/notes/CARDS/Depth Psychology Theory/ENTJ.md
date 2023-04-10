@@ -8,11 +8,11 @@
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 
-[[Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni Parent 🤨\|Ni Parent 🤨]] |[[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
+[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni Parent 🤨\|Ni Parent 🤨]] |[[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
 
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 
-[[Ti Nemesis 😟\|Ti Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]| [[CARDS/Depth Psychology Theory/Fe Demon 😈\|Fe Demon 😈]]
+[[CARDS/Depth Psychology Theory/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]| [[CARDS/Depth Psychology Theory/Fe Demon 😈\|Fe Demon 😈]]
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : ISFP
