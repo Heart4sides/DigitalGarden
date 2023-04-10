@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/carl-jung/","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-07T12:48:12.089+02:00"}
+{"dg-publish":true,"permalink":"/sources/authors/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-07T12:48:12.089+02:00"}
 ---
 
 
