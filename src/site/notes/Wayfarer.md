@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-08T11:36:52.577+02:00"}
+{"dg-publish":true,"permalink":"/wayfarer/","noteIcon":"","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-08T11:36:52.577+02:00"}
 ---
 
 🔼:: [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
