@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/quadra/","created":"2023-01-06T10:07:05.312+01:00","updated":"2023-04-08T01:01:47.739+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/quadra/","noteIcon":"","created":"2023-01-06T10:07:05.312+01:00","updated":"2023-04-08T01:01:47.739+02:00"}
 ---
 
 
