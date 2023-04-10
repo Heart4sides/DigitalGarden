@@ -11,7 +11,7 @@
 { #c079f4}
 
 - Value, worth
-- [[CARDS/Related Concepts & Theories/Sympathy\|Sympathy]]
+- [[CARDS/· Related Concepts & Theories ·/Sympathy\|Sympathy]]
 - Moral
 - Investment
 - Measure, weight
