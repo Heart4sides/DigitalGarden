@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-07T16:46:31.283+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","noteIcon":"","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-10T16:53:57.540+02:00"}
 ---
 
+#on/education 
 
 > [!quote]
 > "a philosophy of education that empowers individuals with broad knowledge and transferable skills, and a stronger sense of values, ethics, and civic engagement ... characterized by challenging encounters with important issues, and more a way of studying than a specific course or field of study"[^1]
