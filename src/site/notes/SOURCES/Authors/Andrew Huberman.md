@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/andrew-huberman/","created":"2023-02-01T18:05:58.167+01:00","updated":"2023-03-10T11:07:09.463+01:00"}
+{"dg-publish":true,"permalink":"/sources/authors/andrew-huberman/","created":"2023-02-01T18:05:58.167+01:00","updated":"2023-04-10T12:25:46.594+02:00"}
 ---
 
 up :: 
@@ -55,8 +55,8 @@ Creativity
 ```timestamp 
  32:14
  ```
-2 effect : ↗️ [[acetylcholine\|acetylcholine]].
-[[acetylcholine\|acetylcholine]] released from nucleus basalis 
+2 effect : ↗️ [[SOURCES/Contents/acetylcholine\|acetylcholine]].
+[[SOURCES/Contents/acetylcholine\|acetylcholine]] released from nucleus basalis 
 
 
 
@@ -64,7 +64,7 @@ Creativity
 # Focus 
 - Meditation practice of 13 minutes a day increases focus. Close eyes, direct attention inside your forehead. 
 - Focus is like an arrow: 
-	- The head of the arrow is largely set by [[acetylcholine\|acetylcholine]]. 
+	- The head of the arrow is largely set by [[SOURCES/Contents/acetylcholine\|acetylcholine]]. 
 	- The shaft is set by a chemical called [[adrenaline\|adrenaline]] / epinephrine, providing the energy. 
 	- The propeller is dopamine. It pushes you forwards. 
 	- 💊 [[Alpha GPC\|Alpha GPC]] : increases the focus. 
@@ -86,7 +86,7 @@ Creativity
 Neuroplasticity process is dependant on 
 - dopamine
 - Norepinephrine
-- [[acetylcholine\|Acetylcholine]] 
+- [[SOURCES/Contents/acetylcholine\|acetylcholine]] 
 In Biology almost anything is a process
 Take rest --> learn much faster
 From very focused to very relaxed
