@@ -3,10 +3,10 @@
 ---
 
 
-- Purpose : Conquering [[CARDS/Related Concepts & Theories/Happiness\|Happiness]]
+- Purpose : Conquering [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
 - Final product : [[humble\|humble]]
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]
-- [[CARDS/Related Concepts & Theories/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]
+- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance Function]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]] 
 - [[Courageous\|Courageous]], [[faithful\|faithful]] vs [[CARDS/Depth Psychology Theory/Inferior 😨\|fearful]]
 - [[Ignorant\|Ignorant]], [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
