@@ -38,7 +38,7 @@
 
 
 ## Quadras
-[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[Templar\|Templar]] 
+[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] 
 
 ## Types 
 
