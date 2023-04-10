@@ -8,22 +8,22 @@
 - The collective values & feelings
 - Manipulates people's feelings
 - [[Empathy\|Empathy]]
-- [[CARDS/Related Concepts & Theories/Accept\|Accept]]
+- [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
 - [[Inclusive\|Inclusive]]
-- [[CARDS/Related Concepts & Theories/Deserve\|Deserve]]
-- [[CARDS/Related Concepts & Theories/Culture\|Culture]]
+- [[CARDS/· Related Concepts & Theories ·/Deserve\|Deserve]]
+- [[CARDS/· Related Concepts & Theories ·/Culture\|Culture]]
 - [[Support\|Support]]
-- [[CARDS/Related Concepts & Theories/Considerate\|Considerate]] 
+- [[CARDS/· Related Concepts & Theories ·/Considerate\|Considerate]] 
 - [[Social\|Social]]
 - [[Praise\|Praise]]
 - [[Benefit\|Benefit]]
 - [[Common Knowledge\|Common Knowledge]]
-- [[CARDS/Related Concepts & Theories/Conducive\|Conducive]]
+- [[CARDS/· Related Concepts & Theories ·/Conducive\|Conducive]]
 - [[Fondness\|Fondness]] 
-- [[CARDS/Related Concepts & Theories/Balance\|Balance]] 
+- [[CARDS/· Related Concepts & Theories ·/Balance\|Balance]] 
 - [[self-deprecation\|self-deprecation]] 
 - [[CARDS/Depth Psychology Theory/Humility\|Humility]]
-- [[CARDS/Related Concepts & Theories/Guilt\|Guilt]]
+- [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 | [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]  |
 | --- | --- |
 | X   | 
@@ -75,5 +75,5 @@
 
 ## Examples 
 [[Examples 1\|Examples 1]] 
-[[CARDS/Typing Collectives/The Grinch\|The Grinch]]
+[[CARDS/Collectives/The Grinch\|The Grinch]]
 
