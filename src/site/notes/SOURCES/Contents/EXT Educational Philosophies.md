@@ -56,8 +56,8 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ESTJ 
 	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[Wayfarer\|Gquad]](ENTJ)
 	- 2/4 - [[Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
-	- 1/4 - [[Templar\|Bquad]] (ENFJ, ESTP), [[Wayfarer\|Gquad]] ESFP 
-	- 0/4 - [[Templar\|Bquad]] (INFJ, ISTP)
+	- 1/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (ENFJ, ESTP), [[Wayfarer\|Gquad]] ESFP 
+	- 0/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (INFJ, ISTP)
 
 ## Essentialism
 > "Essentialists believe that there is a common core of knowledge ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]) that needs to be transmitted to students in a [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplined]] ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) way."
