@@ -5,7 +5,7 @@
 #on/psychology 
 
 [[primary parenting\|primary parenting]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] is primary in the [[Wheel of perception\|Wheel of perception]].
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]].
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
 
 The [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind\|4 sides of the Mind]]. 
