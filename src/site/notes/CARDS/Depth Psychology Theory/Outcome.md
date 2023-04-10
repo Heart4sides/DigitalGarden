@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-08T11:36:52.480+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-10T16:54:15.921+02:00"}
 ---
 
 
-VS [[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]] 
+VS [[CARDS/Depth Psychology Theory/Progression\|Progression]] 
 
 ## Keywords
 - Ensure the quality of the result
