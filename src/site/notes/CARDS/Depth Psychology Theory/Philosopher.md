@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-06T21:11:02.560+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-10T21:33:38.845+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 | |  |    | [[CARDS/Depth Psychology Theory/INFP\|INFP]]       |  
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
