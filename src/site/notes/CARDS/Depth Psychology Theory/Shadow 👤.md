@@ -14,7 +14,7 @@
 
 ## Vice & Pole
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]] - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
-- [[Wrath\|Wrath]] - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]] 
+- [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]] 
 - [[Vainglory\|Vainglory]] - [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]
 - [[CARDS/Depth Psychology Theory/Envy\|Envy]] - [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] - [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]
