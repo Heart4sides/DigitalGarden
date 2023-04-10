@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T10:45:41.552+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T20:29:51.305+02:00"}
 ---
 
 #on/psychology
 
 # [[ATLAS/MOC · Depth Psychology\|Depth Psychology Theory]]
+
+[How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
 
 # John Beebe's 8 attitudes model 
 1. [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
