@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-08T01:01:47.195+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-10T21:28:40.081+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni Parent 🤨\|Ni Parent 🤨]] |[[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
+[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
 
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 
