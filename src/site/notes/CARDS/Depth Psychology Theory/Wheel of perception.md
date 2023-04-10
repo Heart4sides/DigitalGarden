@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-04-07T16:11:27.398+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","noteIcon":"","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-04-07T16:11:27.398+02:00"}
 ---
 
 Ref :: [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
