@@ -4,10 +4,10 @@
 
 ## Keywords
 - Introverted Thinking
-- [[CARDS/Related Concepts & Theories/Deductive\|Deductive]]
+- [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]
 - Personal [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
 - Personal Thinking
-- [[CARDS/Related Concepts & Theories/Certain\|Certain]]
+- [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
 - Filter
 - candor
 - separate
