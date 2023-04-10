@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-04-08T12:38:21.903+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-04-10T10:45:42.324+02:00"}
 ---
 
 
 ## Related Notes 
-- [[CARDS/Related Concepts & Theories/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
+- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 
 
 ## Wordnik
