@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-04-05T12:30:00.013+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","noteIcon":"","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-04-05T12:30:00.013+02:00"}
 ---
 
 Ref :: 
