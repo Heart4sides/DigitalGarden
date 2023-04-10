@@ -34,10 +34,10 @@
 
 
 ## Mentions 
-- [[CARDS/Typing Individuals/By type/ENTP list\|ENTP list]]
+- [[CARDS/Individuals/By type/ENTP list\|ENTP list]]
 - [[SOURCES/Type Theory by CSJ/Types Theory/Confessions of an ENTP\|Confessions of an ENTP]]
-- [[CARDS/Typing Individuals/IRL Typed/Politiciens/Hitler\|Hitler]]
-- [[CARDS/Related Concepts & Theories/Certain\|Certain]]
+- [[CARDS/Individuals/Hitler\|Hitler]]
+- [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
 - [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 
 ## Examples 
