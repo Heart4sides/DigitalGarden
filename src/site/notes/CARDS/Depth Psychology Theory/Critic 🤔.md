@@ -7,7 +7,7 @@
 
 [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni Critic 🤔\|Ni Critic 🤔]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
 
-[[Te Critic 🤔\|Te Critic 🤔]] | [[Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Critic 🤔\|Fe Critic]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
+[[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Critic 🤔\|Fe Critic]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
 
 ## Keywords 
 - [[cynicism\|cynicism]]
