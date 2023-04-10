@@ -7,9 +7,9 @@ Tags :: #type
 ## Quadra & Functions
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
 > [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si Parent 🤨\|Si Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]] | [[Ti Inferior 😨\|Ti Inferior 😨]]
+[[CARDS/Depth Psychology Theory/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si Parent 🤨\|Si Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]] | [[CARDS/Depth Psychology Theory/Ti Inferior 😨\|Ti Inferior 😨]]
 > [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni Trickster 🤡\|Ni Trickster 🤡]] | [[Te Demon 😈\|Te Demon 😈]]
+[[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni Trickster 🤡\|Ni Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
