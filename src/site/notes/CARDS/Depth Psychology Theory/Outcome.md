@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-10T16:54:15.921+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-10T21:28:40.154+02:00"}
 ---
 
 
@@ -34,7 +34,7 @@ VS [[CARDS/Depth Psychology Theory/Progression\|Progression]]
 [[CARDS/Depth Psychology Theory/Fi Hero 🦸‍♂️\|Fi Hero 🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Te Inferior 😨\|Te Inferior 😨]]
 [[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
 [[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]] - [[CARDS/Depth Psychology Theory/Si Child 🧒\|Si Child 🧒]]
-[[CARDS/Depth Psychology Theory/Ni Parent 🤨\|Ni Parent 🤨]] - [[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]] 
+[[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]] 
 
 Outcome = [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] + [[CARDS/Depth Psychology Theory/Judgement\|Judger]]
 
