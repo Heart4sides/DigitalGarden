@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-08T09:56:25.683+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-08T09:56:25.683+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
