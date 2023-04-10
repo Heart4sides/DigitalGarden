@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/the-strange-bubble-of-french-intellectuals-noam-chomsky/","created":"2023-04-07T14:35:29.897+02:00","updated":"2023-04-07T15:30:46.931+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/the-strange-bubble-of-french-intellectuals-noam-chomsky/","noteIcon":"","created":"2023-04-07T14:35:29.897+02:00","updated":"2023-04-07T15:30:46.931+02:00"}
 ---
 
 Ref :: [Noam Chomsky: The Strange Bubble of French Intellectuals - YouTube](https://youtu.be/772WncdxCSw)
