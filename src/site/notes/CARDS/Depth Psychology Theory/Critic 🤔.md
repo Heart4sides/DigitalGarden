@@ -11,7 +11,7 @@
 
 ## Keywords 
 - [[cynicism\|cynicism]]
-- [[CARDS/Related Concepts & Theories/Wisdom\|Wisdom]]
+- [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
 - [[Witch\|Witch]]
 - [[Senile\|Senile]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
