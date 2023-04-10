@@ -17,7 +17,7 @@ Integrity
 [[CARDS/Depth Psychology Theory/Chastity\|Chastity]] | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
 
 **VICES**
-[[CARDS/Depth Psychology Theory/Lust\|Lust]] | [[Wrath\|Wrath]]
+[[CARDS/Depth Psychology Theory/Lust\|Lust]] | [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
 
 **COGNITIVE ORIGIN**
 [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]
