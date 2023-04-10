@@ -18,7 +18,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 
 ## Quadras
-[[Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
 
 ## Types 
 
