@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-08T10:59:04.122+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-08T10:59:04.122+02:00"}
 ---
 
 2023-04-02
