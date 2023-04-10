@@ -19,7 +19,7 @@
 - Relentless
 
 ## Quadras
-[[Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
 
 ## Types 
 
