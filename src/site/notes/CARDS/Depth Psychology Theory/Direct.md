@@ -6,7 +6,7 @@
 ## Keywords
 - Explicit : Mean what you say, say what you mean
 - Chooses it's own and other's role in conversation
-- Command, [[CARDS/Related Concepts & Theories/Lead\|Lead]], Instruct, Manage
+- Command, [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]], Instruct, Manage
 - Simplify, be concise
 - Clarification
 - Confidence
