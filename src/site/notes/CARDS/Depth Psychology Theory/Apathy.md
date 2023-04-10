@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/apathy/","created":"2023-01-12T13:01:23.984+01:00","updated":"2023-02-26T16:45:13.022+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/apathy/","noteIcon":"","created":"2023-01-12T13:01:23.984+01:00","updated":"2023-02-26T16:45:13.022+01:00"}
 ---
 
 
