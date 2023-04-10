@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-06T19:47:54.459+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-10T21:33:37.879+02:00"}
 ---
 
 ## Keywords 
@@ -17,7 +17,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Abstract\|Abstract]
 - [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] 
