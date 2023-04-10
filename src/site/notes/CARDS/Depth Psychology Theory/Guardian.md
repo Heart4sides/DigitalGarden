@@ -6,7 +6,7 @@ up :: [[Type Grid\|Type Grid]]
 ref :: [[David Keirsey\|David Keirsey]], [[Plato\|Plato]]
 tags :: #on/politics 
 
-[[Temperament\|Temperament]]
+[[CARDS/Depth Psychology Theory/Temperament\|Temperament]]
 - [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
 - [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
 - [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
