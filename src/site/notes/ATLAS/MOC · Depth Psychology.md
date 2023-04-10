@@ -10,7 +10,7 @@ LVL 4 - Typing Individuals
 
 ## Cognitive Functions
 [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] : 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] - [[CARDS/Related Concepts & Theories/Belief\|believe]] 
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] - [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] 
 -  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] [[deduces\|deduces]]
 -  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
 -  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
