@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/subconscious/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-03-09T10:07:10.442+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/subconscious/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-03-09T10:07:10.442+01:00"}
 ---
 
 
