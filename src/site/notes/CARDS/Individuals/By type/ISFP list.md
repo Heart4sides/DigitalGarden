@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/by-type/isfp-list/","created":"2022-12-13T22:16:55.787+01:00","updated":"2023-04-07T10:17:44.099+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/by-type/isfp-list/","noteIcon":"","created":"2022-12-13T22:16:55.787+01:00","updated":"2023-04-07T10:17:44.099+02:00"}
 ---
 
 
