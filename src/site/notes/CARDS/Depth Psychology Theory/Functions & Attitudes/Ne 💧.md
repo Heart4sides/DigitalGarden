@@ -13,7 +13,7 @@
 - Desirability
 - Original [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
 - Manipulating the collective future 
-- [[CARDS/Related Concepts & Theories/The Why\|The Why]]
+- [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 - Water
 
 ## Quadras
