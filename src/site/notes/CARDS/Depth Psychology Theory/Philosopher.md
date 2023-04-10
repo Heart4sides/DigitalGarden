@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-06T21:11:02.560+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-06T21:11:02.560+02:00"}
 ---
 
 
