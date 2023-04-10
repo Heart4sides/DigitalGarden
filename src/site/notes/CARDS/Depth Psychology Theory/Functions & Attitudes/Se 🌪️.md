@@ -15,7 +15,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 - Demonstrate, show
 - Performance
 - Cultivate strength & skills
-- [[CARDS/Related Concepts & Theories/The How\|The How]]
+- [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 
 ## Quadras
 [[Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
@@ -48,7 +48,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 ## Dictionary
 - IPOF : [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
 - [[CARDS/Depth Psychology Theory/Education\|Education]]
-- [[CARDS/Related Concepts & Theories/The How\|The How]]
+- [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] (mirror)
 - [[skill\|Skill]]
 - Collective [[consciousness\|consciousness]]
