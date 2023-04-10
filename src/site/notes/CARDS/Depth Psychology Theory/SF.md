@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-04-10T16:53:25.991+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-04-10T17:20:29.279+02:00"}
 ---
 
 
@@ -9,3 +9,4 @@ Meaning the person is currently favoring his [[CARDS/Depth Psychology Theory/Sub
 
 Attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 
+[[Primary\|Primary]] preference of the mind. 
