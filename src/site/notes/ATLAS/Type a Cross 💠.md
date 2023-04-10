@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-04-10T12:20:31.193+02:00"}
+{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-04-10T16:42:54.118+02:00"}
 ---
 
 # Type A Cross💠 
