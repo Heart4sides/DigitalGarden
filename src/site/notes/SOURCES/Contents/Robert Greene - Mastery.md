@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/robert-greene-mastery/","created":"2023-02-28T10:54:08.122+01:00","updated":"2023-02-28T10:54:36.262+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/robert-greene-mastery/","noteIcon":"","created":"2023-02-28T10:54:08.122+01:00","updated":"2023-02-28T10:54:36.262+01:00"}
 ---
 
 **Title:** Mastery  
