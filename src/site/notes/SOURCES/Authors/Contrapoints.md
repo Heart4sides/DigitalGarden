@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-08T11:35:36.078+02:00"}
+{"dg-publish":true,"permalink":"/sources/authors/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-08T11:35:36.078+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
