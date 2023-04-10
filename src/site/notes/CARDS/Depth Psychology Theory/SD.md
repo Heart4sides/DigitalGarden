@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","noteIcon":"","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-04-10T17:20:03.985+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","noteIcon":"","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-04-10T17:20:08.115+02:00"}
 ---
 
 
@@ -13,4 +13,4 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 Attached to the Subconscious Temple = [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
-[[Primary\|Primary]] 
+[[Primary\|Primary]] preference of the mind. 
