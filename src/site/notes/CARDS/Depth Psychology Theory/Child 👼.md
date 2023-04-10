@@ -23,4 +23,4 @@
 
 | Mature | Immature |
 | -------- | --------- | 
-| [[Divine\|Divine]]   | [[CARDS/Related Concepts & Theories/Tyrant\|Tyrant]]  |  
+| [[Divine\|Divine]]   | [[CARDS/· Related Concepts & Theories ·/Tyrant\|Tyrant]]  |  
