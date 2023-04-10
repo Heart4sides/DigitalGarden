@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/optimistic/","created":"2022-12-31T18:18:57.786+01:00","updated":"2023-04-10T12:39:13.697+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/optimistic/","noteIcon":"","created":"2022-12-31T18:18:57.786+01:00","updated":"2023-04-10T12:39:13.697+02:00"}
 ---
 
 
