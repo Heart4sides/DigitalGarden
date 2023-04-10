@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T10:21:45.701+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T10:45:41.552+02:00"}
 ---
 
 #on/psychology
 
 # [[ATLAS/MOC · Depth Psychology\|Depth Psychology Theory]]
 
-# Typological Attitudes 
+# John Beebe's 8 attitudes model 
 1. [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
 3. [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
@@ -19,7 +19,7 @@
 Source : [[SOURCES/Contents/John Beebe - Energies and Patterns in Psychological Type\|John Beebe - Energies and Patterns in Psychological Type]]
 
 ---
-# Meaning
+# [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 
 ## Wordnik 
 
