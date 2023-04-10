@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","noteIcon":"","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-10T10:45:45.734+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","noteIcon":"","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-10T21:33:39.792+02:00"}
 ---
 
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]]
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 
 ## Wordnik
 
