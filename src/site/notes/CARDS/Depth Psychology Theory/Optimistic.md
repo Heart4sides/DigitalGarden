@@ -12,7 +12,6 @@
 - give energy
 - recharge
 - proactive
-[^1]
 
 
 </div></div>
