@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/george-washington/","created":"2022-12-22T17:17:17.272+01:00","updated":"2023-02-19T16:11:11.753+01:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/george-washington/","noteIcon":"","created":"2022-12-22T17:17:17.272+01:00","updated":"2023-02-19T16:11:11.753+01:00"}
 ---
 
 up :: 
