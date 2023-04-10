@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-08T11:35:36.109+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-10T16:54:16.548+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
@@ -73,7 +73,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest 🤝\|interests]] and questions."
 > "The scientific [[CARDS/Depth Psychology Theory/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
-> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression➕\|Progression➕]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
+> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression\|Progression]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]] [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
 > "Social reconstructionism is a philosophy that emphasizes the addressing of social questions and a quest to create a better society and worldwide democracy" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
