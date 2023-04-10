@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/struggle/","created":"2023-01-18T14:17:08.273+01:00","updated":"2023-04-02T17:23:55.401+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/struggle/","noteIcon":"","created":"2023-01-18T14:17:08.273+01:00","updated":"2023-04-02T17:23:55.401+02:00"}
 ---
 
 
