@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-08T13:08:47.939+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T10:21:45.701+02:00"}
 ---
 
 #on/psychology
+
+# [[ATLAS/MOC · Depth Psychology\|Depth Psychology Theory]]
 
 # Typological Attitudes 
 1. [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
@@ -14,7 +16,7 @@
 7. [[Trickster 🤡\|Trickster 🤡]]
 8. [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 
-Source : John Beebe, Energies and Patterns of Psychological Types 
+Source : [[SOURCES/Contents/John Beebe - Energies and Patterns in Psychological Type\|John Beebe - Energies and Patterns in Psychological Type]]
 
 ---
 # Meaning
@@ -97,9 +99,11 @@ Source : John Beebe, Energies and Patterns of Psychological Types
 [(143) PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr)
 
 ## Research Methods in Language Attitudes 
-[Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
-> [!quote]
-> "The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
 
 > [!quote]
-> "The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
+> "The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)[^1]
+
+> [!quote]
+> "The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"[^1]
+
+[^1]: [Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
