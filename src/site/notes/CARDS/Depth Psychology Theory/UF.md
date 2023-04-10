@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/uf/","created":"2023-01-12T14:00:14.796+01:00","updated":"2023-03-28T18:53:46.297+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/uf/","noteIcon":"","created":"2023-01-12T14:00:14.796+01:00","updated":"2023-03-28T18:53:46.297+02:00"}
 ---
 
 
