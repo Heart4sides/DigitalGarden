@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-06T19:47:55.062+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-10T21:33:39.410+02:00"}
 ---
 
 
@@ -7,10 +7,10 @@ Source des textes : Télérama, hors-série sur Gustave Flaubert
 Source de l'analyse : C.S. Joseph, Linda Berens, David Kersey 
 
 Analyse de Yves Leclerc : 
-"Libre au sein de sa famille, ils se sentait enfermé ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplin]]e militaire."
+"Libre au sein de sa famille, ils se sentait enfermé ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplin]]e militaire."
 
-> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni 🔥\|Ni 🔥]]) et qu'il a fait régner l'ordre ([[CARDS/Depth Psychology Theory/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne 💧\|Ne 💧]]
+> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]) et qu'il a fait régner l'ordre ([[CARDS/Depth Psychology Theory/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 - [[CARDS/Depth Psychology Theory/Outcome\|Outcome]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
