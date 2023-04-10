@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-02-18T16:34:07.887+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","noteIcon":"","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-02-18T16:34:07.887+01:00"}
 ---
 
 
