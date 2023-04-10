@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-08T11:35:35.409+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-08T11:35:35.409+02:00"}
 ---
 
 
