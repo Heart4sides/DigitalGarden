@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/john-beebe/john-beebe/","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-07T12:48:50.409+02:00"}
+{"dg-publish":true,"permalink":"/sources/john-beebe/john-beebe/","noteIcon":"","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-07T12:48:50.409+02:00"}
 ---
 
 
