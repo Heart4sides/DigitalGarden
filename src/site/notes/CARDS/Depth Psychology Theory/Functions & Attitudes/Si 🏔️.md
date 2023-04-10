@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-06T19:47:54.887+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","noteIcon":"","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-06T19:47:54.887+02:00"}
 ---
 
 
