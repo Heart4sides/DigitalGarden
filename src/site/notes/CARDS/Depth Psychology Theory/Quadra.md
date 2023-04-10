@@ -6,6 +6,6 @@
 Quadra : 4 types sharing the same 4 functions. Each type within the quadra has a unique order of preference for these functions. 
 
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
-[[Templar\|Templar]]
+[[CARDS/Depth Psychology Theory/Templar\|Templar]]
 [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
 [[Wayfarer\|Wayfarer]]
