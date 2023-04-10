@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-03-08T19:08:28.367+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-10T21:31:36.217+02:00"}
 ---
 
 
 ## In Attitudes
 
-[[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni Critic 🤔\|Ni Critic 🤔]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
+[[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
 
 [[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Critic 🤔\|Fe Critic]] | [[CARDS/Depth Psychology Theory/Si Critic 🤔\|Si Critic 🤔]]
 
