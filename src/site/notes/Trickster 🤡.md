@@ -6,4 +6,4 @@ Up : [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
 
 ## In Attitudes
 [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ni Trickster 🤡\|Ni Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Se Trickster 🤡\|Se Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]
-[[Te Trickster 🤡\|Te Trickster 🤡]] | [[Ti Trickster 🤡\|Ti Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti Trickster 🤡\|Ti Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]
