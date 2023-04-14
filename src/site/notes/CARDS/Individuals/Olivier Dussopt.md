@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","noteIcon":"","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-04-14T09:54:03.940+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","noteIcon":"","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-04-14T10:01:44.822+02:00"}
 ---
 
 Ref :: 
@@ -11,7 +11,8 @@ Ref ::
 
 ```ad-quote 
 title: Olivier Dussopt
-collapse : closed
+collapse: closed
+
 [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -24,6 +25,7 @@ collapse : closed
 </div></div>
 
 
+![[@jsuispascontenttvOlivierDussopt2023^\|@jsuispascontenttvOlivierDussopt2023^]]
 
 # Comments
 <script src="https://utteranc.es/client.js"
