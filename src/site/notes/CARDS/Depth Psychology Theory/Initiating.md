@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-10T21:33:38.427+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-14T10:37:39.226+02:00"}
 ---
 
 
@@ -40,4 +40,3 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 </div></div>
 
 
-[^1]: [extra- - Wiktionary](https://en.wiktionary.org/wiki/extra-#:~:text=English-,Etymology,being%20on%20the%20outside%E2%80%9D).)
