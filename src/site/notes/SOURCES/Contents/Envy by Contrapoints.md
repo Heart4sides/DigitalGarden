@@ -3,7 +3,7 @@
 ---
 
 [[CARDS/Depth Psychology Theory/Envy\|Envy]]
-[[SOURCES/Authors/Contrapoints\|Contrapoints]]
+[[CARDS/Individuals/Contrapoints\|Contrapoints]]
 
 ```timestamp-url 
  [Envy | ContraPoints - YouTube](https://www.youtube.com/watch?v=aPhrTOg1RUk)
