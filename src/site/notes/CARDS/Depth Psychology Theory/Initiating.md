@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-14T12:00:27.358+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-14T12:08:36.357+02:00"}
 ---
 
 
@@ -33,9 +33,13 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 </div></div>
 [^1]
 
-[Mentions](#Mentions)
-[Keywords](#Keywords)
+
+# Sources 
+| Sources                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [How Does Initiating Compare To Responding? \| Initiating Vs. Responding \| CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8) |
 
 
-[^1]: Sources : 
-- [How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
+[[CARDS/Depth Psychology Theory/Initiating#Keywords\|#Keywords]]
+
+[^1]: [Sources](#Sources)
