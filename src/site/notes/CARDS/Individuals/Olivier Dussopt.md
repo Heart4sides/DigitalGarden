@@ -11,11 +11,8 @@ Ref ::
 
 ```ad-quote 
 title: Olivier Dussopt
-collapse: 
-icon: 
-color: 
-Example note
-(Source :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
+collapse : closed
+[J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - "C'est une évidence" [[-Te🏹]]
