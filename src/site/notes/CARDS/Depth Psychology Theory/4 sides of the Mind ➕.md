@@ -3,7 +3,7 @@
 ---
 
 up :: [[ATLAS/MOC · Psychology 🗺️\|MOC · Psychology 🗺️]] 
-ref :: [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
+ref :: [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]]
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] 
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
