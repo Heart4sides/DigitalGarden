@@ -5,5 +5,5 @@
 
 [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis]] worry talking for the [[CARDS/Depth Psychology Theory/Demon 😈\|Demon]]'s hatred. 
 
-[[SOURCES/Authors/Contrapoints\|Contrapoints]]  
+[[CARDS/Individuals/Contrapoints\|Contrapoints]]  
 Bigtry is hate that poses a political threat to the target group. It's a reaction to threat. 
