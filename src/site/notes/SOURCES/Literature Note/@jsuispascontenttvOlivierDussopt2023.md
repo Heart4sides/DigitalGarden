@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:01:54.672+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:10:10.541+02:00"}
 ---
 
+Ref :: [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg)
 
 Tabibian 08/02/2023. OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis Pas Content ! #373].     [Link](https://www.youtube.com/watch?v=oMo0EMf5XCg). 
 
