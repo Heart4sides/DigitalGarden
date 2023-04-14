@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-10T21:33:38.274+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T09:30:50.484+02:00"}
 ---
 
 
@@ -89,7 +89,8 @@
 - **Functions & Attitudes**
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
