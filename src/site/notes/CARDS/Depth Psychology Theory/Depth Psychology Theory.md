@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T09:30:50.484+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T11:04:03.210+02:00"}
 ---
 
 
@@ -169,6 +169,7 @@
 - [[CARDS/Depth Psychology Theory/Octogram\|Octogram]]
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
+- [[CARDS/Depth Psychology Theory/Overcoming Ne nem\|Overcoming Ne nem]]
 - [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
 - [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
