@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/how-does-initiating-compare-to-responding-csj-quotes/","noteIcon":"","created":"2023-01-26T21:58:26.226+01:00","updated":"2023-04-10T17:52:33.364+02:00"}
+{"dg-publish":true,"permalink":"/sources/type-theory-by-csj/how-does-initiating-compare-to-responding-csj-quotes/","noteIcon":"","created":"2023-01-26T21:58:26.226+01:00","updated":"2023-04-14T10:36:52.712+02:00"}
 ---
 
 Ref :: [How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
