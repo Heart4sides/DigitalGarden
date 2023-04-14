@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-14T11:49:19.802+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-14T12:00:27.358+02:00"}
 ---
 
 
@@ -31,9 +31,11 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 "Three's a crowd two is a tango"[^1] 
 
 </div></div>
-
 [^1]
 
-[^1]: 
-- [How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
+[Mentions](#Mentions)
+[Keywords](#Keywords)
 
+
+[^1]: Sources : 
+- [How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
