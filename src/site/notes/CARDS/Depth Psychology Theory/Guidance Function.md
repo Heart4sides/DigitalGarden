@@ -20,4 +20,4 @@
 
 
 [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
-Source of the concept : [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
+Source of the concept : [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
