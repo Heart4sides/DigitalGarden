@@ -9,7 +9,6 @@ ref ::
 | ------------------------------------------------------------------- | ------- |
 | [[SOURCES/Authors/Contrapoints\|Contrapoints]]                   | INFJ    |
 | [[SOURCES/Authors/Etienne Chouard\|Etienne Chouard]]             | \-      |
-| [[SOURCES/Authors/Jsuispascontent\|Jsuispascontent]]             | \-      |
 | [[SOURCES/Authors/Le Media Pour Tous\|Le Media Pour Tous]]       | \-      |
 | [[SOURCES/Authors/Pierre-Yves Rougeyron\|Pierre-Yves Rougeyron]] | \-      |
 | [[SOURCES/Authors/Seymour Hersh\|Seymour Hersh]]                 | \-      |
