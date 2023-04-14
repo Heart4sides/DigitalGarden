@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:01:13.081+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:01:54.672+02:00"}
 ---
 
 
 Tabibian 08/02/2023. OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis Pas Content ! #373].     [Link](https://www.youtube.com/watch?v=oMo0EMf5XCg). 
 
 - [00:36](https://youtu.be/oMo0EMf5XCg?t=36) -  [[CARDS/Individuals/Olivier Dussopt\|Olivier Dussopt]]
+{ #9e8804}
+
 	- "C'est une évidence" [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- "Qu'est-ce que vous en savez ?" [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- "Je les ai financées en travaillant en 3x8, dans une usine..." [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
