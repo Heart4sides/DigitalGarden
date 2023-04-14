@@ -5,16 +5,8 @@
 up :: 
 ref :: 
 #on/politics 
-| File                                                                | Ch_Type |
-| ------------------------------------------------------------------- | ------- |
-| [[SOURCES/Authors/Contrapoints\|Contrapoints]]                   | INFJ    |
-| [[SOURCES/Authors/Etienne Chouard\|Etienne Chouard]]             | \-      |
-| [[SOURCES/Authors/Le Media Pour Tous\|Le Media Pour Tous]]       | \-      |
-| [[SOURCES/Authors/Pierre-Yves Rougeyron\|Pierre-Yves Rougeyron]] | \-      |
-| [[SOURCES/Authors/Seymour Hersh\|Seymour Hersh]]                 | \-      |
-| [[SOURCES/Authors/Tabibian\|Tabibian]]                           | \-      |
-| [[SOURCES/Authors/Tatiana Ventôse\|Tatiana Ventôse]]             | \-      |
-| [[SOURCES/Authors/Thinkerview\|Thinkerview]]                     | \-      |
+| File | Ch_Type |
+| ---- | ------- |
 
 
 | File                                                                                                                                         | Ch_Type |
