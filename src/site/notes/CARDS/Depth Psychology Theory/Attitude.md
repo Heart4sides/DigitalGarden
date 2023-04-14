@@ -97,7 +97,7 @@ Source : [[SOURCES/Contents/John Beebe - Energies and Patterns in Psychological 
 > [Components of attitudes | Behavior | MCAT | Khan Academy - YouTube](https://www.youtube.com/watch?v=cDq1_R-J51w)
 ![Pasted image 20230327092934.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327092934.png)
 
-## [[SOURCES/Authors/Frank M. LoShiavo\|Frank M. LoShiavo]]
+## [[CARDS/Individuals/Frank M. LoShiavo\|Frank M. LoShiavo]]
 [(143) PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr)
 
 ## Research Methods in Language Attitudes 
