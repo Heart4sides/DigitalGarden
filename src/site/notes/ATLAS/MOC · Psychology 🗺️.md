@@ -14,7 +14,7 @@
 
 - [[SOURCES/Authors/C.S. Joseph\|C.S. Joseph]]
 - [[SOURCES/Authors/Carl Jung\|Carl Jung]]
-- [[SOURCES/John Beebe/John Beebe\|John Beebe]]
+- [[CARDS/Individuals/John Beebe\|John Beebe]]
 - [[SOURCES/Authors/Linda Berens\|Linda Berens]]
 - [[David Keirsey\|David Keirsey]]
 - [[SOURCES/Authors/Dario Nardi\|Dario Nardi]]
