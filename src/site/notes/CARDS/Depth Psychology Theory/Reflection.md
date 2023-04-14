@@ -14,5 +14,5 @@
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] = instant reflection 
 - [[SOURCES/Type Theory by CSJ/Functions/Templar by CSJ\|Templar by CSJ]] = reflect the identity of those around them 
 - Reflector functions are two different methods of accomplishing the same end.
-- [[SOURCES/John Beebe/Mirror by John Beebe\|Mirror by John Beebe]]
+- [[SOURCES/Contents/Mirror by John Beebe\|Mirror by John Beebe]]
 - 
