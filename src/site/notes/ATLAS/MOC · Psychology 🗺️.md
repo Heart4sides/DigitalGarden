@@ -18,7 +18,7 @@
 - [[CARDS/Individuals/Linda Berens\|Linda Berens]]
 - [[David Keirsey\|David Keirsey]]
 - [[CARDS/Individuals/Dario Nardi\|Dario Nardi]]
-- [[CARDS/Individuals/MBTI Humans\|MBTI Humans]]
+- [[CARDS/Collectives/MBTI Humans\|MBTI Humans]]
 - [[CARDS/Individuals/Shotgunette\|Shotgunette]]
 
 </div></div>
