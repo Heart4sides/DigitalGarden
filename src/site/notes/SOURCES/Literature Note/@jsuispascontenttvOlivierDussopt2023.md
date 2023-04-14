@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T09:57:40.690+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/jsuispascontenttv-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:00:21.020+02:00"}
 ---
 
 
@@ -41,11 +41,8 @@ Tabibian 08/02/2023. OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis Pas Conten
 
 ```ad-quote 
 title: Olivier Dussopt
-collapse: 
-icon: 
-color: 
-Example note
-(Source :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
+collapse : closed
+[J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?start=39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 - "C'est une évidence" [[-Te🏹]]
