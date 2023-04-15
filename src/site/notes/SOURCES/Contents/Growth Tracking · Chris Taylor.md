@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-10T10:25:28.936+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-14T15:28:50.191+02:00"}
 ---
 
 #on/depthpsychology 
@@ -16,7 +16,7 @@ Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouT
 
 | ➕  | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]           | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]     |                
 | ---------------- | ------------ | -------------- |
-|     🔗             | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] |
+|     🔗             | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] |
 |                  | Depth        | Revolution     |
 | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]   | Perspective  | Arrogance      |
 | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]    | Humility     | Complacency    |
