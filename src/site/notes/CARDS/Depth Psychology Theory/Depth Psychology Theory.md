@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T11:04:03.210+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T21:52:43.100+02:00"}
 ---
 
 
@@ -44,6 +44,8 @@
 - [[CARDS/Depth Psychology Theory/Data\|Data]]
 - [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 - [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]
+- [[CARDS/Depth Psychology Theory/Depth Psychology Authors\|Depth Psychology Authors]]
+- [[CARDS/Depth Psychology Theory/Depth Psychology Theory\|Depth Psychology Theory]]
 - [[CARDS/Depth Psychology Theory/depth psychology\|depth psychology]]
 - [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]
 - [[CARDS/Depth Psychology Theory/Direct\|Direct]]
@@ -175,14 +177,14 @@
 - [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
 - [[CARDS/Depth Psychology Theory/Pole\|Pole]]
 - [[CARDS/Depth Psychology Theory/Pragmatic & Affiliative\|Pragmatic & Affiliative]]
-- [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+- [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]]
 - [[CARDS/Depth Psychology Theory/Progression\|Progression]]
 - [[CARDS/Depth Psychology Theory/Proud\|Proud]]
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
 - [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 - [[CARDS/Depth Psychology Theory/Quarter-life crisis\|Quarter-life crisis]]
-- [[CARDS/Depth Psychology Theory/Reflection\|Reflection]]
+- [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]
 - [[CARDS/Depth Psychology Theory/Responding\|Responding]]
 - [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]
 - [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
