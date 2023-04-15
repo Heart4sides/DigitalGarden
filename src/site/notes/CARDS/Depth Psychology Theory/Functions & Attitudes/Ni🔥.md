@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-10T21:33:40.711+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-14T15:28:39.603+02:00"}
 ---
 
 
@@ -38,7 +38,7 @@
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
-[[CARDS/Depth Psychology Theory/Reflection\|Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]] | [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] 
