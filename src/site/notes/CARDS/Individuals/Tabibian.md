@@ -41,14 +41,14 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 > - J'ai j'ai j'ai - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]]  
 > - Pas très abstrait même s'il utilise beaucoup de métaphores 🤔  
 > - Refuse le Fi qui l'empêcherait de se remettre en question  
-> - [[-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] rant be like "C'EST LA RE-A-LI-TÉ"
+> - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] rant be like "C'EST LA RE-A-LI-TÉ"
 > - Dénonce la [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] typique des ESTJs et INFPs
-> - "Ce que je dis est factuel" [[-Ti🗡️\|-Ti🗡️]]
+> - "Ce que je dis est factuel" [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]
 > - "Les gens n'ont pas de mémoire" [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] 
 > - "Jveux pas être tenu" [[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]]
 > - "C'est très très dur de résister" [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
 > - Attitude de prof, laisse tabibian répondre à ses colles [[CARDS/Typing Toolbox/-Mind⚒️\|-Mind⚒️]] 
-> - "J'ai toujours des paraboles pour que les gens comprennent" [[-Ti🗡️\|-Ti🗡️]] 
+> - "J'ai toujours des paraboles pour que les gens comprennent" [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] 
 
 > [!Abstract]- Content
 > - Les revenus des hauts fonctionnaires sont secrets  
