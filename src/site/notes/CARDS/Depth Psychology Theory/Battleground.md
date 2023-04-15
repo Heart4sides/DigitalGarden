@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-03-09T10:12:54.108+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-14T15:28:33.903+02:00"}
 ---
 
 
-- [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] 
+- [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] 
 - [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 - [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] - [[Trickster 🤡\|Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]] - [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
