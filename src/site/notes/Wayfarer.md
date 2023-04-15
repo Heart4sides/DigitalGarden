@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wayfarer/","noteIcon":"","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-10T21:27:47.309+02:00"}
+{"dg-publish":true,"permalink":"/wayfarer/","noteIcon":"","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-14T15:16:02.665+02:00"}
 ---
 
 🔼:: [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -28,7 +28,7 @@
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+[[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 
 ## Virtu & Vice
 [[Earning\|Earning]] | [[Stealing\|Stealing]] 
