@@ -8,9 +8,9 @@
 > "a philosophy of education that empowers individuals with broad knowledge and transferable skills, and a stronger sense of values, ethics, and civic engagement ... characterized by challenging encounters with important issues, and more a way of studying than a specific course or field of study"[^1]
 
 >[!note]-
->[[-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]
-[[-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]]
-[[-systematic⚙️\|-systematic⚙️]] 
+>[[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]
+[[CARDS/Typing Toolbox/-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]]
+[[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]] 
 
 > [!quote]
 > A **Liberal education** is a system or course of education suitable for the cultivation of a free (Latin: liber) human being. It is based on the medieval concept of the liberal arts or, more commonly now, the liberalism of the Age of Enlightenment.
