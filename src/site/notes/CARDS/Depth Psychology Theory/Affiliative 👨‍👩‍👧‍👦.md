@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-08T10:59:03.321+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-14T15:16:00.969+02:00"}
 ---
 
-Vs [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+Vs [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 
 ## Keywords
 - People-focused
