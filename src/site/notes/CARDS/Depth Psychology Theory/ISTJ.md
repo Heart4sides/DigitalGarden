@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-10T21:32:38.573+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-14T15:28:45.318+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 [[CARDS/Depth Psychology Theory/Se Nemesis 😟\|Se Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ti Critic 🤔\|Ti Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
 
 ## 4 sides  
-==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
+==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
 ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== ([[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]) : [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
 ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]== ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):   [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
 
