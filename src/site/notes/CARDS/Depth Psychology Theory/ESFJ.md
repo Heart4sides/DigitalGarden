@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-10T21:32:14.834+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-14T15:28:36.614+02:00"}
 ---
 
 Tags :: #type 
@@ -12,7 +12,7 @@ Tags :: #type
 [[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
 ## 4 sides  
-[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
+[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]) : ISFP
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):  ENTJ 
 
