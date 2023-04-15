@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/fe/","noteIcon":"","created":"2023-02-26T21:13:43.805+01:00","updated":"2023-04-08T13:29:07.839+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/fe/","noteIcon":"","created":"2023-02-26T21:13:43.805+01:00","updated":"2023-04-14T15:28:47.251+02:00"}
 ---
 
 Ref :: 
 #on/depthpsychology 
+
+[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] with [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]]
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] with [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] 
+[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] with [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] 
 
 # Comments 
 <script src="https://utteranc.es/client.js"
