@@ -3,7 +3,7 @@
 ---
 
 up :: [[Type Grid\|Type Grid]] 
-ref :: [[David Keirsey\|David Keirsey]], [[Plato\|Plato]]
+ref :: [[CARDS/Individuals/David Keirsey\|David Keirsey]], [[Plato\|Plato]]
 tags :: #on/politics 
 
 [[CARDS/Depth Psychology Theory/Temperament\|Temperament]]
