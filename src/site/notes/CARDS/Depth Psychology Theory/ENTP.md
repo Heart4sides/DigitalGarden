@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-10T21:33:06.545+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-14T15:28:35.869+02:00"}
 ---
 
 #type
@@ -11,13 +11,13 @@
 	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Se Demon 😈\|Se Demon 😈]]
 
 ## 4 sides  
-[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection\|Reflection]]) : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
+[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]) : INTJ
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]): ESFP
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]]
-[[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
+[[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
