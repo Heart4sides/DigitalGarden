@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-10T21:33:40.496+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-14T15:16:02.462+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
@@ -40,18 +40,18 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 ## Perennialism
 >[!Quote]- Perennialism 
 >"For Perennialists, the aim of education is to ensure that students acquire [[understandings\|understandings]] about the [[great\|great]] [[ideas\|ideas]] of Western civilization." 
- [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] [[-Fi🔱\|-Fi🔱]] 
+ [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] 
 >
->"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
+>"The focus is to teach ideas that are everlasting, to seek enduring truths which are constant, not changing, as the natural and human worlds at their most [[essential\|essential]] level, do not change." [[-Ne 💧\|-Ne 💧]] [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]] [[-result🎯\|-result🎯]]
 >
 >"The loftiest [[accomplishments\|accomplishments]] of humankind are emphasized– the great works of literature and art, the [[laws\|laws]] or [[CARDS/· Related Concepts & Theories ·/Principle\|principles]] of science."
 - Preference for 
 	- Other people's original thoughts with respect to the source [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- Achievements, actions held in high regard [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
-	- Value Hierarchy of acts and legacy [[-Fi🔱\|-Fi🔱]] 
+	- Value Hierarchy of acts and legacy [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] 
 	- Predictability [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]], [[-result🎯\|-result🎯]]
 	- Stability [[-result🎯\|-result🎯]]
-	- Absolute rules [[-systematic⚙️\|-systematic⚙️]]
+	- Absolute rules [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
 	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ESTJ 
 	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[Wayfarer\|Gquad]](ENTJ)
@@ -73,7 +73,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest 🤝\|interests]] and questions."
 > "The scientific [[CARDS/Depth Psychology Theory/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
-> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression\|Progression]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
+> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression\|Progression]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
 > "Social reconstructionism is a philosophy that emphasizes the addressing of social questions and a quest to create a better society and worldwide democracy" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
@@ -85,16 +85,16 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 
 ## Existentialism
 [[CARDS/Individuals/Jean Paul Sartre\|Jean Paul Sartre]], [[CARDS/Individuals/Nietzsche\|Nietzsche]], [[Kierkegaard\|Kierkegaard]]
-> "While the famous existentialists would passionately disagree with one another on many basic philosophical issues, what they shared was a respect for individualism." [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] 
+> "While the famous existentialists would passionately disagree with one another on many basic philosophical issues, what they shared was a respect for individualism." [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] 
 > "In particular, they argued that traditional approaches to philosophy do not adequately respect the unique concerns of each individual." [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
 > "Jean Paul Sartre's classic formulation of existentialism--that "existence precedes essence"-- means that there exists no universal, inborn human nature. We are born and exist, and then we ourselves freely determine our essence (that is, our innermost nature)" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]
 > "Existentialism rejects the existence of any source of objective, authoritative truth  about metaphysics, epistemology, and ethics. Instead, individuals are responsible for determining for themselves what is "true" or "false," "right" or "wrong," "beautiful" or "ugly." For the existentialist, there exists no universal form of human nature; each of us has the free will to  develop as we see fit."[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-> "In the existentialist classroom, subject matter takes second place to helping the students understand and appreciate themselves as unique individuals who accept complete responsibility for their thoughts, feelings, and actions" [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]], [[CARDS/Depth Psychology Theory/Mature 🐢\|maturity]]
+> "In the existentialist classroom, subject matter takes second place to helping the students understand and appreciate themselves as unique individuals who accept complete responsibility for their thoughts, feelings, and actions" [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]], [[CARDS/Depth Psychology Theory/Mature 🐢\|maturity]]
 > "The teacher's role is to help students define their own essence by exposing them to various paths they may take in life ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]) and creating an environment ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]) in which they may freely choose their own preferred ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]) way"
 > "Since feeling is not divorced from reason in decision making, the existentialist demands the education of the whole person, not just the mind." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 > "the humanities are commonly given tremendous emphasis. They are explored as a means of providing students with vicarious experiences that will help unleash their own creativity and self-expression. For example, rather than emphasizing historical events, existentialists focus upon the actions of historical individuals, each of whom provides possible models for the students' own behavior." [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] 
 > "In teaching art, existentialism encourages individual creativity and imagination more than copying and imitating established models." [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] over [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
-> "Learning is self-paced, self directed, and includes a great deal of individual contact with the teacher, who relates to each student openly and honestly." [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]], [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] of ENTP 
+> "Learning is self-paced, self directed, and includes a great deal of individual contact with the teacher, who relates to each student openly and honestly." [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]], [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] of ENTP 
 > 
 > 
 
