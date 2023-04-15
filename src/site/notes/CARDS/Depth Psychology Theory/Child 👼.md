@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","noteIcon":"","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-10T21:27:23.932+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","noteIcon":"","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-14T15:28:34.084+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[Trickster 🤡\|Trickster 🤡]]
 
-[[CARDS/Depth Psychology Theory/Reflection\|Reflection]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
+[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 
 [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]]
 
