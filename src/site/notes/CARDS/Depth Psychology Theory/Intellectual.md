@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intellectual/","noteIcon":"","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-02-26T15:54:55.970+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intellectual/","noteIcon":"","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-04-14T15:16:02.152+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ## Type Grid Axis 
 [[CARDS/Depth Psychology Theory/Abstract\|Abstract]]
-[[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+[[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 
 ## Political Worldview
