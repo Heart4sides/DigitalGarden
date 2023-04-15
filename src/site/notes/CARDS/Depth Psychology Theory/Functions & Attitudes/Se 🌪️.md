@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-10T21:33:38.299+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-14T15:28:40.144+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
@@ -37,10 +37,10 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
-[[CARDS/Depth Psychology Theory/Reflection\|Reflection]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] 
+[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]] | [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] 
+[[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] 
 
 ## Temple 
  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
@@ -49,7 +49,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 - IPOF : [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
 - [[CARDS/Depth Psychology Theory/Education\|Education]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
-- [[CARDS/Depth Psychology Theory/Reflection\|Reflection]] (mirror)
+- [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] (mirror)
 - [[skill\|Skill]]
 - Collective [[consciousness\|consciousness]]
 
