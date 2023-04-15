@@ -12,11 +12,12 @@
 
 
 
+#on/depthpsychology 
 - [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]]
 - [[CARDS/Individuals/Carl Jung\|Carl Jung]]
 - [[CARDS/Individuals/John Beebe\|John Beebe]]
 - [[CARDS/Individuals/Linda Berens\|Linda Berens]]
-- [[David Keirsey\|David Keirsey]]
+- [[CARDS/Individuals/David Keirsey\|David Keirsey]]
 - [[CARDS/Individuals/Dario Nardi\|Dario Nardi]]
 - [[CARDS/Collectives/MBTI Humans\|MBTI Humans]]
 - [[CARDS/Individuals/Shotgunette\|Shotgunette]]
