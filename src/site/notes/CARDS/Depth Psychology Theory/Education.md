@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-03-09T10:12:54.165+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-14T15:16:01.410+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 ## Related topics 
 
 - [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
-- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 - [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
 - [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] function 
