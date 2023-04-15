@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/type-grid/","noteIcon":"","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-10T16:54:16.709+02:00"}
+{"dg-publish":true,"permalink":"/type-grid/","noteIcon":"","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-14T15:16:02.588+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 
 ## Temperaments 
 - [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] vs [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
-- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] vs [[CARDS/Depth Psychology Theory/Pragmatic\|Pragmatic]]
+- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] vs [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 - [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] vs [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]]
 
 Sources : Plato, David Kersey, C.S. Joseph
