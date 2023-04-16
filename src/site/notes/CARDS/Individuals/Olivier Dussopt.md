@@ -37,7 +37,7 @@ Ref ::
 
 
 ```ad-quote 
-title: Olivier Dussopt
+title: [[Olivier Dussopt]]
 collapse: closed
 
 [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
