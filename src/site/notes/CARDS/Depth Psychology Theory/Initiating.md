@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T09:03:25.528+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T09:32:12.069+02:00"}
 ---
 
 
@@ -21,36 +21,20 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]]
 
-> [!quote]- [[CS Joseph · 2018\|CS Joseph · 2018]]
-> 
-> 
+
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-"Three's a crowd two is a tango" 
+"Three's a crowd two is a tango" [[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
 
 </div></div>
 
-> 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-[[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
-
-</div></div>
-
-
+{ #c67f04}
 
 
 # Sources 
-| Sources |
-| ------- |
-| \-      |
+| Sources                                                                                                                                       |
+| --------------------------------------------------------------------------------------------------------------------------------------------- |
+| [How Does Initiating Compare To Responding? \| Initiating Vs. Responding \| CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8) |
 
-
-[[CARDS/Depth Psychology Theory/Initiating#\|##Keywords]]
-[[CARDS/Depth Psychology Theory/Initiating#Keywords\|Keywords]] 
-
-[^1]: [Sources](#Sources)
