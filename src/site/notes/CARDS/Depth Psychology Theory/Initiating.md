@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T08:40:50.079+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T08:52:28.721+02:00"}
 ---
 
 
@@ -21,9 +21,17 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 ## Mentions
 [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]]
 
-> [!quote]
-> 
+> [!quote]- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
+
+
+[[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
+
+</div></div>
+
+> 
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -32,12 +40,22 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 
 </div></div>
 
+> 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
+
+</div></div>
+
+
 
 
 # Sources 
-| Sources                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------- |
-| [How Does Initiating Compare To Responding? \| Initiating Vs. Responding \| CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8) |
+| Sources |
+| ------- |
+| \-      |
 
 
 [[CARDS/Depth Psychology Theory/Initiating#Keywords\|#Keywords]]
