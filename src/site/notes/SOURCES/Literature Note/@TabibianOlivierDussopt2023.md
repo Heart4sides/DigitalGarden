@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-14T10:10:10.541+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-16T08:34:48.435+02:00"}
 ---
 
 Ref :: [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg)
@@ -43,7 +43,7 @@ Tabibian 08/02/2023. OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis Pas Conten
 
 
 ```ad-quote 
-title: Olivier Dussopt
+title: [[Olivier Dussopt]]
 collapse: closed
 
 [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)) - [00:36](https://youtu.be/oMo0EMf5XCg?t=36)
