@@ -14,8 +14,8 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 | [[SOURCES/Literature Note/@Tabibian·MacronVsPorno·2023\|@Tabibian·MacronVsPorno·2023]]                                             | 14/04/2023 | https://www.youtube.com/watch?v=EvrSwGlZMuM                                                                                   |
 | [[SOURCES/Literature Note/@jsuispascontenttvBfmRejointFachosphere2023\|@jsuispascontenttvBfmRejointFachosphere2023]]               | 09/02/2023 | https://www.youtube.com/watch?v=4UI-FtUROQ0                                                                                   |
 | [[SOURCES/Literature Note/@TabibianOlivierDussopt2023\|@TabibianOlivierDussopt2023]]                                               | 08/02/2023 | [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg) |
-| [[SOURCES/Literature Note/@jsuispascontenttvMacronVSPif2023\|@jsuispascontenttvMacronVSPif2023]]                                   | 02/04/2023 | https://www.youtube.com/watch?v=1LBOz-PIK0Y                                                                                   |
 | [[SOURCES/Literature Note/@JsuispascontenttvSainteSolineDarmaninEnchaine2023\|@JsuispascontenttvSainteSolineDarmaninEnchaine2023]] | 01/04/2023 | https://www.youtube.com/watch?v=xatqyToY4F4                                                                                   |
+| [[SOURCES/Literature Note/@jsuispascontenttvMacronVSPif2023\|@jsuispascontenttvMacronVSPif2023]]                                   | \-         | https://www.youtube.com/watch?v=1LBOz-PIK0Y                                                                                   |
 
 
 
