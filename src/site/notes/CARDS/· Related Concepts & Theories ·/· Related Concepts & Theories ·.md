@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-14T11:04:31.370+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-16T15:08:57.411+02:00"}
 ---
 
 
+- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
 - [[CARDS/· Related Concepts & Theories ·/Admire\|Admire]]
 - [[CARDS/· Related Concepts & Theories ·/Autism\|Autism]]
@@ -68,6 +69,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Recognition\|Recognition]]
 - [[CARDS/· Related Concepts & Theories ·/Rival\|Rival]]
 - [[CARDS/· Related Concepts & Theories ·/Romantic\|Romantic]]
+- [[CARDS/· Related Concepts & Theories ·/Silver Lining\|Silver Lining]]
 - [[CARDS/· Related Concepts & Theories ·/Soft\|Soft]]
 - [[CARDS/· Related Concepts & Theories ·/Solve\|Solve]]
 - [[CARDS/· Related Concepts & Theories ·/Standard\|Standard]]
