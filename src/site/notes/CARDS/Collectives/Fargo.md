@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/fargo/","noteIcon":"","created":"2023-04-16T20:57:23.403+02:00","updated":"2023-04-17T08:46:33.643+02:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/fargo/","noteIcon":"","created":"2023-04-16T20:57:23.403+02:00","updated":"2023-04-17T08:47:26.349+02:00"}
 ---
 
+#quotes
 
 # S2E1
 
 What's that now  
 
-#quotes
 :::VargaFargoS3E1:::
 1. Why talk about ending sth that just begun
 2. You never wondered  
