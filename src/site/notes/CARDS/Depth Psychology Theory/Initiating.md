@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T09:32:12.069+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-16T10:25:22.321+02:00"}
 ---
 
 
@@ -26,11 +26,10 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating\|Initiat
 
 
 
-"Three's a crowd two is a tango" [[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
+Three's a crowd two is a tango [[CS Joseph · 2018\|CS Joseph · 2018]] · [Link](https://www.youtube.com/watch?v=4mOpzAXFrK8) 
 
 </div></div>
 
-{ #c67f04}
 
 
 # Sources 
