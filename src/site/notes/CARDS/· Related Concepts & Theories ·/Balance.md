@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/balance/","noteIcon":"","created":"2023-01-01T14:07:15.407+01:00","updated":"2023-04-10T10:45:44.541+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/balance/","noteIcon":"","created":"2023-01-01T14:07:15.407+01:00","updated":"2023-04-18T12:42:19.384+02:00"}
 ---
 
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉#Keywords\|Fe]]
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉#Keywords\|Fe]]
 - [[SOURCES/Type Theory by CSJ/Temples/Heart Temple/Satisfaction Dyad/Envy by CSJ\|Envy by CSJ]]
 
 ## Wordnik
