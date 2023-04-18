@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-18T10:39:53.874+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-18T12:42:18.298+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
@@ -218,12 +218,12 @@ Why [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]] ? Because
 ```timestamp 
  51:26
  ```
-What X is NOT : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
+What X is NOT : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 ```timestamp 
  54:12
  ```
 ![Pasted image 20230118013122.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118013122.png)
-[[self-deprecation\|self-deprecation]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[self-deprecation\|self-deprecation]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 ```timestamp 
  58:37
  ```
@@ -246,7 +246,7 @@ Trans = narcissistic male fetichist who preys on women
  01:03:41
  ```
 ![Pasted image 20230118014508.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014508.png)
-"These are the thoughts of someone's who's been hurt" = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] 
+"These are the thoughts of someone's who's been hurt" = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 ![Pasted image 20230118014907.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014907.png)
 [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
 ```timestamp 
@@ -276,10 +276,10 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118021123.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021123.png)
 [[Validation\|Validation]]
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 
 
