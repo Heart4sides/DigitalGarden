@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wayfarer/","noteIcon":"","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-14T15:16:02.665+02:00"}
+{"dg-publish":true,"permalink":"/wayfarer/","noteIcon":"","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-18T10:39:53.296+02:00"}
 ---
 
 🔼:: [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -25,7 +25,7 @@
 | |  [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  |    |    |  
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
