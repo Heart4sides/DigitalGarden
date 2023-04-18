@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-18T10:38:56.672+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-18T12:45:13.002+02:00"}
 ---
 
 
@@ -34,14 +34,14 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-Te Hero 🦸‍♂️ | [[CARDS/Depth Psychology Theory/Te Parent 🤨\|Te Parent 🤨]] | [[CARDS/Depth Psychology Theory/Te Child 🧒\|Te Child 🧒]] | [[CARDS/Depth Psychology Theory/Te Inferior 😨\|Te Inferior 😨]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Te🏹Child 🧒\|Te🏹Child 🧒]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[CARDS/Depth Psychology Theory/Te Nemesis 😟\|Te Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
+[[CARDS/Depth Psychology Theory/Te🏹Nemesis 😟\|Te🏹Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
-[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
+[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
+[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Outcome\|Outcome]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
