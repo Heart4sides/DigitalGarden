@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-14T15:28:36.614+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-18T10:38:54.258+02:00"}
 ---
 
 Tags :: #type 
@@ -9,7 +9,7 @@ Tags :: #type
 > [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si Parent 🤨\|Si Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ne Child 🧒\|Ne Child 🧒]] | [[CARDS/Depth Psychology Theory/Ti Inferior 😨\|Ti Inferior 😨]]
 > [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
+[[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
@@ -17,7 +17,7 @@ Tags :: #type
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):  ENTJ 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]]
+[[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]]
 [[CARDS/Depth Psychology Theory/Guardian\|Guardian]]  : [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] 
 
 ## Virtu & Vice
