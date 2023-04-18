@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-18T09:50:16.328+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-18T12:38:07.763+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] 
@@ -14,7 +14,7 @@ Figure out the right people to listen to, which opinions are valuable. appearanc
 Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cultish types.
 "If I didn't solve my own problems before, I won't be able to solve them now." Feels bad because he's not accepted even though he solved everyone's problems. So focused on loving everybody else that they neglect to solve their own problems.
 
-[[CARDS/Depth Psychology Theory/Te Parent 🤨\|Te Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]]
 
 | [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]] | [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 |               |                                                                                                                                                   |
 
 ## Fi - Ti
-[[CARDS/Depth Psychology Theory/Fi Parent 🤨\|Fi Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti Trickster 🤡\|Ti Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Fi Parent 🤨\|Fi Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
 
