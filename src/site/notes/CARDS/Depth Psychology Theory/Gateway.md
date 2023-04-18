@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway/","noteIcon":"","created":"2022-12-31T18:11:31.592+01:00","updated":"2023-03-08T19:05:15.458+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway/","noteIcon":"","created":"2022-12-31T18:11:31.592+01:00","updated":"2023-04-18T12:43:53.892+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] : Gateway to the Ego 
 - [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]] : Shadow 
 - [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] : Subconscious
-- [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]] : Superego
+- [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] : Superego
 
 ## External Gateways
 - [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]] : Gateway to growth 
