@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-16T15:08:57.411+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-17T11:37:26.834+02:00"}
 ---
 
 
@@ -31,6 +31,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Dysphoria\|Dysphoria]]
 - [[CARDS/· Related Concepts & Theories ·/Endearing\|Endearing]]
 - [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]]
+- [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]
 - [[CARDS/· Related Concepts & Theories ·/Extern\|Extern]]
 - [[CARDS/· Related Concepts & Theories ·/Favour\|Favour]]
 - [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
@@ -46,6 +47,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Impotence\|Impotence]]
 - [[CARDS/· Related Concepts & Theories ·/Inductive\|Inductive]]
 - [[CARDS/· Related Concepts & Theories ·/infer\|infer]]
+- [[CARDS/· Related Concepts & Theories ·/Inference\|Inference]]
 - [[CARDS/· Related Concepts & Theories ·/Intention\|Intention]]
 - [[CARDS/· Related Concepts & Theories ·/Intern\|Intern]]
 - [[CARDS/· Related Concepts & Theories ·/Journey\|Journey]]
