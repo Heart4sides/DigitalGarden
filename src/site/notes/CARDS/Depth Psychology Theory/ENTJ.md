@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-14T15:28:35.434+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-18T10:38:54.202+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
+[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se🌪️Child🧒\|Se🌪️Child🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
 
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 
@@ -20,7 +20,7 @@
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]): [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Structure\|Structure]] : [[CARDS/Depth Psychology Theory/Initiating\|Initiating]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
+[[CARDS/Depth Psychology Theory/Structure\|Structure]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
 [[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
