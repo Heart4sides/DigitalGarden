@@ -20,7 +20,7 @@ Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouT
 |                  | Depth        | Revolution     |
 | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]   | Perspective  | Arrogance      |
 | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]    | Humility     | Complacency    |
-| [[Trickster 🤡\|Trickster 🤡]] | Curiosity    | Ignorance      |
+| [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]] | Curiosity    | Ignorance      |
 | [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]     | Adversity    | Fear           |
 
 # Comments 
