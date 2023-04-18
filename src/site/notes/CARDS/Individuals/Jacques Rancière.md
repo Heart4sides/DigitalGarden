@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/jacques-ranciere/","noteIcon":"","created":"2023-01-31T22:54:03.393+01:00","updated":"2023-04-14T15:16:02.782+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/jacques-ranciere/","noteIcon":"","created":"2023-01-31T22:54:03.393+01:00","updated":"2023-04-18T10:38:53.524+02:00"}
 ---
 
 up :: 
@@ -28,4 +28,4 @@ L'égalité est un point de départ.
 - Maître explicateur = abrutisseur
 - Toujours postuler qu'il peut faire mieux que n'importe qui
 - "convaincre sa peur"
-- On apprend soi-même ([[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Responding\|Introverted]]) ce qui nous vient d'autrui ([[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Initiating\|Initiating]])
+- On apprend soi-même ([[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Responding\|Introverted]]) ce qui nous vient d'autrui ([[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]])
