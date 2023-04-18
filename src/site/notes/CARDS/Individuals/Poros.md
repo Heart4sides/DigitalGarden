@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/poros/","noteIcon":"","created":"2023-01-21T15:04:52.299+01:00","updated":"2023-04-02T17:23:58.028+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/poros/","noteIcon":"","created":"2023-01-21T15:04:52.299+01:00","updated":"2023-04-18T12:35:38.716+02:00"}
 ---
 
 Poros is the father of [[CARDS/Individuals/Eros\|Eros]]. 
@@ -13,4 +13,4 @@ Based on this, we can conclude that Poros is a [[CARDS/Depth Psychology Theory/C
 [^1]: [[SOURCES/Contents/Eros & Thanatos - IFP\|Eros & Thanatos - IFP]]
 [^2]: [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 [^3]: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] ? 
-[^4]: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
+[^4]: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
