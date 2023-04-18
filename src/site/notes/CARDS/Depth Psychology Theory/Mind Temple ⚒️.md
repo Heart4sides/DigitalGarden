@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-14T15:28:46.110+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-18T10:39:54.687+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 [[CARDS/Depth Psychology Theory/Education\|Education]]
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
