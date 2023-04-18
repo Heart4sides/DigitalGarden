@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-02-26T16:43:19.482+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T14:00:48.514+02:00"}
 ---
 
 As opposed to the prefererence for [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]]
@@ -17,7 +17,7 @@ As opposed to the prefererence for [[CARDS/Depth Psychology Theory/Interest 🤝
 ## Types 
 Types sharing preference for [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] : 
 - [[CARDS/Depth Psychology Theory/Guardian\|Guardian]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]
-- [[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
+- [[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
 
 ## Functions 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
