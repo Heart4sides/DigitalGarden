@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-14T15:28:38.164+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-18T10:38:56.364+02:00"}
 ---
 
 
@@ -67,7 +67,7 @@
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Initiating\|Initiating]] 
+[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] 
 [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
 
 ## Temple 
