@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-18T10:38:54.202+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-18T12:47:48.111+02:00"}
 ---
 
 
@@ -8,11 +8,18 @@
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te Hero 🦸‍♂️\|Te Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se🌪️Child🧒\|Se🌪️Child🧒]]  | [[CARDS/Depth Psychology Theory/Fi Inferior 👶\|Fi Inferior 👶]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se🌪️Child🧒\|Se🌪️Child🧒]]  | [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
 
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 
-[[CARDS/Depth Psychology Theory/Ti Nemesis 😟\|Ti Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]| [[CARDS/Depth Psychology Theory/Fe Demon 😈\|Fe Demon 😈]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]| [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
+
+
+| [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] |
+| ------------- | --- | ------------- | --- | ------------- | --- | ------------- |
+| [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] |  | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]|     |   [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]| | [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]] |
+| ---           | --- | ---           |     |               |     |               |
+|               |     |               |     |               |     |               |
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : ISFP
