@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/si-demon/","noteIcon":"","created":"2023-01-05T12:12:41.726+01:00","updated":"2023-04-10T10:14:42.470+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/si-demon/","noteIcon":"","created":"2023-01-05T12:12:41.726+01:00","updated":"2023-04-18T12:43:54.172+02:00"}
 ---
 
-Links :: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] | [[CARDS/Depth Psychology Theory/Demon 😈\|Demon]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
+Links :: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] | [[CARDS/Depth Psychology Theory/Demon😈\|Demon]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
