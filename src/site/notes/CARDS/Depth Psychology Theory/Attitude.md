@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-10T20:29:51.305+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-18T12:43:53.571+02:00"}
 ---
 
 #on/psychology
@@ -16,7 +16,7 @@
 5. [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 6. [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 7. [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
-8. [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
+8. [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 
 Source : [[SOURCES/Contents/John Beebe - Energies and Patterns in Psychological Type\|John Beebe - Energies and Patterns in Psychological Type]]
 
