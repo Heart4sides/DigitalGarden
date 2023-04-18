@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-18T10:38:54.228+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-18T12:33:05.144+02:00"}
 ---
 
 #type
@@ -8,7 +8,7 @@
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
 	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe Child 🧒\|Fe Child 🧒]] | [[CARDS/Depth Psychology Theory/Si Inferior 😨\|Si Inferior 😨]]
 [[Wayfarer\|Wayfarer]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te Critic 🤔\|Te Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
+	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]) : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
