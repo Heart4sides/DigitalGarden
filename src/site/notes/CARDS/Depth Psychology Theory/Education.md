@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-14T15:16:01.410+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-18T10:39:54.485+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 - Education = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
-	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 - [[Templars\|Templars]] : teach, <mark style="background: #FFB8EBA6;">mentor</mark> & <mark style="background: #FFB86CA6;">counsel</mark>
 - [[CARDS/Depth Psychology Theory/Informative\|Informative]]
 	- prefers to <mark style="background: #CACFD9A6;">educate</mark> and inform
