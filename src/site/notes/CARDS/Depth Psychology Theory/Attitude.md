@@ -15,7 +15,7 @@
 4. [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]
 5. [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 6. [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
-7. [[Trickster 🤡\|Trickster 🤡]]
+7. [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
 8. [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 
 Source : [[SOURCES/Contents/John Beebe - Energies and Patterns in Psychological Type\|John Beebe - Energies and Patterns in Psychological Type]]
