@@ -5,7 +5,7 @@
 
 - [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] 
 - [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
-- [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] - [[Trickster 🤡\|Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] - [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]] - [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 - [[CARDS/Depth Psychology Theory/Battleground of Inhibition\|Battleground of Inhibition]] : [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] - [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]  
 
