@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-14T21:52:43.100+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-18T10:39:54.156+02:00"}
 ---
 
 
@@ -93,7 +93,7 @@
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]
@@ -117,7 +117,7 @@
 - [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
 - [[CARDS/Depth Psychology Theory/Informative\|Informative]]
 - [[CARDS/Depth Psychology Theory/INFP\|INFP]]
-- [[CARDS/Depth Psychology Theory/Initiating\|Initiating]]
+- [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]]
 - [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]
 - [[CARDS/Depth Psychology Theory/Input 🌊\|Input 🌊]]
 - [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]
@@ -190,14 +190,14 @@
 - [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
 - [[CARDS/Depth Psychology Theory/SD\|SD]]
 - [[CARDS/Depth Psychology Theory/SDUF\|SDUF]]
-- [[CARDS/Depth Psychology Theory/Se Child 🧒\|Se Child 🧒]]
-- [[CARDS/Depth Psychology Theory/Se Critic 🤔\|Se Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Se Demon 😈\|Se Demon 😈]]
-- [[CARDS/Depth Psychology Theory/Se hero 🦸‍♂️\|Se hero 🦸‍♂️]]
-- [[CARDS/Depth Psychology Theory/Se Inferior 😨\|Se Inferior 😨]]
-- [[CARDS/Depth Psychology Theory/Se Nemesis 😟\|Se Nemesis 😟]]
-- [[CARDS/Depth Psychology Theory/Se Parent 🤨\|Se Parent 🤨]]
-- [[CARDS/Depth Psychology Theory/Se Trickster 🤡\|Se Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Child🧒\|Se🌪️Child🧒]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
+- [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]
+- [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Servility\|Servility]]
 - [[CARDS/Depth Psychology Theory/SF\|SF]]
 - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
@@ -244,6 +244,7 @@
 - [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]]
 - [[CARDS/Depth Psychology Theory/Ti Trickster 🤡\|Ti Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Ti-Fi Battleground\|Ti-Fi Battleground]]
+- [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/UD\|UD]]
 - [[CARDS/Depth Psychology Theory/UF\|UF]]
 - [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
