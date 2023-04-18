@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-14T15:28:33.441+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-18T09:50:16.328+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] 
@@ -43,9 +43,9 @@ An eye for an eye leaved the whole world blind - and no one lives more by the "a
 Fi trickster if it doesn't articulate its feelings they bottle up and create Si bitterness which expresses itself first covertly and then lashes out / or Ni hopelessness. Ti teenager spends so much time thinking about how they can behave so their behaviour can be morally valid and acceptable.
 
 ## Ne - Se 
-[[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se Trickster 🤡\|Se Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Se Parent 🤨\|Se Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]
 
