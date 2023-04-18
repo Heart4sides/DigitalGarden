@@ -1,17 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-18T12:45:11.532+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-18T14:01:52.288+02:00"}
 ---
 
-
-Source des textes : Télérama, hors-série sur Gustave Flaubert 
-Source de l'analyse : C.S. Joseph, Linda Berens, David Kersey 
+Ref ::
+- Source des textes : Télérama, hors-série sur Gustave Flaubert 
+- Source de l'analyse : C.S. Joseph, Linda Berens, David Kersey 
 
 Analyse de Yves Leclerc : 
-"Libre au sein de sa famille, ils se sentait enfermé ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]) au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplin]]e militaire."
+> [!quote] Yves Leclerc
+> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplin]]e militaire."
+> 
+> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
+> - Lack of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] endurence
 
-> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]) et qu'il a fait régner l'ordre ([[CARDS/Depth Psychology Theory/Outcome\|Outcome]]), qui, selon Flaubert, est préférable au désordre de la révolution."
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
-- [[CARDS/Depth Psychology Theory/Outcome\|Outcome]] focus 
+> [!quote] Yves Leclerc 
+> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
+> 
+> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+> - [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] evaluation   
@@ -21,10 +27,10 @@ Analyse de Yves Leclerc :
 
 > Bovarysme selon Jules de Gaultier : "le pouvoir départi à l'homme de se concevoir autre qu'il n'est"
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] : sens de sa propre identité
-- [[CARDS/Depth Psychology Theory/Abstract\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
+- [[CARDS/Depth Psychology Theory/Abstract💭\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
-- [[CARDS/Depth Psychology Theory/Outcome\|Outcome]] focus 
+- [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]] focus 
 
 "J'ai cette manie de bâtir de suite des livres sur les figures que je rencontre. Une invincible curiosité me fait me demander malgré moi quelle peut-être la vie du passant que je croise."
 - Ne - jouer avec les possibles 
