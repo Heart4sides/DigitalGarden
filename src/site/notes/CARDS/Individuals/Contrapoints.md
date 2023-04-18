@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-08T11:35:36.078+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-18T10:39:53.874+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
@@ -182,7 +182,7 @@ him, which is exactly what happened with the Cathy Newman interview.
 ## Men 
 
 ![Pasted image 20230117235055.png](/img/user/EXTRAS/Images/Pasted%20image%2020230117235055.png)
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 ![Pasted image 20230118000425.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118000425.png)
 ![Pasted image 20230118001116.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118001116.png)
 lack of [[CARDS/Depth Psychology Theory/Purpose\|Purpose]], lack of [[CARDS/· Related Concepts & Theories ·/Struggle\|Struggle]]
@@ -278,8 +278,8 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]]
 
 
