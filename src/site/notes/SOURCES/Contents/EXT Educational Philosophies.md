@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","tags":["on/philosophy","on/education"],"noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-18T10:39:55.747+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-18T12:21:04.047+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
 ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf](https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf)
+#on/education #on/philosophy 
 
 ## Comparison 
 
-==Traditionalists== 
+### Traditional 
 - Teachers : Extroverted Templars (direct, affiliative, Ti)
 - Students : Introverted Philosophers (disciplined, Te, affiliative)****
 
-==Contemporary== 
+## Contemporary
 - Teachers : NPs (Ne, informative, abstract)
 - Students : Crusaders & Wayfarers 
 
