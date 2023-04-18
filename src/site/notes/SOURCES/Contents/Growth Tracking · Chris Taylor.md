@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-14T15:28:50.191+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-18T12:43:54.743+02:00"}
 ---
 
 #on/depthpsychology 
@@ -21,7 +21,7 @@ Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouT
 | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]   | Perspective  | Arrogance      |
 | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]    | Humility     | Complacency    |
 | [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]] | Curiosity    | Ignorance      |
-| [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]     | Adversity    | Fear           |
+| [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]     | Adversity    | Fear           |
 
 # Comments 
 <script src="https://utteranc.es/client.js"
