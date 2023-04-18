@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","noteIcon":"","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-10T21:33:37.931+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","noteIcon":"","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-18T10:39:53.974+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Example : some prefer to judge wether something is true or false, while others p
 These preferences exclude each other : 
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] (*Deduce*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]] (*Weigh*) : to judge wether sth is true / false ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]]) one must retrain itself to judge whether it is good / bad ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]])
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] (*Sense*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] (*Imagine*) 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] (*React*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] (*Predict*)
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] (*React*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] (*Predict*)
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] (*Believe*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] (*Empathize*) 
 
 ## IPOF
@@ -29,7 +29,7 @@ a --> b --> Output --> Feedback --> Input
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] : desire
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti 🗡️\|Ti 🗡️]] : deduction
 [[Output\|Output]] : 
-	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] : performance
+	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] : performance
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe 💉\|Fe 💉]] : ethics
 [[Feedback\|Feedback]] : 
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] : needs
@@ -46,7 +46,7 @@ Ne --> Ni --> Se --> Si --> Ne
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Extroverted Intuition]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Introverted Intuition]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Se 🌪️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se 🌪️\|Extroverted Sensation]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Extroverted Sensation]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Introverted Sensation]]
 
 ## Judgement
