@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/paranoia-la-folie-qui-fait-l-histoire-luigi-zola/","noteIcon":"","created":"2022-12-20T15:48:11.728+01:00","updated":"2023-02-19T16:09:36.580+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/paranoia-la-folie-qui-fait-l-histoire-luigi-zola/","noteIcon":"","created":"2022-12-20T15:48:11.728+01:00","updated":"2023-04-18T14:05:51.952+02:00"}
 ---
 
 
@@ -18,3 +18,11 @@
 Sur [[CARDS/Individuals/Hitler\|Hitler]] : "c'est de ce socle de granit, constitué de préjugés racistes, que le futur dictateur tirera chacune de ses décisions les plus importantes, sous l'impulsion d'une cohérence absurde et d'une fidélité sans faille à ces principes - souvent contraire à ses propres intérêts, d'ailleurs. Ce faisant, il demeurera imperméable à toute remise en question fondée sur la réalité."
 
 [[CARDS/Individuals/Hitler\|Hitler]] : "son entourage a sans cesse l'impression que c'est médecin lui diagnostic des maladies incurables, une menace ont-ils utilisent les faits pour imposer cette fébrilité et cet empressement à ses collaborateurs, notamment dans le domaine militaire. Cette pression intérieure a beau être rationalisée (lui seul, argut-il, peut t'assurer à l'Allemagne d'obtenir ce qu'elle mérite), elle va bouleverser et infléchir l'histoire."
+
+# [[CARDS/Individuals/Thomas Woodrow Wilson\|Thomas Woodrow Wilson]] 
+- "Wilson a déclaré souvent que les faits ne signifiaient rien pour lui" Freud
+- "À peine nommé président, en 1913, Wilson annonce à l'ambassadeur anglais sa volonté d'apprendre à l'Amérique latine comment élire de bons hommes politiques. Un sentiment de supériorité l'autorise à traiter l'ensemble du continent du sud des États-Unis comme un enfant."
+- "Un an plus tard, à l'heure de rejoindre Paris pour les négociations de paix, Wilson campe encore sur ses dogmes abstraits et ne pas songé à la façon concrète de les mettre en œuvre."
+- "Wilson finira par s'apercevoir qu'on a profité de son ignorance. Pourtant, au lieu d'accepter bon gré, malgré, les engagements qu'on lui avait extorqué, il basculera dans une méfiance dans témoignerons ces mouvements d'humeur et s'arc-boutera sur ses principes. L'indice d'une fausse cohérence"
+- "Il était, après tout, plus difficile de détromper ce vieux presbytérien qu'il ne l'avait été de le tromper, car dans son erreur il avait placé sa conviction et son respect de lui-même." Keynes
+- "Faute d'arguments pratiques, il tenta de les convaincre en les séduisant, en proposant des compromis, en invoquant la beauté des idéaux."
