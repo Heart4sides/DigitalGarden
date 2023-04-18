@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-18T12:42:20.125+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","noteIcon":"","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-18T13:53:04.803+02:00"}
 ---
 
 
@@ -11,8 +11,8 @@
 
 ## Types 
 Types sharing preference for [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] :
-- [[CARDS/Depth Psychology Theory/Starter\|Starter]] : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] 
-- [[CARDS/Depth Psychology Theory/Structure\|Structure]] : [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]
+- [[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] 
+- [[CARDS/Depth Psychology Theory/Structure👉\|Structure👉]] : [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]
 
 ## Functions 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
