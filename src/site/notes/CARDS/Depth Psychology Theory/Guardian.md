@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","noteIcon":"","created":"2023-01-12T12:07:29.951+01:00","updated":"2023-04-07T11:40:19.735+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","noteIcon":"","created":"2023-01-12T12:07:29.951+01:00","updated":"2023-04-18T14:03:00.234+02:00"}
 ---
 
 up :: [[Type Grid\|Type Grid]] 
