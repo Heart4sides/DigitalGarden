@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-18T09:50:19.008+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-18T12:32:00.334+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 [[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] | [[CARDS/Depth Psychology Theory/Si Parent 🤨\|Si Parent 🤨]]
 
-[[CARDS/Depth Psychology Theory/Te Parent 🤨\|Te Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe Parent 🤨\|Fe Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fi Parent 🤨\|Fi Parent 🤨]]
+[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe Parent 🤨\|Fe Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fi Parent 🤨\|Fi Parent 🤨]]
 
 ## Axis, Orbit, Reflect
 
