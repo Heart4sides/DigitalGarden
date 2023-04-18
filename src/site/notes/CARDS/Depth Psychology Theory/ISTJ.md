@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-18T12:38:00.436+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-18T14:03:00.468+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]== ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):   [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Finisher\|Finisher]] : [[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Progression\|Progression]]
+[[CARDS/Depth Psychology Theory/Finisher👆\|Finisher👆]] : [[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
 [[CARDS/Depth Psychology Theory/Guardian\|Guardian]]  : [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] 
 
 ## Virtu & Vice
