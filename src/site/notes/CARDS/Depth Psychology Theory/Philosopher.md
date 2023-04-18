@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-18T12:58:14.113+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-18T14:00:48.319+02:00"}
 ---
 
 
 # TypeGrid
-
-|            | [[CARDS/Depth Psychology Theory/Guardian\|Guardian]] | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | [[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] | [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] |
+|            | [[CARDS/Depth Psychology Theory/Guardian\|Guardian]] | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | [[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] | [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] |
 |:---------- |:-------- |:------- |:------------ |:-------- |
-| [[CARDS/Depth Psychology Theory/Structure\|Structure]]  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
-| [[CARDS/Depth Psychology Theory/Starter\|Starter]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==     |
-| [[CARDS/Depth Psychology Theory/Finisher\|Finisher]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
-| [[CARDS/Depth Psychology Theory/Background\|Background]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==     |      
+| [[CARDS/Depth Psychology Theory/Structure👉\|Structure👉]]  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
+| [[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==     |
+| [[CARDS/Depth Psychology Theory/Finisher👆\|Finisher👆]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
+| [[CARDS/Depth Psychology Theory/Background👈\|Background👈]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==     |      
 
-[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+All Philosophers are[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
 
 # Cognitive Functions
 | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]  | →   | [[👤\|👤]] | →   | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] |
@@ -20,15 +19,17 @@
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] |  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]|     |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]| | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]   |  |[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] |     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] |     |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]     |
 
-## Type Grid 
-[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] 
-
 ## Virtu & Vice
 [[Self-sacrifice\|Self-sacrifice]] | [[Sacrifice of others\|Sacrifice of others]]
 
 ## Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
+==[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]== → [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]  →==[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]== → [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
+
+| -                  | [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]    |
+| ------------------ | ------------------ |
+| ==[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]== | ==[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]== |
+| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]  | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] |
+
 
 ## Dictionary
 - [[CARDS/· Related Concepts & Theories ·/Principle\|Principle]]
