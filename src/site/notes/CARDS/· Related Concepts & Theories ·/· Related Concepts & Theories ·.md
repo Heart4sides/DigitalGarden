@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-17T11:37:26.834+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-18T15:01:05.098+02:00"}
 ---
 
 
@@ -60,7 +60,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Motive\|Motive]]
 - [[CARDS/· Related Concepts & Theories ·/Opportunity\|Opportunity]]
 - [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
-- [[CARDS/· Related Concepts & Theories ·/passivity\|passivity]]
+- [[CARDS/· Related Concepts & Theories ·/Passivity\|Passivity]]
 - [[CARDS/· Related Concepts & Theories ·/popular\|popular]]
 - [[CARDS/· Related Concepts & Theories ·/Predict\|Predict]]
 - [[CARDS/· Related Concepts & Theories ·/predictability\|predictability]]
