@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-14T15:28:47.086+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-18T12:43:54.110+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] 
 - [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
-- [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
+- [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 
 ## Vice & Pole
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]] - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
