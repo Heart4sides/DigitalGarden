@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T10:39:54.557+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T12:45:12.248+02:00"}
 ---
 
 
@@ -21,7 +21,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Interest 🤝\|Inte
 - [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi 🔱\|Fi 🔱]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
