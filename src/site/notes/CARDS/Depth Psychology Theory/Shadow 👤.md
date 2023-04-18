@@ -9,7 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] 
-- [[Trickster 🤡\|Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Demon 😈\|Demon 😈]]
 
 ## Vice & Pole
