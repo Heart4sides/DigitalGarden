@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-18T12:45:12.907+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-18T14:03:00.697+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
@@ -69,12 +69,12 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 
 ## Progressivism
 > "Progressivists believe that education should focus on the whole child, rather than on the content or the teacher." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract\|Abstract]]) by active [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete\|Concrete]])." 
+> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]]) by active [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete\|Concrete]])." 
 > "Learning is rooted in the questions of learners that arise through experiencing the world ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]). It is active ([[CARDS/Depth Psychology Theory/Initiating👋\|extraverted]]), not passive. The learner is a problem solver and thinker ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]) who makes meaning through his or her individual experience in the physical ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) and cultural ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]) context"
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest 🤝\|interests]] and questions."
 > "The scientific [[CARDS/Depth Psychology Theory/Systematic 🔧\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic 🔧\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
-> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression\|Progression]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
+> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]) of our citizens through  experiencing freedom ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]) and democracy in schools. Shared decision making ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
 > "Social reconstructionism is a philosophy that emphasizes the addressing of social questions and a quest to create a better society and worldwide democracy" [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
@@ -94,7 +94,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 > "The teacher's role is to help students define their own essence by exposing them to various paths they may take in life ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]) and creating an environment ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]) in which they may freely choose their own preferred ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]) way"
 > "Since feeling is not divorced from reason in decision making, the existentialist demands the education of the whole person, not just the mind." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 > "the humanities are commonly given tremendous emphasis. They are explored as a means of providing students with vicarious experiences that will help unleash their own creativity and self-expression. For example, rather than emphasizing historical events, existentialists focus upon the actions of historical individuals, each of whom provides possible models for the students' own behavior." [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
-> "In teaching art, existentialism encourages individual creativity and imagination more than copying and imitating established models." [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] over [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
+> "In teaching art, existentialism encourages individual creativity and imagination more than copying and imitating established models." [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] over [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
 > "Learning is self-paced, self directed, and includes a great deal of individual contact with the teacher, who relates to each student openly and honestly." [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]], [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] of ENTP 
 > 
 > 
