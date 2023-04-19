@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","noteIcon":"","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-17T11:34:33.252+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","noteIcon":"","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-19T18:39:01.369+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
 - [[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]]
-- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦#Keywords\|Affiliative 👨‍👩‍👧‍👦#Keywords]]  
+- [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦#Keywords\|Affiliative👨‍👩‍👧‍👦#Keywords]]  
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] & [[CARDS/Depth Psychology Theory/Humility\|Humility]]
 
 ## Wordnik
