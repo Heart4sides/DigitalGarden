@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T17:27:53.671+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T18:38:36.881+02:00"}
 ---
 
 
@@ -25,9 +25,9 @@
 
 ## Type Grid
 [[CARDS/Depth Psychology Theory/Interaction Style\|Interaction Style]] : 
-- [[CARDS/Depth Psychology Theory/Informative\|Informative]]
+- [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 [[Worldview\|Worldview]] : 
-- [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
+- [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
