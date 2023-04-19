@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-18T14:02:59.563+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-19T18:39:00.510+02:00"}
 ---
 
 
@@ -9,9 +9,9 @@
 
 ## Related topics 
 
-- [[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
-- [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
-- [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] ?
+- [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]]
+- [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
+- [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
 - [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] function 
 - [[EXTRAS/Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
@@ -20,7 +20,7 @@
 	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 - [[Templars\|Templars]] : teach, <mark style="background: #FFB8EBA6;">mentor</mark> & <mark style="background: #FFB86CA6;">counsel</mark>
-- [[CARDS/Depth Psychology Theory/Informative\|Informative]]
+- [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 	- prefers to <mark style="background: #CACFD9A6;">educate</mark> and inform
 	- exhibits explanatory tendencies
 	- aims to stir curiosity & explain
