@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T10:39:54.136+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T14:03:16.143+02:00"}
 ---
 
 
 ## Types 
-Types sharing preference for [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] : 
+Types sharing preference for[[CARDS/Depth Psychology Theory/Concrete\|Concrete]]: 
 - [[CARDS/Depth Psychology Theory/Guardian\|Guardian]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]
 - [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
 
