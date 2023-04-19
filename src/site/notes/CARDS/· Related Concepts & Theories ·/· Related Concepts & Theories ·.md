@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-18T15:01:05.098+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-19T18:12:29.273+02:00"}
 ---
 
 
@@ -30,6 +30,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
 - [[CARDS/· Related Concepts & Theories ·/Dysphoria\|Dysphoria]]
 - [[CARDS/· Related Concepts & Theories ·/Endearing\|Endearing]]
+- [[CARDS/· Related Concepts & Theories ·/Expectation\|Expectation]]
 - [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]]
 - [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]
 - [[CARDS/· Related Concepts & Theories ·/Extern\|Extern]]
