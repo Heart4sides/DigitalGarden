@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-18T14:01:53.591+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-19T18:36:45.891+02:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]] | [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] 
+[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]] | [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
@@ -59,7 +59,7 @@ ctrl + schift + Q
 - [[CARDS/· Related Concepts & Theories ·/Intention\|Intention]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
 - [[SOURCES/Contents/Vultology\|Vultology]]
-- [[CARDS/Depth Psychology Theory/Direct\|Direct]]
+- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]]
 - [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart]]
 
 ## Examples 
