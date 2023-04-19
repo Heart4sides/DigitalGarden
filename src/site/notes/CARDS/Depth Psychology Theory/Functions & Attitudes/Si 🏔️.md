@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","noteIcon":"","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-18T14:03:00.818+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","noteIcon":"","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-19T18:39:01.679+02:00"}
 ---
 
 
@@ -45,7 +45,7 @@
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  :[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding\|Responding]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]] 
+[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]] | [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
