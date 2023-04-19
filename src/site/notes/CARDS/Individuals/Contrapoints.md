@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-18T14:02:59.035+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-19T18:39:01.316+02:00"}
 ---
 
 Tags :: #on/philosophy #on/politics 
@@ -10,7 +10,7 @@ Tags :: #on/philosophy #on/politics
 	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
 - [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I love attention !"
 - [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] : empathize with the person but still criticize  
-- [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] : analyzing situations on a case by case basis 
+- [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
 - [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 
@@ -86,7 +86,7 @@ Glamour ethymology
  22:06
  ```
 ![Pasted image 20230119210256.png](/img/user/EXTRAS/Images/Pasted%20image%2020230119210256.png)
-[[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
+[[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
 ```timestamp 
  24:20
  ```
@@ -203,11 +203,11 @@ Why [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]] ? Because
 ![Pasted image 20230118005540.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118005540.png)
 "Some questions should be dissolved rather than solved" wittgenstein
 ![Pasted image 20230118010021.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010021.png)
-[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+[[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
 ![Pasted image 20230118010038.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010038.png)
 [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]]
 ![Pasted image 20230118010112.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010112.png)
-[[CARDS/Depth Psychology Theory/Concrete\|Concrete]]
+[[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]]
 ![Pasted image 20230118010128.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010128.png)
 ![Pasted image 20230118011749.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118011749.png)
 [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]
