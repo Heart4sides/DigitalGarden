@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T17:17:08.694+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T17:27:53.671+02:00"}
 ---
 
 
@@ -50,6 +50,16 @@
 
 
 
-- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most 
+- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most ([[CARDS/Individuals/C.S. Joseph\|CSJ]]2023) 
 
 </div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [5:35](https://www.youtube.com/watch?v=keNewFwXxM8&t=335s) "crusaders oftentime feel like they deserve to be abusive" & dont call it abuse ([[CARDS/Individuals/C.S. Joseph\|CSJ]]2023) 
+
+</div></div>
+
