@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-18T10:39:51.963+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-18T14:03:00.766+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
@@ -46,7 +46,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Dictionary
-- IPOF : [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
+- IPOF : [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]]
 - [[CARDS/Depth Psychology Theory/Education\|Education]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] (mirror)
