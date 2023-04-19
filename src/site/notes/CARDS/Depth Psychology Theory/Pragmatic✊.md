@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-18T14:00:48.451+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-19T18:39:01.192+02:00"}
 ---
 
-Vs [[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+Vs [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
 
 ## Keywords
 - What works - task focus
