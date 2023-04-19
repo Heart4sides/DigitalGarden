@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-18T14:01:52.928+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-19T18:38:37.168+02:00"}
 ---
 
 #type
@@ -16,8 +16,8 @@
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]): ESFP
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative\|Informative]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
-[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
+[[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
+[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
