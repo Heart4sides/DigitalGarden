@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","noteIcon":"","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-18T13:51:55.213+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","noteIcon":"","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-19T18:35:45.837+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Features : 
 - [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]]
-- [[CARDS/Depth Psychology Theory/Direct\|Direct]]
+- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]]
 - [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]]
 
 Like to lead and manage groups
