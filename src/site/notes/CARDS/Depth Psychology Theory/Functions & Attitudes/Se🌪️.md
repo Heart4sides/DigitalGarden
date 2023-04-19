@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-18T14:03:00.766+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-19T18:38:48.180+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
@@ -40,7 +40,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Concrete\|Concrete]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Interest 🤝\|Interest 🤝]] 
+[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] 
 
 ## Temple 
  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
@@ -60,7 +60,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 - [[SOURCES/Type Theory by CSJ/Ego-hacking by text/Intro to Ego-hacking by Text\|Intro to Ego-hacking by Text]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]]
 - [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Mind Temple General/Mind temple General\|Mind temple General]]
-- [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Concrete by CSJ\|Concrete by CSJ]]
+- [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Concrete (by CSJ)\|Concrete (by CSJ)]]
 
 ## Examples 
 [[Examples 1\|Examples 1]] 
