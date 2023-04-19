@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-07T16:48:44.603+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-19T18:35:44.496+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 ## Roles
 - [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent]]
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
-- [[CARDS/Depth Psychology Theory/Direct\|Direct]] the [[Flow\|Flow]]
+- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] the [[Flow\|Flow]]
 - [[Gatekeeper\|Gatekeeper]]
 - [[Adjust\|Adjust]] the [[Flood\|Flood]]
 - Bring [[order\|order]]
