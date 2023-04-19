@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/c-s-joseph/","noteIcon":"","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-16T10:41:42.668+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/c-s-joseph/","noteIcon":"","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-19T18:23:41.265+02:00"}
 ---
 
 🔼 :: [[ATLAS/MOC · Psychology 🗺️\|MOC · Psychology 🗺️]]
-Ref :: [Begin Your Journey Here | C.S. Joseph](https://csjoseph.life/) | [Ujda App for Typing](https://www.udja.app/#/) | [C.S. Joseph - YouTube](https://www.youtube.com/@CSJoseph)
+Ref :: [Begin Your Journey Here | C.S. Joseph](https://csjoseph.life/) | [Ujda App for Typing](https://www.udja.app/#/) | [C.S. Joseph - YouTube](https://www.youtube.com/@CSJoseph) | [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
+
+
 
