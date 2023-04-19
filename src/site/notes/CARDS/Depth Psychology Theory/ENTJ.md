@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-18T12:47:48.111+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-18T14:01:52.828+02:00"}
 ---
 
 
@@ -27,8 +27,8 @@
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]): [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Structure\|Structure]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Outcome\|Outcome]]
-[[CARDS/Depth Psychology Theory/Intellectual\|Intellectual]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
+[[CARDS/Depth Psychology Theory/Structure👉\|Structure👉]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct\|Direct]] | [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]]
+[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Generosity\|Generosity]] | [[CARDS/Depth Psychology Theory/Greed\|Greed]] 
