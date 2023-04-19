@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-18T14:00:48.319+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-19T18:39:01.124+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 | [[CARDS/Depth Psychology Theory/Finisher👆\|Finisher👆]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
 | [[CARDS/Depth Psychology Theory/Background👈\|Background👈]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==     |      
 
-All Philosophers are[[CARDS/Depth Psychology Theory/Affiliative 👨‍👩‍👧‍👦\|Affiliative 👨‍👩‍👧‍👦]]
+All Philosophers are[[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
 
 # Cognitive Functions
 | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]  | →   | [[👤\|👤]] | →   | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] |
