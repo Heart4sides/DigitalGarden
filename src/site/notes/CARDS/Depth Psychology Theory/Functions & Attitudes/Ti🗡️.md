@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-18T12:45:13.114+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-19T18:36:45.959+02:00"}
 ---
 
 ## Keywords
@@ -41,7 +41,7 @@
 [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]  :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding\|Responding]]
+[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
 [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 
 ## Temple 
