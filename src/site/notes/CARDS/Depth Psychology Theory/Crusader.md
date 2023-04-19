@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-18T12:42:18.536+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T17:17:08.694+02:00"}
 ---
 
 
@@ -42,4 +42,14 @@
 
 ### Music 
 - https://open.spotify.com/track/09EwNbGvUyu7BDEYG0cJro?si=M3jsmMVYRc6B8_YA1RGnTQ
-- 
+
+# Mentions 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most 
+
+</div></div>
