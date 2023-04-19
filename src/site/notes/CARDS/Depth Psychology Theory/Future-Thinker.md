@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/future-thinker/","noteIcon":"","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-04-18T14:01:53.820+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/future-thinker/","noteIcon":"","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-04-19T18:38:38.284+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 ## Type Grid Axis 
 [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]]
 [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
-[[CARDS/Depth Psychology Theory/Systematic 🔧\|Systematic 🔧]]
+[[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
 
 ## Political Worldview
 [[Autocracy\|Autocracy]]
