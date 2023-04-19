@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","noteIcon":"","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-04-19T18:48:13.985+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","noteIcon":"","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-04-19T18:51:08.625+02:00"}
 ---
 
 
@@ -59,8 +59,16 @@
 
 
 # Types expectations 
-[[SOURCES/Type Theory by CSJ/Temples/Heart Temple/Satisfaction Dyad/Satisfaction by CSJ\|Satisfaction by CSJ]] 
+[[SOURCES/Type Theory by CSJ/Temples/Heart Temple/Satisfaction Dyad/Satisfaction (by CSJ)\|SOURCES/Type Theory by CSJ/Temples/Heart Temple/Satisfaction Dyad/Satisfaction (by CSJ)]] ([C.S. Joseph Member's Area](https://offers.csjoseph.life/portal) )
 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- to fulfill the desires, [[CARDS/· Related Concepts & Theories ·/Expectation\|expectations]], needs, or demands of (a person, the mind, etc.); give full contentment to   
+
+</div></div>
+ 
 
 
 # Comments 
