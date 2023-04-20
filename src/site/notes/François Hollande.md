@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/francois-hollande/","noteIcon":"","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-20T19:12:30.807+02:00"}
+{"dg-publish":true,"permalink":"/francois-hollande/","noteIcon":"","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-20T20:59:48.367+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -11,7 +11,9 @@ Analyse de son discours dans [[SOURCES/Literature Note/Portrait intimiste de Fra
 - "It's cold in here" [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
 - "C'est très bien [...] qu'on l'ai dissuadé de le faire" [[CARDS/Typing Toolbox/-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]] 
 
-
+> [!quote]- [[François Hollande\|Hollande]]  Au revoir à la Corrèze 
+> “Nous ne nous séparerons jamais”
+> - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] loyauté 
 
 
 # Comments 
