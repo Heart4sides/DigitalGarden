@@ -74,6 +74,6 @@
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 [[CARDS/Individuals/The Grinch\|The Grinch]]
 
