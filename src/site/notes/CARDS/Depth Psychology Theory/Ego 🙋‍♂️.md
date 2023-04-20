@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-19T23:45:46.578+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-20T22:34:42.703+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 - theme : [[alignement\|alignement]]
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] 
-- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - Attitude : [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - mature: [[responsible\|responsible]]    
 - final product : [[order\|order]] 
