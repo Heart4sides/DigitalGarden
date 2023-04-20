@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-19T18:38:59.925+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-20T15:25:48.173+02:00"}
 ---
 
 Vs [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
