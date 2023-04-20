@@ -44,5 +44,5 @@
 ## Dictionary
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 [[CARDS/Individuals/By type/ENTJ list\|ENTJ list]]
