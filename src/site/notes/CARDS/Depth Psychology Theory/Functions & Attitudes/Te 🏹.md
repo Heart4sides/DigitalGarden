@@ -60,7 +60,7 @@ ctrl + schift + Q
 [[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 
 ## Quadra
 [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
