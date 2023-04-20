@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-20T21:07:46.203+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","noteIcon":"","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-20T21:38:08.861+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 
-[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]| [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne Critic 🤔\|Ne Critic 🤔]] |  [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]| [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
 
 
 | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] |
