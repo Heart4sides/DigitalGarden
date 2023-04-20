@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-19T18:50:26.716+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-20T08:51:20.191+02:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Boredom\|Boredom]]
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]]
+- [[CARDS/· Related Concepts & Theories ·/child-king\|child-king]]
 - [[CARDS/· Related Concepts & Theories ·/Cold\|Cold]]
 - [[CARDS/· Related Concepts & Theories ·/Compensate\|Compensate]]
 - [[CARDS/· Related Concepts & Theories ·/Conducive\|Conducive]]
@@ -23,6 +24,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Covert Contract\|Covert Contract]]
 - [[CARDS/· Related Concepts & Theories ·/Crafty\|Crafty]]
 - [[CARDS/· Related Concepts & Theories ·/Culture\|Culture]]
+- [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]
 - [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]
 - [[CARDS/· Related Concepts & Theories ·/Deserve\|Deserve]]
 - [[CARDS/· Related Concepts & Theories ·/Désinvolte\|Désinvolte]]
