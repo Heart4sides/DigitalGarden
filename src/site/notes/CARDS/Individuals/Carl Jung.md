@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-07T12:48:12.089+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:01:12.774+02:00"}
 ---
 
 
@@ -13,3 +13,6 @@ Ref :: [[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types
 > Jung was also an artist, craftsman, builder and a prolific writer. Many of his works were not published until after his death and some are still awaiting publication.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Jung)
+
+
+*The unconscious always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.*~ Carl Jung
