@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-20T20:26:49.502+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-20T22:34:42.949+02:00"}
 ---
 
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] : [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] 
-[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] : [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] : [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
 
