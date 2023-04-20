@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:07:48.815+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:35:25.788+02:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Te🏹Child 🧒\|Te🏹Child 🧒]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Te🏹Nemesis 😟\|Te🏹Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Te Demon 😈\|Te Demon 😈]]
 
