@@ -63,7 +63,7 @@ ctrl + schift + Q
 - [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 
 
 ## Wordnik
