@@ -13,7 +13,7 @@
 
 
 #on/depthpsychology 
-- [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]]
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]]
 - [[CARDS/Individuals/Carl Jung\|Carl Jung]]
 - [[CARDS/Individuals/John Beebe\|John Beebe]]
 - [[CARDS/Individuals/Linda Berens\|Linda Berens]]
