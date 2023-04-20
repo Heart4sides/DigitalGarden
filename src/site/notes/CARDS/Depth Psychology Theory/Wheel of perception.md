@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","noteIcon":"","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-04-18T10:39:55.273+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","noteIcon":"","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-04-20T20:26:49.818+02:00"}
 ---
 
-Ref :: [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]]
+Ref :: [[CARDS/Individuals/CS Joseph\|CS Joseph]]
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] ➡️ 👉▶️ [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] 
 
