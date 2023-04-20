@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/johann-chapoutot-libres-d-obeir/","noteIcon":"","created":"2023-02-24T17:18:48.340+01:00","updated":"2023-02-28T10:52:11.493+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/johann-chapoutot-libres-d-obeir/","noteIcon":"","created":"2023-02-24T17:18:48.340+01:00","updated":"2023-04-20T12:41:25.939+02:00"}
 ---
 
 **Title:** Libres d'obéir  
