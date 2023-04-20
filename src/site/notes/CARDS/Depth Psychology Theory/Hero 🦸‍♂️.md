@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T21:44:53.806+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T22:34:43.030+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior 😨\|I
 
 ## Keywords
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
-- [[Loop\|Loop]] - with the [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+- [[Loop\|Loop]] - with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - [[Arrogance\|Arrogance]]
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] to the Ego
 - [[Perform\|Perform]] - the ultimate performer
