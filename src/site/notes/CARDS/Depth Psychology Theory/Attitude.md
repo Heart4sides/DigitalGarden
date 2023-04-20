@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-18T12:43:53.571+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-20T22:34:41.379+02:00"}
 ---
 
 #on/psychology
@@ -11,7 +11,7 @@
 # John Beebe's 8 attitudes model 
 1. [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 2. [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
-3. [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
+3. [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 4. [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]
 5. [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 6. [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
