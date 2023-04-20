@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T21:47:08.560+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T22:03:36.724+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
@@ -26,7 +26,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 |               |                                                                                                                                                   |
 
 ## Fi - Ti
-[[CARDS/Depth Psychology Theory/Fi Parent 🤨\|Fi Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
 
