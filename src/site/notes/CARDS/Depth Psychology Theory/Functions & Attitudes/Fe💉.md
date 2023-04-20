@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:07:48.458+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:47:09.294+02:00"}
 ---
 
 
@@ -51,15 +51,15 @@
 ## Attitudes
 | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | 
 |----------------- |---| 
-| [[CARDS/Depth Psychology Theory/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]] | 
-| [[CARDS/Depth Psychology Theory/Fe Parent 🤨\|Fe Parent 🤨]]  | [[CARDS/Depth Psychology Theory/Fe Critic 🤔\|Fe Critic 🤔]] |
-| [[CARDS/Depth Psychology Theory/Fe Child 🧒\|Fe Child 🧒]]   | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] |
-| [[CARDS/Depth Psychology Theory/Fe Inferior 😨\|Fe Inferior 😨]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]] |
+| [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | 
+| [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]  | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] |
+| [[CARDS/Depth Psychology Theory/Fe💉Child🧒\|Fe💉Child🧒]]   | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] |
+| [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]] |
 
 
 ---
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[CARDS/Depth Psychology Theory/Fe Nemesis 😟\|Fe Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Fe Critic 🤔\|Fe Critic 🤔]] | [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
+[[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
