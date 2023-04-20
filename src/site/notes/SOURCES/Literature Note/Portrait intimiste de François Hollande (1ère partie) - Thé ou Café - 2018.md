@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T18:53:23.392+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T19:08:35.033+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -7,26 +7,34 @@
 > [Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 16/06/2018](https://www.youtube.com/watch?v=IYwLTmBnwKk) 
 [[François Hollande\|François Hollande]]
 # Description
-Diffusé le 16/06/2018 En Corrèze, à Tulle, l'ancien président de la République François Hollande s'entretient avec Catherine Ceylac. Chaque samedi à 10h et dimanche à 7h sur France 2, Catherine Ceylac reçoit une personnalité. Un tête à tête intimiste, qui se termine par un dos à dos sans concession. Retrouvez nous : 
+Diffusé le 16/06/2018 En Corrèze, à Tulle, l'ancien président de la République François Hollande s'entretient avec Catherine Ceylac. Chaque samedi à 10h et dimanche à 7h sur France 2, Catherine Ceylac reçoit une personnalité. Un tête à tête intimiste, qui se termine par un dos à dos sans concession. 
+Retrouvez nous : 
 Site : [Thé ou Café - Replay et vidéos en streaming - France tv](https://www.france.tv/france-2/the-ou-cafe/)
-Facebook : https://www.facebook.com/theoucafef2/ 
-Twitter : https://twitter.com/cceylac #Theoucafe
+Facebook : [Thé ou Café - Accueil | Facebook](https://www.facebook.com/theoucafef2/)
+Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 
 # Quotes & Notes
 
-> [!quote] [[François Hollande\|Hollande]] [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
 > “mais qui peut être une bénédiction pour certains sols” 
 > - “peut être” [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]  
 > - “une bénédiction pour” autrui [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] 
+> 
+>“mais la pluie fait partie quand même de notre univers” 
+> - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] fact 
+> 
+> “et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété” 
+> - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] [[Faith\|Faith]] (vs [[Fear\|Fear]])
+> 
+> “et ça fait  partie de ce que les saisons doivent produire” 
+> - [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
+> 
+> “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
+> - [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
+> 
+> “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
 
-> [!quote] [[François Hollande\|Hollande]]  [1:28](https://youtu.be/IYwLTmBnwKk?t=88) 
-> - “mais la pluie fait partie quand même de notre univers” [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] fact 
-> - “et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété” [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] [[Faith\|Faith]] (vs [[Fear\|Fear]])
-> - “et ça fait  partie de ce que les saisons doivent produire” [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
-> - “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
-> - “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
-
-> [!quote] [[François Hollande\|Hollande]] [2:20](https://www.youtube.com/watch?v=IYwLTmBnwKk&t=140s) 
+> [!quote]- [2:20](https://www.youtube.com/watch?v=IYwLTmBnwKk&t=140s)  [[François Hollande\|Hollande]] sur l’annonce de son élection
 > “c'est là que j'ai fait mon premier  discours de président élu” 
 > - [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
 > 
@@ -43,15 +51,13 @@ Twitter : https://twitter.com/cceylac #Theoucafe
 >  “mais tout de suite la responsabilité  vous arrive la meilleure preuve c'est  que aussitôt proclamé par le journal de  20 heures que je reçois un appel d'Angela Merkel de Barack Obama David Cameron est donc ça y est c'est déjà les  premières déclarations que je dois faire” 
 >  - FH lie la responsabilité au fait d’être [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|affiliative]]ment relié à des personnes importantes  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]  [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
 >  - “Je dois” [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
->  - [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] 
->  
->  “et ensuite  je doit prononcer un discours  et c'est un moment là aussi très  difficile à surmonter parce que la joie et la responsabilité vous a déjà étreint  et des milliers de personnes attendent sur cette place et je dois m'adresser au-delà de ces personnages à la france toute entière et c'est là que je rédige  un discours en quelques minutes parce  que” 
+>  - [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  
 >  
 >  “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” 
 >  - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] [[CARDS/Depth Psychology Theory/Pessimistic\|pessimist]] & [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]] : craint l’imprévisible 
 
-> [!quote] [[François Hollande\|Hollande]]  [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]]
->  “ il avait cette joie évidente  parce que c’est immense comme réussite  mais c'était contenu c'est pas quelqu'un  qui saute au plafond françois c'est quelqu'un qui ne livre pas ses  sentiments de manière immédiate bien au  contraire c'est à dire qu'il n'y a pas d'excès ni dans les joies ni dans les  peines dans ce qui montre il peut être  atteint par les situations humainement mais c’est quelqu’un qui est assez impassible d'un point du point de vue du visage”  
+> [!quote]-  [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]] sur  [[François Hollande\|Hollande]]
+>  “il avait cette joie évidente  parce que c’est immense comme réussite  mais c'était contenu c'est pas quelqu'un  qui saute au plafond françois c'est quelqu'un qui ne livre pas ses  sentiments de manière immédiate bien au  contraire c'est à dire qu'il n'y a pas d'excès ni dans les joies ni dans les  peines dans ce qui montre il peut être  atteint par les situations humainement mais c’est quelqu’un qui est assez impassible d'un point du point de vue du visage”  
 >  - [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] faible, [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] faible 
 >  
 >   “moi ce que j'ai appris de lui c'est que  cette force intérieure elle est immense  et inébranlable associé à une santé  quand même de fer cad que la  fatigue se ressent assez peu chez lui  il est capable de battre des dizaines  d'heures de travail il sait qu'il est très  bon et que s'il a fait parfois des  erreurs dans l'exercice de ce pouvoir là  il peut les analyser il ne le dira pas  forcément mais il sait très bien je  crois où ça a pu pêcher si ça a péché” 
@@ -60,7 +66,7 @@ Twitter : https://twitter.com/cceylac #Theoucafe
 > 	  - “santé de fer” 
 > 	  - capable d’analyser ses erreurs et d’apprendre par l’expérience 
 
-> [!quote] [[François Hollande\|Hollande]] [6:00](https://youtu.be/IYwLTmBnwKk?t=361) 
+> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[François Hollande\|Hollande]] sentiments post-victoire
 > “c'est  l'émotion et la campagne parce que je  sors de près de 3 mois 4 mois même de  discours où il faut parfois forcer la  voie parce que il ya une foule il y a des hourra mais je sais bien que je vais  avoir d'autres discours à prononcer  parce que je quitte tulle vers 21h 21h30  et j'arrive à paris à 23 heures” 
 > - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] (faits)
 > 
@@ -71,10 +77,7 @@ Twitter : https://twitter.com/cceylac #Theoucafe
 > - projection de sa propre peur : [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
 > 
 
-> [!quote] [[François Hollande\|Hollande]] 
-> “elle est rude elle se découvre progressivement faut aller la chercher elle est belle et cette corrèze  elle est aussi celle des présidents donc  c'est assez drôle de savoir qu'un  département rural a donné autant de  personnalités politiques”
-
-> [!quote] [[François Hollande\|Hollande]] [6:00](https://youtu.be/IYwLTmBnwKk?t=361) 
+> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[François Hollande\|Hollande]] sur l’humour
 > “oui j'aime ces conversations  insolentes dans les bistrots que les  brèves de comptoir oui ces discussions  qui partent cette patronne de café qui  vous disent tout de suite ce qu'elle pense” 
 > 
 > “moi je trouve que l’humour fait partie de ce qu'est la vie, le sel de la  vie et il doit avoir sa place” 
@@ -88,12 +91,7 @@ Twitter : https://twitter.com/cceylac #Theoucafe
 >”je ne veux pas  participer je ne suis pas un complice ça  je trouve que ce serait vraiment ne pas  être à ma place”
 > - être associé à des individus :  [[CARDS/Typing Toolbox/-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]] 
 > - être à sa place : [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
->
->“je l’ai pensé  mais je n'ai pas dit, parce que c'est d'abord un encouragement et ensuite  parce que voilà chacun doit être dans  son rôle ce que on doit mesurer c'est que  il faut faire attention au dénigrement systématique,  ceux qui agissent au nom des autres  n'ont pas besoin de respect particulier  ni de considération comme un privilège, mais ont besoin de pouvoir avoir une  autorité qui ne soit pas abîmée et donc faire attention” 
-> - “c’est un encouragement” [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] 
->
->“ah ça j'y tenais […] j'ai beaucoup réfléchi à ça je réprouvais tellement les excès tellement les  patios tellement les manières de traiter  de loin nos compatriotes ou de manière  presque méprisante que je considérais  qu'il était très important de garder ce  caractère normal et dans les files  d’attente de personnes nombreuses qui  viennent pour obtenir une dédicace je  leur pose la question et ils me disent  que nous avons retenu de votre  présidence c'est qu'elle était humaine  et donc j’ai peut-être commis cette erreur  j'aurais dû dire une présidence humaine parce qu'elle n'est pas normale”
 
-
-> [!quote] [[SOURCES/Literature Note/Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018\|Hollande2018]] Au revoir à la Corrèze 
+> [!quote]- [[François Hollande\|Hollande]]  Au revoir à la Corrèze 
 > “Nous ne nous séparerons jamais”
+> - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] loyauté 
