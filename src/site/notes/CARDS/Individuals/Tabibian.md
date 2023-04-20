@@ -8,14 +8,14 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 # J'suis pas content !
 | File                                                                                                        | date | Ref                                                 |
 | ----------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------- |
-| [[SOURCES/Literature Note/@TabibianOlivierDussopt2023\|@TabibianOlivierDussopt2023]]                     | \-   | \-                                                  |
-| [[SOURCES/Literature Note/@Tabibian·MacronVsPorno·2023\|@Tabibian·MacronVsPorno·2023]]                   | \-   | [Lien](https://www.youtube.com/watch?v=EvrSwGlZMuM) |
-| [[SOURCES/Literature Note/@TabibianSainteSolineDarmanin2023\|@TabibianSainteSolineDarmanin2023]]         | \-   | [Lien](https://www.youtube.com/watch?v=xatqyToY4F4) |
-| [[SOURCES/Literature Note/@TabibianRetraitesMacronDussopt2023\|@TabibianRetraitesMacronDussopt2023]]     | \-   | [Lien](https://www.youtube.com/watch?v=lokVhVd6Edg) |
-| [[SOURCES/Literature Note/@TabibianRetraitesDeputesAttaques2023\|@TabibianRetraitesDeputesAttaques2023]] | \-   | [Lien](https://www.youtube.com/watch?v=dmSOku1x4nk) |
-| [[SOURCES/Literature Note/@TabibianMacronVSPif2023\|@TabibianMacronVSPif2023]]                           | \-   | [Lien](https://www.youtube.com/watch?v=1LBOz-PIK0Y) |
-| [[SOURCES/Literature Note/@TabibianBfmRejointFachosphere2023\|@TabibianBfmRejointFachosphere2023]]       | \-   | \-                                                  |
 | [[SOURCES/Literature Note/@Tabibian493ParisBrule2023\|@Tabibian493ParisBrule2023]]                       | \-   | [Lien](https://www.youtube.com/watch?v=Z1rpgTRyh3A) |
+| [[SOURCES/Literature Note/@TabibianBfmRejointFachosphere2023\|@TabibianBfmRejointFachosphere2023]]       | \-   | \-                                                  |
+| [[SOURCES/Literature Note/@TabibianMacronVSPif2023\|@TabibianMacronVSPif2023]]                           | \-   | [Lien](https://www.youtube.com/watch?v=1LBOz-PIK0Y) |
+| [[SOURCES/Literature Note/@TabibianOlivierDussopt2023\|@TabibianOlivierDussopt2023]]                     | \-   | \-                                                  |
+| [[SOURCES/Literature Note/@TabibianRetraitesDeputesAttaques2023\|@TabibianRetraitesDeputesAttaques2023]] | \-   | [Lien](https://www.youtube.com/watch?v=dmSOku1x4nk) |
+| [[SOURCES/Literature Note/@TabibianRetraitesMacronDussopt2023\|@TabibianRetraitesMacronDussopt2023]]     | \-   | [Lien](https://www.youtube.com/watch?v=lokVhVd6Edg) |
+| [[SOURCES/Literature Note/@TabibianSainteSolineDarmanin2023\|@TabibianSainteSolineDarmanin2023]]         | \-   | [Lien](https://www.youtube.com/watch?v=xatqyToY4F4) |
+| [[SOURCES/Literature Note/@Tabibian·MacronVsPorno·2023\|@Tabibian·MacronVsPorno·2023]]                   | \-   | [Lien](https://www.youtube.com/watch?v=EvrSwGlZMuM) |
 
 
 
