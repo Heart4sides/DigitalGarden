@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:48:37.668+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:53:01.196+02:00"}
 ---
 
 #on/psychology #on/philosophy
 🔼 :: [[ATLAS/MOC · Psychology 🗺️\|Psychology]]
-[[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types 
+[[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types | [[Memories\|Memories]]
 
 > Carl Gustav Jung ( YUUNG; German: [kaʁl ˈjʊŋ]; 26 July 1875 – 6 June 1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology, and religious studies. Jung worked as a research scientist at the Burghölzli psychiatric hospital, in Zurich, under Eugen Bleuler. Jung established himself as an influential mind of his time, developing a friendship with Sigmund Freud, founder of psychoanalysis, conducting a lengthy correspondence, still paramount to their joint vision of human psychology. He is highly regarded as one of the most influential psychologists of all time.  Freud saw the younger Jung as the heir he had been seeking to take forward his "new science" of psychoanalysis and to this end secured his appointment as president of his newly founded International Psychoanalytical Association. Jung's research and personal vision, however, made it difficult for him to follow his older colleague's doctrine and they parted ways. This division was personally painful for Jung and resulted in the establishment of Jung's analytical psychology as a comprehensive system separate from psychoanalysis.
 >
@@ -21,7 +21,7 @@
 
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/sources/contents/c-jung-1962/#60aae6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
