@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:13:33.320+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:48:37.668+02:00"}
 ---
 
-
+#on/psychology #on/philosophy
 🔼 :: [[ATLAS/MOC · Psychology 🗺️\|Psychology]]
-Ref :: [[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types 
+[[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types 
 
 > Carl Gustav Jung ( YUUNG; German: [kaʁl ˈjʊŋ]; 26 July 1875 – 6 June 1961) was a Swiss psychiatrist and psychoanalyst who founded analytical psychology. Jung's work has been influential in the fields of psychiatry, anthropology, archaeology, literature, philosophy, psychology, and religious studies. Jung worked as a research scientist at the Burghölzli psychiatric hospital, in Zurich, under Eugen Bleuler. Jung established himself as an influential mind of his time, developing a friendship with Sigmund Freud, founder of psychoanalysis, conducting a lengthy correspondence, still paramount to their joint vision of human psychology. He is highly regarded as one of the most influential psychologists of all time.  Freud saw the younger Jung as the heir he had been seeking to take forward his "new science" of psychoanalysis and to this end secured his appointment as president of his newly founded International Psychoanalytical Association. Jung's research and personal vision, however, made it difficult for him to follow his older colleague's doctrine and they parted ways. This division was personally painful for Jung and resulted in the establishment of Jung's analytical psychology as a comprehensive system separate from psychoanalysis.
 >
@@ -20,9 +20,16 @@ Ref :: [[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types
 { #f56118}
 
 
-> [!quote] [[CARDS/Individuals/Carl Jung\|Carl Jung]] 
-> “I am satisfied with the course my life has taken. It has beenbountiful, and has given me a great deal. How could I ever have expected so much? Nothing but unexpected things kept happening to me. Much might have been different if I myself had been different. 
-> Many things worked out as I planned them to, but that did not always prove of benefit to me. But almost everything developed naturally and by destiny.
-I regret many follies which sprang from my obstinacy; but without that trait I would not have reached my goal. And so I am disappointed and not disappointed. I am disappointed with people and disappointed with myself. I have learned amazing things from people, and have accomplished more than I expected of myself.
-I cannot form any final judgment because the phenomenon of life and the phenomenon of man are too vast. The older I have become, the less I have understood or had insight into or known about myself.
-I am astonished, disappointed, pleased with myself.” ~ CARL JUNG
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!quote]- [[SOURCES/Contents/C Jung-1962\|C Jung-1962]]  <u>Memories, Dreams, Reflections</u>
+>  “I am [[CARDS/Depth Psychology Theory/Satisfaction\|satisfied]] with the course my life has taken. It has beenbountiful, and has given me a great deal. How could I ever have [[CARDS/· Related Concepts & Theories ·/Expectation\|expected]] so much? Nothing but unexpected things kept happening to me. Much might have been different if I myself had been different. 
+>  Many things worked out as I planned them to, but that did not always prove of benefit to me. But almost everything developed naturally and by destiny.
+>  I regret many follies which sprang from my [[obstinacy\|obstinacy]]; but without that trait I would not have reached my goal. And so I am disappointed and not disappointed. I am disappointed with people and disappointed with myself. I have learned amazing things from people, and have accomplished more than I expected of myself.
+>   I cannot form any final judgment because the phenomenon of life and the phenomenon of man are too vast. The older I have become, the less I have understood or had insight into or known about myself.
+>   I am astonished, disappointed, pleased with myself. I am distressed, depressed, rapturous. I am all these things at once, and cannot add up the sum. I am incapable of determining ultimate worth or worthlessness; I have no judgment about myself and my life. There is nothing I am quite sure about. I have no definite convictions - not about anything, really. I know only that I was born and exist, and it seems to me that I have been carried along. I exist on the foundation or something I do not know.” ~ CARL JUNG
+
+</div></div>
