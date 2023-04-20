@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-20T21:52:57.866+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-20T22:45:37.443+02:00"}
 ---
 
-🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
+🏠 :: [[ATLAS/MOC 🗺️ Philosophy\|Philosophy]]
 ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf](https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf)
 #on/education #on/philosophy 
 
