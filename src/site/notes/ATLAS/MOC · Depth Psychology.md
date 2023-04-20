@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-19T18:38:59.889+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-20T21:07:44.800+02:00"}
 ---
 
 
@@ -47,4 +47,4 @@ LVL 4 - Typing Individuals
 [[SOURCES/Type Theory by CSJ/Relationships/Golden\|Golden]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Bronze\|Bronze]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred\|Kindred]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
 
 ### Internal 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] | [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
