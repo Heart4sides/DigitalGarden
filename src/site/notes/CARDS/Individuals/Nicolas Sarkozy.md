@@ -12,7 +12,10 @@
 
 
 > [!quote] [0:55](https://www.youtube.com/watch?v=JZqjxAo5eoY&t=55s) [[CARDS/Individuals/Nicolas Sarkozy\|Nicolas Sarkozy]] , BFM, Campagne présidentielle de 2007
-> "Qu'est-ce qui demandent les gens ? Ils disent laissez-nous travailler pour gagner plus. Pourquoi on les empêcherait ?" 
+> *"Qu'est-ce qui demandent les gens ? Ils disent laissez-nous travailler pour gagner plus. Pourquoi on les empêcherait ?"* 
+> 
+>  [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
+> [[CARDS/Typing Toolbox/-interest❤️\|-interest❤️]] 
 
 
 </div></div>
