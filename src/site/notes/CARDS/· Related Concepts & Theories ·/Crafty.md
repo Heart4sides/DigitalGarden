@@ -13,7 +13,7 @@
 *adjective*: Skilled in or marked by underhandedness (manigance, dissimulation), deviousness (sournoiserie, perfidie), or deception.
 *adjective*: Skillful; dexterous.
 *undefined*: Possessing or displaying skill, especially manual skill or art: as, “<em>crafty</em> work,”
-*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; [[cunning\|cunning]]; artful; wily; sly.
+*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]; artful; wily; sly.
 *undefined*: Characterized by or springing from craft or deceit: as, <em>crafty</em> wiles.
 *adjective*: Relating to, or characterized by, craft or skill; dexterous.
 *adjective*: Possessing dexterity; skilled; skillful.
