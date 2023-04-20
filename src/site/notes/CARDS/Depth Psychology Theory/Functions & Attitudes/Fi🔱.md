@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:07:48.508+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:35:07.635+02:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 
 ## Attitudes
 > [!info] [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[Fi 🔱 Hero\|Fi 🔱 Hero]] | [[Fi 🔱 Parent\|Fi 🔱 Parent]] | [[Fi 🔱 Child\|Fi 🔱 Child]] | [[Fi 🔱 Inferior\|Fi 🔱 Inferior]]
+[[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi🔱Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]] | [[CARDS/Depth Psychology Theory/Fi🔱Child👼\|Fi🔱Child👼]] | [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
 
 > [!info] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[Fi 🔱 Nemesis\|Fi 🔱 Nemesis]] | [[Fi 🔱 Critic\|Fi 🔱 Critic]] | [[Fi 🔱 Trickster\|Fi 🔱 Trickster]] | [[Fi 🔱 Demon\|Fi 🔱 Demon]]
@@ -43,15 +43,11 @@
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
-[[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
-[[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] 
+[[CARDS/Depth Psychology Theory/Interaction Style\|Interaction Style]]  : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
+[[CARDS/Depth Psychology Theory/Temperament\|Temperament]]  : [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-
-## Dictionary
-
 
 ## Mentions 
 ctrl + schift + Q
