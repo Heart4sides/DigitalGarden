@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T21:07:46.860+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T21:44:53.806+02:00"}
 ---
 
 
@@ -19,9 +19,9 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior 😨\|I
 
 ## In Attitudes
 
-[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]]
+[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe Hero 🦸‍♂️\|Fe Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si Hero 🦸‍♂️\|Si Hero 🦸‍♂️]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
 ## Axis, Orbit, Reflect
 
