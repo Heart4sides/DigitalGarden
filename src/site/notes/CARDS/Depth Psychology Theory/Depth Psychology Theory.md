@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-19T18:39:00.496+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-20T21:07:45.974+02:00"}
 ---
 
 
@@ -183,7 +183,7 @@
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
 - [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 - [[CARDS/Depth Psychology Theory/Quarter-life crisis\|Quarter-life crisis]]
-- [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]
+- [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
 - [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
 - [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]
 - [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
