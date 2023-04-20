@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-18T12:38:07.763+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T21:07:45.707+02:00"}
 ---
 
-Links :: [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] 
+Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
 
 ## Fe - TE
 [[CARDS/Depth Psychology Theory/Fe Parent 🤨\|Fe Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]]
