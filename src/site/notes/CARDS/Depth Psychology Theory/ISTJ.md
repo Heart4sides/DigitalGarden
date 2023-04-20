@@ -47,7 +47,7 @@ ctrl + schift + Q
 [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 
 
 ## Images
