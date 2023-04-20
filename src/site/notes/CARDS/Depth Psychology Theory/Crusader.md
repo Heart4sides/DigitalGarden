@@ -38,7 +38,7 @@
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
 
 ### Music 
 - https://open.spotify.com/track/09EwNbGvUyu7BDEYG0cJro?si=M3jsmMVYRc6B8_YA1RGnTQ
