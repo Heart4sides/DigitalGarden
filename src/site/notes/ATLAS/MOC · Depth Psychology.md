@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-20T21:07:44.800+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-20T22:34:41.028+02:00"}
 ---
 
 
@@ -17,7 +17,7 @@ LVL 4 - Typing Individuals
 [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Attitudes
-[[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] | [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]] | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] | [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
+[[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] | [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 
 ## 4 sides of the Mind
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
