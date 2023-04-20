@@ -34,5 +34,5 @@
 ## Dictionary
 
 ## Examples 
-[[Examples\|Examples]] 
+[[ATLAS/Examples\|Examples]] 
 [[CARDS/Individuals/By type/INTP list\|INTP list]]
