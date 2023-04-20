@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T19:08:35.033+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T20:59:44.007+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -91,7 +91,3 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 >”je ne veux pas  participer je ne suis pas un complice ça  je trouve que ce serait vraiment ne pas  être à ma place”
 > - être associé à des individus :  [[CARDS/Typing Toolbox/-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]] 
 > - être à sa place : [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
-
-> [!quote]- [[François Hollande\|Hollande]]  Au revoir à la Corrèze 
-> “Nous ne nous séparerons jamais”
-> - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] loyauté 
