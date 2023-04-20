@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-18T12:43:54.110+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-20T21:07:47.926+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 ## 4 sides 
 - [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] : [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]
 - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] : [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]
-- [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]]
+- [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
 
 ## Characteristics 
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] / uncertain
