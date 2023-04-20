@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-18T12:43:53.987+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T21:07:46.860+02:00"}
 ---
 
 
@@ -29,7 +29,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior 😨\|I
 
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 
-[[CARDS/Depth Psychology Theory/Reflection 🔀\|Reflection 🔀]] : [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
+[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] : [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]]
 
 ## Mentions 
