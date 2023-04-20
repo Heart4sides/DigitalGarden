@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","noteIcon":"","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-04-19T18:51:08.625+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","noteIcon":"","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-04-20T10:15:32.087+02:00"}
 ---
 
 
