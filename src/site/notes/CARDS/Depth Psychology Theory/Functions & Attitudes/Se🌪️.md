@@ -63,4 +63,4 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 - [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Concrete (by CSJ)\|Concrete (by CSJ)]]
 
 ## Examples 
-[[Examples 1\|Examples 1]] 
+[[ATLAS/Examples 1\|Examples 1]] 
