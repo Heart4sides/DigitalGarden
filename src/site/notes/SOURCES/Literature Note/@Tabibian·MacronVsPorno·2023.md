@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-macron-vs-porno-2023/","noteIcon":"","created":"2023-04-15T21:52:41.181+02:00","updated":"2023-04-15T22:00:39.970+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-macron-vs-porno-2023/","noteIcon":"","created":"2023-04-15T21:52:41.181+02:00","updated":"2023-04-20T14:24:29.708+02:00"}
 ---
 
 #on/politics 
