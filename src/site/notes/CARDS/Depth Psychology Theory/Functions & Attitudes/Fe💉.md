@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:47:09.294+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:34:59.266+02:00"}
 ---
 
 
@@ -53,7 +53,7 @@
 |----------------- |---| 
 | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | 
 | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]  | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] |
-| [[CARDS/Depth Psychology Theory/Fe💉Child🧒\|Fe💉Child🧒]]   | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] |
+| [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]   | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] |
 | [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]] |
 
 
