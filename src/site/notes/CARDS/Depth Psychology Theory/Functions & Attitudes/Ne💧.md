@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:07:48.564+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:52:58.013+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
@@ -21,7 +21,7 @@
 
 ## Types 
 
-|            | **[[CARDS/Depth Psychology Theory/Guardian\|Guardian]]** | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | **[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]]** | **[[CARDS/Depth Psychology Theory/Idealist\|Idealist]]** |
+|            | **[[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]]** | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | **[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]]** | **[[CARDS/Depth Psychology Theory/Idealist\|Idealist]]** |
 |:---------- |:-------- |:------- |:------------ |:-------- |
 | ==[[CARDS/Depth Psychology Theory/Structure👉\|Structure👉]]== | **[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]**     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
 | **[[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]]**    | **[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]**     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | **[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]**         | **[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]**     |
