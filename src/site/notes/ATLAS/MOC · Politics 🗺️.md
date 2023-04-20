@@ -11,6 +11,7 @@ ref ::
 
 | File                                                                                                                                         | Ch_Type |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [[SOURCES/Contents/Est-ce que vous condamnez les violences · Usul\|Est-ce que vous condamnez les violences · Usul]]                       | \-      |
 | [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                         | \-      |
 | [[SOURCES/Contents/On the News · Alain de Botton\|On the News · Alain de Botton]]                                                         | \-      |
 | [[SOURCES/Contents/Tabibian x Interviews\|Tabibian x Interviews]]                                                                         | \-      |
