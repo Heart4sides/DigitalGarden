@@ -50,7 +50,7 @@
 
 
 
-- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most ([[CARDS/Individuals/C.S. Joseph\|CSJ]]2023) 
+- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most ([[CARDS/Individuals/CS Joseph\|CSJ]]2023) 
 
 </div></div>
 
@@ -59,7 +59,7 @@
 
 
 
-- [5:35](https://www.youtube.com/watch?v=keNewFwXxM8&t=335s) "crusaders oftentime feel like they deserve to be abusive" & dont call it abuse ([[CARDS/Individuals/C.S. Joseph\|CSJ]]2023) 
+- [5:35](https://www.youtube.com/watch?v=keNewFwXxM8&t=335s) "crusaders oftentime feel like they deserve to be abusive" & dont call it abuse ([[CARDS/Individuals/CS Joseph\|CSJ]]2023) 
 
 </div></div>
 
