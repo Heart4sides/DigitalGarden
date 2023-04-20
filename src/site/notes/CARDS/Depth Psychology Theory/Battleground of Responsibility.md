@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T21:07:45.707+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T21:47:08.560+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
 
 ## Fe - TE
-[[CARDS/Depth Psychology Theory/Fe Parent 🤨\|Fe Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
 Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so others can be free and i can finally be socially accepted as myself.
@@ -14,7 +14,7 @@ Figure out the right people to listen to, which opinions are valuable. appearanc
 Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cultish types.
 "If I didn't solve my own problems before, I won't be able to solve them now." Feels bad because he's not accepted even though he solved everyone's problems. So focused on loving everybody else that they neglect to solve their own problems.
 
-[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fe Trickster 🤡\|Fe Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]]
 
 | [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]] | [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,9 +47,9 @@ Fi trickster if it doesn't articulate its feelings they bottle up and create Si 
 
 [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]]
 
-[[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si Trickster 🤡\|Si Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Si Parent 🤨\|Si Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]
+[[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]
 
 
 
