@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","noteIcon":"","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-04-20T11:21:37.820+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","noteIcon":"","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-04-20T11:25:18.221+02:00"}
 ---
 
-> [!Info]-  ⚓🧭⛵
-> 🗺️ [[ATLAS/MOC · Politics 🗺️\|Politics]] #on/politics 
+> [!Info]- 🗺️ 🗺
+> 🗺 [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]] #on/politics 
 > [SORTIR DE LA TYRANNIE DE LA «VALEUR TRAVAIL» - YouTube](https://www.youtube.com/watch?v=JZqjxAo5eoY&t=55s)
 
 
