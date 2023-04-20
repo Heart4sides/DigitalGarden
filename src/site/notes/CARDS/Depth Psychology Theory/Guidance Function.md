@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-19T18:35:44.496+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-20T20:26:49.502+02:00"}
 ---
 
 
@@ -20,4 +20,4 @@
 
 
 [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
-Source of the concept : [[CARDS/Individuals/C.S. Joseph\|C.S. Joseph]] and Chris Taylor
+Source of the concept : [[CARDS/Individuals/CS Joseph\|CS Joseph]] and Chris Taylor
