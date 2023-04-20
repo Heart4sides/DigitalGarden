@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","noteIcon":"","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-04-15T13:00:02.610+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","noteIcon":"","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-04-20T13:27:04.484+02:00"}
 ---
 
 **Title:** La Langue de Zemmour  
@@ -14,15 +14,21 @@
 
 > [!quote]- Zemmour
 > "Paris vide m'appartenait comme si je l'avais conquise"
+{ #eced47}
+
 
 > [!quote]- Zemmour
 > "L'absence de ses habitants arrachait Paris au présent et la rendait au passé"
+{ #45089f}
+
 
 > [!quote]- Cécile Alduy
 > ""Guerre" est le troisième nom le plus utilisé dans ses livres." La langue de Zemmour (2022)
 
 > [!quote]- Zemmour
 > "La virilité va de pair avec la violence, [...] l'homme est un prédateur sexuel, un conquérant" Le Premier Sexe (2006)
+{ #289f7e}
+
 
 
 > [!quote]- Zemmour
