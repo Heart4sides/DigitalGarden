@@ -9,7 +9,7 @@
 
 
 > [!quote] [[CARDS/Individuals/Carl Jung\|Carl Jung]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] [[Growth\|Growth]] 
-> *“The unconscious always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung 
+> *“The [[CARDS/Depth Psychology Theory/Shadow 👤\|unconscious]] always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung 
 
 </div></div>
 
