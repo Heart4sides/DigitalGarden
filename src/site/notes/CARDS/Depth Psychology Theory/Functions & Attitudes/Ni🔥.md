@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T21:07:48.597+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:35:17.348+02:00"}
 ---
 
 
@@ -31,7 +31,7 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] | [[CARDS/Depth Psychology Theory/Ni🔥Child🧒\|Ni🔥Child🧒]] | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]
+[[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] | [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]] | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
 
