@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-20T21:07:45.974+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-20T21:20:40.865+02:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
 - [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]
 - [[CARDS/Depth Psychology Theory/Child 👼\|Child 👼]]
-- [[CARDS/Depth Psychology Theory/Cognitive Development\|Cognitive Development]]
+- [[CARDS/Depth Psychology Theory/Development\|Development]]
 - [[CARDS/Depth Psychology Theory/Cognitive Focus\|Cognitive Focus]]
 - [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
 - [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]
