@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:02:21.002+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T10:13:33.320+02:00"}
 ---
 
 
@@ -15,5 +15,14 @@ Ref :: [[SOURCES/Contents/CG Jung - Aion\|Aion]] | Psychological Types
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Jung)
 
 
-*“The unconscious always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung
+> [!quote] [[CARDS/Individuals/Carl Jung\|Carl Jung]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] [[Growth\|Growth]] 
+> *“The unconscious always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung
 { #f56118}
+
+
+> [!quote] [[CARDS/Individuals/Carl Jung\|Carl Jung]] 
+> “I am satisfied with the course my life has taken. It has beenbountiful, and has given me a great deal. How could I ever have expected so much? Nothing but unexpected things kept happening to me. Much might have been different if I myself had been different. 
+> Many things worked out as I planned them to, but that did not always prove of benefit to me. But almost everything developed naturally and by destiny.
+I regret many follies which sprang from my obstinacy; but without that trait I would not have reached my goal. And so I am disappointed and not disappointed. I am disappointed with people and disappointed with myself. I have learned amazing things from people, and have accomplished more than I expected of myself.
+I cannot form any final judgment because the phenomenon of life and the phenomenon of man are too vast. The older I have become, the less I have understood or had insight into or known about myself.
+I am astonished, disappointed, pleased with myself.” ~ CARL JUNG
