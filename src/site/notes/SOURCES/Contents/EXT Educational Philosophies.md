@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-19T18:39:01.621+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-20T21:52:57.866+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC · Philosophy 🗺️\|Philosophy]]
@@ -21,7 +21,7 @@ ref :: [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo
 | --------------------------- | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | Philosophical - orientation | Realism ([[CARDS/Depth Psychology Theory/Artisan\|Artisan]]) & Idealism ([[CARDS/Depth Psychology Theory/Idealist\|Idealist]])                                                              | Pragmatism                                                      |
 | Theoretical- orientation    | Perennialism & Essentialism                                                                          | Progressivism & Reconstructionism                               |
-| Direction in time           | preserving the past ([[CARDS/Depth Psychology Theory/Guardian\|Guardian]])                                                                       | growth, reconstruct present, change society, shape future       |
+| Direction in time           | preserving the past ([[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]])                                                                       | growth, reconstruct present, change society, shape future       |
 | Educational value           | fixed, absolute, objective                                                                           | changeable, subjective, relative                                |
 | Educational process         | focuses on teaching                                                                                  | focuses on active self-learning                                 |
 | Intellectual focus          | train, discipline the mind ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]/[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]/[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]])                                                   | engage in problem-solving, social tasks                         |
