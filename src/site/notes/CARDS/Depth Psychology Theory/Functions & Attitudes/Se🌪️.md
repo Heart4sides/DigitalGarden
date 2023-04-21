@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-21T13:26:13.897+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-21T15:31:23.414+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
@@ -36,7 +36,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] 
 
 ## Type Grid 
