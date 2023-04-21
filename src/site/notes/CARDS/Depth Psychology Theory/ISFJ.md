@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","noteIcon":"","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-20T22:34:52.660+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","noteIcon":"","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-20T23:25:34.816+02:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 </div></div>
 
-[[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]] 
+[[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -64,7 +64,7 @@ ctrl + schift + Q
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Type\|TPL Type]]
 [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
+[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
