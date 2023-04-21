@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T23:25:38.498+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T13:26:13.530+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
@@ -31,7 +31,7 @@
 
 ## Attitudes
 
-| [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]        | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]    |
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]        | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]    |
 | -------------------- | ---------------------- |
 | [[Ne 💧 Hero\|Ne 💧 Hero]]   | [[Ne💧Inferior\|Ne💧Inferior]]  |
 | [[Ne 💧 Parent\|Ne 💧 Parent]] | [[Ne 💧 Child\|Ne 💧 Child]] |
