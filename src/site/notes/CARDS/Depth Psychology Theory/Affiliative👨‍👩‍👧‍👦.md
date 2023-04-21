@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-20T23:25:30.227+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-21T15:31:13.076+02:00"}
 ---
 
 Vs [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
@@ -29,7 +29,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Affiliative👨‍�
 - [[CARDS/Depth Psychology Theory/Idealist 👌\|Idealist 👌]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
 ## Temple 
 
