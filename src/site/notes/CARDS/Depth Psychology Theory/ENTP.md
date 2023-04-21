@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-20T22:34:58.979+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-20T23:18:43.263+02:00"}
 ---
 
 #type
@@ -17,7 +17,7 @@
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
-[[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
+[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] | [[Insincerity\|Insincerity]]
@@ -38,7 +38,7 @@
 - [[SOURCES/Type Theory by CSJ/Types Theory/Confessions of an ENTP\|Confessions of an ENTP]]
 - [[CARDS/Individuals/Hitler\|Hitler]]
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
-- [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
+- [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 
 ## Examples 
 [[ATLAS/Examples\|Examples]]
