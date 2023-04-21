@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T13:57:42.951+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T14:06:36.666+02:00"}
 ---
 
 
@@ -20,9 +20,12 @@
 - Procedures, standardization
 - Rational, Common sense
 
+---
 
 ## Quadras
 [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
+
+---
 
 ## Types 
 
@@ -32,6 +35,8 @@
 | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]       | |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]      |   |
 |  |  [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  |    | [[CARDS/Depth Psychology Theory/INFP\|INFP]]       |  
 
+---
+
 ## Attitudes
 > [!example] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
@@ -39,14 +44,20 @@
 > [!example] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]
 
+---
+
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 
+---
+
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
+
+---
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
@@ -54,16 +65,5 @@
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
-## Dictionary
+---
 
-
-## Mentions 
-ctrl + schift + Q
-[[SOURCES/Type Theory by CSJ/Functions/Fi-Te\|Fi-Te]]
-
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
-
-## Quadra
-[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
-[[Wayfarer\|Wayfarer]]
