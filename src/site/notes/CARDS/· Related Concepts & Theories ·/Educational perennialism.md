@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/educational-perennialism/","noteIcon":"","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-20T09:32:56.715+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/educational-perennialism/","noteIcon":"","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-21T17:27:37.000+02:00"}
 ---
 
 #on/education
@@ -11,7 +11,7 @@
 > [!quote]- [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] > [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]
 > "and that the emphasis should be on [[principles\|principles]], not [[facts\|facts]]." [^1]
 
-> [!quote]- [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
+> [!quote]- [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 > "Since people are human, one should teach first about humans, rather than machines or techniques"[^1]
 
 > [!quote]-
