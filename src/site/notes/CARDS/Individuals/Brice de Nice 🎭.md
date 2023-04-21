@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/brice-de-nice/","noteIcon":"","created":"2022-12-13T22:16:55.815+01:00","updated":"2023-04-21T10:39:45.997+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/brice-de-nice/","noteIcon":"","created":"2022-12-13T22:16:55.815+01:00","updated":"2023-04-21T13:49:33.286+02:00"}
 ---
 
 
@@ -19,6 +19,6 @@
 - Se nemesis = pieds 
 - Hypé par Brice 
 - Suit les rêves des autres 
-- [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]] a du mal à s'exprimer 
-- [[CARDS/Depth Psychology Theory/Ne Inferior 😨\|Ne Inferior 😨]] = ne pas retourner à Nice 
+- [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] a du mal à s'exprimer 
+- [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]] = ne pas retourner à Nice 
 
