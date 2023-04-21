@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-21T14:25:36.911+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-21T15:26:47.047+02:00"}
 ---
 
 ## Keywords
