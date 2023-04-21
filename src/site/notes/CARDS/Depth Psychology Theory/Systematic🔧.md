@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-20T23:25:35.359+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-21T13:49:23.863+02:00"}
 ---
 
 As opposed to the prefererence for [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]]
@@ -20,7 +20,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Systematic🔧\|Sys
 - [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
