@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/type-sheet/","noteIcon":"","created":"2023-04-19T21:35:37.710+02:00","updated":"2023-04-20T08:26:00.829+02:00"}
+{"dg-publish":true,"permalink":"/type-sheet/","noteIcon":"","created":"2023-04-19T21:35:37.710+02:00","updated":"2023-04-21T13:26:07.966+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 | --------- | ----------- | ----------- | ------- | ------- | ----- |
 | [[NFP👩‍🔬\|NFP👩‍🔬]]      | [[STJ👮‍♀️\|STJ👮‍♀️]]    [[NFJ👩‍🚒\|NFJ👩‍🚒]] | [[SFJ👩‍⚕️\|SFJ👩‍⚕️]]          | [[STP👨‍🔧\|STP👨‍🔧]] | [[NTP👨‍🚀\|NTP👨‍🚀]]    [[SFP👨‍🎨\|SFP👨‍🎨]] |   [[NTJ👩‍✈️\|NTJ👩‍✈️]]                 |
 
-↖️ = [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] 
+↖️ = [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 ↗️ = [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] 
 ↙️ = [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 ↘️ = [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] 
