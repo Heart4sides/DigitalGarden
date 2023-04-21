@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-21T13:49:26.420+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/ext-educational-philosophies/","noteIcon":"","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-21T14:25:36.616+02:00"}
 ---
 
 🏠 :: [[ATLAS/MOC 🗺️ Philosophy\|Philosophy]]
