@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","noteIcon":"","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-20T21:05:36.414+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","noteIcon":"","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-21T13:26:12.148+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 - [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I want (Ni) to do what you're doing (Se)" 
 
 ## 4 Sides in Axis
-- [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
 - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 
 ## Temples in Axis
