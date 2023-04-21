@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-20T22:35:53.865+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-20T23:25:33.387+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 - [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
 - [[CARDS/Depth Psychology Theory/Apathy\|Apathy]]
 - [[CARDS/Depth Psychology Theory/Appearance\|Appearance]]
-- [[CARDS/Depth Psychology Theory/Artisan\|Artisan]]
+- [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]
 - [[CARDS/Depth Psychology Theory/Attention\|Attention]]
 - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
 - [[CARDS/Depth Psychology Theory/Authentic\|Authentic]]
@@ -98,20 +98,19 @@
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
-- [[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]]
+- [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]]
 - [[CARDS/Depth Psychology Theory/Gateway\|Gateway]]
 - [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]
 - [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]
 - [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]
 - [[CARDS/Depth Psychology Theory/Golden Pair🥇\|Golden Pair🥇]]
-- [[CARDS/Depth Psychology Theory/Greed\|Greed]]
-- [[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]]
+- [[CARDS/Depth Psychology Theory/Greed\|Greed]][[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]]
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance Function]]
 - [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 - [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]
 - [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Humility\|Humility]]
-- [[CARDS/Depth Psychology Theory/Idealist\|Idealist]]
+- [[CARDS/Depth Psychology Theory/Idealist 👌\|Idealist 👌]]
 - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
 - [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 - [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]
