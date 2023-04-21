@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-21T13:49:32.776+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-21T15:24:42.440+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
@@ -45,7 +45,7 @@ Fi trickster if it doesn't articulate its feelings they bottle up and create Si 
 ## Ne - Se 
 [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne💧Trickster 🤡\|Ne💧Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]]
 
 [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]
 
