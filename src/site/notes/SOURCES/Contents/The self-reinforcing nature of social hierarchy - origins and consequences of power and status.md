@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/the-self-reinforcing-nature-of-social-hierarchy-origins-and-consequences-of-power-and-status/","noteIcon":"","created":"2023-01-31T17:32:06.672+01:00","updated":"2023-04-18T14:01:53.422+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/the-self-reinforcing-nature-of-social-hierarchy-origins-and-consequences-of-power-and-status/","noteIcon":"","created":"2023-01-31T17:32:06.672+01:00","updated":"2023-04-21T19:42:03.905+02:00"}
 ---
 
 [The Self-Reinforcing Nature of Social Hierarchy: Origins and Consequences of Power and Status by Joseph C. Magee, Adam D. Galinsky :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1298493)
@@ -131,7 +131,7 @@ Adam Galinsky
 >*ract=1298493Social Hierarchy 15 ==laboratory experiments have established a causal connection between power and abstract construal, with high-power individuals generating more abstract representations of stimuli than low-power individuals (Smith & Trope, 2006).== As a result the powerful compar*
 >[[SOURCES/Contents/The self-reinforcing nature of social hierarchy - origins and consequences of power and status#^mewyvok2a9\|show annotation]]
 >
->[[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]]
+>[[Abstract]]
 >
 >{ #mewyvok2a9}
 
