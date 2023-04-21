@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-20T22:34:42.949+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","noteIcon":"","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-20T23:08:05.313+02:00"}
 ---
 
 
@@ -19,5 +19,5 @@
 - Learns from the [[CARDS/Depth Psychology Theory/Gateway\|Gateway]]
 
 
-[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
+[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 Source of the concept : [[CARDS/Individuals/CS Joseph\|CS Joseph]] and Chris Taylor
