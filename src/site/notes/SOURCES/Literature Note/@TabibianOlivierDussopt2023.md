@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-20T14:27:10.326+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-20T23:05:12.192+02:00"}
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]]  #on/politics 
+> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
 > [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg)
 
  > [!Quote]- [[Olivier Faure\|Olivier Faure]]
