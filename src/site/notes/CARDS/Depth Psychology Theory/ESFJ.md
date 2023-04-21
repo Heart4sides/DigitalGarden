@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-21T14:25:33.154+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-21T19:56:33.627+02:00"}
 ---
 
 Tags :: #type 
@@ -13,12 +13,12 @@ Tags :: #type
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]) : ISFP
+[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : ISFP
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):  ENTJ 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
-[[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]  : [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]] | [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] 
+[[CARDS/Depth Psychology Theory/Starter🌱\|Starter🌱]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
+[[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]  : [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] 
 
 ## Virtu & Vice
 [[Care\|Care]] | [[Guard\|Guard]] 
