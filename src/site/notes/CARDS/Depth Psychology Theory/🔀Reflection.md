@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","noteIcon":"","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-18T10:39:55.007+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","noteIcon":"","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-21T13:26:11.947+02:00"}
 ---
 
 
-- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]].
+- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].
 - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
 - [[Heart\|Heart]] - [[Body\|Body]]
