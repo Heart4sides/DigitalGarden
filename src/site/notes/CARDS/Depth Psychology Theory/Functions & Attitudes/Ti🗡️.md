@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-21T15:26:47.047+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-21T19:39:04.846+02:00"}
 ---
 
 ## Keywords
@@ -37,12 +37,12 @@
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
+[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
-[[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
+[[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
