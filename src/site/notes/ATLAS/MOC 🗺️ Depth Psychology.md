@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-21T13:49:22.402+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-21T14:25:32.306+02:00"}
 ---
 
 
