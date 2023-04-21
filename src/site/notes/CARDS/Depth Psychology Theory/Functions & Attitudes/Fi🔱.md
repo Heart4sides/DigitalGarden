@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:35:07.635+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T13:49:27.202+02:00"}
 ---
 
 
@@ -31,14 +31,14 @@
 |  |  [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  |    | [[CARDS/Depth Psychology Theory/INFP\|INFP]]       |  
 
 ## Attitudes
-> [!info] [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
+> [!info] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi🔱Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]] | [[CARDS/Depth Psychology Theory/Fi🔱Child👼\|Fi🔱Child👼]] | [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
 
 > [!info] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[Fi 🔱 Nemesis\|Fi 🔱 Nemesis]] | [[Fi 🔱 Critic\|Fi 🔱 Critic]] | [[Fi 🔱 Trickster\|Fi 🔱 Trickster]] | [[Fi 🔱 Demon\|Fi 🔱 Demon]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] 
+[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
 [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 
