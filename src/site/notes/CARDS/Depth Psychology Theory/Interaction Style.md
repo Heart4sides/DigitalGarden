@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","noteIcon":"","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-04-20T21:52:56.374+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","noteIcon":"","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-04-20T23:25:34.660+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@ Question : How do you interact ?
 Gateway to all human interaction and communication.
 
 ## 4 Interaction Styles
-|            | [[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]] | [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] | [[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] | [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] |
+|            | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] | [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] | [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] | [[CARDS/Depth Psychology Theory/Idealist 👌\|Idealist 👌]] |
 |:---------- |:-------- |:------- |:------------ |:-------- |
 | [[CARDS/Depth Psychology Theory/Structure👉\|Structure👉]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
 | [[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
