@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-19T18:38:47.159+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-20T23:24:04.092+02:00"}
 ---
 
 
@@ -17,8 +17,8 @@
 - Persuasiveness
 ## Types 
 Types sharing preference for [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] : 
-- [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
-- [[CARDS/Depth Psychology Theory/Idealist\|Idealist]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
+- [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
+- [[CARDS/Depth Psychology Theory/Idealist 👌\|Idealist 👌]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] 
 
 ## Functions 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
