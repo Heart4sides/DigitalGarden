@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/francois-hollande/","noteIcon":"","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-20T20:59:48.367+02:00"}
+{"dg-publish":true,"permalink":"/francois-hollande/","noteIcon":"","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-20T23:05:04.812+02:00"}
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]]  #on/politics 
+> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
 > Type : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] 
 
 Analyse de son discours dans [[SOURCES/Literature Note/Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018\|Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018]]
