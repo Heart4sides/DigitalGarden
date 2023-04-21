@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","noteIcon":"","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-02-18T16:06:49.369+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","noteIcon":"","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-04-21T09:44:50.904+02:00"}
 ---
 
 
