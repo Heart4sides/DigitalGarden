@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T20:59:44.007+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T23:05:13.076+02:00"}
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]]  #on/politics #video 
+> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics #video 
 > [Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 16/06/2018](https://www.youtube.com/watch?v=IYwLTmBnwKk) 
 [[François Hollande\|François Hollande]]
 # Description
