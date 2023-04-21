@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-21T19:39:04.237+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-21T21:28:05.900+02:00"}
 ---
 
 #on/depthpsychology 
