@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-20T22:34:59.266+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T10:42:54.711+02:00"}
 ---
 
 
@@ -75,5 +75,5 @@
 
 ## Examples 
 [[ATLAS/Examples 1\|Examples 1]] 
-[[CARDS/Individuals/The Grinch\|The Grinch]]
+[[CARDS/Individuals/The Grinch 🎭\|The Grinch 🎭]]
 
