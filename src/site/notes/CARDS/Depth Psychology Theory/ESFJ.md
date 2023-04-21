@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-20T22:04:52.886+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-20T23:25:34.391+02:00"}
 ---
 
 Tags :: #type 
@@ -18,7 +18,7 @@ Tags :: #type
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Starter👇\|Starter👇]] : [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]]
-[[CARDS/Depth Psychology Theory/Guardian 💂‍♂️\|Guardian 💂‍♂️]]  : [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]] | [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] 
+[[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]  : [[CARDS/Depth Psychology Theory/Concrete👁️\|Concrete👁️]] | [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] 
 
 ## Virtu & Vice
 [[Care\|Care]] | [[Guard\|Guard]] 
@@ -36,7 +36,7 @@ Tags :: #type
 
 ## Mentions 
 ctrl + schift + Q
-[[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
+[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 [[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
 [[EXTRAS/Templates/TPL Function\|TPL Function]]
 [[EXTRAS/Templates/TPL Type\|TPL Type]]
