@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","noteIcon":"","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-21T14:25:33.711+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","noteIcon":"","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-21T20:02:04.052+02:00"}
 ---
 
 ## Type Grid
-[[CARDS/Depth Psychology Theory/Background👈\|Background👈]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]]
-[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] | [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] | [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]]
+[[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 ## Quadra & Functions
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] 
@@ -17,7 +17,7 @@
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]) : [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]
+[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]
 [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):   [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]
 
 ## Virtu & Vice
