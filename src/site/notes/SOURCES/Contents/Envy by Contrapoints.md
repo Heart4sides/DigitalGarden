@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","noteIcon":"","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-01-18T15:30:44.527+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","noteIcon":"","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-21T22:11:11.450+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Envy\|Envy]]
@@ -79,7 +79,7 @@ A 0 sum game where every moment of your happiness is bought with someone else's 
 ```timestamp 
  41:01
  ```
-Envy is decorrelated from #Te Status
+Envy is decorrelated from [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] Status
 ```timestamp 
  43:19
  ```
