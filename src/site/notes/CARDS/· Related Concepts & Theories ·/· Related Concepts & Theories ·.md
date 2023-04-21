@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-20T09:33:10.335+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-21T10:52:28.894+02:00"}
 ---
 
 
@@ -68,6 +68,7 @@
 - [[CARDS/· Related Concepts & Theories ·/popular\|popular]]
 - [[CARDS/· Related Concepts & Theories ·/Predict\|Predict]]
 - [[CARDS/· Related Concepts & Theories ·/predictability\|predictability]]
+- [[CARDS/· Related Concepts & Theories ·/Préoccupé\|Préoccupé]]
 - [[CARDS/· Related Concepts & Theories ·/Prepare\|Prepare]]
 - [[CARDS/· Related Concepts & Theories ·/Pretend\|Pretend]]
 - [[CARDS/· Related Concepts & Theories ·/Principle\|Principle]]
