@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-20T22:03:36.724+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","noteIcon":"","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-21T13:49:32.776+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
 
 ## Fe - TE
-[[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te Trickster 🤡\|Te Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
 Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so others can be free and i can finally be socially accepted as myself.
@@ -34,7 +34,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 Only help people to get credibility, which is a covert contract.
 
-[[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]]
 [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
 Learn to take all of the harm onto itself. Learn how to become the pariah and thus lead by example. All that with self-respect so you don't sacrifice yourself for others. The only way to break their conditioning is if you break your conditioning first. Established social norms may not be healthy. Slay these norms with Ti parent and take the fallout (pariah) for the benefit of others. I break the rules or the chains so that people can be free and I can finally be accepted as myself. Who cares if your feelings are accurate / valid / right / justified ? Be honest about what you feel, which invites criticism from the other party.
 
@@ -43,9 +43,9 @@ An eye for an eye leaved the whole world blind - and no one lives more by the "a
 Fi trickster if it doesn't articulate its feelings they bottle up and create Si bitterness which expresses itself first covertly and then lashes out / or Ni hopelessness. Ti teenager spends so much time thinking about how they can behave so their behaviour can be morally valid and acceptable.
 
 ## Ne - Se 
-[[CARDS/Depth Psychology Theory/Ne Parent 🤨\|Ne Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
+[[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne Trickster 🤡\|Ne Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne💧Trickster 🤡\|Ne💧Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]
 
