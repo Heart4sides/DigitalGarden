@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-20T23:13:31.274+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-21T21:42:36.734+02:00"}
 ---
 
-> [!Info]- Navigation 💠
-> [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]  #on/depthpsychology #on/philosophy 
-> 
-> [Begin Your Journey Here | C.S. Joseph](https://csjoseph.life/) 
-> [Ujda App - Typing Tool](https://www.udja.app/#/) 
-> [C.S. Joseph - YouTube](https://www.youtube.com/@CSJoseph) 
-> [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
+| MOC                                                             | Author      | Type                                            | Reference                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------- | ----------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | C.S. Joseph | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | <ul><li>[Begin Your Journey Here \\| C.S. Joseph](https://csjoseph.life/)</li><li>[Udja App - Typing Tool](https://www.udja.app/#/)</li><li>[CS Joseph - Youtube](https://www.youtube.com/@CSJoseph)</li><li>[CSJ Members Portal](https://offers.csjoseph.life/portal)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+
+
 
 
