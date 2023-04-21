@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-21T19:39:03.613+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-21T22:09:46.451+02:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 ## Mentions
 
  [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Parent\|Cognitive attitude of the Parent]] 
-- [ ] [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
+- [ ] [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 	- [ ] [[Skeptical\|Skeptical]]
 - [ ] [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 	- [ ] [[Gullible\|Gullible]]
