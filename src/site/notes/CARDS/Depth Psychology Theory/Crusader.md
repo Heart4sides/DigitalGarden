@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-21T14:25:45.302+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-21T15:31:23.666+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - Survivors
 	- Sacrifice for other's happiness
 	- Adversity & Hardship seen as ever present & to be endured
-- Faith ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]) in the truth ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]])
+- Faith ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]) in the truth ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]])
 - Cold as ice
 
 ## Types 
@@ -21,7 +21,7 @@
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; |   |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      |        |  
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
 ## Type Grid
 [[CARDS/Depth Psychology Theory/Interaction Style\|Interaction Style]] : 
