@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-21T15:31:21.423+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-21T19:46:45.315+02:00"}
 ---
 
 Ref ::
@@ -17,7 +17,7 @@ Analyse de Yves Leclerc :
 > "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
 > 
 > - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
-> - [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]] focus 
+> - [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] evaluation   
@@ -27,10 +27,10 @@ Analyse de Yves Leclerc :
 
 > Bovarysme selon Jules de Gaultier : "le pouvoir départi à l'homme de se concevoir autre qu'il n'est"
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] : sens de sa propre identité
-- [[CARDS/Depth Psychology Theory/Abstract💭\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
+- [[CARDS/Depth Psychology Theory/Abstract\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
-- [[CARDS/Depth Psychology Theory/Outcome⛳\|Outcome⛳]] focus 
+- [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] focus 
 
 "J'ai cette manie de bâtir de suite des livres sur les figures que je rencontre. Une invincible curiosité me fait me demander malgré moi quelle peut-être la vie du passant que je croise."
 - Ne - jouer avec les possibles 
