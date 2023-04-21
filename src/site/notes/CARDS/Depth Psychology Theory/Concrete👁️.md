@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-20T23:25:31.726+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-21T15:31:16.591+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Types sharing preference for[[CARDS/Depth Psychology Theory/Concrete👁️\|Con
 - [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
 
 ## Temple
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
