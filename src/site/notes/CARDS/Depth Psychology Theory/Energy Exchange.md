@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","noteIcon":"","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-04-20T21:07:46.025+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","noteIcon":"","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-04-20T23:08:04.610+02:00"}
 ---
 
-up :: [[ATLAS/MOC · Depth Psychology\|MOC · Depth Psychology]]
+up :: [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 ref :: 
 tags :: 
 
