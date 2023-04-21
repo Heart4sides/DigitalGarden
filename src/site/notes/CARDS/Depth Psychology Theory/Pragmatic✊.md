@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-19T18:39:01.192+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-20T23:24:04.889+02:00"}
 ---
 
 Vs [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
@@ -18,8 +18,8 @@ Vs [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affilia
 
 ## Types 
 Types sharing preference for [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]] : 
-- [[CARDS/Depth Psychology Theory/Artisan\|Artisan]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
-- [[CARDS/Depth Psychology Theory/Future-Thinker\|Future-Thinker]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
+- [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
+- [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
 
 ## Functions 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
