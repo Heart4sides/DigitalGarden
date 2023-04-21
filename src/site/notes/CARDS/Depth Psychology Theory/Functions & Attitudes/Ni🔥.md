@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T15:31:23.344+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T19:45:09.380+02:00"}
 ---
 
 
@@ -37,11 +37,11 @@
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🧗\|Progression🧗]] | [[CARDS/Depth Psychology Theory/Abstract💭\|Abstract💭]] 
+[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] | [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
@@ -53,7 +53,7 @@
 ctrl + schift + Q
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
-- [[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]]
+- [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]
 - [[EXTRAS/Templates/TPL Function\|TPL Function]]
 - [[EXTRAS/Templates/TPL Typing\|TPL Typing]]
 - [[CARDS/· Related Concepts & Theories ·/Intention\|Intention]]
