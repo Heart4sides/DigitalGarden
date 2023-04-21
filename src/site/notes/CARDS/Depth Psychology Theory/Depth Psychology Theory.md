@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T20:35:33.162+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T22:09:46.402+02:00"}
 ---
 
 
@@ -86,7 +86,8 @@
 - [[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi🔱Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
 - [[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]] [[CARDS/Depth Psychology Theory/Focus\|Focus]]
+- [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]]
+- [[CARDS/Depth Psychology Theory/Focus\|Focus]]
 - **Functions & Attitudes**
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
@@ -141,7 +142,7 @@
 - [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 - [[CARDS/Depth Psychology Theory/Matron\|Matron]]
-- [[CARDS/Depth Psychology Theory/Mature 🐢\|Mature 🐢]]
+[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]🐢]]
 - [[CARDS/Depth Psychology Theory/Mediocrity\|Mediocrity]]
 - [[CARDS/Depth Psychology Theory/Mid-life crisis\|Mid-life crisis]]
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
