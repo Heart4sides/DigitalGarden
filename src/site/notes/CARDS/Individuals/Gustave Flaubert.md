@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-21T13:49:24.924+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-21T15:31:21.423+02:00"}
 ---
 
 Ref ::
@@ -8,10 +8,10 @@ Ref ::
 
 Analyse de Yves Leclerc : 
 > [!quote] Yves Leclerc
-> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|disciplin]]e militaire."
+> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|disciplin]]e militaire."
 > 
 > - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
-> - Lack of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]] endurence
+> - Lack of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] endurence
 
 > [!quote] Yves Leclerc 
 > "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
