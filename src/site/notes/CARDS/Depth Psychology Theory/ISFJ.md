@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","noteIcon":"","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-21T13:49:33.097+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","noteIcon":"","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-21T14:25:34.428+02:00"}
 ---
 
 
