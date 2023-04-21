@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-20T23:18:43.263+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","noteIcon":"","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-21T13:47:02.838+02:00"}
 ---
 
 #type
 
 ## Quadra & Functions
-[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
+[[CARDS/Depth Psychology Theory/Crusader\|Crusader]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
+	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
 [[Wayfarer\|Wayfarer]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
