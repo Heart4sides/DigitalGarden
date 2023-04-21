@@ -11,7 +11,7 @@ Ref ::
 
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]]  #on/politics 
+> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
 > [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg)
 
  > [!Quote]- [[Olivier Faure\|Olivier Faure]]
@@ -56,7 +56,7 @@ collapse: closed
 
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC · Politics 🗺️\|MOC · Politics 🗺️]]  #on/politics 
+> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
 > [OLIVIER DUSSOPT FERA-T-IL UN JOUR CACA ? [J'suis pas content ! #373] - YouTube](https://www.youtube.com/watch?v=oMo0EMf5XCg)
 
  > [!Quote]- [[Olivier Faure\|Olivier Faure]]
