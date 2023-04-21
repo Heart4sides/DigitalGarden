@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T14:25:32.546+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T15:31:16.709+02:00"}
 ---
 
 
@@ -40,7 +40,8 @@
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
 - [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]
 - [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]]]
+- [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
+- [[CARDS/Depth Psychology Theory/Data\|Data]]
 - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 - [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]
 - [[CARDS/Depth Psychology Theory/Depth Psychology Authors\|Depth Psychology Authors]]
@@ -94,7 +95,7 @@
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 - [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]]
@@ -150,12 +151,12 @@
 - [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]
 - [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]
 - [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Ne💧Demon 😈\|Ne💧Demon 😈]]
+- [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]
 - [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
 - [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Ne💧Trickster 🤡\|Ne💧Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
 - [[CARDS/Depth Psychology Theory/Ni vs Si\|Ni vs Si]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]
