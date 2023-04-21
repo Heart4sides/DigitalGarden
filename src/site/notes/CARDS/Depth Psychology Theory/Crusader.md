@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-19T18:38:36.881+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-21T14:25:45.302+02:00"}
 ---
 
 
