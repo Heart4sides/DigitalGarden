@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T13:57:53.401+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T14:25:32.546+02:00"}
 ---
 
 
@@ -40,8 +40,7 @@
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
 - [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]
 - [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
-- [[CARDS/Depth Psychology Theory/Data\|Data]]
+- [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]]]
 - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 - [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]
 - [[CARDS/Depth Psychology Theory/Depth Psychology Authors\|Depth Psychology Authors]]
