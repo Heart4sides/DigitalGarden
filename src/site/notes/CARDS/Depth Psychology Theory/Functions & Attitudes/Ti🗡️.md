@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-20T22:34:52.832+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","noteIcon":"","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-21T13:49:27.336+02:00"}
 ---
 
 ## Keywords
@@ -30,14 +30,14 @@
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; | |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      |  |  
 
 ## Attitudes
-[[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Parent 🤨\|Ti Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti Child👼\|Ti Child👼]] | [[CARDS/Depth Psychology Theory/Ti Inferior 😨\|Ti Inferior 😨]]
+[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Hero 🦸‍♂️\|Ti🗡️Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]] | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|Ti🗡️Demon 😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]]
+[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 
 ## Type Grid 
