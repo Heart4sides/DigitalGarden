@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-20T23:05:13.076+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-21T13:30:45.791+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -49,7 +49,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 >  - “intense bonheur” = aspiration vers le [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]  
 >  
 >  “mais tout de suite la responsabilité  vous arrive la meilleure preuve c'est  que aussitôt proclamé par le journal de  20 heures que je reçois un appel d'Angela Merkel de Barack Obama David Cameron est donc ça y est c'est déjà les  premières déclarations que je dois faire” 
->  - FH lie la responsabilité au fait d’être [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|affiliative]]ment relié à des personnes importantes  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]  [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]
+>  - FH lie la responsabilité au fait d’être [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|affiliative]]ment relié à des personnes importantes  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]  [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
 >  - “Je dois” [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
 >  - [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  
 >  
