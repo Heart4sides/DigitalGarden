@@ -1,6 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-21T13:30:43.776+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-21T21:56:44.964+02:00"}
 ---
+
+| MOC                                                             | Author                                                                                                                        | Type                                                                                                                        | Reference                                                 |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | <ul><li>[[CARDS/Individuals/Chris Taylor.md\\|Chris Taylor]]</li><li>[[CARDS/Individuals/CS Joseph.md\\|CS Joseph]]</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/ENFP.md\\|ENFP]]</li><li>[[CARDS/Depth Psychology Theory/ENTP.md\\|ENTP]]</li></ul> | [CSJ Members Portal](https://offers.csjoseph.life/portal) |
+
 
 
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
