@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-20T22:34:43.030+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-21T13:46:42.704+02:00"}
 ---
 
 
-The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]. 
+The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
 It is the strongest function of our stack along with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon]]. 
 It has an infinite amount of energy. 
 It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior]]. 
@@ -21,7 +21,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior 😨\|I
 
 [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti Hero 🦸‍♂️\|Ti Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Hero 🦸‍♂️\|Ti🗡️Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
 ## Axis, Orbit, Reflect
 
