@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","noteIcon":"","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-20T21:07:45.522+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","noteIcon":"","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-20T23:07:47.582+02:00"}
 ---
 
-up :: [[ATLAS/MOC · Psychology 🗺️\|MOC · Psychology 🗺️]] 
+up :: [[ATLAS/MOC 🗺️ Psychology\|MOC 🗺️ Psychology]] 
 ref :: [[CARDS/Individuals/CS Joseph\|CS Joseph]]
 
 [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] 
