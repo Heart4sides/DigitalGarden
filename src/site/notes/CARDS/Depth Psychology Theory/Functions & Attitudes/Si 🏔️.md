@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","noteIcon":"","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-20T22:35:54.955+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","noteIcon":"","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-21T13:26:14.377+02:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; |  |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      | [[CARDS/Depth Psychology Theory/INFP\|INFP]]       |  
 
 ## Attitudes
-[[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]
+[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]] | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Si⛰️Nemesis😟\|Si⛰️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|Si⛰️Critic🤔]] | [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]] | [[CARDS/Depth Psychology Theory/Si⛰️Demon😈\|Si⛰️Demon😈]]
