@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-21T13:49:51.000+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","noteIcon":"","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-21T14:25:33.154+02:00"}
 ---
 
 Tags :: #type 
