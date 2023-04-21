@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-20T23:25:34.990+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-21T13:49:23.700+02:00"}
 ---
 
 
@@ -14,9 +14,9 @@
 All Philosophers are[[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]]
 
 # Cognitive Functions
-| [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]  | →   | [[👤\|👤]] | →   | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]] |
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]  | →   | [[👤\|👤]] | →   | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] |
 | ------------- | --- | ------------- | --- | ------------- | --- | ------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te 🏹\|Te 🏹]] |  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]|     |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]| | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] |  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]|     |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]| | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]   |  |[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] |     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] |     |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si 🏔️\|Si 🏔️]]     |
 
 ## Virtu & Vice
