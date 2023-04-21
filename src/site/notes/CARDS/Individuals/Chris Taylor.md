@@ -4,12 +4,11 @@
 
 #on/depthpsychology 
 
-| File                                                                                                                               | Ref                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[What Role Can 4 Sides Play In Education - Chris Taylor\|What Role Can 4 Sides Play In Education - Chris Taylor]]              | [What Role Can 4 Sides Play In Education? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=qi1bNXHJ6Sc&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=2) |
-| [[SOURCES/Type Theory by CSJ/4 sides/Octogram - Chris Taylor\|Octogram - Chris Taylor]]                                         | [What is Octagram? \| Season 34, Ep. 1 \| CS Joseph - YouTube](https://youtu.be/mB0tLRRTrao)                                                                    |
-| [[SOURCES/Contents/Growth Tracking · Chris Taylor\|Growth Tracking · Chris Taylor]]                                             | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)                             |
-| [[SOURCES/Contents/Are Mature and Happy Really Opposites - Chris Taylor\|Are Mature and Happy Really Opposites - Chris Taylor]] | [Are Mature and Happy Really Opposites? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=a334QVG4AWo&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=3)   |
+| File                                                                                                                  | Ref                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[What Role Can 4 Sides Play In Education - Chris Taylor\|What Role Can 4 Sides Play In Education - Chris Taylor]] | [What Role Can 4 Sides Play In Education? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=qi1bNXHJ6Sc&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=2) |
+| [[SOURCES/Type Theory by CSJ/4 sides/Octogram - Chris Taylor\|Octogram - Chris Taylor]]                            | [What is Octagram? \| Season 34, Ep. 1 \| CS Joseph - YouTube](https://youtu.be/mB0tLRRTrao)                                                                    |
+| [[SOURCES/Contents/Growth Tracking · Chris Taylor\|Growth Tracking · Chris Taylor]]                                | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)                             |
 
 
 # Comments 
