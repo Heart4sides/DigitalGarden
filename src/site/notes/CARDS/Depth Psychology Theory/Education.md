@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-19T18:39:00.510+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-21T13:30:44.327+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 - [[CARDS/Depth Psychology Theory/Affiliative👨‍👩‍👧‍👦\|Affiliative👨‍👩‍👧‍👦]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic✊\|Pragmatic✊]]
 - [[CARDS/Depth Psychology Theory/Systematic🔧\|Systematic🔧]] ?
 - [[Templars\|Templars]] : teach, mentor & counsel
-- [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]] function 
+- [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] function 
 - [[EXTRAS/Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 - Education = provide the <mark style="background: #BBFABBA6;">foundational</mark> tools so that <mark style="background: #ADCCFFA6;">independent</mark> learning <mark style="background: #ABF7F7A6;">becomes</mark> possible for <mark style="background: #FFF3A3A6;">one's life</mark>.
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
