@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-20T22:34:41.379+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-20T23:08:04.344+02:00"}
 ---
 
 #on/psychology
 
-# [[ATLAS/MOC · Depth Psychology\|Depth Psychology Theory]]
+# [[ATLAS/MOC 🗺️ Depth Psychology\|Depth Psychology Theory]]
 
 [How Does Initiating Compare To Responding? | Initiating Vs. Responding | CS Joseph - YouTube](https://www.youtube.com/watch?v=4mOpzAXFrK8)
 
