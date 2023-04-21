@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-20T22:34:44.337+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking-chris-taylor/","noteIcon":"","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-21T13:30:45.694+02:00"}
 ---
 
 #on/depthpsychology 
 Ref :: [Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)
 
-|    ➕    | [[CARDS/Depth Psychology Theory/Ego 🙋‍♂️\|Ego 🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]            |
+|    ➕    | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]            |
 | ---------------- | ------------- | -------------- |
 |  🔗                | [[Origin\|Origin]]    | [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]    |
 | Theme            | Alignment     | Exchange     |
 | [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] | Flexibility    |
-| [[CARDS/Depth Psychology Theory/Parent 🤨\|Parent 🤨]]    | [[Anchor\|Anchor]]    | Freedom        |
+| [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]    | [[Anchor\|Anchor]]    | Freedom        |
 | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]     | Rest          | Diligence      |
 | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]  | Vulnerability | Happiness      |
 
