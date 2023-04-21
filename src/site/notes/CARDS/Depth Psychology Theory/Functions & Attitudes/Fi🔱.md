@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T15:25:41.142+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T19:51:22.595+02:00"}
 ---
 
 
@@ -39,12 +39,12 @@
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
-[[CARDS/Depth Psychology Theory/🔄 Orbit\|🔄 Orbit]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
+[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Interaction Style\|Interaction Style]]  : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
-[[CARDS/Depth Psychology Theory/Temperament\|Temperament]]  : [[CARDS/Depth Psychology Theory/Interest🤝\|Interest🤝]] 
+[[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]  : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
+[[CARDS/Depth Psychology Theory/Temperament\|Temperament]]  : [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
