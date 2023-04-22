@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","noteIcon":"","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-21T22:09:46.402+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-22T10:55:52.745+02:00"}
 ---
 
 
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
-- [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
-- [[CARDS/Depth Psychology Theory/Abstract\|Abstract]]
+- [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]]
 - [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]
 - [[CARDS/Depth Psychology Theory/Adolescence\|Adolescence]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
@@ -18,6 +17,7 @@
 - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
 - [[CARDS/Depth Psychology Theory/Authentic\|Authentic]]
 - [[CARDS/Depth Psychology Theory/Authority\|Authority]]
+- [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]
 - [[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]]
 - [[CARDS/Depth Psychology Theory/Battleground of Inhibition\|Battleground of Inhibition]]
 - [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]]
@@ -78,6 +78,7 @@
 - [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]]
+- [[CARDS/Depth Psychology Theory/Fe💫Fi💕\|Fe💫Fi💕]]
 - [[CARDS/Depth Psychology Theory/Fi Demon 😈\|Fi Demon 😈]]
 - [[CARDS/Depth Psychology Theory/Fi Nemesis 😟\|Fi Nemesis 😟]]
 - [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]]
@@ -142,7 +143,7 @@
 - [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 - [[CARDS/Depth Psychology Theory/Matron\|Matron]]
-[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]🐢]]
+- [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 - [[CARDS/Depth Psychology Theory/Mediocrity\|Mediocrity]]
 - [[CARDS/Depth Psychology Theory/Mid-life crisis\|Mid-life crisis]]
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
@@ -199,6 +200,8 @@
 - [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
+- [[CARDS/Depth Psychology Theory/Se💫Si🪁\|Se💫Si🪁]]
+- [[CARDS/Depth Psychology Theory/Self🌓\|Self🌓]]
 - [[CARDS/Depth Psychology Theory/Servility\|Servility]]
 - [[CARDS/Depth Psychology Theory/SF\|SF]]
 - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
@@ -230,6 +233,7 @@
 - [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
+- [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
 - [[CARDS/Depth Psychology Theory/Temperament\|Temperament]]
 - [[CARDS/Depth Psychology Theory/Templar\|Templar]]
 - [[CARDS/Depth Psychology Theory/The Cognitive Battlegrounds\|The Cognitive Battlegrounds]]
