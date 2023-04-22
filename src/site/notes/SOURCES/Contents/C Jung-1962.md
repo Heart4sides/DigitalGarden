@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/c-jung-1962/","noteIcon":"","created":"2023-04-20T10:41:05.423+02:00","updated":"2023-04-20T10:55:57.128+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/c-jung-1962/","created":"2023-04-20T10:41:05.423+02:00","updated":"2023-04-20T10:55:57.128+02:00"}
 ---
 
 
