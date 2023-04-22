@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","noteIcon":"","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-20T23:05:12.192+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/tabibian-olivier-dussopt2023/","created":"2023-04-13T00:12:35.504+02:00","updated":"2023-04-20T23:05:12.192+02:00"}
 ---
 
 > [!Info]- Navigation 💠
