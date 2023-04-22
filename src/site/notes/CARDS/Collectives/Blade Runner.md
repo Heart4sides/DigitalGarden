@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/blade-runner/","noteIcon":"","created":"2022-12-13T22:16:55.804+01:00","updated":"2023-01-14T00:47:40.151+01:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/blade-runner/","created":"2022-12-13T22:16:55.804+01:00","updated":"2023-01-14T00:47:40.151+01:00"}
 ---
 
 [[ATLAS/Examples\|Examples]]
