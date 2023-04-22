@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T12:27:09.690+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T12:33:54.206+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -45,12 +45,10 @@ Ti:: “mais la pluie fait partie quand même de notre univers”
 Si:: **“et *moi quand j'ai reçu* des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”**
 
 Outcome:: “et ça fait  partie de ce que les saisons doivent produire” 
-- [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
 
-Se:: “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
-- [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
+Se:: “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”  
 
-“je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
+Crusader:: “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - la vie est un combat 
 
 > [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
 > “mais qui peut être une bénédiction pour certains sols” 
