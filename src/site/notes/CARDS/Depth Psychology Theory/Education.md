@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","noteIcon":"","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-21T19:41:40.073+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/education/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-21T19:41:40.073+02:00"}
 ---
 
 
