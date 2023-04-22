@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-21T19:41:41.822+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-21T19:41:41.822+02:00"}
 ---
 
 
