@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","noteIcon":"","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-18T15:00:04.433+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-18T15:00:04.433+02:00"}
 ---
 
 #on/education 
