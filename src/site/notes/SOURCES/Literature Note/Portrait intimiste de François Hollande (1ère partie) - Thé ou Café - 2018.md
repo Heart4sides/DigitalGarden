@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T12:39:35.666+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T12:47:28.582+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -17,13 +17,13 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 
 
 # Perception 
-| Introverted Sensing                                                                                                                                                                                 | Ne                                                                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️.md\\|Si⛰️]]</li><li>“et *moi quand j'ai reçu* des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧.md\\|Ne💧]]</li><li>“mais qui **peut être** une bénédiction pour certains sols”</li></ul> |
+| **Introverted Sensing**                                                                                                                                                                                                                          | **Extroverted Intuition**                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️.md\\|Si⛰️]]</li><li>“et **moi quand j'ai reçu** des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧.md\\|Ne💧]]</li><li>“mais qui **peut être** une bénédiction pour certains sols”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li></ul> |
 
-| Ni | Se                                                                                                                                                                                                                                                                                                                                         |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| \- | <ul><li>“on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat”</li><li>“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”</li></ul> |
+| Ni                                                                    | Se                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] | <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️.md\\|Se🌪️]]</li><li>“on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li><li>“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li></ul> |
 
 
 ## Judgement 
@@ -32,27 +32,29 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 | \-    |
 
 
-| Ti                                                      | Fe                                                          |
-| ------------------------------------------------------- | ----------------------------------------------------------- |
-| “mais la pluie fait partie quand même de notre univers” | “mais qui peut être **une bénédiction** pour certains sols” |
+| Ti                                                                                                                                                                                                    | Fe                                                                                                                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️.md\\|Ti🗡️]]</li><li>“mais la pluie fait partie quand même de notre univers”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉.md\\|Fe💉]]</li><li>“mais qui peut être **une bénédiction** pour certains sols”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li></ul> |
 
 
 # Quotes & Notes
 Si:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 Ne:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
-Ne:: “mais qui **peut être** une bénédiction pour certains sols” 
-Fe:: “mais qui peut être **une bénédiction** pour certains sols” 
-Se:: “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” 
-
-Ti:: “mais la pluie fait partie quand même de notre univers” 
-
-Si:: “et *moi quand j'ai reçu* des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”
-
-Outcome:: “et ça fait  partie de ce que les saisons doivent produire” 
-
-Se:: “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”  
-
-Crusader:: “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - la vie est un combat 
+Ni:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
+Se:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
+Fi:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
+Te:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
+Ti:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
+Fe:: [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
+> [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
+> Ne:: “mais qui **peut être** une bénédiction pour certains sols”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Fe:: “mais qui peut être **une bénédiction** pour certains sols”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Se:: “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Ti:: “mais la pluie fait partie quand même de notre univers”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Si:: “et **moi quand j'ai reçu** des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Outcome:: “et ça fait  partie de ce que les saisons doivent produire”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) 
+> Se:: “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)  
+> Crusader:: “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)  - la vie est un combat 
 
 > [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
 > “mais qui peut être une bénédiction pour certains sols” 
