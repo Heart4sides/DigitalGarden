@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","noteIcon":"","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-21T21:13:30.284+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-22T10:55:52.528+02:00"}
 ---
 
 
@@ -9,25 +9,25 @@
 	- Two way street
 	- One door is unconscious 
 - DC = direct current 
-- Transfer of [[information\|information]], stream of [[communication\|communication]]
+- Transfer of information, stream of [[communication\|communication]]
 - [[CARDS/· Related Concepts & Theories ·/Compensate\|compensation]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] is orbit between two psyches. 
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] users orbit themselves
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] users orbit others 
 
 ## Functions
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] : orbit between what I want and the consequences of what I want / my future and others' future
+- [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
+- [[CARDS/Depth Psychology Theory/Fe💫Fi💕\|Fe💫Fi💕]]
+- [[CARDS/Depth Psychology Theory/Se💫Si🪁\|Se💫Si🪁]]
+- [[CARDS/Depth Psychology Theory/Ne💫Ni♨️\|Ne💫Ni♨️]] : orbit between what I want and the consequences of what I want / my future and others' future
 
 ## 4 Sides 
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
-- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
+- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
 
 ## Temples 
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
-- [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|heart]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
+- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] 💫 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
+- [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|heart]] 💫 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
 
 ## Wikipedia
 
@@ -36,10 +36,6 @@
 > For most situations, orbital motion is adequately approximated by Newtonian mechanics, which explains gravity as a force obeying an inverse-square law. However, Albert Einstein's general theory of relativity, which accounts for gravity as due to curvature of spacetime, with orbits following geodesics, provides a more accurate calculation and understanding of the exact mechanics of orbital motion.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit)
-
-
-## A ajouter
-- [ ] vidéos cognitive orbit - member's area 
 
 [^1]: C.S.J "The 1st Orbit"
 
