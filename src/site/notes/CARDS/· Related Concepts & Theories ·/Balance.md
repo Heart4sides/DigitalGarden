@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/balance/","noteIcon":"","created":"2023-01-01T14:07:15.407+01:00","updated":"2023-04-20T20:09:56.302+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/balance/","created":"2023-01-01T14:07:15.407+01:00","updated":"2023-04-20T20:09:56.302+02:00"}
 ---
 
 
