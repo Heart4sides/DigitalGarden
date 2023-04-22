@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/anakin-skywalker/","noteIcon":"","created":"2023-04-21T11:13:37.019+02:00","updated":"2023-04-21T11:51:53.667+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/anakin-skywalker/","created":"2023-04-21T11:13:37.019+02:00","updated":"2023-04-21T11:51:53.667+02:00"}
 ---
 
 > [!Info] Navigation 💠
