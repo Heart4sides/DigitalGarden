@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-origin/","noteIcon":"","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-04-08T11:35:29.986+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-origin/","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-04-08T11:35:29.986+02:00"}
 ---
 
 
