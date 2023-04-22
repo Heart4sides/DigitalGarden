@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","noteIcon":"","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-04-20T13:27:04.484+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-04-20T13:27:04.484+02:00"}
 ---
 
 **Title:** La Langue de Zemmour  
