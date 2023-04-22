@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T11:40:47.143+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T12:27:09.690+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -14,13 +14,15 @@ Facebook : [Thé ou Café - Accueil | Facebook](https://www.facebook.com/theouca
 Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 
 # Dataview  
-| Si                                                                                                   | Ne                                                      |
-| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| **“et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”** | “mais qui peut être une bénédiction pour certains sols” |
 
-| Ni | Se                                                                                                                                          |
-| -- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| \- | “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” |
+## [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+| Si                                                                                                     | Ne                                                      |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| **“et *moi quand j'ai reçu* des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”** | “mais qui peut être une bénédiction pour certains sols” |
+
+| Ni | Se                                                                                                                                                                                                                                                                                                                                         |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| \- | <ul><li>“on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat”</li><li>“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”</li></ul> |
 
 | Fi-Te |
 | ----- |
@@ -40,17 +42,34 @@ Se:: “on dit mais vous avez préparé un  discours non c'est impossible de  
 
 Ti:: “mais la pluie fait partie quand même de notre univers” 
 
-Si:: **“et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”**
+Si:: **“et *moi quand j'ai reçu* des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”**
 
-“et ça fait  partie de ce que les saisons doivent produire” 
+Outcome:: “et ça fait  partie de ce que les saisons doivent produire” 
 - [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
 
-“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
+Se:: “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
 - [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
 
 “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
 
-
+> [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
+> “mais qui peut être une bénédiction pour certains sols” 
+> - “peut être” [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]  
+> - “une bénédiction pour” autrui [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] 
+> 
+>“mais la pluie fait partie quand même de notre univers” 
+> - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] fact 
+> 
+> “et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété” 
+> - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] [[Faith\|Faith]] (vs [[Fear\|Fear]])
+> 
+> “et ça fait  partie de ce que les saisons doivent produire” 
+> - [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
+> 
+> “il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
+> - [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
+> 
+> “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
 > [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
 > “mais qui peut être une bénédiction pour certains sols” 
 > - “peut être” [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]  
