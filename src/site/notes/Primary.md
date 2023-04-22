@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primary/","noteIcon":"","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-21T13:49:20.626+02:00"}
+{"dg-publish":true,"permalink":"/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-21T13:49:20.626+02:00"}
 ---
 
 #on/psychology 
