@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T19:45:09.380+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-22T09:43:21.422+02:00"}
 ---
 
 
@@ -36,12 +36,12 @@
 [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] | [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] 
+[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] | [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
