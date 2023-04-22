@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/fetichism/","noteIcon":"","created":"2023-01-18T14:23:29.121+01:00","updated":"2023-04-18T14:15:28.944+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/fetichism/","created":"2023-01-18T14:23:29.121+01:00","updated":"2023-04-18T14:15:28.944+02:00"}
 ---
 
 
