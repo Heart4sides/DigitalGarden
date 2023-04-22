@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/william-strauss-neil-howe-the-fourth-turning/","noteIcon":"","created":"2023-02-24T16:37:26.468+01:00","updated":"2023-04-20T12:41:44.077+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/william-strauss-neil-howe-the-fourth-turning/","created":"2023-02-24T16:37:26.468+01:00","updated":"2023-04-20T12:41:44.077+02:00"}
 ---
 
 **Title:** The Fourth Turning  
