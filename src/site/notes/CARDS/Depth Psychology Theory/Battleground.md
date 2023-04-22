@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-21T21:56:44.964+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-21T21:56:44.964+02:00"}
 ---
 
 | MOC                                                             | Author                                                                                                                        | Type                                                                                                                        | Reference                                                 |
