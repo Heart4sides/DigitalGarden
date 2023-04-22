@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depravity/","noteIcon":"","created":"2023-01-29T21:16:40.809+01:00","updated":"2023-04-10T10:45:42.273+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depravity/","created":"2023-01-29T21:16:40.809+01:00","updated":"2023-04-10T10:45:42.273+02:00"}
 ---
 
 
