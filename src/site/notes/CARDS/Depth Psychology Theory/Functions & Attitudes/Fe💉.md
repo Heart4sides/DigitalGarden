@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T22:09:47.131+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-22T09:43:21.205+02:00"}
 ---
 
 
@@ -62,7 +62,7 @@
 [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
 
