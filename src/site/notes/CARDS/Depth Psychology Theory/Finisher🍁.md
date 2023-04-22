@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","noteIcon":"","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-21T20:35:44.921+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-21T20:35:44.921+02:00"}
 ---
 
 
