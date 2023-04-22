@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","noteIcon":"","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-21T20:02:04.083+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-22T09:43:20.383+02:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]               | ➡️[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
-| ⬇️[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | ↘️ [[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]     |                     |
+| ⬇️[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | ↘️ [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
 | ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]==     |
 | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    |                   |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] |
 
