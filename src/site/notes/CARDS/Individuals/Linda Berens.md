@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/linda-berens/","noteIcon":"","created":"2023-03-08T17:12:35.459+01:00","updated":"2023-04-21T19:51:22.428+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/linda-berens/","created":"2023-03-08T17:12:35.459+01:00","updated":"2023-04-21T19:51:22.428+02:00"}
 ---
 
 #on/depthpsychology 
