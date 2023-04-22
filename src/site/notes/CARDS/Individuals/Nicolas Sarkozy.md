@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","noteIcon":"","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-04-21T09:38:45.960+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-04-21T09:38:45.960+02:00"}
 ---
 
 > [!Info]- Navigation 💠
