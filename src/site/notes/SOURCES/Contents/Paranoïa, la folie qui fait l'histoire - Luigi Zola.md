@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/paranoia-la-folie-qui-fait-l-histoire-luigi-zola/","noteIcon":"","created":"2022-12-20T15:48:11.728+01:00","updated":"2023-04-18T14:05:51.952+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/paranoia-la-folie-qui-fait-l-histoire-luigi-zola/","created":"2022-12-20T15:48:11.728+01:00","updated":"2023-04-18T14:05:51.952+02:00"}
 ---
 
 
