@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T13:21:57.433+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T13:22:36.905+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -12,7 +12,8 @@ Retrouvez nous :
 Site : [Thé ou Café - Replay et vidéos en streaming - France tv](https://www.france.tv/france-2/the-ou-cafe/)
 Facebook : [Thé ou Café - Accueil | Facebook](https://www.facebook.com/theoucafef2/)
 Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
-—
+
+---
 
 # Perception 
 | **Introverted Sensing⛰️**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **Extroverted Intuition💧**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -24,7 +25,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 | \-                        | <ul><li>“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li><li>“on dit mais vous avez préparé un  discours non c'est **impossible** de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” [2:20](https://www.youtube.com/watch?v=IYwLTmBnwKk&t=140s)</li></ul> |
 
 
-## Judgement 
+# Judgement 
 | Fi-Te |
 | ----- |
 | \-    |
@@ -35,7 +36,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 | “mais la pluie fait partie quand même de notre univers”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71) | <ul><li>“mais qui peut être **une bénédiction** pour certains sols”  [1:11](https://youtu.be/IYwLTmBnwKk?t=71)</li><li>“mais tout de suite la **responsabilité**  vous arrive la meilleure preuve c'est  que aussitôt proclamé par le journal de  20 heures que je reçois un appel d'Angela Merkel de Barack Obama David Cameron est donc ça y est c'est déjà les  premières déclarations que je dois faire” *lie la responsabilité au fait d’être [[Affiliative🐜\\|affiliative]]ment relié à des personnes importantes  [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]*</li><li>“il avait cette joie évidente  parce que c’est immense comme réussite  mais c'était contenu c'est pas quelqu'un  qui saute au plafond françois c'est quelqu'un **qui ne livre pas ses  sentiments de manière immédiate** bien au  contraire c'est à dire qu'il n'y a **pas d'excès ni dans les joies ni dans les  peines** dans ce qui montre il peut être  atteint par les situations humainement mais c’est quelqu’un qui est assez **impassible** d'un point du point de vue du visage” [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]]. *Hollande n’impose pas d’humeur sur autrui, ce qui indique une dévaluation du [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] (humeurs) et du [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] (montrer, imposer), ainsi qu’une préférence pour l’[[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] (ne pas choisir son rôle)*</li><li>“l’humour fait partie de la vie politique  et ça a été **déconsidéré**”  [6:00](https://youtu.be/IYwLTmBnwKk?t=361)</li></ul> |
 
 
-## Quadra 
+# Quadra 
 
 | crusader                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | templar | wayfarer | philosopher |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------- | ----------- |
