@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-21T21:42:36.734+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-04-21T21:42:36.734+02:00"}
 ---
 
 | MOC                                                             | Author      | Type                                            | Reference                                                                                                                                                                                                                                                                                                                                                                                                |
