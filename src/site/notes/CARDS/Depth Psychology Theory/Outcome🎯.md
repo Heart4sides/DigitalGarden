@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-21T20:02:05.062+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-22T09:42:58.491+02:00"}
 ---
 
 
@@ -36,7 +36,7 @@ VS [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] - [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]
 [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]] 
 
-Outcome = [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] + [[CARDS/Depth Psychology Theory/Judgement\|Judger]]
+Outcome = [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] + [[CARDS/Depth Psychology Theory/Judgement\|Judger]]
 
 ## Wordnik
 *noun*: An end result; a consequence. <i>synonym</i>: <strong> effect</strong>.
