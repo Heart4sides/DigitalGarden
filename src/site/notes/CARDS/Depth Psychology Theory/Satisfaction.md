@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","noteIcon":"","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-20T20:58:19.705+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-20T20:58:19.705+02:00"}
 ---
 
 
