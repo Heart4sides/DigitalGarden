@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-21T19:39:03.545+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-22T09:43:20.926+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
 [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] 
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
 [[CARDS/Depth Psychology Theory/Education\|Education]]
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
