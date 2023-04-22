@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-21T13:30:43.608+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-21T13:30:43.608+02:00"}
 ---
 
 #on/psychology
