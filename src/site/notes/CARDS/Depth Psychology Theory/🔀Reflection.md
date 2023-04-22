@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","noteIcon":"","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-21T19:39:03.707+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-21T19:39:03.707+02:00"}
 ---
 
 
