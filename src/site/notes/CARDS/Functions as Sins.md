@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/functions-as-sins/","noteIcon":"","created":"2023-04-05T01:34:17.207+02:00","updated":"2023-04-20T21:07:48.980+02:00"}
+{"dg-publish":true,"permalink":"/cards/functions-as-sins/","created":"2023-04-05T01:34:17.207+02:00","updated":"2023-04-20T21:07:48.980+02:00"}
 ---
 
 Ref :: 
