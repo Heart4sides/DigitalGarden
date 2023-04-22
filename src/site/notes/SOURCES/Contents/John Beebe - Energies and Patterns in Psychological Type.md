@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/john-beebe-energies-and-patterns-in-psychological-type/","noteIcon":"","created":"2023-02-24T16:35:12.967+01:00","updated":"2023-02-28T11:03:40.910+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/john-beebe-energies-and-patterns-in-psychological-type/","created":"2023-02-24T16:35:12.967+01:00","updated":"2023-02-28T11:03:40.910+01:00"}
 ---
 
 **Title:** Energies and Patterns in Psychological Type  
