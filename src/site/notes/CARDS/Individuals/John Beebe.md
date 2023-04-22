@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/john-beebe/","noteIcon":"","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-14T10:14:25.619+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/john-beebe/","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-14T10:14:25.619+02:00"}
 ---
 
 #on/depthpsychology 
