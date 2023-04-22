@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mediocrity/","noteIcon":"","created":"2023-01-18T15:10:32.904+01:00","updated":"2023-01-18T15:11:34.507+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mediocrity/","created":"2023-01-18T15:10:32.904+01:00","updated":"2023-01-18T15:11:34.507+01:00"}
 ---
 
 
