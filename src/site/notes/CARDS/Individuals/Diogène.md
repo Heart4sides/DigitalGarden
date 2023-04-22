@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/diogene/","noteIcon":"","created":"2023-04-08T17:30:42.290+02:00","updated":"2023-04-21T10:34:28.573+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/diogene/","created":"2023-04-08T17:30:42.290+02:00","updated":"2023-04-21T10:34:28.573+02:00"}
 ---
 
 > [!Info]- Navigation 💠
