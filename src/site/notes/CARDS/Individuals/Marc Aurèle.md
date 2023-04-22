@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/marc-aurele/","noteIcon":"","created":"2022-12-25T14:31:16.293+01:00","updated":"2023-04-20T10:08:58.735+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/marc-aurele/","created":"2022-12-25T14:31:16.293+01:00","updated":"2023-04-20T10:08:58.735+02:00"}
 ---
 
 up :: 
