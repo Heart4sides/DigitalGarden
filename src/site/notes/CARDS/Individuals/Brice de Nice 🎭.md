@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/brice-de-nice/","noteIcon":"","created":"2022-12-13T22:16:55.815+01:00","updated":"2023-04-21T13:49:33.286+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/brice-de-nice/","created":"2022-12-13T22:16:55.815+01:00","updated":"2023-04-21T13:49:33.286+02:00"}
 ---
 
 
