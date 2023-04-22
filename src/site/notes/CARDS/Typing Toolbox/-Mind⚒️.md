@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/mind/","noteIcon":"","created":"2023-04-14T09:30:08.631+02:00","updated":"2023-04-14T09:32:38.498+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/mind/","created":"2023-04-14T09:30:08.631+02:00","updated":"2023-04-14T09:32:38.498+02:00"}
 ---
 
 #on/depthpsychology 
