@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T19:51:22.595+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-22T09:43:21.264+02:00"}
 ---
 
 
@@ -38,7 +38,7 @@
 [[Fi 🔱 Nemesis\|Fi 🔱 Nemesis]] | [[Fi 🔱 Critic\|Fi 🔱 Critic]] | [[Fi 🔱 Trickster\|Fi 🔱 Trickster]] | [[Fi 🔱 Demon\|Fi 🔱 Demon]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 
