@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/type-grid/","noteIcon":"","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-21T19:46:44.151+02:00"}
+{"dg-publish":true,"permalink":"/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-22T09:42:55.166+02:00"}
 ---
 
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
@@ -10,7 +10,7 @@
 ![20190719_174701_IMG_1411.jpg](/img/user/EXTRAS/Images/20190719_174701_IMG_1411.jpg)
 
 ## Temperaments 
-- [[CARDS/Depth Psychology Theory/Abstract\|Abstract]] vs [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
+- [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] vs [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] vs [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] vs [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
 
