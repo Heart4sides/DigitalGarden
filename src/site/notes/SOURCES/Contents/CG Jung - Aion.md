@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","noteIcon":"","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-02-28T10:49:23.949+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-02-28T10:49:23.949+01:00"}
 ---
 
 **Title:** Aion  
