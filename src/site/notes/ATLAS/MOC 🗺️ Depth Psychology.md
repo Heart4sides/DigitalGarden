@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-21T20:35:32.773+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-22T09:43:17.723+02:00"}
 ---
 
 
@@ -34,7 +34,7 @@ LVL 4 - Typing Individuals
 [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 
 ## Temperaments 
-[[CARDS/Depth Psychology Theory/Abstract\|Abstract]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] | [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
+[[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] | [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
 
 ## Quadra 
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
@@ -49,4 +49,4 @@ LVL 4 - Typing Individuals
 [[SOURCES/Type Theory by CSJ/Relationships/Golden\|Golden]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Bronze\|Bronze]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred\|Kindred]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
 
 ### Internal 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
