@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-politics/","noteIcon":"","created":"2023-02-19T16:07:17.175+01:00","updated":"2023-04-21T09:34:41.502+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-politics/","created":"2023-02-19T16:07:17.175+01:00","updated":"2023-04-21T09:34:41.502+02:00"}
 ---
 
 > [!Info] Navigation 💠
