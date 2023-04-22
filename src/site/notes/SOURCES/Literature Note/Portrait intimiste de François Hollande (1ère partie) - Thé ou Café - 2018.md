@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","noteIcon":"","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-21T17:27:37.638+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-04-22T11:40:47.143+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -13,7 +13,43 @@ Site : [Thé ou Café - Replay et vidéos en streaming - France tv](https://www.
 Facebook : [Thé ou Café - Accueil | Facebook](https://www.facebook.com/theoucafef2/)
 Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 
+# Dataview  
+| Si                                                                                                   | Ne                                                      |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| **“et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”** | “mais qui peut être une bénédiction pour certains sols” |
+
+| Ni | Se                                                                                                                                          |
+| -- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| \- | “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” |
+
+| Fi-Te |
+| ----- |
+| \-    |
+
+
+| Ti                                                      | Fe                                                      |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| “mais la pluie fait partie quand même de notre univers” | “mais qui peut être une bénédiction pour certains sols” |
+
+
 # Quotes & Notes
+
+Ne:: “mais qui peut être une bénédiction pour certains sols” 
+Fe:: “mais qui peut être une bénédiction pour certains sols” 
+Se:: “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” 
+
+Ti:: “mais la pluie fait partie quand même de notre univers” 
+
+Si:: **“et moi quand j'ai reçu des  gouttes de pluie dès le premier jour je  ne m'en suis pas inquiété”**
+
+“et ça fait  partie de ce que les saisons doivent produire” 
+- [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]   
+
+“il faut rester stoïque montrer qu'on est insensible je ne veux pas dire imperméable car on ne l'est pas toujours  mais insensible montrer que rien ne nous atteint” 
+- [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] 
+
+“je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
+
 
 > [!quote]- [1:11](https://youtu.be/IYwLTmBnwKk?t=71) [[Hollande\|Hollande]] sur la pluie
 > “mais qui peut être une bénédiction pour certains sols” 
