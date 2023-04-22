@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","noteIcon":"","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-21T20:35:33.720+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-22T09:43:20.558+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 ## 4 sides  
 ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
 ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
-==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]== ([[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]]):   [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
+==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]== ([[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]):   [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
