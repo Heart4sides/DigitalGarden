@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/softlocking/","noteIcon":"","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-19T18:43:58.711+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/softlocking/","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-19T18:43:58.711+02:00"}
 ---
 
 [C.S. Joseph Member's Area](https://offers.csjoseph.life/portal) - “Softlocking” 
