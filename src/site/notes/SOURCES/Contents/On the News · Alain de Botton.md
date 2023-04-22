@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/on-the-news-alain-de-botton/","noteIcon":"","created":"2023-04-08T13:48:00.511+02:00","updated":"2023-04-18T12:42:19.821+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/on-the-news-alain-de-botton/","created":"2023-04-08T13:48:00.511+02:00","updated":"2023-04-18T12:42:19.821+02:00"}
 ---
 
 #on/politics #on/philosophy 
