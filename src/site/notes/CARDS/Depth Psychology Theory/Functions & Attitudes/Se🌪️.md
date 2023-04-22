@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","noteIcon":"","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-21T19:46:46.238+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-22T09:43:21.514+02:00"}
 ---
 
 Ref :: [Ujda App for Typing](https://www.udja.app/#/) 
@@ -35,7 +35,7 @@ Ref :: [Ujda App for Typing](https://www.udja.app/#/)
 [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]] | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]]
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] 
 
