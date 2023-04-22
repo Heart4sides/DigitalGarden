@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","noteIcon":"","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-21T20:35:34.596+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-22T09:43:21.597+02:00"}
 ---
 
 
@@ -57,7 +57,7 @@
 
 
 ## Relationships 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
 
