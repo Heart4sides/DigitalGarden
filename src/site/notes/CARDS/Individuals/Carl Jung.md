@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","noteIcon":"","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T23:07:47.834+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/carl-jung/","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-20T23:07:47.834+02:00"}
 ---
 
 #on/psychology #on/philosophy
