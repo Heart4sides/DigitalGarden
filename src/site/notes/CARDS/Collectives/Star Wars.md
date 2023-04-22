@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/star-wars/","noteIcon":"","created":"2022-12-13T22:16:55.809+01:00","updated":"2023-04-21T11:52:02.028+02:00"}
+{"dg-publish":true,"permalink":"/cards/collectives/star-wars/","created":"2022-12-13T22:16:55.809+01:00","updated":"2023-04-21T11:52:02.028+02:00"}
 ---
 
 > [!Info]- Navigation 💠
