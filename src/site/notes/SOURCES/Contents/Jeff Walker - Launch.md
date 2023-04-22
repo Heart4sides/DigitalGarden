@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/jeff-walker-launch/","noteIcon":"","created":"2023-02-24T19:30:57.648+01:00","updated":"2023-02-28T10:53:07.443+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/jeff-walker-launch/","created":"2023-02-24T19:30:57.648+01:00","updated":"2023-02-28T10:53:07.443+01:00"}
 ---
 
 **Title:** Launch  
