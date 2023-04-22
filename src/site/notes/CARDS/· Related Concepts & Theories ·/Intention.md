@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","noteIcon":"","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-18T12:42:19.505+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-18T12:42:19.505+02:00"}
 ---
 
 
