@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-21T22:09:46.451+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-22T09:43:20.961+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 
 ## Axis, Orbit, Reflect
 
-[[CARDS/Depth Psychology Theory/🧲 Axis\|🧲 Axis]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
 
