@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/educational-perennialism/","noteIcon":"","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-21T17:27:37.000+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/educational-perennialism/","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-21T17:27:37.000+02:00"}
 ---
 
 #on/education
