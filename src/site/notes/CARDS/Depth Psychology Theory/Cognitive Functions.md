@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","noteIcon":"","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-21T15:31:13.312+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-04-21T15:31:13.312+02:00"}
 ---
 
 
