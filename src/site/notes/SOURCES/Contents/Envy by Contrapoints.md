@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","noteIcon":"","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-21T22:11:11.450+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/envy-by-contrapoints/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-04-21T22:11:11.450+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Envy\|Envy]]
