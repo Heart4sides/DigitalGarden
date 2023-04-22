@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/te-child/","noteIcon":"","created":"2023-01-05T12:06:45.823+01:00","updated":"2023-04-21T13:49:24.121+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/te-child/","created":"2023-01-05T12:06:45.823+01:00","updated":"2023-04-21T13:49:24.121+02:00"}
 ---
 
 
