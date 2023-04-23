@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-23T10:10:40.837+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-23T14:03:50.401+02:00"}
 ---
 
 ## Keywords
@@ -31,7 +31,7 @@
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Ti🗡️Hero 🦸‍♂️\|Ti🗡️Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]] | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]] | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|Ti🗡️Demon 😈]]
 
@@ -47,9 +47,14 @@
 ## Temple 
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
-## Dictionary
+# Mentions 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
 
+“all truths that are kept silent become poisonous” (Nietzsche, Thus Spoke Zarathustra) 
+
+</div></div>
+
+(see [[CARDS/Individuals/Nietzsche#^ohi3u\|Nietzsche#^ohi3u]])
