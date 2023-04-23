@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-22T10:55:52.745+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T08:59:03.925+02:00"}
 ---
 
 
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
-- [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]]
+- [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]
 - [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]
 - [[CARDS/Depth Psychology Theory/Adolescence\|Adolescence]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
@@ -18,7 +18,7 @@
 - [[CARDS/Depth Psychology Theory/Authentic\|Authentic]]
 - [[CARDS/Depth Psychology Theory/Authority\|Authority]]
 - [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]
-- [[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]]
+- [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]
 - [[CARDS/Depth Psychology Theory/Battleground of Inhibition\|Battleground of Inhibition]]
 - [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]]
 - [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]]
@@ -87,7 +87,7 @@
 - [[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi🔱Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
 - [[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]]
+- [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]
 - [[CARDS/Depth Psychology Theory/Focus\|Focus]]
 - **Functions & Attitudes**
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
@@ -218,9 +218,9 @@
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]
 - [[CARDS/Depth Psychology Theory/Softlocking\|Softlocking]]
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-- [[CARDS/Depth Psychology Theory/Starter🌱\|Starter🌱]]
+- [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]]
 - [[CARDS/Depth Psychology Theory/Streamline\|Streamline]]
-- [[CARDS/Depth Psychology Theory/Structure🌻\|Structure🌻]]
+- [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]
 - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
 - [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
