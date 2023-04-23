@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-21T13:30:46.958+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-23T13:34:13.469+02:00"}
 ---
 
 
 - [[Consciousness\|Consciousness]]
 - theme : [[alignement\|alignement]]
-- [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] 
+- [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] : [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - Attitude : [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
