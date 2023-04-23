@@ -18,7 +18,7 @@
 | [[CARDS/Individuals/Kant\|Kant]]                         | INTP                                            | \-                                                                                                                                         |
 | [[CARDS/Individuals/Linda Berens\|Linda Berens]]         | \-                                              | [Home](https://lindaberens.com/) \| [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Understanding Yourself and Others]]              |
 | [[CARDS/Individuals/Monsieur Phi\|Monsieur Phi]]         | \-                                              | \-                                                                                                                                         |
-| [[CARDS/Individuals/Nietzsche\|Nietzsche]]               | INTJ                                            | [https://csjoseph.life/](https://csjoseph.life/nietzsches-insight-for-ni-and-si-users/)nietzsches-insight-for-ni-and-si-users              |
+| [[CARDS/Individuals/Nietzsche\|Nietzsche]]               | INTJ                                            | [Nietzsches insight for Ni and Si users \| C.S. Joseph](https://csjoseph.life/nietzsches-insight-for-ni-and-si-users/)                     |
 
 
 
