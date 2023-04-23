@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-18T12:42:19.505+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-23T15:15:40.016+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Child\|Cognitive attitude of the Child]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Demon\|Cognitive attitude of the Demon]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Trickster\|Cognitive attitude of the Trickster]]
-- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] 
+- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se🌠\|Ni-Se🌠]] 
 - [[SOURCES/Type Theory by CSJ/Temples/Soul Temple/Soul Temple General/Soul Temple Origins\|Soul Temple Origins]]
 
 ## Wordnik
@@ -63,7 +63,7 @@ intend
 >
 > The term "intention" refers to a group of related phenomena. For this reason, theorists often distinguish various types of intentions in order to avoid misunderstandings. The most-discussed distinction is that between prospective and immediate intentions. Prospective intentions, also known as "prior intentions", involve plans for the future. They can be subdivided according to how far they plan ahead: proximal intentions involve plans for what one wants to do straightaway whereas distal intentions are concerned with a more remote future. Immediate intentions, on the other hand, are intentions that guide the agent while they are performing the action in question. They are also called  "intentions-in-action" or "act-related" intentions. The term "intention" usually refers to anticipated means or ends that motivate the agent. But in some cases, it can refer to anticipated side-effects that are neither means nor ends to the agent. In this case, the term "oblique intention" is sometimes used. Intentions are rationally evaluable: they are either rational or irrational. Conscious intentions are the paradigmatic form of intention: in them, the agent is aware of their goals. But it has been suggested that actions can also be guided by unconscious intentions of which the agent is not aware.
 >
-> The formation of intentions is sometimes preceded by the deliberation of promising alternative courses of action and may happen in decisions, in which the agent chooses between these alternatives. Intentions are responsible for [[CARDS/Depth Psychology Theory/Initiative\|initiating]], sustaining, and terminating actions and are frequently used to explain why people engage in a certain behavior. Understanding the behavior of others in terms of intentions already happens in early childhood. Important in this context is the role of gestures, pointing, attention, and eye movement to understand the intentions of others and to form shared intentions. In the philosophy of action, a central question is whether it is true for all intentional actions that they are caused or accompanied by intentions. The theory of reasoned action aims to predict behavior based on how pre-existing [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] and subjective norms determine behavioral intentions. In [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|ethics]], the intention principle states that whether an action is morally permissible sometimes depends on the agent's intention for performing this action.
+> The formation of intentions is sometimes preceded by the deliberation of promising alternative courses of action and may happen in decisions, in which the agent chooses between these alternatives. Intentions are responsible for [[CARDS/Depth Psychology Theory/Initiative\|initiating]], sustaining, and terminating actions and are frequently used to explain why people engage in a certain behavior. Understanding the behavior of others in terms of intentions already happens in early childhood. Important in this context is the role of gestures, pointing, attention, and eye movement to understand the intentions of others and to form shared intentions. In the philosophy of action, a central question is whether it is true for all intentional actions that they are caused or accompanied by intentions. The theory of reasoned action aims to predict behavior based on how pre-existing [[CARDS/Depth Psychology Theory/Attitudes\|Attitudes]] and subjective norms determine behavioral intentions. In [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|ethics]], the intention principle states that whether an action is morally permissible sometimes depends on the agent's intention for performing this action.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Intention)
 
