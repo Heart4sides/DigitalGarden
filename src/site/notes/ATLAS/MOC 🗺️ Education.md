@@ -8,7 +8,7 @@
 
 
 
-Education, n. That which discloses to the wise and disguises from the foolish their lack of understanding.  ([[CARDS/Individuals/Ambrose Bierce\|Ambrose Bierce]], 
+Education, n. That which discloses to the wise and disguises from the foolish their lack of understanding.  ([[CARDS/Individuals/Ambrose Bierce\|Ambrose Bierce]], 1911) 
 
 </div></div>
 
