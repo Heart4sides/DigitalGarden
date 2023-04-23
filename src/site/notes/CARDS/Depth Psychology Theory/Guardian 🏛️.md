@@ -3,7 +3,7 @@
 ---
 
 > [!Info]- Navigation 💠
-> [[Type Grid\|Type Grid]]  #on/politics 
+> [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]  #on/politics 
 > [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[Plato\|Plato]]
 
 # Types 
