@@ -9,4 +9,4 @@ Fishing & growing ideas on...
 - [[ATLAS/MOC 🗺️ Philosophy\|Philosophy]]  | #on/philosophy
 - [[ATLAS/MOC 🗺️ Politics\|Politics]] | #on/politics 
 
-The primary focus is on improving the quality of my understanding of [[CARDS/Depth Psychology Theory/depth psychology\|depth psychology]] following the trail of the [[CARDS/Individuals/CS Joseph\|CS Joseph]], [[CARDS/Individuals/C.G. Jung\|C.G. Jung]], [[CARDS/Individuals/John Beebe\|John Beebe]] as [[CARDS/· Related Concepts & Theories ·/Primary\|Primary]] preference, [[Secund\|secundary]] trails of many others. 
+The primary focus is on improving the quality of my understanding of [[CARDS/Depth Psychology Theory/depth psychology\|depth psychology]] following the trail of the [[CARDS/Individuals/CS Joseph\|CS Joseph]], [[CARDS/Individuals/C.G. Jung\|C.G. Jung]], [[CARDS/Individuals/John Beebe\|John Beebe]] as [[SOURCES/Type Theory by CSJ/Temples/Primary\|Primary]] preference, [[CARDS/Depth Psychology Theory/Secund\|secundary]] trails of many others. 
