@@ -1,25 +1,42 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-23T10:15:35.315+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-23T15:39:19.178+02:00"}
 ---
 
 
 # Authors 
-| File                                                  | References                                                                                                                                                                                                                                                                                                                                                                                               |
-| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | \-                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[Begin Your Journey Here \\| C.S. Joseph](https://csjoseph.life/)</li><li>[Udja App - Typing Tool](https://www.udja.app/#/)</li><li>[CS Joseph - Youtube](https://www.youtube.com/@CSJoseph)</li><li>[CSJ Members Portal](https://offers.csjoseph.life/portal)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
-| [[CARDS/Individuals/Dario Nardi\|Dario Nardi]]     | <ul><li>[Home](http://www.darionardi.com/vpc.html)</li><li>[[SOURCES/Contents/Dario Nardi - Neuroscience of Personality.md\\|Neuroscience of Personality]]</li></ul>                                                                                                                                                                                                                                     |
-| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [David West Keirsey, How to Learn: Practice with Immediate Feedback - YouTube](https://www.youtube.com/watch?v=5rmaCTaSNqM&list=PLyeRkAWZDJZsWrueU5rPPIsAURrZ47t-j)                                                                                                                                                                                                                                      |
-| [[CARDS/Individuals/John Beebe\|John Beebe]]       | \-                                                                                                                                                                                                                                                                                                                                                                                                       |
-| [[CARDS/Individuals/John Bodine\|John Bodine]]     | [John Bodine, Author at C.S. Joseph](https://csjoseph.life/author/john/)                                                                                                                                                                                                                                                                                                                                 |
-| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [Home](https://lindaberens.com/) \| [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Understanding Yourself and Others]]                                                                                                                                                                                                                                                                            |
+| File                                                  | Concepts                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[CARDS/Depth Psychology Theory/Attitudes.md\\|Attitudes]]</li><li>[[CARDS/Depth Psychology Theory/Shadow 👤.md\\|Shadow 👤]]</li><li>[[Integration\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[CARDS/Depth Psychology Theory/Guidance Function.md\\|Guidance Function]]</li><li>[[CARDS/Depth Psychology Theory/Gateway Function.md\\|Gateway Function]]</li></ul>                                                                                                         |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind ➕.md\\|4 sides of the Mind ➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[Temple.md\\|Temple]]</li><li>[[CARDS/Depth Psychology Theory/Octogram.md\\|Octogram]]</li></ul>                                                                                |
+| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                                                                              |
+| [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[CARDS/Depth Psychology Theory/Attitudes.md\\|Attitudes]]</li></ul>                                                                                                                                                                                          |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                                                                             |
+| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                                                                  |
 
 
 # Attitudes
-[[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] | [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]] | [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] | [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
+
+|     | Attitude        | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]          |
+| --- | --------------- | ------------------- | ------------------- | ------------------- | ----------------- |
+| 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]  | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] |
+| 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]]    | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]    |[[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]                    |
+| 3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]     | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]     | [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]     | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]     |[[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]                    |
+| 4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]  | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]  | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]                   |
+| 5[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]   | [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]   |[[CARDS/Depth Psychology Theory/Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]  |
+| 6[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]   | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]    | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]]    | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]    | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]]    | [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|Si⛰️Critic🤔]]                   |
+| 7[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]] |[[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]     |
+| 8[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]     | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]     | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]     | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]     | [[CARDS/Depth Psychology Theory/Si⛰️Demon😈\|Si⛰️Demon😈]]                   |
+
 
 ## 4 sides of the Mind
-[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
+| -------------- | ------------------ | ------------------- |
+| -              | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | -                   |
+| [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
+| ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]==     |
+| -               |                   |  -                   |
+
 
 # Types by Temperament & Interaction Style
 
@@ -45,11 +62,6 @@
 | EN**             | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]                  | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]                 | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]                 | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]                  |
 
 
-
-## Temples 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
-[[SOURCES/Type Theory by CSJ/Mechanics/Temple Wheels\|Temple Wheels]]
-
 ## Relationships 
 ### External : 
 [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] | [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]] 
@@ -57,3 +69,26 @@
 
 ### Internal 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+
+# Temple 
+
+| [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
+| --- | ------------------ | ------------------ | ------------- |
+|[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|1💧]] [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|2🧭]]          | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|7🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|8🗡️]]              | 
+|[[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |  [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|5💧]] [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|4🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|3🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|8💧]] [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|1🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|2🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] |[[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|4💧]] [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|5🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|6🗡️]]             | 
+
+| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
+| ------------------- | ------------------- | ------------------- | ------------------- |
+| [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]            | [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|5🔥]] [[CARDS/Depth Psychology Theory/Fe💉Child👼\|3💉]]  | [[CARDS/Depth Psychology Theory/INTP\|INTP]]            | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|3⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|5🏹]]   | 
+| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]            | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|1🔥]] [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|7💉]]| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]            | [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|7⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|1🏹]] |
+| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]            | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|4🔥]] [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|6💉]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]            | [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|6⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|4🏹]]  |
+| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]            | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|8🔥]] [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|2💉]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]            | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|2⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|8🏹]] |
+
+
+
+
+
+
+
