@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-23T11:02:57.462+02:00"}
+{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-23T20:38:18.975+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -74,7 +74,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 
 > [!quote]-  [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]] sur  [[François Hollande\|Hollande]]
 >  “il avait cette joie évidente  parce que c’est immense comme réussite  mais c'était contenu c'est pas quelqu'un  qui saute au plafond françois c'est quelqu'un qui ne livre pas ses  sentiments de manière immédiate bien au  contraire c'est à dire qu'il n'y a pas d'excès ni dans les joies ni dans les  peines dans ce qui montre il peut être  atteint par les situations humainement mais c’est quelqu’un qui est assez impassible d'un point du point de vue du visage”  
->  - [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] faible, [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] faible 
+>  - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] faible, [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] faible 
 >  
 >   “moi ce que j'ai appris de lui c'est que  cette force intérieure elle est immense  et inébranlable associé à une santé  quand même de fer cad que la  fatigue se ressent assez peu chez lui  il est capable de battre des dizaines  d'heures de travail il sait qu'il est très  bon et que s'il a fait parfois des  erreurs dans l'exercice de ce pouvoir là  il peut les analyser il ne le dira pas  forcément mais il sait très bien je  crois où ça a pu pêcher si ça a péché” 
 >   - Eloge du [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
