@@ -32,7 +32,7 @@
 | [[CARDS/Collectives/Before Midnight\|Before Midnight]]                 | \-                           | \-        | <ul><li>#Heart</li><li>#topublish</li><li>#examples</li></ul> |
 | [[CARDS/Collectives/Blade Runner\|Blade Runner]]                       | ISTP                         | \-        | <ul><li>#examples</li></ul>                                   |
 | [[CARDS/Collectives/Glass Onion\|Glass Onion]]                         | \-                           | \-        | <ul><li>#interest</li></ul>                                   |
-| [[CARDS/Collectives/Good Will Hunting\|Good Will Hunting]]             | INFJ, INFP                   | \-        | <ul><li>#topublish</li><li>#examples</li></ul>                |
+| [[CARDS/Collectives/Good Will Hunting\|Good Will Hunting]]             | INFJ, INFP                   | \-        | <ul><li>#on/education</li><li>#examples</li></ul>             |
 | [[CARDS/Collectives/Johnny English\|Johnny English]]                   | INTJ, ISFJ                   | \-        | <ul><li>#examples</li></ul>                                   |
 | [[CARDS/Collectives/Kill Bill\|Kill Bill]]                             | INTJ, ENTP                   | \-        | <ul><li>#examples</li></ul>                                   |
 | [[CARDS/Collectives/L'idiot\|L'idiot]]                                 | \-                           | \-        | <ul></ul>                                                     |
