@@ -9,4 +9,4 @@ Meaning the person is currently favoring his [[CARDS/Depth Psychology Theory/Sub
 
 Attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 
-[[Primary\|Primary]] preference of the mind. 
+[[SOURCES/Type Theory by CSJ/Temples/Primary\|Primary]] preference of the mind. 
