@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-23T14:08:35.362+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-23T20:11:51.903+02:00"}
 ---
 
 
@@ -46,7 +46,7 @@
 
 ## Dictionary
 - IPOF : [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
-- [[CARDS/Depth Psychology Theory/Education\|Education]]
+- [[SOURCES/Contents/Education x Typology\|Education x Typology]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] (mirror)
 - [[skill\|Skill]]
