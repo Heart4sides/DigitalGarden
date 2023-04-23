@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-23T14:03:49.980+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-23T16:01:53.647+02:00"}
 ---
 
 ## Type Grid
@@ -18,7 +18,7 @@
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]
-[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] ([[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]):   [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]
+[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] ([[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]):   [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Apathy\|Apathy]] [[CARDS/Depth Psychology Theory/Attention\|Attention]] 
