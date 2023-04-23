@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-21T19:41:40.959+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-22T19:50:49.437+02:00"}
 ---
 
-Tags :: #on/philosophy #on/politics 
+#on/philosophy #on/politics 
+
 ## Contrapoints' Type
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
 	- [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
