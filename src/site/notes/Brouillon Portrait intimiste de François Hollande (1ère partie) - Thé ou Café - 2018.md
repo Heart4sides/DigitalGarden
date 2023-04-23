@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-22T12:45:30.490+02:00"}
+{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-23T11:02:57.462+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -62,7 +62,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 >  - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] 
 >  
 >  “il ya un moment d'intense bonheur d'être ainsi choisi par les  français de fierté pour la  responsabilité qu'ils me confient” 
->  - “intense bonheur” = aspiration vers le [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]]  
+>  - “intense bonheur” = aspiration vers le [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]  
 >  
 >  “mais tout de suite la responsabilité  vous arrive la meilleure preuve c'est  que aussitôt proclamé par le journal de  20 heures que je reçois un appel d'Angela Merkel de Barack Obama David Cameron est donc ça y est c'est déjà les  premières déclarations que je dois faire” 
 >  - FH lie la responsabilité au fait d’être [[CARDS/Depth Psychology Theory/Affiliative🐜\|affiliative]]ment relié à des personnes importantes  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]  [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
