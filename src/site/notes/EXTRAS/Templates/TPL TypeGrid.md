@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extras/templates/tpl-type-grid/","created":"2023-04-08T09:47:40.259+02:00","updated":"2023-04-23T09:14:46.443+02:00"}
+{"dg-publish":true,"permalink":"/extras/templates/tpl-type-grid/","created":"2023-04-08T09:47:40.259+02:00","updated":"2023-04-23T09:38:53.813+02:00"}
 ---
 
 
