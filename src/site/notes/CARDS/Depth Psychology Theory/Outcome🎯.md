@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-23T08:56:42.444+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-23T14:00:06.015+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@ VS [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 
 ## Related Notes 
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]
-- [[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi Hero]] 
+- [[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi Hero]] 
 - [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te Hero]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] : IPOF
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] : IPOF
@@ -31,8 +31,8 @@ VS [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
 
 ## Functions
-[[CARDS/Depth Psychology Theory/Fi🔱Hero🦸‍♂️\|Fi🔱Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Fi🔱Inferior👶\|Fi🔱Inferior👶]]
+[[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]
 [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] - [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]
 [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]] 
 
