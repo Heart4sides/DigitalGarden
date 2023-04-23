@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-23T08:59:04.267+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-23T13:59:46.636+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 ==[[CARDS/Depth Psychology Theory/Quadra\|Quadra]]== : [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] 
 
 ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==
-[[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Fi🔱Child👼\|Fi🔱Child👼]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
+[[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
 
 ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== 
 [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
