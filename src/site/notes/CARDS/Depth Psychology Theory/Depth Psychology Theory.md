@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T20:11:30.601+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T20:57:24.707+02:00"}
 ---
 
 
@@ -203,6 +203,7 @@
 - [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Se💫Si🪁\|Se💫Si🪁]]
+- [[CARDS/Depth Psychology Theory/Secund\|Secund]]
 - [[CARDS/Depth Psychology Theory/Self🌓\|Self🌓]]
 - [[CARDS/Depth Psychology Theory/Servility\|Servility]]
 - [[CARDS/Depth Psychology Theory/SF\|SF]]
@@ -252,6 +253,7 @@
 - [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
+- [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
 - [[CARDS/Depth Psychology Theory/UD\|UD]]
 - [[CARDS/Depth Psychology Theory/UF\|UF]]
 - [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
