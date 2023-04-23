@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-21T10:52:28.894+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-23T20:06:22.568+02:00"}
 ---
 
 
@@ -31,7 +31,6 @@
 - [[CARDS/· Related Concepts & Theories ·/diffidence\|diffidence]]
 - [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
 - [[CARDS/· Related Concepts & Theories ·/Dysphoria\|Dysphoria]]
-- [[CARDS/· Related Concepts & Theories ·/Educational perennialism\|Educational perennialism]]
 - [[CARDS/· Related Concepts & Theories ·/Endearing\|Endearing]]
 - [[CARDS/· Related Concepts & Theories ·/Expectation\|Expectation]]
 - [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]]
