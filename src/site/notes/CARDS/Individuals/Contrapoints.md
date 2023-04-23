@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-22T19:50:49.437+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-23T15:24:30.629+02:00"}
 ---
 
 #on/philosophy #on/politics 
@@ -9,8 +9,8 @@
 	- [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 	- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
 	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
-- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]] : "I love attention !"
-- [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe\|Ti-Fe]] : empathize with the person but still criticize  
+- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se🌠\|Ni-Se🌠]] : "I love attention !"
+- [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe⚕️\|Ti-Fe⚕️]] : empathize with the person but still criticize  
 - [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
 - [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
@@ -206,7 +206,7 @@ Why [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]] ? Because
 ![Pasted image 20230118010021.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010021.png)
 [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 ![Pasted image 20230118010038.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010038.png)
-[[SOURCES/Type Theory by CSJ/Functions/Ni-Se\|Ni-Se]]
+[[SOURCES/Type Theory by CSJ/Functions/Ni-Se🌠\|Ni-Se🌠]]
 ![Pasted image 20230118010112.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010112.png)
 [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
 ![Pasted image 20230118010128.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118010128.png)
