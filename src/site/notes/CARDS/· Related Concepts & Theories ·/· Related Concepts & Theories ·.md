@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-23T20:06:22.568+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-23T20:55:57.150+02:00"}
 ---
 
 
