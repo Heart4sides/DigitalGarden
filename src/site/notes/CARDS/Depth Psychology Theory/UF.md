@@ -9,4 +9,4 @@ Meaning the person is currently favoring his [[CARDS/Depth Psychology Theory/Sha
 
 Attached to the Superego Temple = [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
-[[Secund\|Secundary]] preference of the mind. 
+[[CARDS/Depth Psychology Theory/Secund\|Secundary]] preference of the mind. 
