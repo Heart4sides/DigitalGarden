@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T16:01:52.731+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T20:11:30.601+02:00"}
 ---
 
 
@@ -53,7 +53,6 @@
 - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]]
 - [[CARDS/Depth Psychology Theory/double-binding\|double-binding]]
 - [[CARDS/Depth Psychology Theory/Drama\|Drama]]
-- [[CARDS/Depth Psychology Theory/Education\|Education]]
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 - [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]
 - [[CARDS/Depth Psychology Theory/Eight-Function Model\|Eight-Function Model]]
@@ -226,7 +225,8 @@
 - [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]
 - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
-- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
+- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
+- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 - [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]
 - [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]
