@@ -20,4 +20,4 @@ tags :: #on/politics #on/history
 The things (Te) you think about (Ti) determine the quality (Fi) of your mind. Your soul takes on the color of your thoughts."
 MARCUS AURELIUS
 
-![FB_IMG_1672197525458.jpg](/img/user/EXTRAS/Images/FB_IMG_1672197525458.jpg)
+![[FB_IMG_1672197525458.jpg\|FB_IMG_1672197525458.jpg]]
