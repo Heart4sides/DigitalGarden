@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-21T22:09:45.383+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-04-23T14:00:47.502+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
@@ -26,7 +26,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 |               |                                                                                                                                                   |
 
 ## Fi - Ti
-[[CARDS/Depth Psychology Theory/Fi🔱Parent🤨\|Fi🔱Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 
@@ -34,7 +34,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 Only help people to get credibility, which is a covert contract.
 
-[[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fi Trickster 🤡\|Fi Trickster 🤡]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 Learn to take all of the harm onto itself. Learn how to become the pariah and thus lead by example. All that with self-respect so you don't sacrifice yourself for others. The only way to break their conditioning is if you break your conditioning first. Established social norms may not be healthy. Slay these norms with Ti parent and take the fallout (pariah) for the benefit of others. I break the rules or the chains so that people can be free and I can finally be accepted as myself. Who cares if your feelings are accurate / valid / right / justified ? Be honest about what you feel, which invites criticism from the other party.
 
