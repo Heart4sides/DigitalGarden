@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-21T21:56:44.964+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-23T11:02:58.762+02:00"}
 ---
 
 | MOC                                                             | Author                                                                                                                        | Type                                                                                                                        | Reference                                                 |
@@ -9,10 +9,10 @@
 
 
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
-- [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]] : [[CARDS/Depth Psychology Theory/Hero 🦸‍♂️\|Hero 🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
-- [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] - [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
-- [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] - [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Battleground of Inhibition\|Battleground of Inhibition]] : [[CARDS/Depth Psychology Theory/Inferior 😨\|Inferior 😨]] - [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]  
+- [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]] : [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
+- [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
+- [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
+- [[CARDS/Depth Psychology Theory/Battleground of Inhibition\|Battleground of Inhibition]] : [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]] - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]  
 
 ## Te - Fe
 
