@@ -1,12 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-22T09:43:17.723+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-23T08:59:03.155+02:00"}
 ---
 
 
-LVL1 - Theory of Depth Psychology
-LVL2 - Associated Theories 
-LVL3 - Typing Collectives
-LVL 4 - Typing Individuals
+# Authors 
+| File                                                  | References                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | \-                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[Begin Your Journey Here \\| C.S. Joseph](https://csjoseph.life/)</li><li>[Udja App - Typing Tool](https://www.udja.app/#/)</li><li>[CS Joseph - Youtube](https://www.youtube.com/@CSJoseph)</li><li>[CSJ Members Portal](https://offers.csjoseph.life/portal)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+| [[CARDS/Individuals/Dario Nardi\|Dario Nardi]]     | <ul><li>[Home](http://www.darionardi.com/vpc.html)</li><li>[[SOURCES/Contents/Dario Nardi - Neuroscience of Personality.md\\|Neuroscience of Personality]]</li></ul>                                                                                                                                                                                                                                     |
+| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [David West Keirsey, How to Learn: Practice with Immediate Feedback - YouTube](https://www.youtube.com/watch?v=5rmaCTaSNqM&list=PLyeRkAWZDJZsWrueU5rPPIsAURrZ47t-j)                                                                                                                                                                                                                                      |
+| [[CARDS/Individuals/John Beebe\|John Beebe]]       | \-                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]     | [John Bodine, Author at C.S. Joseph](https://csjoseph.life/author/john/)                                                                                                                                                                                                                                                                                                                                 |
+| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [Home](https://lindaberens.com/) \| [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Understanding Yourself and Others]]                                                                                                                                                                                                                                                                            |
+
 
 ## Cognitive Functions
 [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] : 
@@ -25,16 +32,16 @@ LVL 4 - Typing Individuals
 ## Types
 |            | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] | [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] | [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] |
 |:---------- |:-------- |:------- |:------------ |:-------- |
-| [[CARDS/Depth Psychology Theory/Structure🌻\|Structure🌻]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
-| [[CARDS/Depth Psychology Theory/Starter🌱\|Starter🌱]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
-| [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]]   | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
-| [[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
+| [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
+| [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]   | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
+| [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
 
 ## Interaction Styles
 [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 
 ## Temperaments 
-[[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] | [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
+[[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] | [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
 
 ## Quadra 
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
