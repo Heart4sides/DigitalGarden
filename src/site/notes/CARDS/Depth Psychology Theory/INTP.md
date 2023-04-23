@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-22T09:43:20.294+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-23T08:55:40.494+02:00"}
 ---
 
 ## Type Grid
-[[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
-[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/Abstract🍀\|Abstract🍀]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
+[[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] : [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 ## Quadra & Functions
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] 
