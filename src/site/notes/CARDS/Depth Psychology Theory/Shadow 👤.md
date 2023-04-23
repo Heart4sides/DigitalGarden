@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-22T09:43:21.023+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-23T11:02:44.767+02:00"}
 ---
 
 
 - Theme : [[Depth\|Depth]] 
 
 ## Attitudes 
-- [[CARDS/Depth Psychology Theory/Gateway\|Gateway]] : [[CARDS/Depth Psychology Theory/Nemesis 😟\|Nemesis 😟]]
-- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]]
-- [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic 🤔]] 
-- [[CARDS/Depth Psychology Theory/Trickster 🤡\|Trickster 🤡]]
+- [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
+- [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
+- [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
+- [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 
 ## Vice & Pole
@@ -30,7 +30,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] / uncertain
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
 	- battle against [[ignorance\|ignorance]]
-	- [[CARDS/Depth Psychology Theory/Critic 🤔\|Critic]] development
+	- [[CARDS/Depth Psychology Theory/Critic🤔\|Critic]] development
 	- final product
 - [[worried\|worried]]
 - [[CARDS/Depth Psychology Theory/double-binding\|double-binding]]
