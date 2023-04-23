@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-22T09:43:21.723+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-23T10:10:40.837+02:00"}
 ---
 
 ## Keywords
@@ -38,7 +38,7 @@
 ## Relationships 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
-[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
+[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
