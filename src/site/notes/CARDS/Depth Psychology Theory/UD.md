@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ud/","created":"2023-01-12T14:08:31.700+01:00","updated":"2023-04-10T17:22:22.988+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ud/","created":"2023-01-12T14:08:31.700+01:00","updated":"2023-04-23T14:00:48.228+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 > [!quote]
 "No one wants to become UD/UF"
-[[CARDS/Depth Psychology Theory/Fi Trickster 🤡#CSJ\|Fi Trickster 🤡#CSJ]]
+[[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡#CSJ\|Fi🧭Trickster🤡#CSJ]]
 
 Attached to the Shadow Temple = [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
