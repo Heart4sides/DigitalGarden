@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-education/","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-04-23T20:32:39.945+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-education/","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-04-23T20:46:24.335+02:00"}
 ---
 
-
+(see [[SOURCES/Contents/The Unabridged Devil's Dictionary by Ambrose Bierce#^qxbq3\|The Unabridged Devil's Dictionary by Ambrose Bierce#^qxbq3]])
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-[[Education\|Education]], n. That which discloses to the wise and disguises from the foolish their lack of understanding. 
+Education, n. That which discloses to the wise and disguises from the foolish their lack of understanding. 
 
 </div></div>
 
-[^1]
+
 # Content
 | File                                                                                                                                                                                                                         | ref                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
