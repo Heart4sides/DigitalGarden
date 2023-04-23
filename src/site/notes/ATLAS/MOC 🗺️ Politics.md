@@ -12,6 +12,7 @@
 | [[CARDS/Individuals/Eisenhower\|Eisenhower]]                       | \-                                              | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | ISTJ?                                           | fr       |
 | [[CARDS/Individuals/Etienne Chouard\|Etienne Chouard]]             | \-                                              | fr       |
+| [[CARDS/Individuals/François Hollande\|François Hollande]]         | \-                                              | \-       |
 | [[CARDS/Individuals/George Washington\|George Washington]]         | \-                                              | \-       |
 | [[CARDS/Individuals/Hitler\|Hitler]]                               | ENTP                                            | \-       |
 | [[CARDS/Individuals/Jean-Luc Mélenchon\|Jean-Luc Mélenchon]]       | ENFP?                                           | fr       |
