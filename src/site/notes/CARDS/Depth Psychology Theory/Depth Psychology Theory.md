@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T14:37:56.545+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T16:01:52.731+02:00"}
 ---
 
 
@@ -226,8 +226,7 @@
 - [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]
 - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
-- [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
-- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
+- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 - [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]
 - [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]
