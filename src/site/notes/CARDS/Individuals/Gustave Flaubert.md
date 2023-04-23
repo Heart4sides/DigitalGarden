@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-22T20:34:50.854+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-23T10:10:38.352+02:00"}
 ---
 
 Ref ::
@@ -20,13 +20,13 @@ Analyse de Yves Leclerc :
 > - [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] evaluation   
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] evaluation   
 
 > "La découverte d'une turpitude derrière une façade honorable lui procure ainsi une grande jouissance. Car pour lui la respectabilité sociale est forcément une façade."
 - Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]) plus que l'authenticité ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]). 
 
 > Bovarysme selon Jules de Gaultier : "le pouvoir départi à l'homme de se concevoir autre qu'il n'est"
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] : sens de sa propre identité
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] : sens de sa propre identité
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
