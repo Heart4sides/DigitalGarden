@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-21T20:35:33.899+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-23T08:59:04.354+02:00"}
 ---
 
 
@@ -18,14 +18,14 @@ VS [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
 
 ## Types 
 Types sharing preference for [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] : 
-- [[CARDS/Depth Psychology Theory/Starter🌱\|Starter🌱]] : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] 
-- [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]] : [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
+- [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] : [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] 
+- [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] : [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
 |            | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] | [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] | [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] |
 |:---------- |:-------- |:------- |:------------ |:-------- |
-| [[CARDS/Depth Psychology Theory/Structure🌻\|Structure🌻]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
-| ==[[CARDS/Depth Psychology Theory/Starter🌱\|Starter🌱]]==    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
-| [[CARDS/Depth Psychology Theory/Finisher🍁\|Finisher🍁]]   | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
-| [[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
+| [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
+| ==[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]]==    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]   | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
+| [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
 
 
 ## Functions 
