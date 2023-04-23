@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T08:59:03.925+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T10:10:38.805+02:00"}
 ---
 
 
@@ -91,8 +91,7 @@
 - [[CARDS/Depth Psychology Theory/Focus\|Focus]]
 - **Functions & Attitudes**
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]]
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
@@ -234,7 +233,7 @@
 - [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
-- [[CARDS/Depth Psychology Theory/Temperament\|Temperament]]
+- [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]
 - [[CARDS/Depth Psychology Theory/Templar\|Templar]]
 - [[CARDS/Depth Psychology Theory/The Cognitive Battlegrounds\|The Cognitive Battlegrounds]]
 - [[CARDS/Depth Psychology Theory/The Holy Witness · Carolne Myss\|The Holy Witness · Carolne Myss]]
