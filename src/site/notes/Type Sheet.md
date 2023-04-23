@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/type-sheet/","created":"2023-04-19T21:35:37.710+02:00","updated":"2023-04-21T13:26:07.966+02:00"}
+{"dg-publish":true,"permalink":"/type-sheet/","created":"2023-04-19T21:35:37.710+02:00","updated":"2023-04-23T16:01:51.689+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 ↖️ = [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 ↗️ = [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] 
 ↙️ = [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-↘️ = [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] 
+↘️ = [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 
 
