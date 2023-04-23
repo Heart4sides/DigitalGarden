@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-22T09:43:18.081+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-04-23T16:01:52.478+02:00"}
 ---
 
 up :: [[ATLAS/MOC 🗺️ Psychology\|MOC 🗺️ Psychology]] 
@@ -8,7 +8,7 @@ ref :: [[CARDS/Individuals/CS Joseph\|CS Joseph]]
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
-[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
+[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 
 # References
 
