@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-23T15:16:58.447+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-23T16:01:53.388+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
-[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]] : [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
+[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] : [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 
 ## Roles
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent]]
