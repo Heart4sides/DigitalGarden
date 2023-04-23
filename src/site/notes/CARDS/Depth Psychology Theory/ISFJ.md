@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-22T09:43:20.383+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-23T08:55:41.169+02:00"}
 ---
 
 
@@ -29,7 +29,7 @@
 
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Background❄️\|Background❄️]] 
+[[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/background/#22a9bf" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
