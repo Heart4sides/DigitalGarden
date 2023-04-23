@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-23T10:10:38.147+02:00"}
+{"dg-publish":true,"permalink":"/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-23T15:28:33.178+02:00"}
 ---
 
-🔼:: [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
+[[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
 
 ## Keywords
 - Treasure gatherer
