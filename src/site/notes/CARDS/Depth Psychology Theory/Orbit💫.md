@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-22T10:55:52.528+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-23T16:01:55.138+02:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ## 4 Sides 
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
-- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]
+- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 
 ## Temples 
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] 💫 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
