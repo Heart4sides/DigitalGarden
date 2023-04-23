@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/4-sides-in-education/","created":"2023-03-28T19:11:54.975+02:00","updated":"2023-04-23T20:05:22.830+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/4-sides-in-education/","created":"2023-03-28T19:11:54.975+02:00","updated":"2023-04-23T20:53:57.744+02:00"}
 ---
 
 #on/education, #on/depthpsychology 
