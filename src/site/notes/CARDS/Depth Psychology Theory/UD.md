@@ -13,4 +13,4 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 Attached to the Shadow Temple = [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
-[[Secund\|Secundary]] preference of the mind. 
+[[CARDS/Depth Psychology Theory/Secund\|Secundary]] preference of the mind. 
