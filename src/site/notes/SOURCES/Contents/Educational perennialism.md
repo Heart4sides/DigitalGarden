@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-perennialism/","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-21T17:27:37.000+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-perennialism/","created":"2023-04-06T21:53:48.360+02:00","updated":"2023-04-23T20:38:20.514+02:00"}
 ---
 
 #on/education
@@ -8,7 +8,7 @@
 > [!quote]- [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]
 > "Perennialists believe that one should teach the things that are of everlasting pertinence to all people everywhere" [^1]
 
-> [!quote]- [[CARDS/Typing Toolbox/-Fi🔱\|-Fi🔱]] > [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]
+> [!quote]- [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] > [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]
 > "and that the emphasis should be on [[principles\|principles]], not [[facts\|facts]]." [^1]
 
 > [!quote]- [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
