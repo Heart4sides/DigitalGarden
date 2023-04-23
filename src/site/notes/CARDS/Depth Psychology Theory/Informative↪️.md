@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-23T08:56:11.094+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-23T10:10:39.587+02:00"}
 ---
 
 
@@ -22,7 +22,7 @@ Types sharing preference for [[CARDS/Depth Psychology Theory/Informative↪️\|
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
 
 ## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🔱\|Fi🔱]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
 
 ## Temple 
 
