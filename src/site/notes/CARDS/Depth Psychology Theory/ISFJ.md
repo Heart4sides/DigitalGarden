@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-23T13:59:02.117+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-23T16:01:53.857+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 | -------------- | ------------------ | ------------------- |
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]               | ➡️[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
 | ⬇️[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | ↘️ [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
-| ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]==     |
+| ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    |                   |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] |
 
 
@@ -61,7 +61,7 @@
 | ----- | ----------------- |  ----------------------- |
 | [[CARDS/Depth Psychology Theory/UD\|UD]]   |    | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]      |
 | [[CARDS/Depth Psychology Theory/UF\|UF]] |    | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]    |
-|       | ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== |     ==[[CARDS/Depth Psychology Theory/Superego 👹\|Superego 👹]]==     |
+|       | ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== |     ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]   | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]] |                        |
 | [[CARDS/Depth Psychology Theory/SF\|SF]] | [[CARDS/Depth Psychology Theory/Envy\|Envy]]       |                        |
 
