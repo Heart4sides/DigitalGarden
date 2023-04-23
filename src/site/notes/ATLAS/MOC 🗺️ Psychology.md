@@ -14,7 +14,7 @@
 
 #on/depthpsychology 
 - [[CARDS/Individuals/CS Joseph\|CS Joseph]]
-- [[CARDS/Individuals/Carl Jung\|Carl Jung]]
+- [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]
 - [[CARDS/Individuals/John Beebe\|John Beebe]]
 - [[CARDS/Individuals/Linda Berens\|Linda Berens]]
 - [[CARDS/Individuals/David Keirsey\|David Keirsey]]
