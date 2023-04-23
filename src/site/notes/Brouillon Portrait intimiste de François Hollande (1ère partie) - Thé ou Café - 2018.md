@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-23T20:38:18.975+02:00"}
+{"dg-publish":true,"permalink":"/brouillon-portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","created":"2023-04-22T11:56:58.545+02:00","updated":"2023-04-23T20:55:04.638+02:00"}
 ---
 
 > [!Info]- Navigation 💠
 > [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics #video 
 > [Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 16/06/2018](https://www.youtube.com/watch?v=IYwLTmBnwKk) 
-[[François Hollande\|François Hollande]]
+[[CARDS/Individuals/François Hollande\|François Hollande]]
 # Description
 Diffusé le 16/06/2018 En Corrèze, à Tulle, l'ancien président de la République François Hollande s'entretient avec Catherine Ceylac. Chaque samedi à 10h et dimanche à 7h sur France 2, Catherine Ceylac reçoit une personnalité. Un tête à tête intimiste, qui se termine par un dos à dos sans concession. 
 Retrouvez nous : 
@@ -50,7 +50,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 > 
 > “je trouve qu'il ya une forme de  rencontre avec l'adversité  dès les premiers instants” - Mentalité de [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] : la vie est un combat 
 
-> [!quote]- [2:20](https://www.youtube.com/watch?v=IYwLTmBnwKk&t=140s)  [[François Hollande\|Hollande]] sur l’annonce de son élection
+> [!quote]- [2:20](https://www.youtube.com/watch?v=IYwLTmBnwKk&t=140s)  [[CARDS/Individuals/François Hollande\|Hollande]] sur l’annonce de son élection
 > “c'est là que j'ai fait mon premier  discours de président élu” 
 > - [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
 > 
@@ -72,7 +72,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 >  “on dit mais vous avez préparé un  discours non c'est impossible de  préparer un discours quand qu'on ne connaît  pas vraiment le résultat” 
 >  - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] [[CARDS/Depth Psychology Theory/Pessimistic\|pessimist]] & [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]] : craint l’imprévisible 
 
-> [!quote]-  [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]] sur  [[François Hollande\|Hollande]]
+> [!quote]-  [4:23](https://youtu.be/IYwLTmBnwKk?t=263) [[Bernard Combes\|Bernard Combes]] sur  [[CARDS/Individuals/François Hollande\|Hollande]]
 >  “il avait cette joie évidente  parce que c’est immense comme réussite  mais c'était contenu c'est pas quelqu'un  qui saute au plafond françois c'est quelqu'un qui ne livre pas ses  sentiments de manière immédiate bien au  contraire c'est à dire qu'il n'y a pas d'excès ni dans les joies ni dans les  peines dans ce qui montre il peut être  atteint par les situations humainement mais c’est quelqu’un qui est assez impassible d'un point du point de vue du visage”  
 >  - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] faible, [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] faible 
 >  
@@ -82,7 +82,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 > 	  - “santé de fer” 
 > 	  - capable d’analyser ses erreurs et d’apprendre par l’expérience 
 
-> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[François Hollande\|Hollande]] sentiments post-victoire
+> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[CARDS/Individuals/François Hollande\|Hollande]] sentiments post-victoire
 > “c'est  l'émotion et la campagne parce que je  sors de près de 3 mois 4 mois même de  discours où il faut parfois forcer la  voie parce que il ya une foule il y a des hourra mais je sais bien que je vais  avoir d'autres discours à prononcer  parce que je quitte tulle vers 21h 21h30  et j'arrive à paris à 23 heures” 
 > - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] (faits)
 > 
@@ -93,7 +93,7 @@ Twitter : [Catherine Ceylac (@Cceylac) / Twitter](https://twitter.com/cceylac)
 > - projection de sa propre peur : [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
 > 
 
-> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[François Hollande\|Hollande]] sur l’humour
+> [!quote]- [6:00](https://youtu.be/IYwLTmBnwKk?t=361)  [[CARDS/Individuals/François Hollande\|Hollande]] sur l’humour
 > “oui j'aime ces conversations  insolentes dans les bistrots que les  brèves de comptoir oui ces discussions  qui partent cette patronne de café qui  vous disent tout de suite ce qu'elle pense” 
 > 
 > “moi je trouve que l’humour fait partie de ce qu'est la vie, le sel de la  vie et il doit avoir sa place” 
