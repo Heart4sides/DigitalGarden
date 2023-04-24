@@ -7,7 +7,7 @@
 ## Types 
 
 ### Types who seek to be admired
-- [[Wayfarer\|Wayfarer]]
+- [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]
 - [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] Dyad
 
 ## Wordnik![Pasted image 20230404173539.png](/img/user/EXTRAS/Images/Pasted%20image%2020230404173539.png)
