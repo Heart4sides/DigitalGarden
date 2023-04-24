@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-23T20:57:24.707+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T09:14:13.954+02:00"}
 ---
 
 
@@ -185,6 +185,7 @@
 - [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]]
 - [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
+- [[CARDS/Depth Psychology Theory/Projection\|Projection]]
 - [[CARDS/Depth Psychology Theory/Proud\|Proud]]
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
 - [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
