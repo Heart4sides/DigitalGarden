@@ -20,7 +20,7 @@
 - Looking to increase its value
 
 ## Quadras
-[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] 
 
 ## Types 
 
