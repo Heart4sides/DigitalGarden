@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-23T14:03:49.819+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-24T12:49:30.684+02:00"}
 ---
 
 
-The hero function is the first [[CARDS/Depth Psychology Theory/Attitudes\|Attitudes]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
+The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
 It is the strongest function of our stack along with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon]]. 
 It has an infinite amount of energy. 
 It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior]]. 
