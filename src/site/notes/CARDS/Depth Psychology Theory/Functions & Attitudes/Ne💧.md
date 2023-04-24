@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-23T08:59:04.619+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-24T20:03:51.677+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
@@ -41,7 +41,7 @@
 > [!example] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
 
-> [!example] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
+> [!example] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]] | [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]
 
 ## Relationships 
