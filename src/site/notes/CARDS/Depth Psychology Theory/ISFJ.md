@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-23T16:01:53.857+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-24T20:04:07.902+02:00"}
 ---
 
 
@@ -8,9 +8,9 @@
 |               | 1                 | 2                | 3                   | 4                  |
 | ------------- | ----------------- | ---------------- | ------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] ([[CARDS/Depth Psychology Theory/Crusader\|Crusader]])  | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]     | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]] |
-| [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] : [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]    |
+| [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] : [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]    |
 
-|     | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]|
+|     | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]|
 | --- | ------------------ | --------------------- |
 |     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]  | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]   |
 | 1 | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]                  | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]                   |
@@ -20,11 +20,11 @@
 
 
 ## 4 sides  
-| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]               | ➡️[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
 | ⬇️[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | ↘️ [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
-| ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
+| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    |                   |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] |
 
 
@@ -57,11 +57,11 @@
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] : [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
 
-|       | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]== | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
+|       | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]== | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
 | ----- | ----------------- |  ----------------------- |
 | [[CARDS/Depth Psychology Theory/UD\|UD]]   |    | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]      |
 | [[CARDS/Depth Psychology Theory/UF\|UF]] |    | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]    |
-|       | ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]== |     ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
+|       | ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]== |     ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]   | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]] |                        |
 | [[CARDS/Depth Psychology Theory/SF\|SF]] | [[CARDS/Depth Psychology Theory/Envy\|Envy]]       |                        |
 
