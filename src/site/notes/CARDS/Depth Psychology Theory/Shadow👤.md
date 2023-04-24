@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-24T20:04:10.004+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-24T21:23:00.871+02:00"}
 ---
 
 
