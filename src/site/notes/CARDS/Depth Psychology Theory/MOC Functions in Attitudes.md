@@ -20,7 +20,7 @@
 | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]         | Se       | 2-Parent     | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]           | Si       | 2-Parent     | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]]           | Te       | 2-Parent     | \-                                                     |
-| [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]]       | Ti       | 2-Parent     | \-                                                     |
+| [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]         | Ti       | 2-Parent     | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]             | Fe       | 3-Child      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]]             | Fi       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] \| [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]        |
 | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]             | Ne       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] \| [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        |
