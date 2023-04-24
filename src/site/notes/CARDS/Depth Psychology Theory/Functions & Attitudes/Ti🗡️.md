@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-24T12:58:47.032+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-24T21:07:29.781+02:00"}
 ---
 
 ## Keywords
@@ -32,8 +32,8 @@
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]] | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
-[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|Ti🗡️Demon 😈]]
+[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]] | [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] :  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
