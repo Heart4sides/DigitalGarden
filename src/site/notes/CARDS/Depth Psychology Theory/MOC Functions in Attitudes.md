@@ -67,6 +67,6 @@
 | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]             | Ni       | 8-Demon      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]           | Se       | 8-Demon      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Si⛰️Demon😈\|Si⛰️Demon😈]]             | Si       | 8-Demon      | \-                                                     |
-| [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|Ti🗡️Demon 😈]]         | Si       | 8-Demon      | \-                                                     |
+| [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]           | Si       | 8-Demon      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]             | Te       | 8-Demon      | \-                                                     |
 
