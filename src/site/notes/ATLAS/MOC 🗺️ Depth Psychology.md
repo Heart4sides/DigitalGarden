@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-23T17:12:39.655+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T11:55:01.693+02:00"}
 ---
 
 
@@ -51,7 +51,7 @@
 
 # Types by Quadras 
 
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]              | [[CARDS/Depth Psychology Theory/Templar\|Templar]]              | [[Wayfarer\|Wayfarer]]             | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]              | [[CARDS/Depth Psychology Theory/Templar\|Templar]]              | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]             | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]] |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]  |
@@ -64,7 +64,7 @@
 ## Relationships 
 ### External : 
 [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] | [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]] 
-[[SOURCES/Type Theory by CSJ/Relationships/Affection\|Affection]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Natural\|Natural]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred\|Kindred]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
+[[SOURCES/Type Theory by CSJ/Relationships/Affection\|Affection]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Natural\|Natural]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
 
 ### Internal 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
