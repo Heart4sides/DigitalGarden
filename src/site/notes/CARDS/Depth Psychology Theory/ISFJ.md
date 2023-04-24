@@ -8,11 +8,11 @@
 |               | 1                 | 2                | 3                   | 4                  |
 | ------------- | ----------------- | ---------------- | ------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] ([[CARDS/Depth Psychology Theory/Crusader\|Crusader]])  | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]     | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]] |
-| [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] : [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]    |
+| [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] : [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]    |
 
 |     | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]|
 | --- | ------------------ | --------------------- |
-|     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]  | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[Wayfarer\|Wayfarer]]   |
+|     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]  | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]   |
 | 1 | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]                  | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]                   |
 |2 | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]                   | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]                    |
 |3 | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]                     | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]                 |
