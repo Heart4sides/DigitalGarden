@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T12:58:44.701+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T14:03:50.836+02:00"}
 ---
 
 
@@ -17,16 +17,16 @@
 
 # Attitudes
 
-|     | [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]        | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]          |
-| --- | --------------- | ------------------- | ------------------- | ------------------- | ----------------- |
-| 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]  | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] |
-| 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]]    | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]    |[[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]                    |
-| 3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]     | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]     | [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]     | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]     |[[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]                    |
-| 4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]  | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]  | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]                   |
-| 5[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]   | [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]]   |[[CARDS/Depth Psychology Theory/Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]  |
-| 6[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]   | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]    | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]]    | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]    | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]]    | [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|Si⛰️Critic🤔]]                   |
-| 7[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]] |[[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]     |
-| 8[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]     | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]     | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]     | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]     | [[CARDS/Depth Psychology Theory/Si⛰️Demon😈\|Si⛰️Demon😈]]                   |
+|  [[Order of Preference\|Order of Preference]]                        |  [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]           |
+|:-------------------------|:--------------------|
+|   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                    |
+|  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                    |
+|  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                    |
+|  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]                   |
+|    5[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
+|    6[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
+|   7[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
+|   8[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
 
 
 ## 4 sides of the Mind
@@ -63,8 +63,27 @@
 
 ## Relationships 
 ### External : 
+|                    |                   |
+| ------------------ | ----------------- |
+| [[SOURCES/Type Theory by CSJ/Relationships/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] |
+| [[Respect Pair\|Respect Pair]]   |                   |
+| [[SOURCES/Type Theory by CSJ/Relationships/Natural Pair\|Natural Pair]]   |                   |
+| [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue Pair\|Pedagogue Pair]] |                   |
+| [[CARDS/Depth Psychology Theory/Benefit Pair\|Benefit Pair]]   |                   |
+| [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]]   |                   |
+| [[SOURCES/Type Theory by CSJ/Relationships/Intrigue Pair\|Intrigue Pair]]                    |                   |
+| [[Supervisor Pair\|Supervisor Pair]]                   |                   |
+|                    |                   |
+|                    |                   |
+|                    |                   |
+|                    |                   |
+|                    |                   |
+|                    |                   |
+|  [[SOURCES/Type Theory by CSJ/Relationships/Dual Pair\|Dual Pair]]                   |                   |
+| [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]                    |                   |
+
 [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] | [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]] 
-[[SOURCES/Type Theory by CSJ/Relationships/Affection\|Affection]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Natural\|Natural]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue\|Pedagogue]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue\|Intrigue]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual\|Dual]]
+[[SOURCES/Type Theory by CSJ/Relationships/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Natural Pair\|Natural Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue Pair\|Pedagogue Pair]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue Pair\|Intrigue Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual Pair\|Dual Pair]]
 
 ### Internal 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
