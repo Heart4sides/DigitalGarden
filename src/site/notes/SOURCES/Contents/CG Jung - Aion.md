@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-04-24T09:54:53.537+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-04-24T10:27:39.990+02:00"}
 ---
 
 #book #on/depthpsychology 
@@ -18,3 +18,13 @@
 > *“What, then, is this projection-making factor? The East calls it the "Spinning Woman" x —Maya, who creates illusion by her dancing. Had we not long since known it from the symbolism of dreams, this hint from the Orient would put us on the right track: the enveloping, embracing, and devouring element points unmistakably to the mother,2 that is, to the son's relation to the real mother, to her imago, and to the woman who is to become a mother for him. His Eros is passive like a child's; he hopes to be caught, sucked in, enveloped, and devoured. He seeks, as it were, the protecting, nourishing, charmed circle of the mother, the condition of the infant released from every care, in which the outside world bends over him and even forces happiness upon him. No wonder the real world vanishes from sight!”* ([[CARDS/Individuals/C.G. Jung\|C.G. Jung]], [1969](https://archive.org/details/collectedworksof92cgju), p29)
 
 > “**The effect of anima and animus on the ego is in principle the same. This effect is extremely difficult to eliminate because, in the first place, it is uncommonly strong and immediately fills the ego-personality with an unshakable feeling of Tightness and  righteousness. In the second place, the cause of the effect is pro- jected and appears to lie in objects and objective situations.**” ([[CARDS/Individuals/C.G. Jung\|C.G. Jung]], [1969](https://archive.org/details/collectedworksof92cgju), p34)
+
+
+# Comments 
+<script src="https://utteranc.es/client.js"
+        repo="Heart4sides/Comment_Section"
+        issue-term="pathname"
+        theme="gruvbox-dark"
+        crossorigin="anonymous"
+        async>
+</script>
