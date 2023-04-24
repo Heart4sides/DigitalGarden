@@ -4,7 +4,7 @@
 
 
 ## Quadra & Functions
-[[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] 
 
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 
