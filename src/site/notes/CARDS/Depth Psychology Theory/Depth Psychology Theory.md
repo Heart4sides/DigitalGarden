@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T12:58:45.571+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T15:26:16.720+02:00"}
 ---
 
 
@@ -25,6 +25,7 @@
 - [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]]
 - [[CARDS/Depth Psychology Theory/Battleground\|Battleground]]
 - [[CARDS/Depth Psychology Theory/Benefactor Pair\|Benefactor Pair]]
+- [[CARDS/Depth Psychology Theory/Benefit Pair\|Benefit Pair]]
 - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
 - [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]
@@ -38,6 +39,7 @@
 - [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]
 - [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
+- [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]]air]]
 - [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]
 - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
@@ -255,7 +257,7 @@
 - [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]
--[[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]
+- [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
