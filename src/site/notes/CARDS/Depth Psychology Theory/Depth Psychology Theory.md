@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T12:27:06.065+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T12:58:45.571+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 - [[CARDS/Depth Psychology Theory/Appearance\|Appearance]]
 - [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]
 - [[CARDS/Depth Psychology Theory/Attention\|Attention]]
-- [[CARDS/Depth Psychology Theory/Attitudes\|Attitudes]]
+- [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
 - [[CARDS/Depth Psychology Theory/Authentic\|Authentic]]
 - [[CARDS/Depth Psychology Theory/Authority\|Authority]]
 - [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]
@@ -186,6 +186,7 @@
 - [[CARDS/Depth Psychology Theory/Pragmatic & Affiliative\|Pragmatic & Affiliative]]
 - [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]]
+- [[CARDS/Depth Psychology Theory/Primary\|Primary]]
 - [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
 - [[CARDS/Depth Psychology Theory/Projection\|Projection]]
 - [[CARDS/Depth Psychology Theory/Proud\|Proud]]
@@ -242,6 +243,7 @@
 - [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
 - [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]
 - [[CARDS/Depth Psychology Theory/Templar\|Templar]]
+- [[CARDS/Depth Psychology Theory/Temple\|Temple]]
 - [[CARDS/Depth Psychology Theory/The Cognitive Battlegrounds\|The Cognitive Battlegrounds]]
 - [[CARDS/Depth Psychology Theory/The Holy Witness · Carolne Myss\|The Holy Witness · Carolne Myss]]
 - [[CARDS/Depth Psychology Theory/The Prostitute · Caroline Myss\|The Prostitute · Caroline Myss]]
@@ -253,7 +255,7 @@
 - [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]
-- [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]]
+-[[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
