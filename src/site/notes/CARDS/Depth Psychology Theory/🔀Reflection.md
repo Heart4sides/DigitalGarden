@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-21T19:39:03.707+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-24T20:08:07.007+02:00"}
 ---
 
 
-- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].
-- [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
+- [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]] - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].
+- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
 - [[Heart\|Heart]] - [[Body\|Body]]
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Responding by CSJ\|Responding by CSJ]] exhibits reflection. Think before speaking: tend to reflect, then speak and act. 
