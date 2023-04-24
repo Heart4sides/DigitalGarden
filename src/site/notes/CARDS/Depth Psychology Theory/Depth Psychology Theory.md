@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T15:26:16.720+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T17:28:51.839+02:00"}
 ---
 
 
@@ -9,6 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]
 - [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]
 - [[CARDS/Depth Psychology Theory/Adolescence\|Adolescence]]
+- [[CARDS/Depth Psychology Theory/Affection Pair\|Affection Pair]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 - [[CARDS/Depth Psychology Theory/Apathy\|Apathy]]
 - [[CARDS/Depth Psychology Theory/Appearance\|Appearance]]
@@ -33,13 +34,14 @@
 - [[CARDS/Depth Psychology Theory/Cognitive Focus\|Cognitive Focus]]
 - [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
 - [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]
+- [[CARDS/Depth Psychology Theory/Cohort Pair\|Cohort Pair]]
 - [[CARDS/Depth Psychology Theory/Collectivism\|Collectivism]]
 - [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]
 - [[CARDS/Depth Psychology Theory/Compatibility\|Compatibility]]
 - [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]
 - [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
-- [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]]air]]
+- [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]]
 - [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]
 - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]
@@ -56,6 +58,7 @@
 - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]]
 - [[CARDS/Depth Psychology Theory/double-binding\|double-binding]]
 - [[CARDS/Depth Psychology Theory/Drama\|Drama]]
+- [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 - [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]
 - [[CARDS/Depth Psychology Theory/Eight-Function Model\|Eight-Function Model]]
@@ -134,6 +137,7 @@
 - [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]
 - [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]
 - [[CARDS/Depth Psychology Theory/INTP\|INTP]]
+- [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]]
 - [[CARDS/Depth Psychology Theory/Introverted Cognitive Functions\|Introverted Cognitive Functions]]
 - [[CARDS/Depth Psychology Theory/ISFJ superego\|ISFJ superego]]
 - [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
@@ -143,6 +147,7 @@
 - [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]
 - [[CARDS/Depth Psychology Theory/Justice\|Justice]]
 - [[CARDS/Depth Psychology Theory/Justification\|Justification]]
+- [[CARDS/Depth Psychology Theory/Kindred Pair\|Kindred Pair]]
 - [[CARDS/Depth Psychology Theory/Knights Templar - Wiki Notes\|Knights Templar - Wiki Notes]]
 - [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]]
@@ -155,6 +160,7 @@
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 - [[CARDS/Depth Psychology Theory/MOC Functions in Attitudes\|MOC Functions in Attitudes]]
 - [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]
+- [[CARDS/Depth Psychology Theory/Natural Pair\|Natural Pair]]
 - [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]
 - [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]
@@ -182,6 +188,7 @@
 - [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
 - [[CARDS/Depth Psychology Theory/Overcoming Ne nem\|Overcoming Ne nem]]
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
+- [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
 - [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
 - [[CARDS/Depth Psychology Theory/Pole\|Pole]]
