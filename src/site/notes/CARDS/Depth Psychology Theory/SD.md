@@ -13,4 +13,4 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 Attached to the Subconscious Temple = [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 
-[[SOURCES/Type Theory by CSJ/Temples/Primary\|Primary]] preference of the mind. 
+[[CARDS/Depth Psychology Theory/Primary\|Primary]] preference of the mind. 
