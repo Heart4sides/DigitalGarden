@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-23T20:11:51.903+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-24T20:03:51.759+02:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]] | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
+[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]] | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
 ## Relationships 
