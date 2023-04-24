@@ -27,7 +27,7 @@
 | ==[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]==   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
 | ==[[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==         | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==     |      
 
-| [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] |
+| [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] |
 | ------------ | ----------- | ------------ | --------------- |
 | ⛰️[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]🗡️💉     | 🔥🌪️🗡️💉    | 🔥🌪️🔱🏹     | ⛰️💧🔱🏹   |
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]    | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]     | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]        |
