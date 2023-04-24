@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T11:43:25.105+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T12:27:06.065+02:00"}
 ---
 
 
@@ -259,5 +259,6 @@
 - [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
 - [[CARDS/Depth Psychology Theory/UD\|UD]]
 - [[CARDS/Depth Psychology Theory/UF\|UF]]
+- [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]
 - [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
 
