@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-23T10:10:40.718+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-24T20:03:52.320+02:00"}
 ---
 
 
@@ -50,7 +50,7 @@
 > [!example] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
 
-> [!example] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
+> [!example] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]
 
 ---
