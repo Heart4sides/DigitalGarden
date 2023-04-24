@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-24T15:26:16.134+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-24T20:04:05.970+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 ## 4 Sides in Axis
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
-- [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] - [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
+- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] - [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]
 
 ## Temples in Axis
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
