@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T14:03:50.836+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T17:50:18.103+02:00"}
 ---
 
 
@@ -16,7 +16,6 @@
 
 
 # Attitudes
-
 |  [[Order of Preference\|Order of Preference]]                        |  [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]           |
 |:-------------------------|:--------------------|
 |   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                    |
@@ -29,7 +28,7 @@
 |   8[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
 
 
-## 4 sides of the Mind
+# 4 sides of the Mind
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | -              | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | -                   |
@@ -37,7 +36,7 @@
 | ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | -               |                   |  -                   |
 
-# Types by Temperament & Interaction Style
+# 4 Temperaments x 4 Interaction Styles
 
 | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]/[[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                      | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]   |  [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]   | [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]    |                       |                            |                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
@@ -49,7 +48,7 @@
 |                      | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
 |                      | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
 
-# Types by Quadras 
+# 4 Quadras 
 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]              | [[CARDS/Depth Psychology Theory/Templar\|Templar]]              | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]             | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
@@ -65,13 +64,13 @@
 ### External : 
 |                    |                   |
 | ------------------ | ----------------- |
-| [[SOURCES/Type Theory by CSJ/Relationships/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] |
+| [[CARDS/Depth Psychology Theory/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] |
 | [[Respect Pair\|Respect Pair]]   |                   |
-| [[SOURCES/Type Theory by CSJ/Relationships/Natural Pair\|Natural Pair]]   |                   |
-| [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue Pair\|Pedagogue Pair]] |                   |
+| [[CARDS/Depth Psychology Theory/Natural Pair\|Natural Pair]]   |                   |
+| [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]] |                   |
 | [[CARDS/Depth Psychology Theory/Benefit Pair\|Benefit Pair]]   |                   |
-| [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]]   |                   |
-| [[SOURCES/Type Theory by CSJ/Relationships/Intrigue Pair\|Intrigue Pair]]                    |                   |
+| [[CARDS/Depth Psychology Theory/Kindred Pair\|Kindred Pair]]   |                   |
+| [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]]                    |                   |
 | [[Supervisor Pair\|Supervisor Pair]]                   |                   |
 |                    |                   |
 |                    |                   |
@@ -79,16 +78,16 @@
 |                    |                   |
 |                    |                   |
 |                    |                   |
-|  [[SOURCES/Type Theory by CSJ/Relationships/Dual Pair\|Dual Pair]]                   |                   |
+|  [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]                   |                   |
 | [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]                    |                   |
 
 [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] | [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]] 
-[[SOURCES/Type Theory by CSJ/Relationships/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Silver\|Silver]] | [[SOURCES/Type Theory by CSJ/Relationships/Natural Pair\|Natural Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Pedagogue Pair\|Pedagogue Pair]] | [[Benefit\|Benefit]] | [[SOURCES/Type Theory by CSJ/Relationships/Kindred Pair\|Kindred Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Intrigue Pair\|Intrigue Pair]] | [[SOURCES/Type Theory by CSJ/Relationships/Dual Pair\|Dual Pair]]
+[[CARDS/Depth Psychology Theory/Affection Pair\|Affection Pair]] | [[Silver\|Silver]] | [[CARDS/Depth Psychology Theory/Natural Pair\|Natural Pair]] | [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]] | [[Benefit\|Benefit]] | [[CARDS/Depth Psychology Theory/Kindred Pair\|Kindred Pair]] | [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]] | [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]
 
 ### Internal 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
 
-# Temple 
+# 4 Temples 
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
@@ -110,3 +109,6 @@
 
 
 
+
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e02850', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
