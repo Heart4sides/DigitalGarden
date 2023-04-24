@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-23T16:01:52.949+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-24T20:04:06.456+02:00"}
 ---
 
 
@@ -10,20 +10,20 @@
 
 [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] |[[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]  | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]
 
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
+[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 
 [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]] |  [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]| [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
 
 
-| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] | →   | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] |
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | →   | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | →   | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | →   | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] |
 | ------------- | --- | ------------- | --- | ------------- | --- | ------------- |
 | [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] |  | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]|     |   [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]| | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]] |
 | ---           | --- | ---           |     |               |     |               |
 |               |     |               |     |               |     |               |
 
 ## 4 sides  
-[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : ISFP
-[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
+[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : ISFP
+[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
 [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] ([[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]): [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] 
 
 ## Type Grid 
