@@ -1,22 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-24T21:14:03.440+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-24T21:20:54.180+02:00"}
 ---
 
-
-## Quadra & Functions
-[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]
-[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]] | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]] | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]
-
-[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
-[[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]] | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]] | Fe Demon]]
-
-| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]      | →   | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]      | →   | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]    | →   | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]       |
-| ----------------- | --- | ----------------- | --- | --------------- | --- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] |     | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] |     | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]] |     | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]] |
-| [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]  | ←    | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]]  | ← | [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]| ← | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]                     |
-
-# 4 sides  
+# 4 sides  of the Mind, Quadra, Temple & Functions 
 
 |      | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀]] [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]] |
 | ---- | ----------------------------------- | -------------------------------------------------------------- |
@@ -52,6 +38,12 @@
 [[CARDS/Depth Psychology Theory/Chaos\|Chaos]] [[Serenity\|Serenity]] 
 
 ## Temple 
+
+|                  | ESTJ          | INFP                                         |
+| ---------------- | ------------- | -------------------------------------------- |
+| [[Living Virtu\|Living Virtu]] |               | [[CARDS/Depth Psychology Theory/Initiative\|CARDS/Depth Psychology Theory/Initiative]] |
+| [[CARDS/Depth Psychology Theory/SF\|SF]]                 |               |                                              |
+
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] : [[CARDS/Depth Psychology Theory/Authority\|Authority]]
 [[Living Virtu\|Living Virtu]] : [[CARDS/Depth Psychology Theory/Initiative\|CARDS/Depth Psychology Theory/Initiative]]
