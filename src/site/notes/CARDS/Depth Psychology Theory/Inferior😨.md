@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/inferior/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-23T16:00:11.676+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/inferior/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-24T16:40:26.528+02:00"}
 ---
 
 
@@ -10,7 +10,8 @@
 [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]] | [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
 
 
-- [[Fear\|Fear]] 
+- [[Fear\|Fear]] vs [[Faith\|Faith]] 
 - Insecurity
 - The [[Future\|Future]] 
 - Raw potential
+- 
