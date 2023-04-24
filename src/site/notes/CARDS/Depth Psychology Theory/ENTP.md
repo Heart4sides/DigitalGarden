@@ -7,7 +7,7 @@
 ## Quadra & Functions
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent 🤨\|Ti🗡️Parent 🤨]] | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
-[[Wayfarer\|Wayfarer]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
+[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]] 
 	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
 ## 4 sides  
