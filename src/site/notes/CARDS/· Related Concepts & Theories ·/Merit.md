@@ -3,4 +3,4 @@
 ---
 
 
-[[Wayfarer\|Wayfarer]]'s Virtu
+[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]'s Virtu
