@@ -17,7 +17,7 @@
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 
 ## Quadras
-[[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[Wayfarer\|Wayfarer]] 
+[[CARDS/Depth Psychology Theory/Templar\|Templar]] | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] 
 
 ## Types 
 
