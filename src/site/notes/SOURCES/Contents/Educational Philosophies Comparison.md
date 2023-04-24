@@ -36,7 +36,7 @@
 | Social                      | direction, control, restraint ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]])                                          | Individualism                                                   |
 | Citizenship                 | cognitive, personal development                                                            | personal, social development                                    |
 | Freedom and Democracy       | conformity, compliance with authority, knowledge and discipline ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])       | creativeness, self-actualization, direct experiences            |
-| Excellence vs. Equality     | excellence in education, academic, rewards and jobs based on merit ([[Wayfarer\|Wayfarer]])          | equality of education, equal change to disadvantaged            |
+| Excellence vs. Equality     | excellence in education, academic, rewards and jobs based on merit ([[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]])          | equality of education, equal change to disadvantaged            |
 | Society                     | group values, acceptance of norms, cooperative and conforming behavior ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]) | individual growth, individual ability, importance of individual |
 
 
@@ -58,9 +58,9 @@
 	- Absolute rules [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
 	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ESTJ 
-	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[Wayfarer\|Gquad]](ENTJ)
-	- 2/4 - [[Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
-	- 1/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (ENFJ, ESTP), [[Wayfarer\|Gquad]] ESFP 
+	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]](ENTJ)
+	- 2/4 - [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
+	- 1/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (ENFJ, ESTP), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] ESFP 
 	- 0/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (INFJ, ISTP)
 
 ## Essentialism
