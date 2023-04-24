@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T17:28:51.839+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T21:07:29.361+02:00"}
 ---
 
 
@@ -220,7 +220,7 @@
 - [[CARDS/Depth Psychology Theory/Self🌓\|Self🌓]]
 - [[CARDS/Depth Psychology Theory/Servility\|Servility]]
 - [[CARDS/Depth Psychology Theory/SF\|SF]]
-- [[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]
+- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]
 - [[CARDS/Depth Psychology Theory/Si-Se Orbit\|Si-Se Orbit]]
 - [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]
 - [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|Si⛰️Critic🤔]]
@@ -237,7 +237,7 @@
 - [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]]
 - [[CARDS/Depth Psychology Theory/Streamline\|Streamline]]
 - [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]
-- [[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]
+- [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]
 - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
 - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
@@ -260,7 +260,7 @@
 - [[CARDS/Depth Psychology Theory/Ti-Fi Battleground\|Ti-Fi Battleground]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|Ti🗡️Demon 😈]]
+-[[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]
