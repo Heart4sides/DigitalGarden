@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-23T16:01:52.608+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-24T15:26:16.134+02:00"}
 ---
 
 
 - [[polarity\|polarity]] (cf [[magnetism\|magnetism]])
-- [[Conflict\|Conflict]] : Using one takes the energy from the other 
+- [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]] : Using one takes the energy from the other 
 - [[Opposites\|Opposites]] 
 - AC : alternate current 
 
