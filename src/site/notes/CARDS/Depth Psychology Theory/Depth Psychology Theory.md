@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T09:14:13.954+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T11:33:18.853+02:00"}
 ---
 
 
@@ -114,6 +114,7 @@
 - [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Humility\|Humility]]
 - [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]
+- [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]
 - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
 - [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 - [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]
