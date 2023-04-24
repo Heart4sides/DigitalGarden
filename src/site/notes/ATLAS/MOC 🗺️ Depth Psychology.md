@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T18:11:50.216+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-24T21:07:27.984+02:00"}
 ---
 
 
 # Authors 
-| File                                                  | Concepts                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitudes\\|Attitudes]]</li><li>[[CARDS/Depth Psychology Theory/Shadow 👤.md\\|Shadow 👤]]</li><li>[[Integration\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
-| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[CARDS/Depth Psychology Theory/Guidance Function.md\\|Guidance Function]]</li><li>[[CARDS/Depth Psychology Theory/Gateway Function.md\\|Gateway Function]]</li></ul>                                                                        |
-| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind ➕.md\\|4 sides of the Mind ➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[CARDS/Depth Psychology Theory/Temple.md\\|Temple]]</li><li>[[CARDS/Depth Psychology Theory/Octogram.md\\|Octogram]]</li></ul>                 |
-| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                                             |
-| [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul>                                                                                                                                                                                          |
-| [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                                            |
-| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                                 |
+| File                                                  | Concepts                                                                                                                                                                                                                                                                                                      |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitudes\\|Attitudes]]</li><li>[[Shadow 👤\\|Shadow 👤]]</li><li>[[Integration\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul>                  |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[CARDS/Depth Psychology Theory/Guidance Function.md\\|Guidance Function]]</li><li>[[CARDS/Depth Psychology Theory/Gateway Function.md\\|Gateway Function]]</li></ul>                                                        |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind ➕.md\\|4 sides of the Mind ➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[CARDS/Depth Psychology Theory/Temple.md\\|Temple]]</li><li>[[CARDS/Depth Psychology Theory/Octogram.md\\|Octogram]]</li></ul> |
+| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                             |
+| [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul>                                                                                                                                                                          |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                            |
+| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                 |
 
 
 # Attitudes
@@ -22,18 +22,18 @@
 |  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                    |
 |  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                    |
 |  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]                   |
-|    5[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
-|    6[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
-|   7[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
-|   8[[CARDS/Depth Psychology Theory/Shadow 👤\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
+|    5[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
+|    6[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
+|   7[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
+|   8[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
 
 
 # 4 sides of the Mind
-| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious 🤸\|Subconscious 🤸]]== |
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | -              | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | -                   |
 | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
-| ==[[CARDS/Depth Psychology Theory/Shadow 👤\|Shadow 👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
+| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | -               |                   |  -                   |
 
 # 4 Temperaments x 4 Interaction Styles
@@ -91,7 +91,7 @@
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
-|[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|1💧]] [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|2🧭]]          | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|7🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Demon 😈\|8🗡️]]              | 
+|[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|1💧]] [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|2🧭]]          | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|7🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|8🗡️]]              | 
 |[[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |  [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|5💧]] [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|4🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|3🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|8💧]] [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|1🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|2🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] |[[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|4💧]] [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|5🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|6🗡️]]             | 
@@ -111,12 +111,12 @@
 
 
 
-
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e02850', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
+<script src="https://utteranc.es/client.js"  
+        repo="Heart4sides/Comment_Section"
+        issue-term="pathname"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async> 
+</script>
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#9428e0', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#2f054d', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#858287', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
