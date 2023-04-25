@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T09:34:26.032+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T11:17:47.180+02:00"}
 ---
 
 # Attitudes 
@@ -75,7 +75,7 @@
 ---
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
+[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 ---
 
