@@ -43,7 +43,7 @@
 
 ## Attitudes
 > [!info] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]] | [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]] | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]
+[[Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] | [[Fi🧭Parent🤨\|Fi🧭Parent🤨]] | [[Fi🧭Child👼\|Fi🧭Child👼]] | [[Fi🧭Inferior👶\|Fi🧭Inferior👶]]
 
 > [!info] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 [[Fi 🔱 Nemesis\|Fi 🔱 Nemesis]] | [[Fi 🔱 Critic\|Fi 🔱 Critic]] | [[Fi 🔱 Trickster\|Fi 🔱 Trickster]] | [[Fi 🔱 Demon\|Fi 🔱 Demon]]
