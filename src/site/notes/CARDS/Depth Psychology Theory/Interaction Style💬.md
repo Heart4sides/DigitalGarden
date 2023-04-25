@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-04-23T08:59:04.107+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-04-25T11:15:20.751+02:00"}
 ---
 
 
