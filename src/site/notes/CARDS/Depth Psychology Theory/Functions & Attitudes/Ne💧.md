@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T19:43:50.949+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T19:50:26.210+02:00"}
 ---
 
 # Functional Relationships 
@@ -36,7 +36,7 @@
 | [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
 
 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Templar\|Templar]]</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]==</font> |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]== | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]] | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]== |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]  |
