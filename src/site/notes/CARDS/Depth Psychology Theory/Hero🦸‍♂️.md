@@ -21,7 +21,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|In
 
 [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
+[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]] | [[Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
 ## Axis, Orbit, Reflect
 
