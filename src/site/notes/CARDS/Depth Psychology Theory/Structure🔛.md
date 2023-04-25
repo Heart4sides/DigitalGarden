@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-23T08:56:38.787+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-25T11:17:44.318+02:00"}
 ---
 
 
@@ -8,6 +8,6 @@
 
 
 1 of 4 [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]
-[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]] | [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 
 Like to lead and manage groups
