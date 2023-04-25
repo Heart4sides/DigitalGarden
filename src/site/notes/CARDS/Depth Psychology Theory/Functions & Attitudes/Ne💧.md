@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T17:24:21.290+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T18:46:22.290+02:00"}
 ---
 
 
@@ -37,9 +37,9 @@
 | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
 | I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others want | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others want |
 
-| 5-Immature                                                                | 5-Mature                                                    |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| “I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], worried of and presumptuous with what others want” | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others want |
+| 5-Immature                                                      | 5-Mature                                                    |
+| --------------------------------------------------------------- | ----------------------------------------------------------- |
+| “I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], uncertain & worried of what others want” | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others want |
 
 | 6-Immature                                         | 6-Mature                                              |
 | -------------------------------------------------- | ----------------------------------------------------- |
