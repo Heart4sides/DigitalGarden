@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-24T20:03:51.990+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T09:33:39.102+02:00"}
 ---
 
+# Attitudes 
 
+## Hero🦸‍♂️ 
+## Parent🤨 
+## Child👼 
+# Inferior😨
+## Nemesis😟
+## Critic🤔
+## Trickster🤡
+## Demon😈 
+
+--- 
 ## Keywords
 - Introverted Intuition 
 - Personal Future, Fate
