@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-04-25T13:23:36.486+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-04-25T19:17:02.955+02:00"}
 ---
 
 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]
-[[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] : [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]
+[[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] : [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] : [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]
 
