@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T10:40:31.867+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T11:19:47.979+02:00"}
 ---
 
 
@@ -185,7 +185,7 @@
 - [[CARDS/Depth Psychology Theory/Octogram\|Octogram]]
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]
-- [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+- [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 - [[CARDS/Depth Psychology Theory/Overcoming Ne nem\|Overcoming Ne nem]]
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
 - [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]]
@@ -196,7 +196,7 @@
 - [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]]
 - [[CARDS/Depth Psychology Theory/Primary\|Primary]]
-- [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]
+- [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]
 - [[CARDS/Depth Psychology Theory/Projection\|Projection]]
 - [[CARDS/Depth Psychology Theory/Proud\|Proud]]
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
