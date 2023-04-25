@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-24T20:03:51.387+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T09:34:58.587+02:00"}
 ---
 
+# Attitudes 
 
+## Hero🦸‍♂️ 
+## Parent🤨 
+## Child👼 
+# Inferior😨
+## Nemesis😟
+## Critic🤔
+## Trickster🤡
+## Demon😈 
+
+--- 
 ## Keywords
 - Extroverted Feeling
 - The collective values & feelings
