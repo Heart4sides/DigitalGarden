@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-24T20:03:54.503+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T09:02:05.969+02:00"}
 ---
 
 #on/psychology
@@ -9,7 +9,7 @@
 ## Perception
 |                      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]            |
 | -------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]   |
+| 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Ne💧Hero🦸‍♂\|Hero🦸‍♂️#Ne💧Hero🦸‍♂]]   | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]   |
 | 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]]    | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]]    | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]    |
 | 3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]]     | [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]     | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]     | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]     |
 | 4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]  | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]  | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]  |
