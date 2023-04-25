@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-22T20:34:48.626+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-25T11:19:50.076+02:00"}
 ---
 
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
@@ -19,6 +19,6 @@ Sources : Plato, David Kersey, C.S. Joseph
 ## Interaction Styles 
 - [[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] vs [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
 - [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] vs [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
-- [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] vs [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+- [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] vs [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 
 Sources : Linda Berens, C.S. Joseph 
