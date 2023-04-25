@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-04-25T13:23:09.655+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-04-25T19:16:59.998+02:00"}
 ---
 
 
 # Types
-[[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]
+[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]
 
 # Interaction Style
 
