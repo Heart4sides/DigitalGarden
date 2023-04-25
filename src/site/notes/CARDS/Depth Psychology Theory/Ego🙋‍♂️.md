@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-24T19:26:43.413+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-25T10:36:46.949+02:00"}
 ---
 
 
