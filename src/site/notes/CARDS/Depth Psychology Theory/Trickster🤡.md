@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-04-25T15:43:53.793+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-04-25T20:08:20.570+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
