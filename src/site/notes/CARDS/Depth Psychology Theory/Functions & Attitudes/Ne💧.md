@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T10:57:33.650+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T11:19:51.094+02:00"}
 ---
 
 
@@ -63,7 +63,7 @@
 [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]  : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 
 ## Type Grid 
-[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] 
+[[CARDS/Depth Psychology Theory/Initiating👋\|CARDS/Depth Psychology Theory/Initiating👋]] | [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
