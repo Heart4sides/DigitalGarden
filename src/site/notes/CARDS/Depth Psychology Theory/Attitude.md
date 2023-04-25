@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T13:30:58.090+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T13:45:55.939+02:00"}
 ---
 
 #on/psychology
 
 # Depth Psychology Theory
 [[Ne#Hero\|Ne#Hero]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|ne]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Hero\|NeHero]]
 [[CARDS/Depth Psychology Theory/ISFJ💂#Virtues Vices\|ISFJ💂#Virtues Vices]]
 [[CARDS/Depth Psychology Theory/ISFJ💂#Temples💂\|ISFJ💂#Temples💂]]
 
+<font size="5"> Hello World </font>  
+
 ## Perception
 
-|                      | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]==            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]            |
+|                      | <font size="5">[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]</font>          | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]==            | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]==            | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]==            |
 | -------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Hero🦸‍♂️\|Ne💧#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥#Hero🦸‍♂️\|Ni🔥#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️#Hero🦸‍♂️\|Se🌪️#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️#Hero🦸‍♂️\|Si⛰️#Hero🦸‍♂️]]   |
 | 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Parent🤨\|Ne💧#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥#Parent🤨\|Ni🔥#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️#Parent🤨\|Se🌪️#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️#Parent🤨\|Si⛰️#Parent🤨]]    |
@@ -25,16 +27,16 @@
 
 --- 
 ## Judgement
-|                          |  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]             |  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]             |  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]                              |  [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]                                                                                       |
-|:-------------------------|:----------------------|:-----------------------|:---------------------------------------|:------------------------------------------------------------------------------------------------|
-|   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   |  [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]]    |  [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️hero🦸‍♂️]]    |  [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]]                     | [[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] |
-|  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]]     |  [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]     | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]                       | [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]]    |
-|  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]      |  [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]      | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]                        | [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]]     |
-|  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]   |  [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]   |  [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]]                    | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]   |
-|    5[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]]    |  [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]    | [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]]                      | [[CARDS/Depth Psychology Theory/Fi🧭Nemesis😟\|Fi🧭Nemesis😟]]    |
-|    6[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]]     |  [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]]     |  [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]]                      | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]   |
-|   7[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]  |  [[Ti🗡️Trickster🤡\|Ti🗡️Trickster🤡]]  | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]]                    | [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]   |
-|   8[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]      |  [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]      |  [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]                       | [[CARDS/Depth Psychology Theory/Fi🧭Demon😈\|Fi🧭Demon😈]]      |  
+|                      | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]==        | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]==        | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]]==        | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]==            |
+|:-------------------- |:------------------- |:------------------- |:------------------- |:------------------- |
+| 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]]   |
+| 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]]    | [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]]    | [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]    | [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]]    |
+| 3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]     | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]     | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]     | [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]]     |
+| 4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]  | [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]  | [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]]  | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]  |
+| 5[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]]   | [[CARDS/Depth Psychology Theory/Fi🧭Nemesis😟\|Fi🧭Nemesis😟]]   |
+| 6[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]]    | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]]    | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]]    | [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]    |
+| 7[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]] | [[Ti🗡️Trickster🤡\|Ti🗡️Trickster🤡]] | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]] |
+| 8[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|Te🏹Demon😈]]     | [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]     | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]     | [[CARDS/Depth Psychology Theory/Fi🧭Demon😈\|Fi🧭Demon😈]]     |
 
 ---
 # Dictionary 
