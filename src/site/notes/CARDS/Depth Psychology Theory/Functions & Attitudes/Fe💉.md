@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T09:34:58.587+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T13:23:35.480+02:00"}
 ---
 
 # Attitudes 
@@ -57,7 +57,7 @@
 |:---------------|:-----------|:---------------|:---------------|
 | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]       | | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]&nbsp; |      |
 | |  [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  |     | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]       |
-| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; |   |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      |    |  
+| [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]&nbsp; |   |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      |    |  
 
 ## Attitudes
 | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | 
