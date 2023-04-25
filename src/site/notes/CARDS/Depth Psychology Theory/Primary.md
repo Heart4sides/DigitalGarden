@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-24T20:04:09.457+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-25T15:15:43.943+02:00"}
 ---
 
 #on/psychology 
@@ -12,7 +12,7 @@ The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is prim
 - [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] - primary in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 	- [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
 	- [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
-- [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]] - primary in the [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]
+- [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] - primary in the [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]
 - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] - primary in the [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]
 - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] - Primary in the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 
