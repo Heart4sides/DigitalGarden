@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/by-type/intp-list/","created":"2022-12-13T22:16:55.792+01:00","updated":"2023-04-21T19:46:46.454+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/by-type/intp-list/","created":"2022-12-13T22:16:55.792+01:00","updated":"2023-04-25T11:17:47.360+02:00"}
 ---
 
 
@@ -26,7 +26,7 @@
 - Smaug ? 
 - Thanos
 - Baron Harkonen
-    - "He who controls the spice controls the universe" = [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+    - "He who controls the spice controls the universe" = [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 - Timon & Pumba 
 - Charles Xavier
 - Horace Slughorn 
