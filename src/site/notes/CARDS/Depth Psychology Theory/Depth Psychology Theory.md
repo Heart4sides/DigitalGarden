@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T22:30:18.536+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-26T01:04:42.521+02:00"}
 ---
 
 
@@ -7,6 +7,9 @@
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
 - [[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]]
 - [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
+- [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
+- [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
+- [[CARDS/Depth Psychology Theory/🧭Fi-Fe💉\|🧭Fi-Fe💉]]
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]
@@ -243,7 +246,6 @@
 - [[CARDS/Depth Psychology Theory/The Holy Witness · Carolne Myss\|The Holy Witness · Carolne Myss]]
 - [[CARDS/Depth Psychology Theory/The Prostitute · Caroline Myss\|The Prostitute · Caroline Myss]]
 - [[CARDS/Depth Psychology Theory/The rate of living hypothesis\|The rate of living hypothesis]]
-- [[CARDS/Depth Psychology Theory/Ti-Fi Battleground\|Ti-Fi Battleground]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]
