@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T13:23:12.194+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T14:08:21.241+02:00"}
 ---
 
 
@@ -76,23 +76,7 @@
 - [[CARDS/Depth Psychology Theory/Expedient\|Expedient]]
 - [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]
 - [[CARDS/Depth Psychology Theory/Faustian Deal\|Faustian Deal]]
-- [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]
-- [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
-- [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]]
-- [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]]
-- [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]]
-- [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Fe💫Fi💕\|Fe💫Fi💕]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Child👼\|Fi🧭Child👼]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Demon😈\|Fi🧭Demon😈]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Nemesis😟\|Fi🧭Nemesis😟]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
 - [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]
 - [[CARDS/Depth Psychology Theory/Focus\|Focus]]
 - [[CARDS/Depth Psychology Theory/Frames per second bandwidth\|Frames per second bandwidth]]
@@ -140,7 +124,7 @@
 - [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]]
 - [[CARDS/Depth Psychology Theory/Introverted Cognitive Functions\|Introverted Cognitive Functions]]
 - [[CARDS/Depth Psychology Theory/ISFJ superego\|ISFJ superego]]
-- [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]]]
+- [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]
 - [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]
 - [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]
 - [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]
