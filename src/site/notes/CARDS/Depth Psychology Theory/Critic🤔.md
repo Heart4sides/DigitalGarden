@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-21T19:24:46.504+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-25T15:36:41.982+02:00"}
 ---
 
 
