@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-origin/","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-04-08T11:35:29.986+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-origin/","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-04-25T13:23:09.959+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@ The thing that we seek most in life.
 [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] : [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]
 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
-[[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] : [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
+[[CARDS/Depth Psychology Theory/ENTP\|ENTP]] | [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]] : [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
 [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] : [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]
 
 [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
