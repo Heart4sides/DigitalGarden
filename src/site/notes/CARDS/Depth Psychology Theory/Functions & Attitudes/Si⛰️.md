@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-24T20:03:52.076+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-25T09:34:14.881+02:00"}
 ---
 
+# Attitudes 
 
+## Hero🦸‍♂️ 
+## Parent🤨 
+## Child👼 
+# Inferior😨
+## Nemesis😟
+## Critic🤔
+## Trickster🤡
+## Demon😈 
+
+--- 
 ## Keywords
 - Introverted Sensing
 - Was
