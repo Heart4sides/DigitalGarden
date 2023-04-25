@@ -1,17 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T13:25:48.114+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T13:30:58.090+02:00"}
 ---
 
 #on/psychology
 
 # Depth Psychology Theory
-[[Ne#Hero🦸‍♂\|Ne#Hero🦸‍♂]]
+[[Ne#Hero\|Ne#Hero]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|ne]]
 [[CARDS/Depth Psychology Theory/ISFJ💂#Virtues Vices\|ISFJ💂#Virtues Vices]]
 [[CARDS/Depth Psychology Theory/ISFJ💂#Temples💂\|ISFJ💂#Temples💂]]
 
 ## Perception
 
-|                      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]            |
+|                      | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]==            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]            |
 | -------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | 1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Hero🦸‍♂️\|Ne💧#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥#Hero🦸‍♂️\|Ni🔥#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️#Hero🦸‍♂️\|Se🌪️#Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️#Hero🦸‍♂️\|Si⛰️#Hero🦸‍♂️]]   |
 | 2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Parent🤨\|Ne💧#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥#Parent🤨\|Ni🔥#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️#Parent🤨\|Se🌪️#Parent🤨]]    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️#Parent🤨\|Si⛰️#Parent🤨]]    |
