@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-25T13:04:50.949+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-25T13:15:25.903+02:00"}
 ---
 
 
@@ -31,7 +31,7 @@
 | Virtu                | [[Faith\|Faith]]                    | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]              |
 | Vice                 | [[Fear\|Fear]]                     | [[Insincerity\|Insincerity]]            |
 
-# Know what they hold sacred with the Temples & Octogram
+# Temples
 
 | Type                 | ISFJ [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]            | ENTP [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]    |
 | -------------------- | ---------------------------- | -------------------------- |
@@ -50,15 +50,10 @@
 | [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]                              |   -        |
 | [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Envy\|Envy]]                              |    -       |
 
-## Mentions 
-ctrl + schift + Q
-[[SOURCES/Type Theory by CSJ/Functions/Crusader by CSJ\|Crusader by CSJ]]
-[[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
-[[EXTRAS/Templates/TPL Function\|TPL Function]]
-[[EXTRAS/Templates/TPL Type\|TPL Type]]
-[[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
+# Examples 
+| File                                                          | Type                                            |
+| ------------------------------------------------------------- | ----------------------------------------------- |
+| [[CARDS/Individuals/François Hollande\|François Hollande]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] |
+| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]   | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] |
+| [[CARDS/Individuals/Richard Bach\|Richard Bach]]           | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] |
 
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
-[[CARDS/Individuals/By type/ISFJ list\|ISFJ list]]
