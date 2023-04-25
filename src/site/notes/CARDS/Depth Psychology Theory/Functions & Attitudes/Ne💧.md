@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T13:23:35.548+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T13:31:07.288+02:00"}
 ---
 
 	[[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]] 
@@ -19,7 +19,7 @@
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 - Water
 
-# Hero🦸‍♂️ 
+# Hero 
 # Parent🤨 
 # Child👼 
 # Inferior😨
