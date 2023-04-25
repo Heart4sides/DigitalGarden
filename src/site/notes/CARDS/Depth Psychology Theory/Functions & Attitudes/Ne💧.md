@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T16:41:43.839+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T17:24:21.290+02:00"}
 ---
 
 
@@ -20,24 +20,38 @@
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 - Water
 
-| Immature Hero                                          | Mature Hero                                                      |
-| ------------------------------------------------------ | ---------------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others want.➖ | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Warrior]], responsible with what others want |
+# Attitude
+| 1-Immature                                             | 1-Mature                                               |
+| ------------------------------------------------------ | ------------------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others want.➖ | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others want.➖ |
 
-| Immature Parent | Mature Parent |
-| --------------- | ------------- |
-| \-              | \-            |
+| 2-Immature                                                   | 2-Mature                                           |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others want. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others want |
 
+| 3-Immature                                               | 3-Mature                                         |
+| -------------------------------------------------------- | ------------------------------------------------ |
+| I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what others want | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what others want |
 
-# Hero 
-# Parent🤨 
-# Child👼 
-# Inferior😨
-# Nemesis😟
-“I [[CARDS/· Related Concepts & Theories ·/Worry\|worry]] that other people do not want the same thing as me”
-# Critic🤔
-# Trickster🤡
-# Demon😈
+| 4-Immature                                                       | 4-Mature                                                            |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others want | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others want |
+
+| 5-Immature                                                                | 5-Mature                                                    |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| “I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], worried of and presumptuous with what others want” | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others want |
+
+| 6-Immature                                         | 6-Mature                                              |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]], cynical with what others want | I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Sage]], wise with what others want |
+
+| 7-Immature                                            | 7-Mature                                                          |
+| ----------------------------------------------------- | ----------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], foolish with what others want | I am the [[CARDS/Depth Psychology Theory/Trickster🤡\|Master]], brilliant with what others want |
+
+| 8-Immature                                               | 8-Mature                                                           |
+| -------------------------------------------------------- | ------------------------------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what others want | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what others want |
 
 
 # Quadras
