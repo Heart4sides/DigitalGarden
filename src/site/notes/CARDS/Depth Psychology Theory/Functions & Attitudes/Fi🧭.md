@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-24T20:03:51.540+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T09:35:04.899+02:00"}
 ---
 
+# Attitudes 
 
+## Hero🦸‍♂️ 
+## Parent🤨 
+## Child👼 
+# Inferior😨
+## Nemesis😟
+## Critic🤔
+## Trickster🤡
+## Demon😈 
+
+--- 
 ## Keywords
 { #fe85ef}
 
