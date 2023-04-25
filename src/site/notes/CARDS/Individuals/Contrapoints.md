@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-25T21:58:06.821+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-26T00:54:30.413+02:00"}
 ---
 
 #on/philosophy #on/politics 
@@ -10,7 +10,7 @@
 	- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
 	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
 - [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] : "I love attention !"
-- [[SOURCES/Type Theory by CSJ/Functions/Ti-Fe⚕️\|Ti-Fe⚕️]] : empathize with the person but still criticize  
+- [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] : empathize with the person but still criticize  
 - [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
 - [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
