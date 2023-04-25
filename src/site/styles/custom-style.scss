@@ -11,7 +11,9 @@ body.backlinks-note-icon .backlink[data-note-icon="1"]::before {
 TABLESTYLES
 /* --------------------------------------------   */
 /* Custom fonts. Comment or change as required    */
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+{
+	@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,300,700);
+}
 /* --------------------------------------------   */
 
 
