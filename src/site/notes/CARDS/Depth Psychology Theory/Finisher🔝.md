@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-23T08:59:01.413+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-25T11:19:49.307+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 { #a2cd63}
 
 
-[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]]  
+[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]  
 
 
 # Comments 
