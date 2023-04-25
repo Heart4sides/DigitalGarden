@@ -1,8 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-24T20:03:51.759+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-25T09:34:05.741+02:00"}
 ---
 
+# Attitudes 
 
+## Hero🦸‍♂️ 
+## Parent🤨 
+## Child👼 
+# Inferior😨
+## Nemesis😟
+## Critic🤔
+## Trickster🤡
+## Demon😈 
+
+--- 
 ## Keywords 
 - Is - what's happening
 - Collective consciousness
