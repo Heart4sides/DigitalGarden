@@ -6,9 +6,9 @@
 
 ## Quadra & Functions
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
-	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] | [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
+	[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] | [[Fe💉Child👼\|Fe💉Child👼]] | [[CARDS/Depth Psychology Theory/Si⛰️Inferior😨\|Si⛰️Inferior😨]]
 [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
-	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
+	[[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Te🏹Critic🤔\|Te🏹Critic🤔]] | [[Fi🧭Trickster🤡\|Fi🧭Trickster🤡]] | [[CARDS/Depth Psychology Theory/Se🌪️Demon😈\|Se🌪️Demon😈]]
 
 ## 4 sides  
 [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]] ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]
