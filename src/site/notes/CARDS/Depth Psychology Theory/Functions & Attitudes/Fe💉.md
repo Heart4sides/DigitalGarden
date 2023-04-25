@@ -62,15 +62,15 @@
 ## Attitudes
 | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | 
 |----------------- |---| 
-| [[CARDS/Depth Psychology Theory/Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | 
-| [[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]]  | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] |
-| [[CARDS/Depth Psychology Theory/Fe💉Child👼\|Fe💉Child👼]]   | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] |
-| [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]] |
+| [[Fe💉Hero🦸‍♂️\|Fe💉Hero🦸‍♂️]] | [[Fe💉Nemesis😟\|Fe💉Nemesis😟]] | 
+| [[Fe💉Parent🤨\|Fe💉Parent🤨]]  | [[Fe💉Critic🤔\|Fe💉Critic🤔]] |
+| [[Fe💉Child👼\|Fe💉Child👼]]   | [[Fe💉Trickster🤡\|Fe💉Trickster🤡]] |
+| [[Fe💉Inferior😨\|Fe💉Inferior😨]] | [[Fe💉Demon😈\|Fe💉Demon😈]] |
 
 
 ---
 [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
-[[CARDS/Depth Psychology Theory/Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]] | [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Fe💉Demon😈\|Fe💉Demon😈]]
+[[Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[Fe💉Critic🤔\|Fe💉Critic🤔]] | [[Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[Fe💉Demon😈\|Fe💉Demon😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
