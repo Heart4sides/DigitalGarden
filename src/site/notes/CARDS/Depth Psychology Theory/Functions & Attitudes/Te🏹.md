@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T11:17:47.180+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T13:23:36.332+02:00"}
 ---
 
 # Attitudes 
@@ -39,7 +39,7 @@
 | --- | ------------------------------------------------- | ------------------ | ------------ | --------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]]     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]      |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]       |        [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]    |    [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🔱]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]           |   [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🔱]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]             |
-| IS | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]                                          | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]           | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]     | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]        |
+| IS | [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]                                          | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]           | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]     | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]        |
 | ES | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]                                          | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]           | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]     | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        |
 | IN | [[CARDS/Depth Psychology Theory/INTP\|INTP]]                                          | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]           | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]     | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        |
 | EN | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]                                          | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]           | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]     | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]        |
@@ -53,7 +53,7 @@
 | [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]     | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]     |
 | [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]         | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]     |
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]]   | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]     | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |
-| [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
+| [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] | [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]     | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    | [[CARDS/Depth Psychology Theory/INTP\|INTP]]         | [[CARDS/Depth Psychology Theory/INFP\|INFP]]     |      
 
 ---
 
