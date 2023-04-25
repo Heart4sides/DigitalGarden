@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-25T09:34:05.741+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-25T11:17:47.049+02:00"}
 ---
 
 # Attitudes 
@@ -56,7 +56,7 @@
  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Dictionary
-- IPOF : [[CARDS/Depth Psychology Theory/Outcome🎯\|Outcome🎯]]
+- IPOF : [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 - [[SOURCES/Contents/Education x Typology\|Education x Typology]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] (mirror)
