@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T22:31:31.953+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T00:52:08.288+02:00"}
 ---
 
 # Functional Relationships 
 
 	[[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]] 
-	Extroverted Intuition is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]desires ↔️ own desirability. Ne users provide choice, prediction and warning to Ni users. 
+	Extroverted Intuition is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]desires ↔️ one’s own desirability. Ne users provide choice, prediction and warning to Ni users. 
 
 	[[SOURCES/Type Theory by CSJ/Functions/Si⛰️↔️💧Ne\|Si⛰️↔️💧Ne]] 
 	Ne users see & manipulate others’ desires to garantee their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] security & comfort.  
@@ -48,7 +48,7 @@
 
 ---
 # Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
 
 --- 
 
