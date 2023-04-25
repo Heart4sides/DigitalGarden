@@ -5,7 +5,7 @@
 Links :: [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] 
 
 ## Fe - TE
-[[CARDS/Depth Psychology Theory/Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
+[[Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so others can be free and i can finally be socially accepted as myself.
@@ -14,7 +14,7 @@ Figure out the right people to listen to, which opinions are valuable. appearanc
 Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cultish types.
 "If I didn't solve my own problems before, I won't be able to solve them now." Feels bad because he's not accepted even though he solved everyone's problems. So focused on loving everybody else that they neglect to solve their own problems.
 
-[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fe💉Trickster🤡\|Fe💉Trickster🤡]]
+[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[Fe💉Trickster🤡\|Fe💉Trickster🤡]]
 
 | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] | [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 |               |                                                                                                                                                   |
 
 ## Fi - Ti
-[[CARDS/Depth Psychology Theory/Fi🧭Parent🤨\|Fi🧭Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
+[[Fi🧭Parent🤨\|Fi🧭Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 
@@ -34,7 +34,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 Only help people to get credibility, which is a covert contract.
 
-[[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
+[[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] ⚡ [[Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 Learn to take all of the harm onto itself. Learn how to become the pariah and thus lead by example. All that with self-respect so you don't sacrifice yourself for others. The only way to break their conditioning is if you break your conditioning first. Established social norms may not be healthy. Slay these norms with Ti parent and take the fallout (pariah) for the benefit of others. I break the rules or the chains so that people can be free and I can finally be accepted as myself. Who cares if your feelings are accurate / valid / right / justified ? Be honest about what you feel, which invites criticism from the other party.
 
