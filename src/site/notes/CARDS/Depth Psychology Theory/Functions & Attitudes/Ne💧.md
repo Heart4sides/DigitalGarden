@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T13:31:07.288+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T15:00:48.261+02:00"}
 ---
 
 	[[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]] 
@@ -19,11 +19,21 @@
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 - Water
 
+| Immature Hero                       | Mature Hero                            |
+| ----------------------------------- | -------------------------------------- |
+| I am the savior of what others want | I am responsible with what others want |
+
+| Immature Parent                     | Mature Parent                      |
+| ----------------------------------- | ---------------------------------- |
+| I am gullible with what others want | I am skeptical of what others want |
+
+
 # Hero 
 # Parent🤨 
 # Child👼 
 # Inferior😨
 # Nemesis😟
+“I [[CARDS/· Related Concepts & Theories ·/Worry\|worry]] that other people do not want the same thing as me”
 # Critic🤔
 # Trickster🤡
 # Demon😈
