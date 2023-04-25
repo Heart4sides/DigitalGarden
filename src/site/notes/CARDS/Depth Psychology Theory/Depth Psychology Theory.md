@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T11:19:47.979+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T11:58:24.112+02:00"}
 ---
 
 
@@ -172,6 +172,7 @@
 - [[CARDS/Depth Psychology Theory/Ne💫Ni♨️\|Ne💫Ni♨️]]
 - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Ni vs Si\|Ni vs Si]]
+- [[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
