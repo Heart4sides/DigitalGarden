@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-23T20:51:05.220+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-25T11:19:50.932+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -77,7 +77,7 @@
 > "Effective teachers provide experiences so that students can learn by doing ([[-Si⛰️\|-Si⛰️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest👀\|interests]] and questions."
 > "The scientific [[CARDS/Depth Psychology Theory/Systematic⚙️\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic⚙️\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
-> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression🚧\|Progression🚧]] [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]) of our citizens through  experiencing freedom ([[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]) and democracy in schools. Shared decision making ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
+> "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]) of our citizens through  experiencing freedom ([[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]) and democracy in schools. Shared decision making ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
 ## Reconstructionism / Critical Theory
 > "Social reconstructionism is a philosophy that emphasizes the addressing of social questions and a quest to create a better society and worldwide democracy" [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]
