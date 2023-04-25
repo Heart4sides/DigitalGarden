@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-25T11:19:51.356+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-25T13:23:36.744+02:00"}
 ---
 
 
@@ -28,7 +28,7 @@ VS [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]
 
 ## Types 
 - [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]] : [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]
-- [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
+- [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
 
 ## Functions
 [[CARDS/Depth Psychology Theory/Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
