@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T10:25:44.795+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T10:56:49.031+02:00"}
 ---
 
 ![Water-sans-letters.png](/img/user/EXTRAS/Images/Water-sans-letters.png)
-
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Quadras\|#Quadras]]
-[[ATLAS/MOC 🗺️ Depth Psychology#Attitudes\|MOC 🗺️ Depth Psychology#Attitudes]]
 
 # Attitudes 
 
