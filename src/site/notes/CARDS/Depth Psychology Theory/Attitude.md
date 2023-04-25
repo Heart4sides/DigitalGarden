@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T12:16:08.183+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-25T13:04:15.900+02:00"}
 ---
 
 #on/psychology
 
 # Depth Psychology Theory
-
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#Hero🦸‍♂️\|Ne💧#Hero🦸‍♂️]]
 ## Perception
 
 |                      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]            | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]            |
