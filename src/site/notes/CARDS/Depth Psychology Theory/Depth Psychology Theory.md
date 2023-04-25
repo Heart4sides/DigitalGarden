@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T19:17:00.618+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T22:30:18.536+02:00"}
 ---
 
 
+- [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
 - [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
+- [[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]]
+- [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]
@@ -124,7 +127,7 @@
 - [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]]
 - [[CARDS/Depth Psychology Theory/Introverted Cognitive Functions\|Introverted Cognitive Functions]]
 - [[CARDS/Depth Psychology Theory/ISFJ superego\|ISFJ superego]]
-[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
+- [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]
 - [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]
 - [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]
 - [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]
@@ -156,7 +159,6 @@
 - [[CARDS/Depth Psychology Theory/Ne💫Ni♨️\|Ne💫Ni♨️]]
 - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
 - [[CARDS/Depth Psychology Theory/Ni vs Si\|Ni vs Si]]
-- [[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Child👼\|Ni🔥Child👼]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
@@ -206,7 +208,6 @@
 - [[CARDS/Depth Psychology Theory/Servility\|Servility]]
 - [[CARDS/Depth Psychology Theory/SF\|SF]]
 - [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]
-- [[CARDS/Depth Psychology Theory/Si-Se Orbit\|Si-Se Orbit]]
 - [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]
 - [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|Si⛰️Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Si⛰️Demon😈\|Si⛰️Demon😈]]
