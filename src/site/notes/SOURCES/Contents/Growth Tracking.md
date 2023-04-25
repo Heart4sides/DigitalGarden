@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-24T20:29:25.328+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-25T15:15:45.265+02:00"}
 ---
 
 #on/depthpsychology 
@@ -15,7 +15,7 @@
 | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]   | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] | Flexibility    |
 | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]    | [[Anchor\|Anchor]]    | Freedom        |
 | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]     | Rest          | Diligence      |
-| [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]  | Vulnerability | Happiness      |
+| [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]  | Vulnerability | Happiness      |
 
 | ➕  | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]           | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]     |                
 | ---------------- | ------------ | -------------- |
