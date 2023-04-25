@@ -1,35 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T11:19:51.094+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T12:07:41.532+02:00"}
 ---
 
+	[[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]] 
+	Extroverted Intuition is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]desires ↔️ own desirability. Ne users provide choice, prediction and warning to Ni users. 
 
-# Attitudes 
+	[[SOURCES/Type Theory by CSJ/Functions/Si⛰️↔️💧Ne\|Si⛰️↔️💧Ne]] 
+	Ne users see & manipulate others’ desires to garantee their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] security & comfort.  
 
-## Hero🦸‍♂️ 
-[[CARDS/Depth Psychology Theory/ENTP\|ENTP]] & [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] 
+	[[Ne💧⚡🌪️Se\|Ne💧⚡🌪️Se]]
+	Ne users neglect awareness of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] physics and reality for the sake of perceiving abstract possibilities. 
 
-## Parent🤨 
-## Child👼 
-## Inferior😨
-## Nemesis😟
-## Critic🤔
-## Trickster🤡
-## Demon😈
-
-## Keywords 
-- Extroverted Intuition
-- Collective Potential
-- Collective Fate
-- Provide Choices 
+# Other Keywords 
+- Collective Potential, Future, Fate
 - Sees Possibilities 
 - Predict consequences & outcomes 
-- Desirability
 - Original [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
-- Manipulating the collective future 
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 - Water
 
-## Quadras
+# Hero🦸‍♂️ 
+# Parent🤨 
+# Child👼 
+# Inferior😨
+# Nemesis😟
+# Critic🤔
+# Trickster🤡
+# Demon😈
+
+
+# Quadras
 [[CARDS/Depth Psychology Theory/Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] 
 
 ## Types 
@@ -49,13 +49,6 @@
 | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]     | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]    | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]     | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]        |
 
 ---
-
-## Attitudes
-> [!example] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
-[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] | [[CARDS/Depth Psychology Theory/Ne💧Child👼\|Ne💧Child👼]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
-
-> [!example] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
-[[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]] | [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|Ne💧Demon😈]]
 
 ## Relationships 
 [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
