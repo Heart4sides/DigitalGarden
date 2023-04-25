@@ -28,7 +28,7 @@
 | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]           | Se       | 3-Child      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]             | Si       | 3-Child      | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]             | Te       | 3-Child      | \-                                                     |
-| [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]           | Ti       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]       |
+| [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]           | Ti       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]     |
 | [[CARDS/Depth Psychology Theory/Fe💉Inferior😨\|Fe💉Inferior😨]]       | Fe       | 4-Inferior   | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Fi🧭Inferior👶\|Fi🧭Inferior👶]]       | Fi       | 4-Inferior   | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]       | Ne       | 4-Inferior   | \-                                                     |
@@ -46,7 +46,7 @@
 | [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]]         | Te       | 5-Nemesis    | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]       | Ti       | 5-Nemesis    | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Fe💉Critic🤔\|Fe💉Critic🤔]]           | Fe       | 6-Critic     | \-                                                     |
-| [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]           | Fi       | 6-Critic     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] \| [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]       |
+| [[CARDS/Depth Psychology Theory/Fi🧭Critic🤔\|Fi🧭Critic🤔]]           | Fi       | 6-Critic     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] \| [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]     |
 | [[CARDS/Depth Psychology Theory/Ne💧Critic🤔\|Ne💧Critic🤔]]           | Ne       | 6-Critic     | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Ni🔥Critic🤔\|Ni🔥Critic🤔]]           | Ni       | 6-Critic     | \-                                                     |
 | [[CARDS/Depth Psychology Theory/Se🌪️Critic🤔\|Se🌪️Critic🤔]]         | Se       | 6-Critic     | \-                                                     |
