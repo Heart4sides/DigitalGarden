@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-23T15:23:35.105+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-26T00:10:50.720+02:00"}
 ---
 
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
-- [[SOURCES/Type Theory by CSJ/Functions/Fi-Te⚖️\|Fi-Te⚖️]]
+- [[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜#Keywords\|Affiliative🐜#Keywords]]  
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] & [[CARDS/Depth Psychology Theory/Humility\|Humility]]
 
