@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T14:08:21.241+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T15:15:41.483+02:00"}
 ---
 
 
@@ -108,8 +108,7 @@
 - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
 - [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 - [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]
-- [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]
-- [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
+- [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
 - [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 - [[CARDS/Depth Psychology Theory/INFP\|INFP]]
 - [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]]
