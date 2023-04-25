@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T20:10:35.789+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T22:31:31.953+02:00"}
 ---
 
 # Functional Relationships 
 
-	[[CARDS/Depth Psychology Theory/Ni🔥💫💧Ne\|Ni🔥💫💧Ne]] 
+	[[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]] 
 	Extroverted Intuition is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]desires ↔️ own desirability. Ne users provide choice, prediction and warning to Ni users. 
 
 	[[SOURCES/Type Theory by CSJ/Functions/Si⛰️↔️💧Ne\|Si⛰️↔️💧Ne]] 
 	Ne users see & manipulate others’ desires to garantee their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] security & comfort.  
 
-	[[Ne💧⚡🌪️Se\|Ne💧⚡🌪️Se]]
-	Ne users neglect awareness of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] physics and reality for the sake of perceiving abstract possibilities. 
+	[[💧Ne-Se🌪️\|💧Ne-Se🌪️]]
+	Ne users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] physics and reality for the sake of perceiving abstract possibilities. 
 
 --- 
 # Other Keywords 
@@ -20,10 +20,9 @@
 - Predict consequences & outcomes 
 - Original [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
-- Water
 
 ---
-# Type Grid & Quadra 
+# Type Grid 
 
 |                      | <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]==</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> ==[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]==</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
@@ -35,6 +34,7 @@
 | [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
 | [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
 
+# Quadras
 
 | <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
@@ -47,7 +47,7 @@
 
 
 ---
-## Temple 
+# Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]
 
 --- 
@@ -84,5 +84,3 @@
 | 8-Immature                                               | 8-Mature                                                             |
 | -------------------------------------------------------- | -------------------------------------------------------------------- |
 | I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what others want | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel😇]], filled with love for what others want |
-
----
