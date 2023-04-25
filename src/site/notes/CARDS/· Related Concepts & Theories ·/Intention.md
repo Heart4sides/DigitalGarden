@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-24T12:49:20.464+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-04-25T21:58:06.946+02:00"}
 ---
 
 
@@ -24,7 +24,7 @@
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Child\|Cognitive attitude of the Child]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Demon\|Cognitive attitude of the Demon]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Trickster\|Cognitive attitude of the Trickster]]
-- [[SOURCES/Type Theory by CSJ/Functions/Ni-Se🌠\|Ni-Se🌠]] 
+- [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] 
 - [[SOURCES/Type Theory by CSJ/Temples/Soul Temple/Soul Temple General/Soul Temple Origins\|Soul Temple Origins]]
 
 ## Wordnik
