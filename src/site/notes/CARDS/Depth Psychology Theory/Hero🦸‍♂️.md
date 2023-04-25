@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-25T09:09:52.045+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-25T15:19:20.511+02:00"}
 ---
 
 
 The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
 It is the strongest function of our stack along with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon]]. 
 It has an infinite amount of energy. 
-It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior]]. 
+It is the main protector of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]]. 
 
 # Keywords
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
@@ -14,7 +14,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|In
 - [[Arrogance\|Arrogance]]
 - [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] to the Ego
 - [[Perform\|Perform]] - the ultimate performer
-- Parent of the [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior]] 
+- Parent of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] 
 - Can rest on its laurels 
 
 # In Attitudes
@@ -25,7 +25,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|In
 
 ## Axis, Orbit, Reflect
 
-[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
 
 [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
 
