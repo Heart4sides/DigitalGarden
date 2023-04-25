@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-25T09:01:06.320+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-25T09:09:52.045+02:00"}
 ---
 
 
@@ -18,9 +18,6 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Inferior😨\|In
 - Can rest on its laurels 
 
 # In Attitudes
-
-## Ne💧Hero🦸‍♂
-
 
 [[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|Ne💧Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|Ni🔥Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|Se🌪️hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]]
 
