@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-24T21:27:57.030+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-24T21:57:03.483+02:00"}
 ---
 
 
@@ -20,12 +20,6 @@
 
 
 ## 4 sides  
-| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
-| -------------- | ------------------ | ------------------- |
-| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]               | ➡️[[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
-| ⬇️[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | ↘️ [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
-| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
-| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]    |                   |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] |
 
 
 ## Type Grid 
@@ -43,6 +37,18 @@
 
 ## Virtu & Vice
 [[Fear\|Fear]] [[Faith\|Faith]]
+| Type                 | ISFJ                         | ENTP                       |
+| -------------------- | ---------------------------- | -------------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]                 | //                         |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                  | //                         |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[Injustice\|Injustice]]                | //                         |
+| Virtu                | [[Faith\|Faith]]                    | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]              |
+| Vice                 | [[Fear\|Fear]]                     | [[Insincerity\|Insincerity]]            |
+| Mind’s Temples       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
+| [[CARDS/Depth Psychology Theory/SD\|SD]]               |                              | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]               |
+| [[CARDS/Depth Psychology Theory/SF\|SF]]               |                              | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
+|                      |                              |                            |
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
@@ -53,8 +59,8 @@
 | [[CARDS/Depth Psychology Theory/SD\|SD]]   |    | ==[[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]==      |
 | [[CARDS/Depth Psychology Theory/SF\|SF]] |    | ==[[CARDS/Depth Psychology Theory/Compassion\|Compassion]]==    |
 |       | [[CARDS/Depth Psychology Theory/Shadow👤\|Unconscious👤]] |     [[CARDS/Depth Psychology Theory/Superego👹\|👹]]     |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]   | **[[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]** |                        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]] | **[[CARDS/Depth Psychology Theory/Envy\|Envy]]**       |                        |
+| [[CARDS/Depth Psychology Theory/UD\|UD]]   | ==[[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]== |                        |
+| [[CARDS/Depth Psychology Theory/UF\|UF]] | ==[[CARDS/Depth Psychology Theory/Envy\|Envy]]==       |                        |
 
 
 ## Mentions 
