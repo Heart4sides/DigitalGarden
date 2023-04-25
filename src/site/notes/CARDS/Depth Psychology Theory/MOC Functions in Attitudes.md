@@ -22,7 +22,7 @@
 | [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]]           | Se       | 3-Child      | \-                                                   |
 | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]             | Si       | 3-Child      | \-                                                   |
 | [[CARDS/Depth Psychology Theory/Te🏹Child👼\|Te🏹Child👼]]             | Te       | 3-Child      | \-                                                   |
-| [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]           | Ti       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ💂\|ISFJ💂]]   |
+| [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]           | Ti       | 3-Child      | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] \| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] \| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] \| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]     |
 | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]       | Ne       | 4-Inferior   | \-                                                   |
 | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|Ni🔥Inferior😨]]       | Ni       | 4-Inferior   | \-                                                   |
 | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|Se🌪️Inferior😨]]     | Se       | 4-Inferior   | \-                                                   |
