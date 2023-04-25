@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway-function/","created":"2022-12-31T18:11:31.592+01:00","updated":"2023-04-23T11:02:59.955+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway-function/","created":"2022-12-31T18:11:31.592+01:00","updated":"2023-04-25T15:15:42.129+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 ## Gateway to the 4 sides
 - [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] : Gateway to the Ego 
 - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] : Shadow 
-- [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]] : Subconscious
+- [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] : Subconscious
 - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] : Superego
 
 ## External Gateways
