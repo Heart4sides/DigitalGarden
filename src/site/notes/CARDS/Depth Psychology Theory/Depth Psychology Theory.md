@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-24T21:07:29.361+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-25T10:40:31.867+02:00"}
 ---
 
 
@@ -252,7 +252,7 @@
 - [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
 - [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]
 - [[CARDS/Depth Psychology Theory/Templar\|Templar]]
-- [[CARDS/Depth Psychology Theory/Temple\|Temple]]
+- [[CARDS/Depth Psychology Theory/Temple🙏\|Temple🙏]]
 - [[CARDS/Depth Psychology Theory/The Cognitive Battlegrounds\|The Cognitive Battlegrounds]]
 - [[CARDS/Depth Psychology Theory/The Holy Witness · Carolne Myss\|The Holy Witness · Carolne Myss]]
 - [[CARDS/Depth Psychology Theory/The Prostitute · Caroline Myss\|The Prostitute · Caroline Myss]]
@@ -260,7 +260,7 @@
 - [[CARDS/Depth Psychology Theory/Ti-Fi Battleground\|Ti-Fi Battleground]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]]
--[[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]
+- [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|Ti🗡️Demon😈]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Hero🦸‍♂️\|Ti🗡️Hero🦸‍♂️]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Inferior😨\|Ti🗡️Inferior😨]]
 - [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]]
