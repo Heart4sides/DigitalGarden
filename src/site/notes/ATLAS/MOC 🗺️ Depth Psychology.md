@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-25T13:23:05.299+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-25T15:15:41.050+02:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 |   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                    |
 |  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                    |
 |  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                    |
-|  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Inferior😨\|Inferior😨]]                   |
+|  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                   |
 |    5[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
 |    6[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
 |   7[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
