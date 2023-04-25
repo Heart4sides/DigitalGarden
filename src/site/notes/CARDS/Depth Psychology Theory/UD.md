@@ -9,7 +9,7 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 > [!quote]
 "No one wants to become UD/UF"
-[[CARDS/Depth Psychology Theory/Fi🧭Trickster🤡#CSJ\|Fi🧭Trickster🤡#CSJ]]
+[[Fi🧭Trickster🤡#CSJ\|Fi🧭Trickster🤡#CSJ]]
 
 Attached to the Shadow Temple = [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
