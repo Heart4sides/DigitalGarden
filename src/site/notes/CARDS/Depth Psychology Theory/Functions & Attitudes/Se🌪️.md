@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T08:35:55.581+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T08:43:20.496+02:00"}
 ---
 
 #on/depthpsychology 
@@ -53,7 +53,43 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
 
 ---
-| MOC                                                          | Reference                                                                                                                                                                                   |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li><ul><li>MOC 🗺️ Depth Psychology</li></ul></li></ul> | <ul><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+# Function in Attitudes 
+
+| 1-Immature                                                  | 1-Mature                                                    |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others experience. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others experience. |
+
+| 2-Immature                                                         | 2-Mature                                                 |
+| ------------------------------------------------------------------ | -------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others experience. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others experience |
+
+| 3-Immature                                                     | 3-Mature                                               |
+| -------------------------------------------------------------- | ------------------------------------------------------ |
+| I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what others experience | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what others experience |
+
+| 4-Immature                                                             | 4-Mature                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others experience | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others experience |
+
+| 5-Immature                                                         | 5-Mature                                                          |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], worried and unsure of what others experience | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others experience |
+
+| 6-Immature                                               | 6-Mature                                                    |
+| -------------------------------------------------------- | ----------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]], cynical with what others experience | I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Sage]], wise with what others experience |
+
+| 7-Immature                                                  | 7-Mature                                                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], foolish with what others experience | I am the [[CARDS/Depth Psychology Theory/Trickster🤡\|Master]], brilliant with what others experience |
+
+| 8-Immature                                                     | 8-Mature                                                                 |
+| -------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what others experience | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what others experience |
+
+---
+# References
+| References                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
