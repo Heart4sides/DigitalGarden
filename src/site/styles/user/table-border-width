@@ -1,0 +1,4 @@
+{
+body
+ --table-border-width: 5px;
+ }
