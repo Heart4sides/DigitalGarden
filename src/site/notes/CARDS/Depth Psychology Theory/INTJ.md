@@ -89,11 +89,8 @@
 
 ---
 # Examples 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-       |
-| [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-       |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
+| File | octogram |
+| ---- | -------- |
 
 ---
 # Mentions
