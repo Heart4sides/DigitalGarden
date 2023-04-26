@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-26T12:07:44.907+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-26T13:33:32.515+02:00"}
 ---
 
 #on/depthpsychology  #type 
