@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-26T12:24:26.501+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-26T15:28:31.362+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,8 +89,9 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                                  | octogram |
+| ----------------------------------------------------- | -------- |
+| [[CARDS/Collectives/Bene Gesserit\|Bene Gesserit]] | \-       |
 
 ---
 # Mentions
