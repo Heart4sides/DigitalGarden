@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T17:52:47.725+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T18:22:35.898+02:00"}
 ---
 
 #on/depthpsychology 
@@ -7,7 +7,7 @@
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
-Extroverted Thinking is awareness of what other people’s think ↔️ one’s own reputation. Te users provide references, beliefs, inductions, understanding 
+Extroverted Thinking is awareness of what other people’s think ↔️ one’s own reputation. Te users provide references, beliefs, inductions, understanding, standards to Ti users. 
 
 [[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]]
 Te users see & manipulate others’ thoughts for the sake of increasing their perceived value.  
