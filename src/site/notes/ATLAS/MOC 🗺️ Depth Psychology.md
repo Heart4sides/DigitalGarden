@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-25T19:16:59.356+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-26T14:18:36.013+02:00"}
 ---
 
 
@@ -31,7 +31,7 @@
 # 4 sides of the Mind
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
 | -------------- | ------------------ | ------------------- |
-| -              | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | -                   |
+| -              | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] | -                   |
 | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
 | ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 | -               |                   |  -                   |
@@ -85,7 +85,7 @@
 [[CARDS/Depth Psychology Theory/Affection Pair\|Affection Pair]] | [[Silver\|Silver]] | [[CARDS/Depth Psychology Theory/Natural Pair\|Natural Pair]] | [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]] | [[Benefit\|Benefit]] | [[CARDS/Depth Psychology Theory/Kindred Pair\|Kindred Pair]] | [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]] | [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]
 
 ### Internal 
-[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
+[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[SOURCES/Type Theory by CSJ/Mechanics/Transitions\|Transitions]] 
 
 # 4 Temples 
 
