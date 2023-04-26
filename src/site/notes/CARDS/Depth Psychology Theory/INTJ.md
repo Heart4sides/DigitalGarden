@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-26T12:06:16.948+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-26T15:30:40.779+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,9 +89,10 @@
 
 ---
 # Examples 
-| File                                              | octogram |
-| ------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dario Nardi\|Dario Nardi]] | \-       |
+| File                                          | octogram |
+| --------------------------------------------- | -------- |
+| [[CARDS/Individuals/Boba Fett\|Boba Fett]] | \-       |
+| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
 
 ---
 # Mentions
