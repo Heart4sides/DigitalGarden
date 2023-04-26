@@ -89,8 +89,9 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                                    | octogram |
+| ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]] | \-       |
 
 ---
 # Mentions
