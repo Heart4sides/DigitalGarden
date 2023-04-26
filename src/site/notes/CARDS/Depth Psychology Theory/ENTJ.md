@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-26T12:08:47.249+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-26T15:27:59.609+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,8 +89,9 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                                  | octogram |
+| ----------------------------------------------------- | -------- |
+| [[CARDS/Collectives/Bene Gesserit\|Bene Gesserit]] | \-       |
 
 ---
 # Mentions
