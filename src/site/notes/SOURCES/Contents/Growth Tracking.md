@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-25T15:15:45.265+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-26T14:18:38.240+02:00"}
 ---
 
 #on/depthpsychology 
@@ -19,7 +19,7 @@
 
 | ➕  | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]           | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]     |                
 | ---------------- | ------------ | -------------- |
-|     🔗             | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]] |
+|     🔗             | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] |
 |                  | Depth        | Revolution     |
 | [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]   | Perspective  | Arrogance      |
 | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]    | Humility     | Complacency    |
