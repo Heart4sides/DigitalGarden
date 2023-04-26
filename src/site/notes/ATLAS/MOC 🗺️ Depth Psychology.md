@@ -13,6 +13,7 @@
 | [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul>                                                                                                                                                         |
 | [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                           |
 | [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                |
+| [[CARDS/Individuals/Louis B.\|Louis B.]]           | \-                                                                                                                                                                                                                                                                                           |
 
 
 # Attitudes
