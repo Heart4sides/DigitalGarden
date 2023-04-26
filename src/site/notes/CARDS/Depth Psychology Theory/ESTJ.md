@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-26T12:08:34.734+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-26T15:29:32.852+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -90,8 +90,9 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                          | octogram |
+| --------------------------------------------- | -------- |
+| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
 
 ---
 # Mentions
