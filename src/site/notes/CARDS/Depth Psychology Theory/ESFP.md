@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-26T12:07:34.809+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-26T15:31:39.665+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -90,9 +90,8 @@
 
 ---
 # Examples 
-| File                                                        | Type                                            |
-| ----------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] |
+| File | octogram |
+| ---- | -------- |
 
 ---
 # Mentions
