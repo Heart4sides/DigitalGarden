@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-25T19:17:03.146+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-26T08:51:25.530+02:00"}
 ---
 
 
-# Cognitive Functions Stack with Attitudes 
+# Cognitive Functions Stack in Attitudes 
 |               | 1                 | 2                | 3                   | 4                  |
 | ------------- | ----------------- | ---------------- | ------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[Fe💉Parent🤨\|Fe💉Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|Ti🗡️Child👼]]     | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]] |
@@ -31,7 +31,7 @@
 | Virtu                | [[Faith\|Faith]]                    | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]              |
 | Vice                 | [[Fear\|Fear]]                     | [[Insincerity\|Insincerity]]            |
 
-# Temples💂
+# Temples
 
 | Type                 | ISFJ [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]            | ENTP [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]    |
 | -------------------- | ---------------------------- | -------------------------- |
