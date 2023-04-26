@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-26T21:54:32.736+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-26T22:41:59.830+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -39,15 +39,15 @@
 
 ---
 # Type Grid 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
-|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| 🔛  | ESTJ       |    ESTP       | ENTJ|ENFJ| ➡️      | 👋       | 🏆     |
-| 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==      | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
-| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| 🔙 | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==           |  ISFP  | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
+|:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
+| 🔛                    | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
+| 🔜                    | ESFJ                      |       ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==        | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==                                     | ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]    | ISTJ                      |           ISTP            | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                                     | INFJ                      | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]            | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]  | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]]       |
+| 🔙                    | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |           ISFP            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
+|🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
+| 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
+|🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
 
 ---
 # Virtues & Vices
