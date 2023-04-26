@@ -5,9 +5,9 @@
 
 ## In Attitudes
 
-[[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] | [[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] | [[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]]
+[[Ne💧Parent🤨\|Ne💧Parent🤨]] | [[Ni🔥Parent🤨\|Ni🔥Parent🤨]] | [[Se🌪️Parent🤨\|Se🌪️Parent🤨]] | [[Si⛰️Parent🤨\|Si⛰️Parent🤨]]
 
-[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] | [[Fe💉Parent🤨\|Fe💉Parent🤨]] | [[Fi🧭Parent🤨\|Fi🧭Parent🤨]]
+[[Te🏹Parent🤨\|Te🏹Parent🤨]] | [[Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] | [[Fe💉Parent🤨\|Fe💉Parent🤨]] | [[Fi🧭Parent🤨\|Fi🧭Parent🤨]]
 
 ## Axis, Orbit, Reflect
 
