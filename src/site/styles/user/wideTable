@@ -1,0 +1,3 @@
+.wideTable table {
+	min-width: 100%;
+}
