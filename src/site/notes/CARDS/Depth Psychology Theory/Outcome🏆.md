@@ -19,7 +19,7 @@ VS [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]
 ## Related Notes 
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]
 - [[Fi🧭Hero🦸‍♂️\|Fi Hero]] 
-- [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te Hero]]
+- [[Te🏹Hero🦸‍♂️\|Te Hero]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] : IPOF
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] : IPOF
 - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] : final order, legacy 
@@ -31,10 +31,10 @@ VS [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
 
 ## Functions
-[[Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] - [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|Te🏹Inferior😨]]
-[[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] - [[Fi🧭Inferior👶\|Fi🧭Inferior👶]]
-[[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] - [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|Si⛰️Child👼]]
-[[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[CARDS/Depth Psychology Theory/Se🌪️Child👼\|Se🌪️Child👼]] 
+[[Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] - [[Te🏹Inferior😨\|Te🏹Inferior😨]]
+[[Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] - [[Fi🧭Inferior👶\|Fi🧭Inferior👶]]
+[[Ne💧Parent🤨\|Ne💧Parent🤨]] - [[Si⛰️Child👼\|Si⛰️Child👼]]
+[[Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[Se🌪️Child👼\|Se🌪️Child👼]] 
 
 Outcome = [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] + [[CARDS/Depth Psychology Theory/Judgement\|Judger]]
 
