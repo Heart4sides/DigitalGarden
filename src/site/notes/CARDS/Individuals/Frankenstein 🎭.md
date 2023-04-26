@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-22T20:34:50.788+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-26T18:51:51.895+02:00"}
 ---
 
 > [!Info] Navigation 💠
