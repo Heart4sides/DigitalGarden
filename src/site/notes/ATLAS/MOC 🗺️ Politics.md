@@ -10,12 +10,12 @@
 | --------------------------------------------------------------------- | ----------------------------------------------- | -------- |
 | [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] | \-       |
 | [[CARDS/Individuals/Eisenhower\|Eisenhower]]                       | \-                                              | \-       |
-| [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | ISTJ?                                           | fr       |
+| [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | \-                                              | fr       |
 | [[CARDS/Individuals/Etienne Chouard\|Etienne Chouard]]             | \-                                              | fr       |
 | [[CARDS/Individuals/François Hollande\|François Hollande]]         | \-                                              | \-       |
 | [[CARDS/Individuals/George Marchais\|George Marchais]]             | \-                                              | \-       |
 | [[CARDS/Individuals/George Washington\|George Washington]]         | \-                                              | \-       |
-| [[CARDS/Individuals/Hitler\|Hitler]]                               | ENTP                                            | \-       |
+| [[CARDS/Individuals/Hitler\|Hitler]]                               | \-                                              | \-       |
 | [[CARDS/Individuals/Jean-Luc Mélenchon\|Jean-Luc Mélenchon]]       | ENFP?                                           | fr       |
 | [[CARDS/Individuals/Le Media Pour Tous\|Le Media Pour Tous]]       | INTJ ?                                          | fr       |
 | [[CARDS/Individuals/Marc Aurèle\|Marc Aurèle]]                     | \-                                              | \-       |
