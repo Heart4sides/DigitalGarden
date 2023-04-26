@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-25T11:19:50.076+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-26T08:56:42.207+02:00"}
 ---
 
-[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
+| Author | Reference                                                                                                                                                                                                                                                            |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \-     | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+
 
 ![Type_Grid_HQ 1.png](/img/user/EXTRAS/Images/Type_Grid_HQ%201.png)
-[https://www.udja.app/#/](https://www.udja.app/#/)
-
-![[20190719_174701_IMG_1411.jpg\|20190719_174701_IMG_1411.jpg]]
 
 ## Temperaments 
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] vs [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
