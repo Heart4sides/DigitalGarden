@@ -91,17 +91,17 @@
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
-|[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Ne💧Hero🦸‍♂️\|1💧]] [[Fi🧭Parent🤨\|2🧭]]          | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        | [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|7🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Demon😈\|8🗡️]]              | 
-|[[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |  [[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Inferior😨\|4🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Child👼\|3🗡️]]             | 
-|[[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/Se🌪️hero🦸‍♂️\|1🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|2🗡️]]             | 
-|[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] |[[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|4💧]] [[Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|5🌪️]] [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|6🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  |[[Ne💧Hero🦸‍♂️\|1💧]] [[Fi🧭Parent🤨\|2🧭]]          | [[CARDS/Depth Psychology Theory/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
+|[[CARDS/Depth Psychology Theory/INFJ\|INFJ]] |  [[Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]        | [[Se🌪️Inferior😨\|4🌪️]] [[Ti🗡️Child👼\|3🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]        | [[Se🌪️hero🦸‍♂️\|1🌪️]] [[Ti🗡️Parent🤨\|2🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] |[[Ne💧Inferior😨\|4💧]] [[Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]        | [[Se🌪️Nemesis😟\|5🌪️]] [[Ti🗡️Critic🤔\|6🗡️]]             | 
 
 | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | ------------------- | ------------------- | ------------------- | ------------------- |
-| [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]            | [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|5🔥]] [[Fe💉Child👼\|3💉]]  | [[CARDS/Depth Psychology Theory/INTP\|INTP]]            | [[CARDS/Depth Psychology Theory/Si⛰️Child👼\|3⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|5🏹]]   | 
-| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]            | [[CARDS/Depth Psychology Theory/Ni🔥Hero🦸‍♂️\|1🔥]] [[Fe💉Trickster🤡\|7💉]]| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]            | [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|7⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Hero🦸‍♂️\|1🏹]] |
-| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]            | [[CARDS/Depth Psychology Theory/Ni🔥Inferior😨\|4🔥]] [[Fe💉Critic🤔\|6💉]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]            | [[CARDS/Depth Psychology Theory/Si⛰️Critic🤔\|6⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Inferior😨\|4🏹]]  |
-| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]            | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|8🔥]] [[Fe💉Parent🤨\|2💉]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]            | [[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|2⛰️]] [[CARDS/Depth Psychology Theory/Te🏹Demon😈\|8🏹]] |
+| [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]            | [[Ni🔥Nemesis😟\|5🔥]] [[Fe💉Child👼\|3💉]]  | [[CARDS/Depth Psychology Theory/INTP\|INTP]]            | [[Si⛰️Child👼\|3⛰️]] [[Te🏹Nemesis😟\|5🏹]]   | 
+| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]            | [[Ni🔥Hero🦸‍♂️\|1🔥]] [[Fe💉Trickster🤡\|7💉]]| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]            | [[Si⛰️Trickster🤡\|7⛰️]] [[Te🏹Hero🦸‍♂️\|1🏹]] |
+| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]            | [[Ni🔥Inferior😨\|4🔥]] [[Fe💉Critic🤔\|6💉]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]            | [[Si⛰️Critic🤔\|6⛰️]] [[Te🏹Inferior😨\|4🏹]]  |
+| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]            | [[Ni🔥Demon😈\|8🔥]] [[Fe💉Parent🤨\|2💉]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]            | [[Si⛰️Parent🤨\|2⛰️]] [[Te🏹Demon😈\|8🏹]] |
 
 
 
