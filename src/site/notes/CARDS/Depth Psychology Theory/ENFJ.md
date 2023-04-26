@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-04-26T12:09:08.782+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-04-26T15:30:15.989+02:00"}
 ---
 
 #on/depthpsychology  #type 
