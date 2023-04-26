@@ -1,12 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T17:53:53.622+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T18:26:19.311+02:00"}
 ---
 
 #on/depthpsychology 
 
 [[CARDS/Depth Psychology Theory/🧭Fi-Fe💉\|🧭Fi-Fe💉]]
+Introverted Feeling is awareness of one’s own moral values. Fi users are the source of sympathy, investment and principles. 
+
 [[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]]
+Fi users [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] listen to other’s thoughts and collect aggregated knowledge to increase their value. 
+
 [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
+Fi users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] truth for the sake of feelings.   
 
 --- 
 # Keywords
