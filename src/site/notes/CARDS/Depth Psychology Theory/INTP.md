@@ -89,8 +89,10 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                                      | octogram |
+| --------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Frankenstein 🎭\|Frankenstein 🎭]] | \-       |
+| [[CARDS/Individuals/Kant\|Kant]]                       | \-       |
 
 ---
 # Mentions
