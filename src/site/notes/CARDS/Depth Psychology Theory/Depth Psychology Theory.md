@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-26T09:05:07.131+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/depth-psychology-theory/","created":"2023-04-10T10:43:54.460+02:00","updated":"2023-04-26T14:18:37.224+02:00"}
 ---
 
 
 - [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
-- [[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]
-- [[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]]
-- [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
+- [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]][[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
 - [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
 - [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
 - [[CARDS/Depth Psychology Theory/🧭Fi-Fe💉\|🧭Fi-Fe💉]]
@@ -192,6 +190,7 @@
 - [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]
 - [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 - [[CARDS/Depth Psychology Theory/Quarter-life crisis\|Quarter-life crisis]]
+- [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]]
 - [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
 - [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]
 - [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]
