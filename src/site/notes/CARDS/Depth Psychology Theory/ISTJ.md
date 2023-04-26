@@ -1,56 +1,111 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-25T11:19:49.753+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-26T12:08:07.699+02:00"}
 ---
 
+#on/depthpsychology  #type 
 
-## Quadra & Functions
+# Cognitive Functions Stack in Attitudes 
+| 1-Immature                                             | 1-Mature                                               |
+| ------------------------------------------------------ | ------------------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I experience. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I experience. |
 
-==[[CARDS/Depth Psychology Theory/Quadra\|Quadra]]== : [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] 
+| 2-Immature                                                    | 2-Mature                                            |
+| ------------------------------------------------------------- | --------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others think. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others think |
 
-==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==
-[[CARDS/Depth Psychology Theory/Si⛰️Hero🦸‍♂️\|Si⛰️Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] | [[Fi🧭Child👼\|Fi🧭Child👼]] | [[CARDS/Depth Psychology Theory/Ne💧Inferior😨\|Ne💧Inferior😨]]
+| 3-Immature                                           | 3-Mature                                     |
+| ---------------------------------------------------- | -------------------------------------------- |
+| I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what I value | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what I value |
 
-==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]== 
-[[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[Fe💉Trickster🤡\|Fe💉Trickster🤡]] | [[CARDS/Depth Psychology Theory/Ni🔥Demon😈\|Ni🔥Demon😈]]
+| 4-Immature                                                       | 4-Mature                                                            |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others want | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others want |
 
-## 4 sides  
-==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== ([[CARDS/Depth Psychology Theory/🔀Reflection\|🔀Reflection]]) : [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]
-==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]== ([[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]]) : [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
-==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== ([[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]):   [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]
+| 5-Immature                                                         | 5-Mature                                                          |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], worried and unsure of what others experience | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others experience |
 
-## Type Grid 
-[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] : [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]
-[[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]  : [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] 
+| 6-Immature                                             | 6-Mature                                   |
+| ------------------------------------------------------ | ------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]], cynical with what I think is true | I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Sage]], wise with what  |
 
-## Virtu & Vice
-[[Triviality\|Triviality]] |  [[Objectivity\|Objectivity]]
- 
-## Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] : [[CARDS/Depth Psychology Theory/Justification\|Justification]]
-[[Living Virtu\|Living Virtu]] : [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]
-[[Deadly Sin\|Deadly Sin]] : [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
-[[Shadow Pole\|Shadow Pole]] : [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]]
-[[Sub Pole\|Sub Pole]] : [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]
+| 7-Immature                                             | 7-Mature                                                           |
+| ------------------------------------------------------ | ------------------------------------------------------------------ |
+| I am a [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], foolish with what others value | I am the [[CARDS/Depth Psychology Theory/Trickster🤡\|Master]], brilliant with what others value |
 
-## Dictionary
+| 8-Immature                                          | 8-Mature                                                      |
+| --------------------------------------------------- | ------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what I want | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what I want |
+
+---
+# Type Grid 
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
+| [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]              |       [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]        | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]                  | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]              | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
+| [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]              |       [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]        | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]                  | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==              |       [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]                  | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]              | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| [[CARDS/Depth Psychology Theory/Background🔙\|🔙]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]              |       [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]        | [[CARDS/Depth Psychology Theory/INTP\|INTP]]                  | [[CARDS/Depth Psychology Theory/INFP\|INFP]]              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
+
+---
+# Virtues & Vices
+| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| ---------------- | ------------------------ | ------------------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
+| Virtu            | [[Objectivity\|Objectivity]]  | [[Charity\|Charity]]      |
+| Vice             | [[Triviality\|Triviality]]  | [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]    |
+
+| Type             | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| ---------------- | -------------------------- | ---------------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar\|Templar]]                | //                           |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]          | //                           |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]        | //                           |
+| Virtu            | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                  | [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]                    |
+| Vice             | [[Nymphomania\|Nymphomania]]               | [[Corrumption\|Corrumption]]          |
+
+---
+# Temples
+
+| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| -------------------- | ---------------------------- | -------------------------- |
+| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
+| Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]      | //                         |
+| [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[Favoritism\|Favoritism]]             |
+| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]    |
+|                      |                              |                            |
+
+| Type             | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]][[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| -------------------- | ---------------------------- | -------------------------- |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]|
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
+| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]              |   -        |
+| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]                         |    -       |
+
+---
+# Examples 
+| File | octogram |
+| ---- | -------- |
+
+---
+# Mentions
+| File | Author | External Link |
+| ---- | ------ | ------------- |
+
+---
+# References
+| References                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
 
-## Mentions 
-ctrl + schift + Q
-[[EXTRAS/Templates/TPL List of Types\|TPL List of Types]]
-[[EXTRAS/Templates/TPL Function\|TPL Function]]
-[[EXTRAS/Templates/TPL Quadra\|TPL Quadra]]
-[[EXTRAS/Templates/TPL Type\|TPL Type]]
-[[EXTRAS/Templates/TPL Typing\|TPL Typing]]
-[[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Inferior\|Cognitive attitude of the Inferior]]
-[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
-
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
 
 
-## Images
-Produit par un ISTJ 
-![Pasted image 20230201203650.png](/img/user/EXTRAS/Images/Pasted%20image%2020230201203650.png)
-![Pasted image 20230201203728.png](/img/user/EXTRAS/Images/Pasted%20image%2020230201203728.png)
+
+
+
