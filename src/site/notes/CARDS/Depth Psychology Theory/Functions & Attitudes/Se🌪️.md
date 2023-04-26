@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T18:04:26.208+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T21:04:34.211+02:00"}
 ---
 
 #on/depthpsychology 
@@ -88,6 +88,11 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 | 8-Immature                                                     | 8-Mature                                                                 |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what others experience | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what others experience |
+
+---
+# Mentions 
+
+- “(cou)rage “ - Se
 
 ---
 # References
