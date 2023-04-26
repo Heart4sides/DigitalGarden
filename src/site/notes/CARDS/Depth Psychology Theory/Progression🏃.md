@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:40:11.533+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:58:33.539+02:00"}
 ---
 
 #typegrid 
@@ -21,7 +21,7 @@
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  |  ESTJ               |        ESTP         |  ENTJ                   |  ENFJ               | ➡️     | 👋     | 🏆     |
 | ==[[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]==    | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==        | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==                  | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==              |↪️ | 👋       | ==[[CARDS/Depth Psychology Theory/Progression🏃\|🏃]]== |
 | ==[[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]==   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==        | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                  | ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==              | ➡️     | 🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Progression🏃\|🏃]]== |
-|  [[CARDS/Depth Psychology Theory/Background🔙\|🔙]]  |  [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]               |        [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]         |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]                   |  [[CARDS/Depth Psychology Theory/INFP\|INFP]]               | ↪️  | 🧘‍♂️  | 🏆   |
+|  [[CARDS/Depth Psychology Theory/Background🔙\|🔙]]  |  ISFJ            |    ISFP        | INTP                | INFP           | ↪️  | 🧘‍♂️  | 🏆   |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                             |
