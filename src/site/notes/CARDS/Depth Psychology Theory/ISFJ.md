@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-26T12:24:46.130+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-26T15:31:12.722+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,11 +89,10 @@
 
 ---
 # Examples 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/François Hollande\|François Hollande]] | \-       |
-| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]   | \-       |
-| [[CARDS/Individuals/Richard Bach\|Richard Bach]]           | \-       |
+| File                                                      | octogram |
+| --------------------------------------------------------- | -------- |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]             | \-       |
+| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]] | \-       |
 
 ---
 # Mentions
