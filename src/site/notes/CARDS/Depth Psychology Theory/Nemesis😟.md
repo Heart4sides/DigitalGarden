@@ -5,9 +5,9 @@
 
 ## In Attitudes
 
-[[CARDS/Depth Psychology Theory/Ne💧Nemesis😟\|Ne💧Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[CARDS/Depth Psychology Theory/Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[CARDS/Depth Psychology Theory/Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]
+[[Ne💧Nemesis😟\|Ne💧Nemesis😟]] | [[Ni🔥Nemesis😟\|Ni🔥Nemesis😟]] | [[Se🌪️Nemesis😟\|Se🌪️Nemesis😟]] | [[Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]
 
-[[CARDS/Depth Psychology Theory/Te🏹Nemesis😟\|Te🏹Nemesis😟]] | [[CARDS/Depth Psychology Theory/Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[CARDS/Depth Psychology Theory/Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]
+[[Te🏹Nemesis😟\|Te🏹Nemesis😟]] | [[Ti🗡️Nemesis😟\|Ti🗡️Nemesis😟]] | [[Fe💉Nemesis😟\|Fe💉Nemesis😟]] | [[Si⛰️Nemesis😟\|Si⛰️Nemesis😟]]
 
 
 - [[villain\|villain]]
