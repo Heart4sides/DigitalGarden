@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/te/","created":"2023-04-08T11:29:15.624+02:00","updated":"2023-04-08T11:33:19.767+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/te/","created":"2023-04-08T11:29:15.624+02:00","updated":"2023-04-26T15:39:48.253+02:00"}
 ---
 
-Ref :: 
-#CognitiveFunctions  
+#type/grid  
 
 # Comments 
 <script src="https://utteranc.es/client.js"
