@@ -89,8 +89,10 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                                  | octogram |
+| ----------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Caroline Myss\|Caroline Myss]] | \-       |
+| [[CARDS/Individuals/Sandman\|Sandman]]             | \-       |
 
 ---
 # Mentions
