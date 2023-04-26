@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-23T20:55:57.150+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-26T10:25:43.862+02:00"}
 ---
 
 
@@ -73,6 +73,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Principle\|Principle]]
 - [[CARDS/· Related Concepts & Theories ·/quick\|quick]]
 - [[CARDS/· Related Concepts & Theories ·/Recognition\|Recognition]]
+- [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]
 - [[CARDS/· Related Concepts & Theories ·/Rival\|Rival]]
 - [[CARDS/· Related Concepts & Theories ·/Romantic\|Romantic]]
 - [[CARDS/· Related Concepts & Theories ·/Silver Lining\|Silver Lining]]
@@ -91,6 +92,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]
 - [[CARDS/· Related Concepts & Theories ·/Tyrant\|Tyrant]]
 - [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
+- [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]
 - [[CARDS/· Related Concepts & Theories ·/Vergogne\|Vergogne]]
 - [[CARDS/· Related Concepts & Theories ·/Voluptuousness\|Voluptuousness]]
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
