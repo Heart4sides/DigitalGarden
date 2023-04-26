@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/john-bodine/","created":"2023-04-22T10:57:20.572+02:00","updated":"2023-04-22T20:12:24.772+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/john-bodine/","created":"2023-04-22T10:57:20.572+02:00","updated":"2023-04-26T18:53:39.446+02:00"}
 ---
 
 | MOC                                                             | Author                                            | Type | Reference                                                                |
