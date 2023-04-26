@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-26T12:07:12.977+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-26T15:29:48.115+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,9 +89,8 @@
 
 ---
 # Examples 
-| File                                      | octogram |
-| ----------------------------------------- | -------- |
-| [[CARDS/Individuals/Sandman\|Sandman]] | \-       |
+| File | octogram |
+| ---- | -------- |
 
 ---
 # Mentions
