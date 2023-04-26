@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T08:29:31.965+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T08:35:55.581+02:00"}
 ---
 
+#on/depthpsychology 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
 Extroverted Sensation is awareness of other people’s experiences ↔️ own performance. Se users guide [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] users attention to cultivate their strength, endurence & self-awareness.   
 
@@ -35,7 +36,6 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
-Source : 
 
 ---
 # Quadra 
@@ -51,3 +51,9 @@ Source :
 --- 
 # Temple 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
+
+---
+| MOC                                                          | Reference                                                                                                                                                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><ul><li>MOC 🗺️ Depth Psychology</li></ul></li></ul> | <ul><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+
