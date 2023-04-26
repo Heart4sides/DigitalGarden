@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:39:41.176+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T21:50:47.971+02:00"}
 ---
 
 #typegrid 
@@ -25,7 +25,7 @@
 | ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==              | ==[[CARDS/Depth Psychology Theory/Informative↪️\|↪️]]== | 🧘‍♂️ | 🏆  |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
 ---
 # Udja
