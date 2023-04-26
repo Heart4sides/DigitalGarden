@@ -1,31 +1,105 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-25T19:17:00.315+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T16:48:32.311+02:00"}
 ---
 
+#typegrid 
 
-## Types 
-Types sharing preference for[[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]: 
-- [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]
-- [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]
+# Definition & Etymology 
+- Past & Present > Future
+- Preference shared by those who prioritize either : 
+	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])
+	- What other people experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]])
+- [concrete | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=concrete)
+	- late 14c., "actual, solid; particular, individual; denoting a substance," from Latin concretus "condensed, hardened, stiff, curdled, congealed, clotted," figuratively "thick; dim," literally "grown together;" past participle of concrescere "to grow together," from assimilated form of com "together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference "Etymology, meaning and definition of con- ")) + crescere "to grow" (from PIE root [*ker-](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference#etymonline_v_53176 "Etymology, meaning and definition of *ker- ") (2) "to grow").
+---
+# Type Grid 
+[[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
+- 🆚 [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] 
+- 1 of 6 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]] 
 
-## Functions 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
+|                      | <font size="4">  ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]== </font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4">   🔮  </font> | <font size="4">   🦄  </font>    |  Interaction Style💬\|💬                       |    Interaction Style💬\|💬                            |    Interaction Style💬\|💬                     |
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
+| 🔛  |  ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==               |        ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==         |    ENTJ                     |   ENFJ                | ➡️      | 👋       | 🏆     |
+| 🔜    |==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==             |     ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==       |   ENTP                    |   ENFP                | ↪️ | 👋       | 🏃‍♂️ |
+| 🔝  | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==            |      ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==    |   INTJ                    |   INFJ                | ➡️      | 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+|  🔙  |  ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==             |        ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==     |    INTP                     |    INFP                 | ↪️ |  🧘‍♂️  | 🏆     |
+|   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] |  Abstract🧲\|🧲         |  Abstract🧲\|🧲     |                       |                            |                       |
+|   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊       | 🐜 |                       |                            |                       |
+|   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | ⚙️  |  👀   | ⚙️      | 👀   |                       |                            |                       |
 
-## Temple
-[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+---
+# Temple 
+[[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+- [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
 
-## Mentions
-[[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Concrete (by CSJ)\|Concrete (by CSJ)]]
+---
+# Udja
+[Udja App](https://www.udja.app/#/)
+What "is" matters more to me than what's possible.
 
-## Keywords 
-- [[Experience\|Experience]]
-- [[5 senses\|5 senses]]
-- [[Present\|Present]] & [[Past\|Past]]
-- [[Common Sense\|Common Sense]]
-- [[Skeptical\|Skeptical]]
-- [[Detailed\|Detailed]]
-- [[Practical\|Practical]]
-- [[Empiricicsm\|Empiricicsm]]
-- [[Realism\|Realism]] 
+---
+# Companion Guide 
+[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
+## Concrete 
+-  is a focus on tangibles such as the physical world, experience, [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]], and observation. 
+-   Concrete perceives through the five senses of sight, sound, touch, taste, and smell. 
+-   Concrete asks “What is?”
+-   Concrete is present/past-focused, proven, and realistic.   
+  
+## **Prefers to :** 
+-   see before believing
+-   live in the real world
+-   have common sense
+-   work with tangibles
+-   be down to earth  
+    
+## **Prone to :**
+-   skepticism
+-   disbelief
+-   hyper-focus on deatils
+-   dismissal
+-   tunnel-vision  
+    
+
+## **Aims to :**
+-   earn experiences
+-   be practical
+-   calibrate [[CARDS/· Related Concepts & Theories ·/Expectation\|expectations]]
+{ #e2b2fb}
+
+-   sense
+-   be present  
+    
+
+## **Exhibits :**
+-   sensibility
+-   empiricism
+-   seing things for what they are
+-   reason
+-   realism  
+    
+
+## **Scenarios :**
+-   “ How about we talk about what does exist instead.”
+-   “ A bird in the hand is worth two in the bush.”
+-   “ Focus on what we can get done here and now!”
+-   “ Everything is only what’s possible.”
+-   “ Not everything is possible.”
+---
+# Mentions 
+
+Video : worldview & politics
+- Entrepreneurs (sensors) :
+	1. ESTJ 
+	2. [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] 
+	3. The ISTJ is too lazy / The ISFJ is too insecure
+
+| Si             | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]                |  |
+|:---------------|:------------------|:---|
+| &nbsp;avoidant | anxious           |  |
+| force pure     | explosivité&nbsp; |  |  
 
 
+---
+# Music
