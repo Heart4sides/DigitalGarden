@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-24T21:09:48.226+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-26T10:33:08.665+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Pride by CSJ\|Pride by CSJ]]
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Humility by CSJ\|Humility by CSJ]]
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Authority Dyad/Authority by CSJ\|Authority by CSJ]]
-[[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Authority Dyad/Initiative\|SOURCES/Type Theory by CSJ/Temples/Mind Temple/Authority Dyad/Initiative]]
+[[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Authority Dyad/Initiative (by CSJ)\|Initiative (by CSJ)]]
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Validation by CSJ\|Validation by CSJ]]
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Obstinance by CSJ\|Obstinance by CSJ]]
 [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
