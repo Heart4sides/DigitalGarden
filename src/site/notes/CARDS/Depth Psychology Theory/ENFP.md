@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-26T12:23:54.249+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-26T15:34:35.548+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -89,8 +89,8 @@
 
 ---
 # Examples 
-| File | Type |
-| ---- | ---- |
+| File | octogram |
+| ---- | -------- |
 
 ---
 # Mentions
