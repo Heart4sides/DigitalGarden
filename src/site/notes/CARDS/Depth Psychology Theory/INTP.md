@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-26T12:24:34.735+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-26T15:28:53.193+02:00"}
 ---
 
 #on/depthpsychology  #type 
