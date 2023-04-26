@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/fi/","created":"2023-04-14T15:06:37.011+02:00","updated":"2023-04-23T20:38:22.852+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/fi/","created":"2023-04-14T15:06:37.011+02:00","updated":"2023-04-26T15:37:49.639+02:00"}
 ---
 
-
+#type/grid  
 
 # Comments 
 <script src="https://utteranc.es/client.js"
