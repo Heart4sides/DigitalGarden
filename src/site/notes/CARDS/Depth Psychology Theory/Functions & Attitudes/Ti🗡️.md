@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T18:06:41.545+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T18:18:29.178+02:00"}
 ---
 
 #on/depthpsychology 
@@ -7,11 +7,13 @@
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
-Introverted Thinking is awareness of one’s own knowledge. Ti users are the source of truth, 
+Introverted Thinking is awareness of one’s own knowledge. Ti users are the source of truth, criticism and justice for Te users who listen to them.  
 
 [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]
+Ti users [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] help people by telling them the harsh truth. 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
+Ti users neglect the awareness of their own moral values for the sake of the truth.  
 
 ---
 # Keywords
