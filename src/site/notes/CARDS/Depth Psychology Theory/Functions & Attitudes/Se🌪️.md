@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-25T23:18:28.034+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-26T08:29:31.965+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
@@ -25,7 +25,7 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 - Cultivate strength & skills
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 --- 
-# Type Grid[^1]
+# Type Grid
 |                      | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4"> ==[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]==</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]              |       ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==        | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                  | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==              | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
@@ -35,6 +35,7 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
+Source : 
 
 ---
 # Quadra 
@@ -50,5 +51,3 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 --- 
 # Temple 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
-
-[^1]: [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]] | [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
