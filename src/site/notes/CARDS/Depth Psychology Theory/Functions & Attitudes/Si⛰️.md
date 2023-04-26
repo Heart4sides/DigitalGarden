@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-26T00:03:42.529+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-26T10:01:30.574+02:00"}
 ---
 
+#on/depthpsychology 
+
+# Functional Relationships 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
 Introverted Sensing is awareness of one’s own experiences. Si users are the source of attention, duty and fortitude for [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] users.
 
