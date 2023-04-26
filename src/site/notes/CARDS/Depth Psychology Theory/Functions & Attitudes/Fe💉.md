@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T13:32:02.512+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T14:18:38.491+02:00"}
 ---
 
 #on/depthpsychology 
 
 # Functional Relationships 
-[[CARDS/Depth Psychology Theory/🧭Fi-Fe💉\|🧭Fi-Fe💉]]
+[[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
 Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] values ↔️ one’s own worth. 
 Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
 
-[[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]
+[[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
 Fe users manipulate collective values to get people to listen to their [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] thoughts.  
 
-[[🏹Te-Fe💉\|🏹Te-Fe💉]]
+[[🏹Te-Fe💉\|🏹Te-Fe💉]] [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
 Fe users fail to [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] listen to others’ thoughts for the sake of helping them. 
 
 --- 
