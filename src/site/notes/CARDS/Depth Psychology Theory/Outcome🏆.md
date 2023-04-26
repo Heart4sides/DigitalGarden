@@ -1,77 +1,85 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-25T19:17:03.029+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-26T16:21:32.859+02:00"}
 ---
 
+#typegrid 
+# Definition & Etymology 
+- Quality of the result > Speed of progression  
+- Preference shared by those who prioritize either/both : 
+	- What others think is true ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]])
+	- What they value ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]])
+- [outcome | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=outcome)
+	- 1788, "that which results from something," originally Scottish, from the verbal phrase; see [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference#etymonline_v_9965 "Etymology, meaning and definition of out ") (adv.) + [come](https://www.etymonline.com/word/come?ref=etymonline_crossreference#etymonline_v_15860 "Etymology, meaning and definition of come ") (v.). Popularized in English by Carlyle (c. 1830s). It was used in Middle English in sense of "an emergence, act or fact of coming out" (c. 1200), and the gerund, outcoming, was used as "an issue, a result." Old English had utancumen (n.) "stranger, foreigner."
+---
+# Type Grid 
+[[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
+- 🆚 [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] 
+- 1 of 6 [[CARDS/Depth Psychology Theory/Interaction Style💬\|interaction styles💬]] 
 
-VS [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] 
+|                      | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
+| ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==        | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                  | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==              | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | ==[[CARDS/Depth Psychology Theory/Initiating👋\|👋]]==       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
+|  [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]     |  [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]               |        [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]         |  [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]                   |  [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]               | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] |  [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]        | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   |ISTJ           |      ISTP      | INTJ              | INFJ            | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | ==[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]== | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
+| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
+| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
+| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest👀\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]    |                       |                            |                       |
 
-## Keywords
-- Ensure the quality of the result
-- Get things done right the first time
-- Goal > [[CARDS/· Related Concepts & Theories ·/Journey\|Journey]]
-- Plan 
-- [[deliberate\|deliberate]] 
-- [[measured\|measured]]
-- [[certainty\|certainty]]-focused 
-- [[control\|control]] 
-- [[CARDS/· Related Concepts & Theories ·/Prepare\|Prepare]]
+---
+# Udja
+[Udja App](https://www.udja.app/#/)
+I work slowly and specifically according to plan in order to get things done right the first time.
 
-## Related Notes 
-- [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]
-- [[Fi🧭Hero🦸‍♂️\|Fi Hero]] 
-- [[Te🏹Hero🦸‍♂️\|Te Hero]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] : IPOF
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] : IPOF
-- [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] : final order, legacy 
-- [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Outcome by CSJ\|Outcome by CSJ]]
-- [[SOURCES/Type Theory by CSJ/Temples/Body Temple/Purpose Dyad/Greed by CSJ\|Greed by CSJ]] : outcome of a scarcity mindset / garanty the outcome by taking everything along the way 
+---
+# Companion Guide 
+[Type Grid Companion Guide Download | C.S. Joseph 
+We need to plan everything that we are going to do so we don’t waste our time.
+## **Outcome**
+- [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus is deliberate, measured, and going at one’s own pace to obtain the result the first time through, planning every step of the process.
+- Outcome focus is planning and patient to optimize a single attempt for success. 
+- Outcome fears [[CARDS/· Related Concepts & Theories ·/Predict\|unpredictability]] so attempts their objective with less frequency.
+- Outcome values the goal above the journey,
+- Outcome is controlled, measured, and does not feel rushed; the quality of a desired outcome is preserved.
+- Outcome is patient in planning.
+- Outcome insists on certainty.
+- Control types believe progress can be best achieved when things are controlled. Having no control is worst case scenario and maintaining control is first priority even if it means stopping all movement.
+- Control types care more about the final outcome rather than the incremental progress along the way.
+- Control wants to slow down and get it right the first time. 
+- Control people tend to be more measured in their speech. 
+- Control gets annoyed with people speaking too fast or interrupting them.
 
-## Types 
-- [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]] : [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]
-- [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] 
+## **Prefers to :** 
+- Wait
+- Plan
+- Assess
+- Organize
+- Bring order
 
-## Functions
-[[Fi🧭Hero🦸‍♂️\|Fi🧭Hero🦸‍♂️]] - [[Te🏹Inferior😨\|Te🏹Inferior😨]]
-[[Te🏹Hero🦸‍♂️\|Te🏹Hero🦸‍♂️]] - [[Fi🧭Inferior👶\|Fi🧭Inferior👶]]
-[[Ne💧Parent🤨\|Ne💧Parent🤨]] - [[Si⛰️Child👼\|Si⛰️Child👼]]
-[[Ni🔥Parent🤨\|Ni🔥Parent🤨]] - [[Se🌪️Child👼\|Se🌪️Child👼]] 
+## Prone to :
+- Being too slow
+- Scope creep fatigue
+- being too controlling
+- overplanning
+- decision
 
-Outcome = [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] + [[CARDS/Depth Psychology Theory/Judgement\|Judger]]
+## **Aims to :**
+- reduce chaos
+- obtain quality results
+- do it right the first time
+- manage
+- regulate
 
-## Wordnik
-*noun*: An end result; a consequence. <i>synonym</i>: <strong> effect</strong>.
-*noun*: A going forth; a marauding expedition; incursion; inroad. Compare <internalXref urlencoded="outroad">outroad</internalXref>.
-*noun*: That which comes out of or results from something else; issue; result.
-*noun*: That which comes out of, or follows from, something else; issue; result; consequence; upshot.
-*noun*: Information, event, object or state of being produced as a result or consequence of a plan, process, accident, effort or other similar action or occurrence.
-*noun*: A positive result or consequence.
-*noun*: The result of a random trial. An element of a sample space.
-*noun*: The results or evidence of students' learning experience. Often used in place of desired outcomes.
-*noun*: a phenomenon that follows and is caused by some previous phenomenon
-*noun*: something that results
+## **Exhibits :**
+- well defined plans
+- use of an itinerary
+- [[CARDS/· Related Concepts & Theories ·/Prepare\|preparedness]]
+- deliberation
+- precision
 
-| antonym |cross-reference |same-context |synonym |
-| --- | --- | --- | --- |
-| beginning | proceeds | advantage | accomplishment |
-| source | result | conclusion | aftermath |
-|  |  | consequence | answer |
-|  |  | decision | artifact |
-|  |  | event | ascertainment |
-|  |  | failure | avenue |
-|  |  | goal | blowhole |
-|  |  | impact | brainchild |
-|  |  | implication | by-product |
-|  |  | phase | channel |
-
-> [Additional info](https://www.wordnik.com/words/outcome)
-## Wikipedia 
-
-> In probability theory, an **Outcome** is a possible result of an experiment or trial. Each possible outcome of a particular experiment is unique, and different outcomes are mutually exclusive (only one outcome will occur on each trial of the experiment). All of the possible outcomes of an experiment form the elements of a sample space.For the experiment where we flip a coin twice, the four possible outcomes that make up our sample space are (H, T), (T, H), (T, T) and (H, H), where "H" represents a "heads", and "T" represents a "tails". Outcomes should not be confused with events, which are sets (or informally, "groups") of outcomes. For comparison, we could define an event to occur when "at least one 'heads'" is flipped in the experiment - that is, when the outcome contains at least one 'heads'. This event would contain all outcomes in the sample space except the element (T, T).
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Outcome%20(probability))
-
-## Translations 
-
-
-## Examples
-"I just wanted to be around the nature hoping that I would be getting some songs"
+## **Scenarios :**
+- "These are distractions from our central issue being fulfilled.”
+- “ Proper prior planning prevents piss-poor performance.”
+- “ Don’t put the cart before the horse.”
+- “ I need to plan this project?”
+- “ Measure twice and cut once.”
