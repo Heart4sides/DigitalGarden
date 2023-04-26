@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-26T16:56:34.166+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-26T17:21:09.376+02:00"}
 ---
 
 #typegrid 
@@ -24,7 +24,7 @@
 | 🔜    |==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==             |   ESFP  |   ENTP                    |   ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==                | ↪️ | 👋       | 🏃‍♂️ |
 | 🔝  | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==            |   ISTP  |   INTJ                    |   ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==                | ➡️      | 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 |  🔙  |  ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==             |     ISFP   |    INTP                     |    ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==                 | ↪️ |  🧘‍♂️  | 🏆     |
-|   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] |  🧲         |  🧲     |                       |                            |                       |
+|   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | 👁️‍🗨️ | 👁️‍🗨️ |  🧲         |  🧲     |                       |                            |                       |
 |   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ==[[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]]== |  🦊  | 🦊       | ==[[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]]== |                       |                            |                       |
 |   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | ⚙️  |  👀   | ⚙️      | 👀   |                       |                            |                       |
 
