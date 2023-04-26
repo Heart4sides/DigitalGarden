@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-26T09:54:58.509+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-26T15:30:53.607+02:00"}
 ---
 
 #on/depthpsychology  #type
@@ -89,10 +89,10 @@
 
 ---
 # Examples 
-| File                                                  | Type                                            |
-| ----------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
-| [[CARDS/Individuals/The Grinch 🎭\|The Grinch 🎭]] | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] |
+| File                                                        | octogram |
+| ----------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]] | \-       |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]               | \-       |
 
 ---
 # Mentions
