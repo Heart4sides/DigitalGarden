@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-26T22:22:06.152+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-26T22:23:10.058+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -22,7 +22,7 @@
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ESTJ       |    ESTP       | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==|ENFJ| ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==      |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
-| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| 🔝   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | 🔙 |ISFJ          |  ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==  | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
@@ -40,13 +40,3 @@
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
-
-## Dictionary
-
-
-## Mentions 
-ctrl + schift + Q
-- [[EXTRAS/Templates/TPL Function\|TPL Function]]
-
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
