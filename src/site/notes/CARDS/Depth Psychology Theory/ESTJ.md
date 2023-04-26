@@ -90,9 +90,10 @@
 
 ---
 # Examples 
-| File                                          | octogram |
-| --------------------------------------------- | -------- |
-| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
+| File                                                | octogram |
+| --------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]] | \-       |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]       | \-       |
 
 ---
 # Mentions
