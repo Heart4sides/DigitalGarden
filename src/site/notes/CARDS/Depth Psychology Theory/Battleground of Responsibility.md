@@ -5,7 +5,7 @@
 Links :: [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
 
 ## Fe - TE
-[[Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Te🏹Trickster🤡\|Te🏹Trickster🤡]]
+[[Fe💉Parent🤨\|Fe💉Parent🤨]] ⚡ [[Te🏹Trickster🤡\|Te🏹Trickster🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 Figure out the right people to listen to, which opinions are valuable. appearances are deceiving to Te trickster because of the fake social proof (Fe) like credentials and training. break the rules so others can be free and i can finally be socially accepted as myself.
@@ -14,7 +14,7 @@ Figure out the right people to listen to, which opinions are valuable. appearanc
 Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cultish types.
 "If I didn't solve my own problems before, I won't be able to solve them now." Feels bad because he's not accepted even though he solved everyone's problems. So focused on loving everybody else that they neglect to solve their own problems.
 
-[[CARDS/Depth Psychology Theory/Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[Fe💉Trickster🤡\|Fe💉Trickster🤡]]
+[[Te🏹Parent🤨\|Te🏹Parent🤨]] ⚡ [[Fe💉Trickster🤡\|Fe💉Trickster🤡]]
 
 | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] | [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 |               |                                                                                                                                                   |
 
 ## Fi - Ti
-[[Fi🧭Parent🤨\|Fi🧭Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
+[[Fi🧭Parent🤨\|Fi🧭Parent🤨]] ⚡ [[Ti🗡️Trickster 🤡\|Ti🗡️Trickster 🤡]]
 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 
@@ -34,7 +34,7 @@ Enforces norms based on beliefs (Te trickster) that they didn't verify. Most cul
 [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
 Only help people to get credibility, which is a covert contract.
 
-[[CARDS/Depth Psychology Theory/Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] ⚡ [[Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
+[[Ti🗡️Parent🤨\|Ti🗡️Parent🤨]] ⚡ [[Fi🧭Trickster🤡\|Fi🧭Trickster🤡]]
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 Learn to take all of the harm onto itself. Learn how to become the pariah and thus lead by example. All that with self-respect so you don't sacrifice yourself for others. The only way to break their conditioning is if you break your conditioning first. Established social norms may not be healthy. Slay these norms with Ti parent and take the fallout (pariah) for the benefit of others. I break the rules or the chains so that people can be free and I can finally be accepted as myself. Who cares if your feelings are accurate / valid / right / justified ? Be honest about what you feel, which invites criticism from the other party.
 
@@ -43,13 +43,13 @@ An eye for an eye leaved the whole world blind - and no one lives more by the "a
 Fi trickster if it doesn't articulate its feelings they bottle up and create Si bitterness which expresses itself first covertly and then lashes out / or Ni hopelessness. Ti teenager spends so much time thinking about how they can behave so their behaviour can be morally valid and acceptable.
 
 ## Ne - Se 
-[[CARDS/Depth Psychology Theory/Ne💧Parent🤨\|Ne💧Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
+[[Ne💧Parent🤨\|Ne💧Parent🤨]] ⚡ [[Se🌪️Trickster🤡\|Se🌪️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ne💧Trickster🤡\|Ne💧Trickster🤡]]
+[[Se🌪️Parent🤨\|Se🌪️Parent🤨]] ⚡ [[Ne💧Trickster🤡\|Ne💧Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]
+[[Ni🔥Parent🤨\|Ni🔥Parent🤨]] ⚡ [[Si⛰️Trickster🤡\|Si⛰️Trickster🤡]]
 
-[[CARDS/Depth Psychology Theory/Si⛰️Parent🤨\|Si⛰️Parent🤨]] ⚡ [[CARDS/Depth Psychology Theory/Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]
+[[Si⛰️Parent🤨\|Si⛰️Parent🤨]] ⚡ [[Ni🔥Trickster🤡\|Ni🔥Trickster🤡]]
 
 
 
