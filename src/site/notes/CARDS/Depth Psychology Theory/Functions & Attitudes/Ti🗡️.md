@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T09:58:36.936+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T18:06:41.545+02:00"}
 ---
 
 #on/depthpsychology 
@@ -7,6 +7,7 @@
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
+Introverted Thinking is awareness of one’s own knowledge. Ti users are the source of truth, 
 
 [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]
 
@@ -30,10 +31,10 @@
 ---
 # Quadra 
 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·==</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]·</font> | <font size="4"> ·[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]·</font>     |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·==</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ·Philosopher·</font>     |
 | --------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------------- |
-| [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]                 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]]                 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|🌪️]]                  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]                    |
-| [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]                  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|🗡️]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|💉]]                 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]                  | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|🧭]][[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|🏹]]                     |
+| [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | ⛰️💧                  | 🔥🌪️             |🔥🌪️            |⛰️💧                |
+| [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]                | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]               | 🧭🏹               |🧭🏹                    |
 | IS**                              | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==                              | ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==                             | ISFP                                      | ISTJ                                     |
 | ES**                              | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==                              | ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==                             | ESFP                                      | ESTJ                                    |
 | IN**                              | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                              | ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==                             | INTJ                                      | INFP                                    |
