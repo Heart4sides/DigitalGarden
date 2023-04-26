@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-23T15:28:33.178+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-26T22:22:06.152+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -18,11 +18,15 @@
 
 ## Types 
 
-|  |  |  [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]      |  |
-|:---------------|:-----------|:---------------|:---------------|
-|     | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]   |  |   |
-|    |  |  [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]      |       |
-| |  [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  |    |    |  
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
+| 🔛  | ESTJ       |    ESTP       | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==|ENFJ| ➡️      | 👋       | 🏆     |
+| 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==      |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| 🔙 |ISFJ          |  ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==  | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
