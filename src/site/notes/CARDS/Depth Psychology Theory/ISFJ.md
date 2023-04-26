@@ -89,10 +89,12 @@
 
 ---
 # Examples 
-| File                                                      | octogram |
-| --------------------------------------------------------- | -------- |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]             | \-       |
-| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]] | \-       |
+| File                                                          | octogram |
+| ------------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/François Hollande\|François Hollande]] | \-       |
+| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]   | \-       |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
+| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]     | \-       |
 
 ---
 # Mentions
