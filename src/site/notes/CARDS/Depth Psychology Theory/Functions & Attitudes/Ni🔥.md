@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-25T23:34:35.360+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T10:00:56.443+02:00"}
 ---
+
+#on/depthpsychology 
 
 # Functional Relationships 
 
