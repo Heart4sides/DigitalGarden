@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-25T19:17:00.469+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-26T22:29:20.291+02:00"}
 ---
 
 
@@ -14,31 +14,28 @@
 
 ## Types 
 
-|  |  |      |  |
-|:---------------|:-----------|:---------------|:---------------|
-| [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]       |  | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]&nbsp; |        |
-|       |  |     |      |
-| [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]&nbsp; |   |  [[CARDS/Depth Psychology Theory/INTP\|INTP]]      |        |  
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
+| 🔛  | ESTJ       |    ESTP       | ENTJ |ENFJ| ➡️      | 👋       | 🏆     |
+| 🔜    |==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==    | ESFP    |==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
+| 🔝   | ISTJ             |   ISTP   | INTJ           | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| 🔙 |==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==          | ISFP | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
+|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
+
+- [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
+- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
-## Type Grid
-[[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]] : 
-- [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
-[[Worldview\|Worldview]] : 
-- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
-
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
-[[Fairness\|Fairness]] 
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
-
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
 
 ### Music 
 - https://open.spotify.com/track/09EwNbGvUyu7BDEYG0cJro?si=M3jsmMVYRc6B8_YA1RGnTQ
