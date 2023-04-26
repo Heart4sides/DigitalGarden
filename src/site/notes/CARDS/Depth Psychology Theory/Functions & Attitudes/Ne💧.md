@@ -8,7 +8,7 @@
 	[[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]] 
 	Extroverted Intuition is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]desires ↔️ one’s own desirability. Ne users provide choice, prediction and warning to Ni users. 
 
-	[[SOURCES/Type Theory by CSJ/Functions/Si⛰️↔️💧Ne\|Si⛰️↔️💧Ne]] 
+	[[Si⛰️↔️💧Ne\|Si⛰️↔️💧Ne]] 
 	Ne users see & manipulate others’ desires to garantee their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] security & comfort.  
 
 	[[💧Ne-Se🌪️\|💧Ne-Se🌪️]]
