@@ -89,8 +89,9 @@
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+| File                                      | octogram |
+| ----------------------------------------- | -------- |
+| [[CARDS/Individuals/Diogène\|Diogène]] | \-       |
 
 ---
 # Mentions
