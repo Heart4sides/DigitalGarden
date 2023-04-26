@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-26T17:40:15.726+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-26T17:58:13.145+02:00"}
 ---
 
 #typegrid 
@@ -19,7 +19,7 @@
 |                      | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==        | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                  | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==              | ➡️      | 👋       | ==[[CARDS/Depth Psychology Theory/Outcome🏆\|🏆]]==     |
-|  [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]     |  [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]               |        [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]         |  [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]                   |  [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]|↪️|👋        | 🏃|
+|  [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]     |  ESFJ           |      ESFP    |  ENTP           | ENFP|↪️|👋        | 🏃|
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   |ISTJ           |      ISTP      | INTJ              | INFJ            | ➡️    | 🧘‍♂️ | 🏃|
 | ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==              | ↪️ |🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Outcome🏆\|🏆]]==  |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
