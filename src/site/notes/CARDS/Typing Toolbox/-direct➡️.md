@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/direct/","created":"2023-04-03T15:13:33.429+02:00","updated":"2023-04-08T13:29:37.513+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/direct/","created":"2023-04-03T15:13:33.429+02:00","updated":"2023-04-26T15:37:32.546+02:00"}
 ---
 
-Ref :: 
-#on/depthpsychology 
+#on/depthpsychology #type/grid  
 
 # Comments 
 <script src="https://utteranc.es/client.js"
