@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-26T11:30:12.759+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-26T12:24:46.130+02:00"}
 ---
 
+#on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
 | 1-Immature                                             | 1-Mature                                               |
