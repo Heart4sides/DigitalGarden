@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T09:35:31.773+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-26T09:58:36.936+02:00"}
 ---
 
 #on/depthpsychology 
+
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
