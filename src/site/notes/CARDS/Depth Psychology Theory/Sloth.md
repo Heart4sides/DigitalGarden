@@ -3,7 +3,7 @@
 ---
 
 
-[[Deadly Sin\|Deadly Sin]] of the [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] Dyad. 
+[[Deadly Sin\|Deadly Sin]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] Dyad. 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
