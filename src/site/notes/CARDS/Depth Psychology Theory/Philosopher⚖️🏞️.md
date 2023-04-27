@@ -20,7 +20,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]]
+- [[CARDS/Depth Psychology Theory/Fi\|Fi]]
 
 ## Virtu & Vice
 [[Self-sacrifice\|Self-sacrifice]] | [[Sacrifice of others\|Sacrifice of others]]
