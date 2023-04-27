@@ -3,8 +3,9 @@
 ---
 
 #type/shadow 
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
+| 5-Immature                                                         | 5-Mature                                    |
+| ------------------------------------------------------------------ | ------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] I am a Nemesis😟, uncertain and worried of  what I value. | I am an  Ally🛡️, certain of  what I value. |
 
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
