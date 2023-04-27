@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-27T18:31:16.287+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-27T20:53:28.734+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -40,3 +40,13 @@
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+
+# Virtues & Vices
+
+|                  | Virtu                     | Vice         |
+| ---------------- | ------------------------- | ------------ |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] | [[Stealing\|Stealing]]              | [[Earning\|Earning]]            |
+| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]         | [[Delayed Gratification\|Delayed Gratification]] | [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]    |
+| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[Instant gratification\|Instant gratification]] | [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]] |
+| [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]         | [[Diligence\|Diligence]]             | [[Idleness\|Idleness]] |
+| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]            | [[CARDS/Depth Psychology Theory/Greed\|Greed]]              |
