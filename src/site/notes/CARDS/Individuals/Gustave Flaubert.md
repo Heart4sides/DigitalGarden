@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-27T14:24:30.373+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-27T15:23:05.179+02:00"}
 ---
 
 Ref ::
@@ -8,25 +8,25 @@ Ref ::
 
 Analyse de Yves Leclerc : 
 > [!quote] Yves Leclerc
-> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|disciplin]]e militaire."
+> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire."
 > 
-> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]]
-> - Lack of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] endurence
+> - [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]]
+> - Lack of [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] endurence
 
 > [!quote] Yves Leclerc 
 > "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
 > 
-> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
+> - [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
 > - [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
-- [[CARDS/Depth Psychology Theory/Fi\|Fi]] evaluation   
+- [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] evaluation   
 
 > "La découverte d'une turpitude derrière une façade honorable lui procure ainsi une grande jouissance. Car pour lui la respectabilité sociale est forcément une façade."
-- Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]) plus que l'authenticité ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]). 
+- Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]) plus que l'authenticité ([[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]]). 
 
 > Bovarysme selon Jules de Gaultier : "le pouvoir départi à l'homme de se concevoir autre qu'il n'est"
-- [[CARDS/Depth Psychology Theory/Fi\|Fi]] : sens de sa propre identité
+- [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] : sens de sa propre identité
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
