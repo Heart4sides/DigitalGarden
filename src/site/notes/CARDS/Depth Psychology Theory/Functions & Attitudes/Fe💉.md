@@ -6,7 +6,7 @@
 
 # Functional Relationships 
 [[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
-Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] values ↔️ one’s own worth. 
+Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Fi\|Fi]] values ↔️ one’s own worth. 
 Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
 
 [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
