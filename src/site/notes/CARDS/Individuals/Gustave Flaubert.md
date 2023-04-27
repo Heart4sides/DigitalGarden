@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-25T11:17:44.475+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-27T14:03:20.101+02:00"}
 ---
 
 Ref ::
@@ -16,7 +16,7 @@ Analyse de Yves Leclerc :
 > [!quote] Yves Leclerc 
 > "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
 > 
-> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+> - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
 > - [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
