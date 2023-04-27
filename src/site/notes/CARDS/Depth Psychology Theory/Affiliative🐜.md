@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T17:29:42.262+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T18:50:56.665+02:00"}
 ---
 
-#typegrid 
+#type/grid 
 
 # Definition & Etymology 
 - Interdependance > Independance 
