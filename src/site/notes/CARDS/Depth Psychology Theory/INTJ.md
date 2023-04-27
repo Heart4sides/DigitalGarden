@@ -9,9 +9,8 @@
 | ----------------------------------------------------- | --------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] I am a Hero🦸‍♂️, the savior of what I want. |  I am a Warrior👨‍🚒, responsible with what I want. |
 
-| 2-Immature                                              | 2-Mature                                         |
-| ------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Teen👦, gullible with what others know. |  I am a Parent🤨, skeptical of what others know. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature                                                      | 3-Mature                                   |
 | --------------------------------------------------------------- | ------------------------------------------ |
@@ -32,9 +31,8 @@
 | ------------------------------------------------------------ | ----------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Trickster🤡, foolish with what others value. |  I am the Master💎, brilliant with what others value. |
 
-| 8-Immature                                                      | 8-Mature                                                   |
-| --------------------------------------------------------------- | ---------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Demon😈, I don't care / hate what I experience. |  I am the Angel😇, filled with love for what I experience. |
+| 8-Immature | 8-Mature |
+| ---------- | -------- |
 
 ---
 # Type Grid 
