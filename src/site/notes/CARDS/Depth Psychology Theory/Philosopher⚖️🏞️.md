@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T15:23:09.560+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T17:28:30.491+02:00"}
 ---
 
 
@@ -20,7 +20,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]
 - [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]
-- [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]]
+- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]
 
 ## Virtu & Vice
 [[Self-sacrifice\|Self-sacrifice]] | [[Sacrifice of others\|Sacrifice of others]]
