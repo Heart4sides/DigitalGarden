@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:20:14.924+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:16:20.764+02:00"}
 ---
 
 #typegrid 
@@ -7,8 +7,8 @@
 # Definition & Etymology 
 - Method > Benefits  
 - Preference shared by those who prioritize either : 
-	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])
-	- What other think is true ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]])
+	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])
+	- What other think is true ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]])
 - [system | Etymology, origin and meaning of system by etymonline](https://www.etymonline.com/word/system?ref=etymonline_crossreference)
 	- 1610s, "the whole creation, the universe," from Late Latin systema "an arrangement, system," from Greek systema "organized whole, a whole compounded of parts," from stem of synistanai "to place together, organize, form in order," from syn- "together" (see [syn-](https://www.etymonline.com/word/syn-?ref=etymonline_crossreference "Etymology, meaning and definition of syn- ")) + root of histanai "cause to stand," from PIE root [*sta-](https://www.etymonline.com/word/*sta-?ref=etymonline_crossreference "Etymology, meaning and definition of *sta- ") "to stand, make or be firm."
 	- Meaning "set of correlated principles, facts, ideas, etc." first recorded 1630s. Meaning "animal body as an organized whole, sum of the vital processes in an organism" is recorded from 1680s; hence figurative phrase to get (something) out of one's system (1900). Computer sense of "group of related programs" is recorded from 1963. All systems go (1962) is from U.S. space program. The system "prevailing social order" is from 1806.
