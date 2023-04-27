@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T17:30:13.604+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T18:31:30.782+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -36,7 +36,7 @@
 | Social                      | direction, control, restraint ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]])                                          | Individualism                                                   |
 | Citizenship                 | cognitive, personal development                                                            | personal, social development                                    |
 | Freedom and Democracy       | conformity, compliance with authority, knowledge and discipline ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]], [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]])       | creativeness, self-actualization, direct experiences            |
-| Excellence vs. Equality     | excellence in education, academic, rewards and jobs based on merit ([[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]])          | equality of education, equal change to disadvantaged            |
+| Excellence vs. Equality     | excellence in education, academic, rewards and jobs based on merit ([[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]])          | equality of education, equal change to disadvantaged            |
 | Society                     | group values, acceptance of norms, cooperative and conforming behavior ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]) | individual growth, individual ability, importance of individual |
 
 
@@ -58,10 +58,10 @@
 	- Absolute rules [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
 	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ESTJ 
-	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]](ENTJ)
-	- 2/4 - [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
-	- 1/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (ENFJ, ESTP), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] ESFP 
-	- 0/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (INFJ, ISTP)
+	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Aquad]] (INTP, ISFJ), [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Gquad]](ENTJ)
+	- 2/4 - [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Aquad]] (ENTP, ESFJ)
+	- 1/4 - [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Bquad]] (ENFJ, ESTP), [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Gquad]] ESFP 
+	- 0/4 - [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Bquad]] (INFJ, ISTP)
 
 ## Essentialism
 > "Essentialists believe that there is a common core of knowledge ([[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]) that needs to be transmitted to students in a [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]], [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplined]] ([[-Si⛰️\|-Si⛰️]]) way."
