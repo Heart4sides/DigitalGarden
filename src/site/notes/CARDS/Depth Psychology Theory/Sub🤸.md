@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-27T13:08:03.724+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-27T22:23:50.981+02:00"}
 ---
 
 
