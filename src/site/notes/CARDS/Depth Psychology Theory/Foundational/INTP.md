@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T21:48:19.595+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T22:21:40.539+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]. 
-| 1🗡️                                                                               | 2💧                                                                                                  | 3⛰️                                                                                            | 4💉                                                                                                |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                      | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                    | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                       |
 | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] |
 
