@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-27T07:36:22.884+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-27T13:05:49.563+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -51,7 +51,7 @@
 
 ---
 # Virtues & Vices
-| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
@@ -70,7 +70,7 @@
 ---
 # Temples
 
-| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| Type             | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -93,6 +93,7 @@
 | ------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
 | [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
+| [[CARDS/Individuals/Mnemosyne\|Mnemosyne]]           | \-       |
 
 ---
 # Mentions
