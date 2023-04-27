@@ -8,9 +8,8 @@
 | 1-Immature | 1-Mature |
 | ---------- | -------- |
 
-| 2-Immature                                           | 2-Mature                                     |
-| ---------------------------------------------------- | -------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] I am a Teen👦, gullible with  what I value. | I am a Parent🤨, skeptical of  what I value. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
@@ -18,21 +17,17 @@
 | 4-Immature | 4-Mature |
 | ---------- | -------- |
 
-| 5-Immature                                                       | 5-Mature                                   |
-| ---------------------------------------------------------------- | ------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] I am a Nemesis😟, uncertain and worried of what I want. |  I am an  Ally🛡️, certain of what I want. |
+| 5-Immature | 5-Mature |
+| ---------- | -------- |
 
-| 6-Immature                                                | 6-Mature                                       |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Critic🤔, cynical with what others value. | “ I am a Sage🧙, wise with what others value." |
+| 6-Immature | 6-Mature |
+| ---------- | -------- |
 
-| 7-Immature                                              | 7-Mature                                        |
-| ------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Trickster🤡, foolish with what I know. |  I am the Master💎, brilliant with what I know. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
-| 8-Immature                                                            | 8-Mature                                                        |
-| --------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Demon😈, I don't care / hate what others experience. |  I am the Angel😇, filled with love for what others experience. |
+| 8-Immature | 8-Mature |
+| ---------- | -------- |
 
 ---
 # Type Grid 
