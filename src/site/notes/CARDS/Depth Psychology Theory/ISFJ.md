@@ -13,7 +13,7 @@
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ESTJ       |    ESTP       | ENTJ            |ENFJ          | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
-| [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    |ESFJ    | ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==      | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==               | ENFP           | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    |ESFJ    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==      | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==               | ENFP           | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | 🔝   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | [[CARDS/Depth Psychology Theory/Background🔙\|🔙]] | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==           |  ISFP  | INTP        | INFP          | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
@@ -35,7 +35,7 @@
  |     | [[ESFP👤Shadow\|ESFP👤Shadow]] | INTJ Superego |
  | --- | ---------------- | ------------- |
  | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]  |               |
- | UF  | [[CARDS/Depth Psychology Theory/Envy\|Envy]]         |               |
+ | UF  | [[CARDS/Depth Psychology Theory/Foundational/Envy\|Envy]]         |               |
 
 The ISFJ belongs to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]].
