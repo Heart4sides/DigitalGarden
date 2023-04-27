@@ -8,7 +8,7 @@ Like with our hands, some functions are prefered over others, such that we are m
 
 Example : some prefer to judge wether something is true or false, while others prefer to judge whether something is right or wrong. 
 These preferences exclude each other : 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] (*Deduce*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] (*Weigh*) : to judge wether sth is true / false ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]) one must retrain itself to judge whether it is good / bad ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]])
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] (*Deduce*) excludes [[CARDS/Depth Psychology Theory/Fi\|Fi]] (*Weigh*) : to judge wether sth is true / false ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]) one must retrain itself to judge whether it is good / bad ([[CARDS/Depth Psychology Theory/Fi\|Fi]])
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] (*Sense*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] (*Imagine*) 
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] (*React*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] (*Predict*)
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] (*Believe*) excludes [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] (*Empathize*) 
@@ -33,7 +33,7 @@ a --> b --> Output --> Feedback --> Input
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] : ethics
 [[Feedback\|Feedback]] : 
 	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] : needs
-	[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] : morals
+	[[CARDS/Depth Psychology Theory/Fi\|Fi]] : morals
 
 ## Perception
 ```mermaid
@@ -61,5 +61,5 @@ Te --> Ti --> Fe --> Fi --> Te
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Extroverted Thinking]] 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Introverted Thinking]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Extroverted Feeling]]
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] : [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Introverted Feeling]]
+[[CARDS/Depth Psychology Theory/Fi\|Fi]] : [[CARDS/Depth Psychology Theory/Fi\|Introverted Feeling]]
 
