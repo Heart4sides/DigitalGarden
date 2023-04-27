@@ -3,5 +3,5 @@
 ---
 
 
-Rivalry is a manifestation of [[CARDS/Depth Psychology Theory/Envy\|Envy]]. 
+Rivalry is a manifestation of [[CARDS/Depth Psychology Theory/Foundational/Envy\|Envy]]. 
 
