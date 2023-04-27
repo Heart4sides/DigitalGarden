@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istp-shadow/","created":"2023-04-27T10:45:08.191+02:00","updated":"2023-04-27T10:50:53.721+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istp-shadow/","created":"2023-04-27T10:45:08.191+02:00","updated":"2023-04-27T11:20:27.866+02:00"}
 ---
 
 #type/shadow 
