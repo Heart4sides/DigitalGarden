@@ -1,38 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T18:18:20.634+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T18:44:48.416+02:00"}
 ---
 
 #on/depthpsychology  #type 
+
+[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]. 
 | 1🌪️                                                                                                         | 2🧭                                                                                  | 3🏹                                                                                              | 4🔥                                                                                    |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
 
-# Cognitive Functions Stack in Attitudes 
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
-
----
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
@@ -49,7 +25,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/Shadow👤\|🙋‍♂️]] [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]  | 
 | ---------------- | ---------------------------- | ---------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]                 | //                     |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]                 | //                     |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Stealing\|Stealing]]                 | //                     |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Earning\|Earning]]                  | //                     |
 | Virtu            | [[Delayed Gratification\|Delayed Gratification]]    | [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]              |
@@ -57,7 +33,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]  [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/Superego👹\|👹]] [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]  |
 | ---------------- | -------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]               | //                 |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]               | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]]              | //                 |
 | Virtu            | [[Faith\|Faith]]                  | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]      |
