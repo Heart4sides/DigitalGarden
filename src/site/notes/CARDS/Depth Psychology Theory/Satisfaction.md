@@ -5,7 +5,7 @@
 
 # Depth Psychology
 
-Satisfaction is the [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] and [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] personality types. 
+Satisfaction is the [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] and [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] personality types. 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
