@@ -3,5 +3,5 @@
 ---
 
 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]
+[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]
 
