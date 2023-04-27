@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-27T13:05:51.231+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-27T14:15:19.192+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Compensate\|compensation]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] is orbit between two psyches. 
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] users orbit themselves
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] users orbit others 
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] users orbit others 
 
 ## Functions
 - [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
