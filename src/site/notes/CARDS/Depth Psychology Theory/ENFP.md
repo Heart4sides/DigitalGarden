@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-27T13:05:37.159+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-27T14:34:19.875+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -8,9 +8,8 @@
 | 1-Immature | 1-Mature |
 | ---------- | -------- |
 
-| 2-Immature                                           | 2-Mature                                     |
-| ---------------------------------------------------- | -------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Teen👦, gullible with  what I value. | I am a Parent🤨, skeptical of  what I value. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
@@ -50,7 +49,7 @@
 # Virtues & Vices
 | Type             |[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
 | Virtu            | [[Charity\|Charity]]  |    [[Objectivity\|Objectivity]]   |
