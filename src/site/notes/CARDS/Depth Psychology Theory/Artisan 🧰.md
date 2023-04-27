@@ -3,6 +3,6 @@
 ---
 
 
-SPs : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] 
+SPs : [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]] 
 
 Freedom-based creators
