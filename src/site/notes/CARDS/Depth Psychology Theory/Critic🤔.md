@@ -16,7 +16,7 @@
 - [[Senile\|Senile]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
 - [[ignorance\|ignorance]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
+- [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]]
 
 ## Wordnik
 ## critic
