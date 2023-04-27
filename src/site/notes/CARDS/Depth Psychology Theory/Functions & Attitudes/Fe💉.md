@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T08:22:33.909+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T10:06:26.493+02:00"}
 ---
 
 #on/depthpsychology 
@@ -68,34 +68,34 @@ High Fe users are
 
 ---
 # Function in Attitudes
-| 1-Immature                                             | 1-Mature                                               |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others value. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others value. |
+| 1-Immature                                                  | 1-Mature                                                    |
+| ----------------------------------------------------------- | ----------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. |
 
-| 2-Immature                                                    | 2-Mature                                            |
-| ------------------------------------------------------------- | --------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others value. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others value |
+| 2-Immature                                               | 2-Mature                                          |
+| -------------------------------------------------------- | ------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Teen👦, gullible with what others value. |  I am a Parent🤨, skeptical of what others value. |
 
-| 3-Immature                                                | 3-Mature                                          |
-| --------------------------------------------------------- | ------------------------------------------------- |
-| I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what others value | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what others value |
+| 3-Immature                                                          | 3-Mature                                        |
+| ------------------------------------------------------------------- | ----------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a spoiled Child🥳, tyrannical with what others value. |  I am a Child👼, humble with what others value. |
 
-| 4-Immature                                                        | 4-Mature                                                             |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others value | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others value |
+| 4-Immature                                                              | 4-Mature                                                 |
+| ----------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am an Infant😨, afraid of & prideful with what others value. |  I am a King👑, faithful / brave with what others value. |
 
-| 5-Immature                                                     | 5-Mature                                                     |
-| -------------------------------------------------------------- | ------------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], uncertain & worried of what others value | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others value |
+| 5-Immature                                                             | 5-Mature                                         |
+| ---------------------------------------------------------------------- | ------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Nemesis😟, uncertain and worried of what others value. |  I am an  Ally🛡️, certain of what others value. |
 
-| 6-Immature                                          | 6-Mature                                               |
-| --------------------------------------------------- | ------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]], cynical with what others value | I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Sage]], wise with what others value |
+| 6-Immature                                                | 6-Mature                                       |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Critic🤔, cynical with what others value. | “ I am a Sage🧙, wise with what others value." |
 
-| 7-Immature                                             | 7-Mature                                                           |
-| ------------------------------------------------------ | ------------------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], foolish with what others value | I am the [[CARDS/Depth Psychology Theory/Trickster🤡\|Master]], brilliant with what others value |
+| 7-Immature                                                   | 7-Mature                                              |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Trickster🤡, foolish with what others value. |  I am the Master💎, brilliant with what others value. |
 
-| 8-Immature                                                | 8-Mature                                                            |
-| --------------------------------------------------------- | ------------------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what others value | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what others value |
+| 8-Immature                                                      | 8-Mature                                                   |
+| --------------------------------------------------------------- | ---------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Demon😈, I don't care / hate what others value. |  I am the Angel😇, filled with love for what others value. |
