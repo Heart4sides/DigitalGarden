@@ -1,9 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-27T18:50:57.159+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-27T20:05:04.461+02:00"}
 ---
 
 #type/grid 
 # Definition & Etymology 
+- Behaviour expressed by the individuals who have a preference for extraversion, meaning they gain energy when they are interacting with ≥ 4 people. 
+	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] - What others desire 
+	- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] - What others experience 
+	- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] - What others think 
+	- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] - What others value 
 - From extra "outside" (see [extra-](https://www.etymonline.com/word/extra-?ref=etymonline_crossreference "Etymology, meaning and definition of extra- ")) + Latin vertere "to turn" ([etymonline](https://www.etymonline.com/word/introvert))
 ---
 # Type Grid 
@@ -21,12 +26,6 @@
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                         |
 
-----
-# Functions 
-- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] - What others desire 
-- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] - What others experience 
-- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] - What other’s think 
-- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] - What others value 
 ---
 # Udja 
 [Udja App](https://www.udja.app/#/)
