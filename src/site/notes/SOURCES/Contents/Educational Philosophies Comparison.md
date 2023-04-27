@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-25T11:19:50.932+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T14:16:21.141+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -26,16 +26,16 @@
 | Direction in time           | preserving the past ([[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]])                                                      | growth, reconstruct present, change society, shape future       |
 | Educational value           | fixed, absolute, objective                                                                 | changeable, subjective, relative                                |
 | Educational process         | focuses on teaching                                                                        | focuses on active self-learning                                 |
-| Intellectual focus          | train, discipline the mind ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]/[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]/[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]])                          | engage in problem-solving, social tasks                         |
+| Intellectual focus          | train, discipline the mind ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]/[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]]/[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]])                          | engage in problem-solving, social tasks                         |
 | Subject- matter             | for its own self-importance                                                                | all have similar value                                          |
 | Curriculum                  | composed of three Rs                                                                       | three Rs, arts, sciences, vocational                            |
 | Learning                    | cognitive learning, disciplines                                                            | exploratory, discovery                                          |
 | Grouping                    | homogeneous                                                                                | heterogeneous, culturally diverse                               |
 | Teacher                     | disseminates, dominates, lectures, instruction ([[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]])                              | facilitates, coaches, change agent                              |
-| Student                     | receptacle, receives knowledge ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]), [[passive\|passive]] ([[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]])               | engages discoverer, constructs knowledge                        |
+| Student                     | receptacle, receives knowledge ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]), [[passive\|passive]] ([[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]])               | engages discoverer, constructs knowledge                        |
 | Social                      | direction, control, restraint ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]])                                          | Individualism                                                   |
 | Citizenship                 | cognitive, personal development                                                            | personal, social development                                    |
-| Freedom and Democracy       | conformity, compliance with authority, knowledge and discipline ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])       | creativeness, self-actualization, direct experiences            |
+| Freedom and Democracy       | conformity, compliance with authority, knowledge and discipline ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])       | creativeness, self-actualization, direct experiences            |
 | Excellence vs. Equality     | excellence in education, academic, rewards and jobs based on merit ([[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]])          | equality of education, equal change to disadvantaged            |
 | Society                     | group values, acceptance of norms, cooperative and conforming behavior ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]) | individual growth, individual ability, importance of individual |
 
@@ -64,11 +64,11 @@
 	- 0/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (INFJ, ISTP)
 
 ## Essentialism
-> "Essentialists believe that there is a common core of knowledge ([[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]) that needs to be transmitted to students in a [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|disciplined]] ([[-Si⛰️\|-Si⛰️]]) way."
+> "Essentialists believe that there is a common core of knowledge ([[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]]) that needs to be transmitted to students in a [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]], [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|disciplined]] ([[-Si⛰️\|-Si⛰️]]) way."
 > "The emphasis in this conservative perspective is on  intellectual and moral [[CARDS/· Related Concepts & Theories ·/Standard\|standards]] ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]) that schools should teach"
 > "Schooling should be practical, preparing students to become valuable members of society ([[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]])."
 > "It should focus on facts ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]) -the objective reality ([[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]) out there--and "the basics," training students to read, write, speak, and compute clearly and logically ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]])."
-> "Students should be taught hard work, [[CARDS/Depth Psychology Theory/Reverance\|respect]] for [[CARDS/Depth Psychology Theory/Authority\|Authority]], and [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|discipline]]" [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+> "Students should be taught hard work, [[CARDS/Depth Psychology Theory/Reverance\|respect]] for [[CARDS/Depth Psychology Theory/Authority\|Authority]], and [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|discipline]]" [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Progressivism
 > "Progressivists believe that education should focus on the whole child, rather than on the content or the teacher." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
