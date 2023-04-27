@@ -16,7 +16,7 @@
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]] - [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]
 - [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]] 
 - [[Vainglory\|Vainglory]] - [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]
-- [[CARDS/Depth Psychology Theory/Envy\|Envy]] - [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]
+- [[CARDS/Depth Psychology Theory/Foundational/Envy\|Envy]] - [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] - [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] - [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 - [[CARDS/Depth Psychology Theory/Greed\|Greed]] - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
