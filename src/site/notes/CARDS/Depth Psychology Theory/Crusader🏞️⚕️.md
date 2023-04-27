@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T17:29:43.036+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T20:57:36.379+02:00"}
 ---
 
 
@@ -32,6 +32,13 @@
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
+| Type             | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]              |
+| ---------------- | ------------- | --------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]  | //              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]   | //              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]] | //              |
+| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]     | [[Faith\|Faith]] |
+| Vice             |  [[Insincerity\|Insincerity]]    |  [[Fear\|Fear]] |
 
 ## Temple 
 [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
