@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-26T18:40:47.963+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T07:35:22.410+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                                  | 1-Mature                                                    |
-| ----------------------------------------------------------- | ----------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others experience. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others experience. |
+| 1-Immature                                                  | 1-Mature                                                               |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others experience. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Warrior]], responsible with what others experience |
 
 | 2-Immature                                               | 2-Mature                                       |
 | -------------------------------------------------------- | ---------------------------------------------- |
