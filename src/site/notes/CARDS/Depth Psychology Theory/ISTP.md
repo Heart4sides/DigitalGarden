@@ -5,21 +5,17 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                             | 1-Mature                                            |
-| ------------------------------------------------------ | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Hero🦸‍♂️, the savior of what I know. |  I am a Warrior👨‍🚒, responsible with what I know. |
+| 1-Immature | 1-Mature |
+| ---------- | -------- |
 
-| 2-Immature                                                     | 2-Mature                                               |
-| -------------------------------------------------------------- | ------------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Teen👦, gullible with what others experience. |  I am a Parent🤨, skeptical of what others experience. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
-| 3-Immature                                                    | 3-Mature                                  |
-| ------------------------------------------------------------- | ----------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] I am a spoiled Child🥳, tyrannical with what I want. |  I am a Child👼, humble with what I want. |
+| 3-Immature | 3-Mature |
+| ---------- | -------- |
 
-| 4-Immature                                                              | 4-Mature                                                 |
-| ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am an Infant😨, afraid of & prideful with what others value. |  I am a King👑, faithful / brave with what others value. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 
 ---
@@ -55,10 +51,10 @@
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
-[[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti 🗡️ deduce]]
-[[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe 💉 empathize]] 
-[[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni 🔥 desire]] 
-[[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se 🌪️ perform]] 
+[[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti 🗡️ deduce]]
+[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe 💉 empathize]] 
+[[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni 🔥 desire]] 
+[[CARDS/Depth Psychology Theory/Foundational/Se\|Se 🌪️ perform]] 
 
 ## Type Grid 
 [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] 
