@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-26T14:18:36.013+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-27T13:05:20.126+02:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 
 # 4 sides of the Mind
-| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]== |
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |                    | ==[[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | -              | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] | -                   |
 | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
