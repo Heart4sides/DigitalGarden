@@ -5,16 +5,16 @@
 #type/shadow 
 | 5-Immature                                                        | 5-Mature                                   |
 | ----------------------------------------------------------------- | ------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] I am a Nemesis😟, uncertain and worried of what I know. |  I am an  Ally🛡️, certain of what I know. |
+| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Nemesis😟, uncertain and worried of what I know. |  I am an  Ally🛡️, certain of what I know. |
 
 | 6-Immature                                                      | 6-Mature                                            |
 | --------------------------------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Critic🤔, cynical with what others experience. | “ I am a Sage🧙, wise with what others experience." |
+| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Critic🤔, cynical with what others experience. | “ I am a Sage🧙, wise with what others experience." |
 
 | 7-Immature                                             | 7-Mature                                        |
 | ------------------------------------------------------ | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] I am a Trickster🤡, foolish with what I want. |  I am the Master💎, brilliant with what I want. |
+| [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] I am a Trickster🤡, foolish with what I want. |  I am the Master💎, brilliant with what I want. |
 
 | 8-Immature                                                      | 8-Mature                                                   |
 | --------------------------------------------------------------- | ---------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Demon😈, I don't care / hate what others value. |  I am the Angel😇, filled with love for what others value. |
+| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Demon😈, I don't care / hate what others value. |  I am the Angel😇, filled with love for what others value. |
