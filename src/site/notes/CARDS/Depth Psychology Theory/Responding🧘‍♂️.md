@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:39:57.645+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:15:20.429+02:00"}
 ---
 
 #typegrid
 # Definition & Etymology 
 - Behaviour expressed by the individuals who have a preference for introversion, meaning they gain energy when they are alone or in a 1-1 setting. 
 	- - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] - What I desire 
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] - What I experience 
+	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] - What I experience 
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] - What I think 
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - What I value 
 - "turn within, direct inward," 1650s, from Latin intro "inward, within" (see [intro-](https://www.etymonline.com/word/intro-?ref=etymonline_crossreference "Etymology, meaning and definition of intro- ")) + vertere "to turn" ([etymonline](https://www.etymonline.com/word/introvert))
