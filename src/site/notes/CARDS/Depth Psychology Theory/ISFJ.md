@@ -17,9 +17,8 @@
 | -------------------------------------------------------------- | ----------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] I am a spoiled Child🥳, tyrannical with what I know. |  I am a Child👼, humble with what I know. |
 
-| 4-Immature                                                             | 4-Mature                                                |
-| ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am an Infant😨, afraid of & prideful with what others want. |  I am a King👑, faithful / brave with what others want. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 | 5-Immature                                                                   | 5-Mature                                              |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
