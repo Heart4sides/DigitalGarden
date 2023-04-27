@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-27T18:46:20.485+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-27T21:21:00.738+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -22,41 +22,22 @@
 
 ---
 # Virtues & Vices
-| Type                 | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
-| -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]              | //                 |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Stealing\|Stealing]]              | //                 |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Earning\|Earning]]               | //                       |
-| Virtu                | [[Diligence\|Diligence]]                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
-| Vice                 | [[Idleness\|Idleness]]                  | [[CARDS/Depth Psychology Theory/Greed\|Greed]]           |
-
-| Type             | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
-| ---------------- | ------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]                 | //                         |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                  | //                         |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[Injustice\|Injustice]]                | //      
-| Virtu            | [[Caregiving\|Caregiving]]  | [[CARDS/Depth Psychology Theory/Attention\|Attention]]        |
-| Vice             | [[Caretaking\|Caretaking]] | [[CARDS/Depth Psychology Theory/Apathy\|Apathy]]    |
+[[Diligence\|Diligence]] 🆚 [[Idleness\|Idleness]] 
 
 ---
-# Temples
+# Temple / 4 sides of the Mind
+|  | ISFP Ego          | [[ENTJ🤸Sub\|ENTJ🤸Sub]] |
+| ------------ | ----------------- | ----------------- |
+| SD           |                   | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]   |
+| SF           |                   | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]     |
 
-| Type                 |  [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
-| -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
-| Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]          | //                         |
-| [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
-|                      |                              |                            |
+|     | [[ESFJ👤Shadow\|ESFJ👤Shadow]] | INTP Superego |
+| --- | ---------------- | ------------- |
+| UD  | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]   |               |
+| UF  | [[CARDS/Depth Psychology Theory/Greed\|Greed]]   |               |
 
-| Type                     | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]   | [[CARDS/Depth Psychology Theory/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
-| ------------------------ | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]   | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]     | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]                | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]                   | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              | -                          |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]                   | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                    | -                          |
+The ISFP belongs to the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]   .
+Its cognitive origin is [[CARDS/Depth Psychology Theory/Purpose\|Purpose]] .
 
 ---
 # Examples 
