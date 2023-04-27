@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T10:51:26.915+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T18:12:55.141+02:00"}
 ---
 
 #on/depthpsychology  #type 
+| 1🗡️                                                                               | 2💧                                                                                                  | 3⛰️                                                                                            | 4💉                                                                                                |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] |
 
 # Cognitive Functions Stack in Attitudes 
 | 1-Immature | 1-Mature |
