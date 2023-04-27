@@ -21,13 +21,11 @@
 | ----------------------------------------------------------------------- | -------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am an Infant😨, afraid of & prideful with what others value. |  I am a King👑, faithful / brave with what others value. |
 
-| 5-Immature                                                            | 5-Mature                                        |
-| --------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Nemesis😟, uncertain and worried of what others know. |  I am an  Ally🛡️, certain of what others know. |
+| 5-Immature | 5-Mature |
+| ---------- | -------- |
 
-| 6-Immature                                                | 6-Mature                                       |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Critic🤔, cynical with what I experience. | “ I am a Sage🧙, wise with what I experience." |
+| 6-Immature | 6-Mature |
+| ---------- | -------- |
 
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
