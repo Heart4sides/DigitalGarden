@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T08:54:52.574+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T10:51:26.915+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -59,7 +59,7 @@
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[CARDS/Depth Psychology Theory/ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
+|              | [[CARDS/Depth Psychology Theory/ENFJ👤Shadow\|ENFJ👤Shadow]]       | ISTP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
