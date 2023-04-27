@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-26T18:51:51.895+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-27T21:48:16.814+02:00"}
 ---
 
 > [!Info] Navigation 💠
@@ -17,7 +17,7 @@
 
 “I have [[CARDS/Depth Psychology Theory/Discovery\|discovered]] the great ray that first brought life upon the earth.” – Dr. Henry Frankenstein
 “This storm will be magnificent. All the electrical secrets of Heaven.” – Dr. Henry Frankenstein (Frankenstein-1931)
-- [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] : [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/INTP\|INTP]]/[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] dyad
+- [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] : [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]/[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]] dyad
 
 “Oh, in the name of God! Now I know what it feels like to be God!” – Dr. Henry Frankenstein (Frankenstein-1931)
 - [[CARDS/Depth Psychology Theory/Generativity\|Generativity]] 
