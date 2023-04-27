@@ -7,4 +7,4 @@
 
 VS 
 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] feels shame : "I feel I have not met my moral (Fi) standards (Te)"
+[[CARDS/Depth Psychology Theory/Fi\|Fi]] feels shame : "I feel I have not met my moral (Fi) standards (Te)"
