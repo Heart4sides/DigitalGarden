@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:03:24.024+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:15:18.730+02:00"}
 ---
 
 #typegrid 
 # Definition & Etymology 
 - Give context to let others choose 
 - Preference shared by those who prioritize either/both : 
-	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])
+	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])
 	- What other people’s desire ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]])
 	- What they value ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]])
 - [inform | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=inform)
