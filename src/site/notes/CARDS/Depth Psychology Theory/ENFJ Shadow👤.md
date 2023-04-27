@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj-shadow/","created":"2023-04-27T07:23:39.276+02:00","updated":"2023-04-27T07:57:56.984+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj-shadow/","created":"2023-04-27T07:23:39.276+02:00","updated":"2023-04-27T10:25:17.170+02:00"}
 ---
 
 #type/shadow 
