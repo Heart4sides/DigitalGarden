@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-26T22:23:10.058+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-27T14:16:21.005+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -28,7 +28,7 @@
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
 
 ## Type Grid 
