@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-27T17:28:30.455+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-27T18:50:57.395+02:00"}
 ---
 
-#typegrid 
+#type/grid 
 # Definition & Etymology 
 - Quality of the result > Speed of progression  
 - Preference shared by those who prioritize either/both : 
