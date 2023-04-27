@@ -5,21 +5,17 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                                        | 1-Mature                                                       |
-| ----------------------------------------------------------------- | -------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Hero🦸‍♂️, the savior of what others experience. |  I am a Warrior👨‍🚒, responsible with what others experience. |
+| 1-Immature | 1-Mature |
+| ---------- | -------- |
 
-| 2-Immature                                          | 2-Mature                                    |
-| --------------------------------------------------- | ------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Teen👦, gullible with what I know. |  I am a Parent🤨, skeptical of what I know. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
-| 3-Immature                                                          | 3-Mature                                        |
-| ------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a spoiled Child🥳, tyrannical with what others value. |  I am a Child👼, humble with what others value. |
+| 3-Immature | 3-Mature |
+| ---------- | -------- |
 
-| 4-Immature                                                        | 4-Mature                                           |
-| ----------------------------------------------------------------- | -------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] I am an Infant😨, afraid of & prideful with what I want. |  I am a King👑, faithful / brave with what I want. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 | 5-Immature | 5-Mature |
 | ---------- | -------- |
@@ -27,9 +23,8 @@
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
-| 7-Immature                                               | 7-Mature                                         |
-| -------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] I am a Trickster🤡, foolish with  what I value. | I am the Master💎, brilliant with  what I value. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
 | 8-Immature | 8-Mature |
 | ---------- | -------- |
