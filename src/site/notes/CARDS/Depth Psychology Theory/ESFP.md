@@ -9,9 +9,8 @@
 | ----------------------------------------------------------------- | -------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Hero🦸‍♂️, the savior of what others experience. |  I am a Warrior👨‍🚒, responsible with what others experience. |
 
-| 2-Immature                                           | 2-Mature                                     |
-| ---------------------------------------------------- | -------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Teen👦, gullible with  what I value. | I am a Parent🤨, skeptical of  what I value. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
