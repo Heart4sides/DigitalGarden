@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-04-27T18:46:40.236+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-04-27T21:09:48.718+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -22,41 +22,22 @@
 
 ---
 # Virtues & Vices
-| Type             | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |  [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
-| ---------------- | ----------------------------- | -------------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                   | //                               |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]             | //                               |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]           | //                               |
-| Virtu            |  [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]               |   [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                    |
-| Vice             |  [[Corrumption\|Corrumption]]           |   [[Nymphomania\|Nymphomania]]                          |
-
-| Type             | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
-| ---------------- | ------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                 |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]            | //                 |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]           | //                 |
-| Virtu            |  [[Charity\|Charity]]   |  [[Objectivity\|Objectivity]]   |
-| Vice             | [[CARDS/Depth Psychology Theory/Depravity\|Depravity]] |   [[Triviality\|Triviality]]   |
+[[CARDS/Depth Psychology Theory/Integrity\|Integrity]] 🆚 [[Corrumption\|Corrumption]] 
 
 ---
-# Temples
+# Temple / 4 sides of the Mind
+|  | INFJ Ego          | [[ESTP 🤸Sub\|ESTP 🤸Sub]] |
+| ------------ | ----------------- | ----------------- |
+| SD           |                   | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]  |
+| SF           |                   | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]    |
 
-| Type             |  [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
-| -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
-| Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
-| [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]              |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]          |
-|                      |                              |                            |
+|     | [[ENFP👤Shadow\|ENFP👤Shadow]] | ISTJ Superego |
+| --- | ---------------- | ------------- |
+| UD  | [[SOURCES/Type Theory by CSJ/Temples/Soul Temple/Intimacy Dyad/Idolatry by CSJ\|Idolatry]]   |               |
+| UF  | [[CARDS/Depth Psychology Theory/Lust\|Lust]]    |               |
 
-| Type             | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
-| -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]|
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]     | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Idolatry\|Idolatry]]               |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Lust\|Lust]]                          |    -       |
+The INFJ belongs to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  .
+Its cognitive origin is [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]] .
 
 ---
 # Examples 
