@@ -28,13 +28,11 @@
 | ----------------------------------------------------- | --------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Critic🤔, cynical with  what I value. | I am a Sage🧙, wise with  what I value. |
 
-| 7-Immature                                                  | 7-Mature                                             |
-| ----------------------------------------------------------- | ---------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Trickster🤡, foolish with what others know. |  I am the Master💎, brilliant with what others know. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
-| 8-Immature                                                      | 8-Mature                                                   |
-| --------------------------------------------------------------- | ---------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Demon😈, I don't care / hate what I experience. |  I am the Angel😇, filled with love for what I experience. |
+| 8-Immature | 8-Mature |
+| ---------- | -------- |
 
 ---
 # Type Grid 
