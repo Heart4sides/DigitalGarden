@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T20:57:36.379+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T21:48:16.018+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 | 🔛  | ESTJ       |    ESTP       | ENTJ |ENFJ| ➡️      | 👋       | 🏆     |
 | 🔜    |==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==    | ESFP    |==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
 | 🔝   | ISTJ             |   ISTP   | INTJ           | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| 🔙 |==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==          | ISFP | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
+| 🔙 |==[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]==          | ISFP | ==[[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]==        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
@@ -32,7 +32,7 @@
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
-| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]              |
+| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]              |
 | ---------------- | ------------- | --------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]  | //              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]   | //              |
