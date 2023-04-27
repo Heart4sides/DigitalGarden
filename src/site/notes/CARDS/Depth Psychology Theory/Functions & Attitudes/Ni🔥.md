@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T10:07:20.385+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:03:24.863+02:00"}
 ---
 
 #on/depthpsychology 
@@ -7,7 +7,7 @@
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🔥Ni-Ne💧\|🔥Ni-Ne💧]]
-Introverted Intuition is awareness of one’s own desires. Ni users are the source of willpower, hope and passion for [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] users.  
+Introverted Intuition is awareness of one’s own desires. Ni users are the source of willpower, hope and passion for [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] users.  
 
 [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] 
 Ni users desire to choose the people with whom they will [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] share their journey. 
