@@ -1,8 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T09:58:31.046+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T13:41:29.000+02:00"}
 ---
 
 #on/depthpsychology 
+
+“What I experience”
+{ #1ij0k}
+
 
 # Functional Relationships 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
