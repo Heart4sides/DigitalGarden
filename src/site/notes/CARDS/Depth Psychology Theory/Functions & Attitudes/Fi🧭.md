@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T07:33:09.977+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T08:24:34.550+02:00"}
 ---
 
 #on/depthpsychology 
@@ -32,15 +32,20 @@ Fi users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Func
 
 ---
 # Type Grid 
-|                          | <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]==</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]==</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font> | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]] | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]] | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]] |
-|:------------------------ |:---------------------------------------------- |:---------------------------------------------:|:---------------------------------------------------- |:--------------------------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
-| ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==                                   |              ESTP           | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                                         |ENFJ                               | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]            | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]        | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]           |
-| ==[[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]==    | ESFJ                                    |                 ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==                  |ENTP                                        | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==                                  | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]]       | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]        | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]]       |
-| ==[[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]==   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==                                   |           ISTP           | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                                         |INFJ                              | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]            | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]  | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]]       |
-| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ISFJ                   |                 ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==                  | INTP                                      | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==                                  | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]]       | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]  | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]           |
-| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]    | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]]                          |             [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]]             | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]                                   | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]                            |                             |                             |                             |
-| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]    | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]]                          |              [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]              | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]                                  | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]]                         |                             |                             |                             |
-| [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]    | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]                           |              [[CARDS/Depth Psychology Theory/Interest👀\|👀]]               | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]                                 | [[CARDS/Depth Psychology Theory/Interest👀\|👀]]                            |                             |                             |                             |
+
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
+|:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
+| 🔛| [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]|ESTP| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]| ENFJ| ➡️| 👋| 🏆|
+| 🔜| ESFJ|[[CARDS/Depth Psychology Theory/ESFP\|ESFP]] |ENTP| [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]| ↪️| 👋| 🏃‍♂️                       |
+| 🔝| [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]|ISTP| [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]| INFJ| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+| 🔙| ISFJ|[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]| INTP| [[CARDS/Depth Psychology Theory/INFP\|INFP]]| ↪️| 🧘‍♂️| 🏆                          |
+|🌍 | 👁️‍🗨️|👁️‍🗨️| 🧲| 🧲||                             |                             |
+| 🌍 | 🐜|🦊| 🦊| 🐜||                             |                             |
+|🌍| ⚙️|👀| ⚙️| 👀|                             |                             |                             |
+
+High Fi users are : 
+- [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] 
+- [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] 
 
 --- 
 # Quadra 
