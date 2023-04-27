@@ -15,9 +15,8 @@
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
 
-| 4-Immature                                                          | 4-Mature                                            |
-| ------------------------------------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am an Infant😨, afraid of & prideful with  what I value. | I am a King👑, faithful / brave with  what I value. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 ---
 # Type Grid 
