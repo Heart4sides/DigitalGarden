@@ -4,8 +4,8 @@
 
 
 ## Intellectuals = NT types
-- [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]] : [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]] 
-- [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] : [[CARDS/Depth Psychology Theory/ENTP\|ENTP]] 
+- [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]] : [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]] 
+- [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] : [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] 
 - [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] : [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] 
 - [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] : [[CARDS/Depth Psychology Theory/INTP\|INTP]]
 
