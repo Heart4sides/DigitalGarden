@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T14:34:21.270+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T17:30:13.604+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -26,7 +26,7 @@
 | Direction in time           | preserving the past ([[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]])                                                      | growth, reconstruct present, change society, shape future       |
 | Educational value           | fixed, absolute, objective                                                                 | changeable, subjective, relative                                |
 | Educational process         | focuses on teaching                                                                        | focuses on active self-learning                                 |
-| Intellectual focus          | train, discipline the mind ([[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]/[[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]/[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]])                          | engage in problem-solving, social tasks                         |
+| Intellectual focus          | train, discipline the mind ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]/[[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]/[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]])                          | engage in problem-solving, social tasks                         |
 | Subject- matter             | for its own self-importance                                                                | all have similar value                                          |
 | Curriculum                  | composed of three Rs                                                                       | three Rs, arts, sciences, vocational                            |
 | Learning                    | cognitive learning, disciplines                                                            | exploratory, discovery                                          |
