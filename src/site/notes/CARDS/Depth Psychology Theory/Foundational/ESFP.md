@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T20:55:30.188+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T22:21:10.435+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]. 
-| 1🌪️                                                                                                         | 2🧭                                                                                  | 3🏹                                                                                              | 4🔥                                                                                    |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                                | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                      | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
 
