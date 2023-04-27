@@ -20,8 +20,8 @@
 
 |                      | <font size="4">  ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]== </font>   |  <font size="4"> 🧰</font>   | <font size="4">   ==[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]==  </font> | <font size="4">   🦄  </font>    |  💬                       |    💬|    💬                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| 🔛  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==   |      ESTP    |    ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                     |   ENFJ                | ➡️      | 👋       | 🏆     |
-| 🔜  | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==          |     ESFP    |   ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==                    |   ENFP                | ↪️ | 👋       | 🏃‍♂️ |
+| 🔛  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==   |      ESTP    |    ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==                     |   ENFJ                | ➡️      | 👋       | 🏆     |
+| 🔜  | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==          |     ESFP    |   ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                    |   ENFP                | ↪️ | 👋       | 🏃‍♂️ |
 | 🔝  | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==  |   ISTP |   ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                    |   INFJ                | ➡️      | 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 |  🔙  | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==         |      ISFP   |    ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                     |    INFP                 | ↪️ |  🧘‍♂️  | 🏆     |
 |   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] |  🧲         |  🧲     |                       |                            |                       |
