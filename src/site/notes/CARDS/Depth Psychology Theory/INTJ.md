@@ -21,9 +21,8 @@
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am an Infant😨, afraid of & prideful with what others experience. |  I am a King👑, faithful / brave with what others experience. |
 
-| 5-Immature                                                            | 5-Mature                                        |
-| --------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Nemesis😟, uncertain and worried of what others want. |  I am an  Ally🛡️, certain of what others want. |
+| 5-Immature | 5-Mature |
+| ---------- | -------- |
 
 | 6-Immature                                           | 6-Mature                                 |
 | ---------------------------------------------------- | ---------------------------------------- |
