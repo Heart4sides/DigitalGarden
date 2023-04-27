@@ -29,9 +29,8 @@
 | --------------------------------------------------------- | ---------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Critic🤔, cynical with what I experience. | “ I am a Sage🧙, wise with what I experience." |
 
-| 7-Immature                                                  | 7-Mature                                             |
-| ----------------------------------------------------------- | ---------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Trickster🤡, foolish with what others want. |  I am the Master💎, brilliant with what others want. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
 | 8-Immature                                                  | 8-Mature                                              |
 | ----------------------------------------------------------- | ----------------------------------------------------- |
