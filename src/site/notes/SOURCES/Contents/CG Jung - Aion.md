@@ -3,9 +3,9 @@
 ---
 
 #book #on/depthpsychology 
-| MOC                                                             | Author                                        | Type                                            | Reference                                                                                                                                                             |
-| --------------------------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/C.G. Jung\|C.G. Jung]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [The Collected Works of C. G. Jung : Aion : C. G. Jung : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/collectedworksof92cgju) |
+| MOC                                                             | Author                                        | Type                                                         | Reference                                                                                                                                                             |
+| --------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/C.G. Jung\|C.G. Jung]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | [The Collected Works of C. G. Jung : Aion : C. G. Jung : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/collectedworksof92cgju) |
 
 # Description 
 
