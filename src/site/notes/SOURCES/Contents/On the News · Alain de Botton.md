@@ -6,5 +6,5 @@
 Ref :: [Alain de Botton on The News - YouTube](https://www.youtube.com/watch?v=SNr-AoFLjok&t=3s)
 [16:40](https://www.youtube.com/watch?v=SNr-AoFLjok&t=1000s) "[[CARDS/Depth Psychology Theory/Foundational/Fe\|empathy]]" requires to know "the steady state of a place before the disaster" 
 [26:30](https://www.youtube.com/watch?v=SNr-AoFLjok&t=1590s) Aristotle & Catharsis 
-[37:50](https://www.youtube.com/watch?v=SNr-AoFLjok&t=2270s) [[CARDS/Depth Psychology Theory/Foundational/Envy\|Envy]] 
+[37:50](https://www.youtube.com/watch?v=SNr-AoFLjok&t=2270s) [[CARDS/Depth Psychology Theory/Envy\|Envy]] 
 [40:00](https://www.youtube.com/watch?v=SNr-AoFLjok&t=2400s) Bias
