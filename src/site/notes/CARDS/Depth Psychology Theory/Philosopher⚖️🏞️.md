@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T14:24:32.626+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T15:23:09.560+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 | 🔛  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==       |    ESTP       | ENTJ|ENFJ| ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ    |ESFP     | ENTP          | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==           |↪️ | 👋       | 🏃‍♂️ |
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==             |   ISTP   | INTJ          | INFJ           |➡️    |  🧘‍♂️ | 🏃 |
-| 🔙 |ISFJ       |  ISFP  | INTP        | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==          | ↪️ |  🧘‍♂️  | 🏆     |
+| 🔙 |ISFJ       |  ISFP  | INTP        | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
@@ -17,10 +17,10 @@
 All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 
 # Cognitive Functions
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]
-- [[CARDS/Depth Psychology Theory/Fi\|Fi]]
+- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
+- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]
+- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]
+- [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]]
 
 ## Virtu & Vice
 [[Self-sacrifice\|Self-sacrifice]] | [[Sacrifice of others\|Sacrifice of others]]
