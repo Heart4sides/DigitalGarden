@@ -1,21 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-27T08:10:22.775+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-27T13:07:56.953+02:00"}
 ---
 
 #on/psychology
 
 # Depth Psychology Theory
 
-| [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]      | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]                |
-| -------------------- | --------------------------- |
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]        | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Warrior👨‍🚒]] |
-| [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                |
-| [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] God      | Divine [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]          |
-| [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]         | [[CARDS/Depth Psychology Theory/Infant😨\|King👑]]        |
-| [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]        | [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]]       |
-| [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]         | [[CARDS/Depth Psychology Theory/Critic🤔\|Sage🧙‍♂️]]     |
-| [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]      | [[CARDS/Depth Psychology Theory/Trickster🤡\|Master💎]]   |
-| [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]          | [[CARDS/Depth Psychology Theory/Demon😈\|Angel😇]]                             |
+| [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]  | [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] |[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] | 
+| ---------------------------- | --------------------------- | ----------------------------------- | ------------------ |
+| [[CARDS/Depth Psychology Theory/Chesty Hero🦸‍♂️\|Chesty Hero🦸‍♂️]]                | [[Responsible Warrior👨‍🚒\|Responsible Warrior👨‍🚒]] | [[Complacent Infant\|Complacent Infant]] |    [[Resting Infant\|Resting Infant]]                |
+|  [[Lenient Parent\|Lenient Parent]]       | [[Skeptical Parent🤨\|Skeptical Parent🤨]]                |  [[CARDS/Depth Psychology Theory/Parent🤨\|Credulous Teen👦]]                                    | [[Free Child\|Free Child]]     |
+| [[CARDS/Depth Psychology Theory/Precocious Child\|Precocious Child]]         | [[Divine Child\|Divine Child]]            | [[Tyrannical Parent\|Tyrannical Parent]]                          | [[Humble Parent\|Humble Parent]]  |
+| [[Fearful Infant😨\|Fearful Infant😨]]| [[Aspiring Infant🤲\|Aspiring Infant🤲]]     | [[Proud Hero😨\|Proud Hero😨]] |        [[CARDS/Depth Psychology Theory/Infant😨\|King👑]]               |
+
+| [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | Mature [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]       | Immature [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] | Mature [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] |
+| ---------------------------- | ------------------------- | ----------------------- | --------------------- |
+| [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                | [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]]     |                         |                       |
+| [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                 | [[CARDS/Depth Psychology Theory/Critic🤔\|Sage🧙‍♂️]]   |                         |                       |
+| [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]              | [[CARDS/Depth Psychology Theory/Trickster🤡\|Master💎]] |                         |                       |
+| [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                  | [[CARDS/Depth Psychology Theory/Demon😈\|Angel😇]]      |                         |                       |
 
 ---
 # Dictionary 
