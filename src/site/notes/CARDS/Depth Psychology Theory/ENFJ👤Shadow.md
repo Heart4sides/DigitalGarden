@@ -6,19 +6,19 @@
 
 | 5-Immature                                                             | 5-Mature                                         |
 | ---------------------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Nemesis😟, uncertain and worried of what others value. |  I am an  Ally🛡️, certain of what others value. |
+| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Nemesis😟, uncertain and worried of what others value. |  I am an  Ally🛡️, certain of what others value. |
 
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
 | 7-Immature                                                         | 7-Mature                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Trickster🤡, foolish with what others experience. |  I am the Master💎, brilliant with what others experience. |
+| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Trickster🤡, foolish with what others experience. |  I am the Master💎, brilliant with what others experience. |
 
 
 | 8-Immature                                                 | 8-Mature                                             |
 | ---------------------------------------------------------- | ---------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] I am a Demon😈, I don't care / hate what I know. |  I am the Angel😇, filled with love for what I know. |
+| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Demon😈, I don't care / hate what I know. |  I am the Angel😇, filled with love for what I know. |
 
 
 
