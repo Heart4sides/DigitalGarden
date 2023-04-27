@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T14:34:20.201+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T14:41:56.779+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -7,7 +7,7 @@
 # Cognitive Functions Stack
 [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Background🔙\|Behind the scenes🔙]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] 
 Hierarchy of Preference : 
-1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi#What I value\|Fi#What I value]]
+1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi#What\|Fi#What]]
 2. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne#What others desire\|Ne#What others desire]]
 3. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si#What I experience\|Si#What I experience]]
 4. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te#What others know\|Te#What others know]] 
