@@ -13,7 +13,6 @@
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
 
-| 8-Immature                                                  | 8-Mature                                              |
-| ----------------------------------------------------------- | ----------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] I am a Demon😈, I don't care / hate  what I value. | I am the Angel😇, filled with love for  what I value. |
+| 8-Immature | 8-Mature |
+| ---------- | -------- |
 
