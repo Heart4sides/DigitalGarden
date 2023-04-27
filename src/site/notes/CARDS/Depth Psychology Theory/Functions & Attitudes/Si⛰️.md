@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T07:27:40.948+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T07:32:34.789+02:00"}
 ---
 
 #on/depthpsychology 
@@ -68,9 +68,9 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Func
 | ------------------------------------------------------------- | --------------------------------------------------- |
 | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what I experience. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what I experience |
 
-| 3-Immature                                           | 3-Mature                                          |
-| ---------------------------------------------------- | ------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]- I am a god Child👼, tyrannical with what   | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what I experience |
+| 3-Immature                                           | 3-Mature                                      |
+| ---------------------------------------------------- | --------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]- I am a god Child👼, tyrannical with what   | I am a Child👼, humble with what I experience |
 
 | 4-Immature                                                        | 4-Mature                                                             |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------- |
