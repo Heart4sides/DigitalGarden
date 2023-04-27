@@ -4,21 +4,18 @@
 
 #type/shadow 
 
-| 5-Immature                                                             | 5-Mature                                         |
-| ---------------------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Nemesis😟, uncertain and worried of what others value. |  I am an  Ally🛡️, certain of what others value. |
+| 5-Immature | 5-Mature |
+| ---------- | -------- |
 
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
-| 7-Immature                                                         | 7-Mature                                                   |
-| ------------------------------------------------------------------ | ---------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Trickster🤡, foolish with what others experience. |  I am the Master💎, brilliant with what others experience. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
 
-| 8-Immature                                                 | 8-Mature                                             |
-| ---------------------------------------------------------- | ---------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am a Demon😈, I don't care / hate what I know. |  I am the Angel😇, filled with love for what I know. |
+| 8-Immature | 8-Mature |
+| ---------- | -------- |
 
 
 
