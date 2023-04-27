@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-04-27T21:29:16.184+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-04-27T21:47:49.964+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
@@ -48,7 +48,7 @@ Keep things fresh and sharp.
 | **[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]** | **[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]** |     |     |
 
 # INTJ Ego’s Mind 
-| Type                     | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
+| Type                     | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | ------------------------ | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]   | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -56,7 +56,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/SD\|SD]]                   |                              | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]                |
 | [[CARDS/Depth Psychology Theory/SF\|SF]]                   |                              | [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]                |
 
-| Type             |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] |  [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
+| Type             |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] |  [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -67,7 +67,7 @@ Keep things fresh and sharp.
 
 # ENTP Ego’s Mind 
 
-| Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]   |
+| Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]   |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -76,7 +76,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
 
-| Type                 | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -95,7 +95,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -105,7 +105,7 @@ Keep things fresh and sharp.
 
 # ESFP Ego’s Mind 
 
-| Type                 | [[CARDS/Depth Psychology Theory/Shadow👤\|🙋‍♂️]] [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]   | [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]  |
+| Type                 | [[CARDS/Depth Psychology Theory/Shadow👤\|🙋‍♂️]] [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]   | [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -113,7 +113,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |                |   [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]      |
 | [[CARDS/Depth Psychology Theory/SF\|SF]]               |                 |   [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]    |
 
-| Type                 | [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]  [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]   |  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  |
+| Type                 | [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]  [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]   |  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
