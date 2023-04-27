@@ -26,9 +26,8 @@
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
-| 7-Immature                                               | 7-Mature                                         |
-| -------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Trickster🤡, foolish with  what I value. | I am the Master💎, brilliant with  what I value. |
+| 7-Immature | 7-Mature |
+| ---------- | -------- |
 
 | 8-Immature                                                            | 8-Mature                                                        |
 | --------------------------------------------------------------------- | --------------------------------------------------------------- |
