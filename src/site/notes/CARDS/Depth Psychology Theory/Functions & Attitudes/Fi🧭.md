@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T13:40:01.116+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T13:55:26.990+02:00"}
 ---
 
 #on/depthpsychology 
 
-“What I value”
-{ #f22b28}
+# What I value
 
-
+# Functional Relationships 
 [[CARDS/Depth Psychology Theory/🧭Fi-Fe💉\|🧭Fi-Fe💉]]
 Introverted Feeling is awareness of one’s own moral values. Fi users are the source of sympathy, investment and principles. 
 
