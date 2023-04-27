@@ -1,38 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-27T18:18:42.718+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-27T18:45:43.142+02:00"}
 ---
 
 #on/depthpsychology  #type 
+
+[[CARDS/Depth Psychology Theory/Structure🔛\|In charge🔛]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]. 
 | 1🌪️                                                                                                         | 2🗡️                                                                               | 3💉                                                                                                | 4🔥                                                                                    |
 | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
 
-# Cognitive Functions Stack in Attitudes 
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
-
----
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
@@ -48,7 +24,7 @@
 # Virtues & Vices
 | Type             | [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ----------------------------- | -------------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar\|Templar]]                   | //                               |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                   | //                               |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]             | //                               |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]           | //                               |
 | Virtu            | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                  | [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]                    |
