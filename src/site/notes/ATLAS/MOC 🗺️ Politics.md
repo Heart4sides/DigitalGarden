@@ -8,7 +8,7 @@
 # Politicians
 | File                                                                  | Type                                                         | language |
 | --------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]              | \-       |
+| [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] | \-       |
 | [[CARDS/Individuals/Eisenhower\|Eisenhower]]                       | \-                                                           | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | \-                                                           | fr       |
 | [[CARDS/Individuals/Etienne Chouard\|Etienne Chouard]]             | \-                                                           | fr       |
@@ -31,11 +31,11 @@
 
 
 # Political Collectives 
-| File                                                                                              | Type                                            |
-| ------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Collectives/Civilisation romaine\|Civilisation romaine]]                               | \-                                              |
-| [[CARDS/Collectives/Denmark\|Denmark]]                                                         | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] |
-| [[CARDS/Collectives/Typologie dans l'Histoire de France\|Typologie dans l'Histoire de France]] | \-                                              |
+| File                                                                                              | Type                                                         |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [[CARDS/Collectives/Civilisation romaine\|Civilisation romaine]]                               | \-                                                           |
+| [[CARDS/Collectives/Denmark\|Denmark]]                                                         | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] |
+| [[CARDS/Collectives/Typologie dans l'Histoire de France\|Typologie dans l'Histoire de France]] | \-                                                           |
 
 
 # Political Content
