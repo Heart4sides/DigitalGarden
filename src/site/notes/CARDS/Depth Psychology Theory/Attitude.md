@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-27T13:30:12.528+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-04-27T22:09:13.387+02:00"}
 ---
 
 #on/psychology
 
 # Depth Psychology Theory
-
-[[CARDS/Depth Psychology Theory/Chesty Hero🦸‍♂️\|Chesty Hero🦸‍♂️]] : Arrogant
-{ #pvsq9}
-
 
 | [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]  | [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] |[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] | 
 | ---------------------------- | --------------------------- | ----------------------------------- | ------------------ |
