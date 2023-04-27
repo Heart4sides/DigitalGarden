@@ -3,7 +3,7 @@
 ---
 
 
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]
+[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
 
 Living Virtu ([[CARDS/Depth Psychology Theory/SF\|SF]]): [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]
 Deadly Sin ([[CARDS/Depth Psychology Theory/UF\|UF]]) : [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]] 
