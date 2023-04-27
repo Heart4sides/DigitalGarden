@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T17:29:49.799+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T17:50:00.422+02:00"}
 ---
 
 #on/depthpsychology 
 
-# What I don’t value
+# What I do not value
 
 # Functional Relationships 
 [[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
