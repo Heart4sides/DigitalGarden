@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T17:28:30.491+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T21:13:33.688+02:00"}
 ---
 
 
@@ -23,7 +23,13 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]
 
 ## Virtu & Vice
-[[Self-sacrifice\|Self-sacrifice]] | [[Sacrifice of others\|Sacrifice of others]]
+| Type             |[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
+| ---------------- | ------------------------ | ------------------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
+| Virtu            | [[Charity\|Charity]]  |    [[Objectivity\|Objectivity]]   |
+| Vice             | [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]  |   [[Triviality\|Triviality]]  |
 
 ## Temple 
 ==[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]== | ==[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]== 
@@ -41,13 +47,6 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[I win button\|I win button]]
 - [[Manipulative\|Manipulative]]
 - [[Slavery\|Slavery]] 
-
-## Mentions 
-ctrl + schift + Q
-[[EXTRAS/Templates/TPL Function\|TPL Function]]
-
-## Examples 
-[[ATLAS/Examples 1\|Examples 1]] 
 
 <script src="https://utteranc.es/client.js"
         repo="Heart4sides/Comment_Section"
