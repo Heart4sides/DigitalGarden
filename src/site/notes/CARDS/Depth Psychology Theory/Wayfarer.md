@@ -28,7 +28,7 @@
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] | [[CARDS/Depth Psychology Theory/Fi\|Fi]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] 
 
 ## Type Grid 
