@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-26T17:21:09.376+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T14:15:16.730+02:00"}
 ---
 
 #typegrid 
@@ -7,7 +7,7 @@
 # Definition & Etymology 
 - Interdependance > Independance 
 - Preference shared by those who prioritize either : 
-	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]])
+	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])
 	- What other people value ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]])
 - [affiliative | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=affiliative)
 	- 1751, "adoption," from French affiliation, from Medieval Latin affiliationem (nominative affiliatio), noun of action from past-participle stem of Latin affiliare "to adopt as a son," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference "Etymology, meaning and definition of ad- ")) + filius "son" (see [filial](https://www.etymonline.com/word/filial?ref=etymonline_crossreference "Etymology, meaning and definition of filial ")).
