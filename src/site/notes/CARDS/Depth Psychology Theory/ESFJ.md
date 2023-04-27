@@ -5,7 +5,7 @@
 # Cognitive Functions Stack in Attitudes 
 | 1-Immature                                                  | 1-Mature                                                    |
 | ----------------------------------------------------------- | ----------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. |
+| [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. | [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] I am a Hero🦸‍♂️, the savior of what others value. |
 
 | 2-Immature | 2-Mature |
 | ---------- | -------- |
@@ -15,18 +15,19 @@
 
 | 4-Immature                                                         | 4-Mature                                           |
 | ------------------------------------------------------------------ | -------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] I am an Infant😨, afraid of & prideful with what I know. |  I am a King👑, faithful / brave with what I know. |
+| [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] I am an Infant😨, afraid of & prideful with what I know. |  I am a King👑, faithful / brave with what I know. |
 
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
+| 5-Immature                                                         | 5-Mature                                    |
+| ------------------------------------------------------------------ | ------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] I am a Nemesis😟, uncertain and worried of  what I value. | I am an  Ally🛡️, certain of  what I value. |
 
 | 6-Immature                                                      | 6-Mature                                            |
 | --------------------------------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Critic🤔, cynical with what others experience. | “ I am a Sage🧙, wise with what others experience." |
+| [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] I am a Critic🤔, cynical with what others experience. | “ I am a Sage🧙, wise with what others experience." |
 
 | 7-Immature                                             | 7-Mature                                        |
 | ------------------------------------------------------ | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] I am a Trickster🤡, foolish with what I want. |  I am the Master💎, brilliant with what I want. |
+| [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] I am a Trickster🤡, foolish with what I want. |  I am the Master💎, brilliant with what I want. |
 
 | 8-Immature | 8-Mature |
 | ---------- | -------- |
