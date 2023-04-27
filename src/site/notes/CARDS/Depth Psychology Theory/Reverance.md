@@ -3,5 +3,5 @@
 ---
 
 
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]
+[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]
 
