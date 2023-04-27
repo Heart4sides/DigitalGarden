@@ -1,14 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T14:16:42.750+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T14:34:20.201+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack
-4 Functions Fi-Te & Si-Ne ([[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra)
-4 functions in the [[CARDS/Depth Psychology Theory/ENFJ👤Shadow\|ENFJ👤Shadow]]. 
-
-1. [[CARDS/Depth Psychology Theory/Dominant#Fi - What I value\|Dominant#Fi - What I value]]
+[[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Background🔙\|Behind the scenes🔙]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] 
+Hierarchy of Preference : 
+1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi#What I value\|Fi#What I value]]
 2. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne#What others desire\|Ne#What others desire]]
 3. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si#What I experience\|Si#What I experience]]
 4. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te#What others know\|Te#What others know]] 
@@ -29,9 +28,8 @@
 [[Loyalty\|Loyalty]] 🆚 [[Treachery\|Treachery]] 
 
 ---
-# Temple 
-[[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]] | [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
-| [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | INFP Ego          | [[CARDS/Depth Psychology Theory/ESTJ Sub🤸\|ESTJ Sub🤸]] |
+# Temple / 4 sides of the Mind
+|  | INFP Ego          | [[CARDS/Depth Psychology Theory/ESTJ Sub🤸\|ESTJ Sub🤸]] |
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
