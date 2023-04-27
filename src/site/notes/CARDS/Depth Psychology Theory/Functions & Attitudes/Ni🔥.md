@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:03:24.863+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:15:22.320+02:00"}
 ---
 
 #on/depthpsychology 
@@ -13,7 +13,7 @@ Introverted Intuition is awareness of one’s own desires. Ni users are the sour
 Ni users desire to choose the people with whom they will [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] share their journey. 
 
 [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
-Ni users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] experiences for the sake of projecting themselves in the future. 
+Ni users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] experiences for the sake of projecting themselves in the future. 
 
 ---
 # Keywords
