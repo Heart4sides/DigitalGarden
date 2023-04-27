@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-04-27T07:36:32.751+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-04-27T10:36:15.656+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -20,14 +20,6 @@
 | 4-Immature                                                              | 4-Mature                                                 |
 | ----------------------------------------------------------------------- | -------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am an Infant😨, afraid of & prideful with what others value. |  I am a King👑, faithful / brave with what others value. |
-
-| 5-Immature                                                            | 5-Mature                                        |
-| --------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Nemesis😟, uncertain and worried of what others know. |  I am an  Ally🛡️, certain of what others know. |
-
-| 6-Immature                                                | 6-Mature                                       |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Critic🤔, cynical with what I experience. | “ I am a Sage🧙, wise with what I experience." |
 
 | 7-Immature                                                  | 7-Mature                                             |
 | ----------------------------------------------------------- | ---------------------------------------------------- |
