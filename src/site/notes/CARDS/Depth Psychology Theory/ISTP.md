@@ -5,37 +5,37 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                                | 1-Mature                                                             |
-| --------------------------------------------------------- | -------------------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I think is true. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Warrior]], responsible with what I think is true |
+| 1-Immature                                             | 1-Mature                                            |
+| ------------------------------------------------------ | --------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] I am a Hero🦸‍♂️, the savior of what I know. |  I am a Warrior👨‍🚒, responsible with what I know. |
 
-| 2-Immature                                                         | 2-Mature                                                 |
-| ------------------------------------------------------------------ | -------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others experience. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others experience |
+| 2-Immature                                                     | 2-Mature                                               |
+| -------------------------------------------------------------- | ------------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Teen👦, gullible with what others experience. |  I am a Parent🤨, skeptical of what others experience. |
 
-| 3-Immature                                           | 3-Mature                                    |
-| ---------------------------------------------------- | ------------------------------------------- |
-| I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what I want. | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what I want |
+| 3-Immature                                                    | 3-Mature                                  |
+| ------------------------------------------------------------- | ----------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] I am a spoiled Child🥳, tyrannical with what I want. |  I am a Child👼, humble with what I want. |
 
-| 4-Immature                                                        | 4-Mature                                                             |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others value | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others value |
+| 4-Immature                                                              | 4-Mature                                                 |
+| ----------------------------------------------------------------------- | -------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am an Infant😨, afraid of & prideful with what others value. |  I am a King👑, faithful / brave with what others value. |
 
-| 5-Immature                                                     | 5-Mature                                                     |
-| -------------------------------------------------------------- | ------------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]], uncertain & worried of what others think | I am an [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]], certain of what others think |
+| 5-Immature                                                            | 5-Mature                                        |
+| --------------------------------------------------------------------- | ----------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Nemesis😟, uncertain and worried of what others know. |  I am an  Ally🛡️, certain of what others know. |
 
-| 6-Immature                                          | 6-Mature                                               |
-| --------------------------------------------------- | ------------------------------------------------------ |
-| I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]], cynical with what I experience | I am a [[CARDS/Depth Psychology Theory/Critic🤔\|Sage]], wise with what I experience |
+| 6-Immature                                                | 6-Mature                                       |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Critic🤔, cynical with what I experience. | “ I am a Sage🧙, wise with what I experience." |
 
-| 7-Immature                                            | 7-Mature                                                            |
-| ----------------------------------------------------- | ------------------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], foolish with what others want | I am the [[CARDS/Depth Psychology Theory/Trickster🤡\|Master💎]], brilliant with what others want |
+| 7-Immature                                                  | 7-Mature                                             |
+| ----------------------------------------------------------- | ---------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Trickster🤡, foolish with what others want. |  I am the Master💎, brilliant with what others want. |
 
-| 8-Immature                                           | 8-Mature                                                       |
-| ---------------------------------------------------- | -------------------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], I don't care / hate what I value | I am the [[CARDS/Depth Psychology Theory/Demon😈\|Angel]], filled with love for what I value |
+| 8-Immature                                                  | 8-Mature                                              |
+| ----------------------------------------------------------- | ----------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Demon😈, I don't care / hate  what I value. | I am the Angel😇, filled with love for  what I value. |
 
 ---
 # Type Grid 
