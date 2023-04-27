@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-27T17:30:07.265+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-27T18:31:25.888+02:00"}
 ---
 
 
@@ -51,7 +51,7 @@
 
 # 4 Quadras 
 
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]              | [[CARDS/Depth Psychology Theory/Templar\|Templar]]              | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]             | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]              | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]              | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]             | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]]  |
