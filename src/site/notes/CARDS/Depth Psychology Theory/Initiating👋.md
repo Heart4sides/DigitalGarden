@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-27T14:16:20.042+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-04-27T15:24:09.573+02:00"}
 ---
 
 #typegrid 
@@ -23,10 +23,10 @@
 
 ----
 # Functions 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] - What others desire 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] - What others experience 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] - What other’s think 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] - What others value 
+- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] - What others desire 
+- [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] - What others experience 
+- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] - What other’s think 
+- [[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]] - What others value 
 ---
 # Udja 
 [Udja App](https://www.udja.app/#/)
