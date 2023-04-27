@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-04-27T07:50:43.125+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-04-27T21:48:16.118+02:00"}
 ---
 
 
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
+[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
 
 Living Virtu ([[CARDS/Depth Psychology Theory/SF\|SF]]): [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]
 Deadly Sin ([[CARDS/Depth Psychology Theory/UF\|UF]]) : [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]] 
