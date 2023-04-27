@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-26T14:18:38.240+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-27T13:05:52.914+02:00"}
 ---
 
 #on/depthpsychology 
@@ -8,7 +8,7 @@
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [[CARDS/Depth Psychology Theory/ENFP\|ENFP]] | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s) |
 
 
-|    ➕    | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Subconscious🤸\|Subconscious🤸]]            |
+|    ➕    | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]            |
 | ---------------- | ------------- | -------------- |
 |  🔗                | [[Origin\|Origin]]    | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]    |
 | Theme            | Alignment     | Exchange     |
