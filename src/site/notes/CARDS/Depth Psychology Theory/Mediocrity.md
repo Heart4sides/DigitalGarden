@@ -3,4 +3,4 @@
 ---
 
 
-What is most feared and avoided by the [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] Dyad ([[CARDS/Depth Psychology Theory/INTJ\|INTJ]] / [[CARDS/Depth Psychology Theory/ESFP\|ESFP]])
+What is most feared and avoided by the [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] Dyad ([[CARDS/Depth Psychology Theory/INTJ\|INTJ]] / [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]])
