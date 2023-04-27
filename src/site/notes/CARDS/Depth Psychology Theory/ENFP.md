@@ -12,13 +12,11 @@
 | ---------------------------------------------------- | -------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Teen👦, gullible with  what I value. | I am a Parent🤨, skeptical of  what I value. |
 
-| 3-Immature                                                         | 3-Mature                                       |
-| ------------------------------------------------------------------ | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a spoiled Child🥳, tyrannical with what others know. |  I am a Child👼, humble with what others know. |
+| 3-Immature | 3-Mature |
+| ---------- | -------- |
 
-| 4-Immature                                                              | 4-Mature                                                 |
-| ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am an Infant😨, afraid of & prideful with what I experience. |  I am a King👑, faithful / brave with what I experience. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 | 5-Immature                                                       | 5-Mature                                   |
 | ---------------------------------------------------------------- | ------------------------------------------ |
