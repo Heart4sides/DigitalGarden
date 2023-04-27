@@ -14,8 +14,8 @@
 - [[EXTRAS/Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 - Education = provide the foundational tools so that independent learning becomes possible for one's life.
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]]
-	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
+	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]]
+	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]
 - [[Templars\|Templars]] : teach, mentor & counsel 
 - [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 	- prefers to educate and inform
