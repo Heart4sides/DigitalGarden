@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T15:24:02.959+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T17:29:42.262+02:00"}
 ---
 
 #typegrid 
@@ -8,7 +8,7 @@
 - Interdependance > Independance 
 - Preference shared by those who prioritize either : 
 	- What they experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]])
-	- What other people value ([[CARDS/Depth Psychology Theory/Foundational/Fe💉\|Fe💉]])
+	- What other people value ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]])
 - [affiliative | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=affiliative)
 	- 1751, "adoption," from French affiliation, from Medieval Latin affiliationem (nominative affiliatio), noun of action from past-participle stem of Latin affiliare "to adopt as a son," from ad "to" (see [ad-](https://www.etymonline.com/word/ad-?ref=etymonline_crossreference "Etymology, meaning and definition of ad- ")) + filius "son" (see [filial](https://www.etymonline.com/word/filial?ref=etymonline_crossreference "Etymology, meaning and definition of filial ")).
 	- The figurative sense of "adoption by a society," in reference to a local chapter or branch, is recorded by 1799 (the verb [affiliate](https://www.etymonline.com/word/affiliate?ref=etymonline_crossreference "Etymology, meaning and definition of affiliate ") in a related sense is from 1761). The meaning "friendship, relationship, association" is by 1852.
@@ -98,7 +98,7 @@ values independence and self-determination. Affiliative respects authority and p
 ---
 # Notes 
 
-- Fe is social action justified by [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] truth. 
+- Fe is social action justified by [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] truth. 
 - Fi judges if the social norm can become a law of his life : is there a value to this norm ? 
 - Fe = seeks gratitude
 - Fi = seeks credit 
