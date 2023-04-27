@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T17:28:30.226+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T18:50:57.012+02:00"}
 ---
 
-#typegrid 
+#type/grid 
 # Definition & Etymology 
 - Give context to let others choose 
 - Preference shared by those who prioritize either/both : 
