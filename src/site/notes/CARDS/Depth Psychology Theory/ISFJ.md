@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-27T07:36:03.122+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-27T13:05:48.251+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -51,7 +51,7 @@
 
 ---
 # Virtues & Vices
-| Type                 | ISFJ      [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]                   | ENTP   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]                    |
+| Type                 | ISFJ      [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]                   | ENTP   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]                    |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]                 | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                  | //                         |
@@ -70,7 +70,7 @@
 ---
 # Temples
 
-| Type                 | ISFJ [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]            | ENTP [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]    |
+| Type                 | ISFJ [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]            | ENTP [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]    |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
