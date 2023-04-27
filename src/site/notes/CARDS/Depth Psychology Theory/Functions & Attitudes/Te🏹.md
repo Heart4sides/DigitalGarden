@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T13:41:58.510+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T13:44:26.972+02:00"}
 ---
 
 #on/depthpsychology 
 
 “What others know”
+{ #cn1zy}
+
 
 # Functional Relationships 
 
