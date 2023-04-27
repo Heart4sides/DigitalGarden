@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-25T20:07:05.852+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-27T17:28:59.864+02:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 - [[Senile\|Senile]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
 - [[ignorance\|ignorance]]
-- [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]]
+- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
 
 ## Wordnik
 ## critic
