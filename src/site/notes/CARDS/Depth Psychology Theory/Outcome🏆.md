@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-27T14:24:32.564+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-27T15:23:08.539+02:00"}
 ---
 
 #typegrid 
 # Definition & Etymology 
 - Quality of the result > Speed of progression  
 - Preference shared by those who prioritize either/both : 
-	- What others think is true ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]])
-	- What they value ([[CARDS/Depth Psychology Theory/Fi\|Fi]])
+	- What others think is true ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]])
+	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]])
 - [outcome | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=outcome)
 	- 1788, "that which results from something," originally Scottish, from the verbal phrase; see [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference#etymonline_v_9965 "Etymology, meaning and definition of out ") (adv.) + [come](https://www.etymonline.com/word/come?ref=etymonline_crossreference#etymonline_v_15860 "Etymology, meaning and definition of come ") (v.). Popularized in English by Carlyle (c. 1830s). It was used in Middle English in sense of "an emergence, act or fact of coming out" (c. 1200), and the gerund, outcoming, was used as "an issue, a result." Old English had utancumen (n.) "stranger, foreigner."
 ---
@@ -21,7 +21,7 @@
 | ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==        | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==                  | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==              | ➡️      | 👋       | ==[[CARDS/Depth Psychology Theory/Outcome🏆\|🏆]]==     |
 |  [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]     |  ESFJ           |      ESFP    |  ENTP           | ENFP|↪️|👋        | 🏃|
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   |ISTJ           |      ISTP      | INTJ              | INFJ            | ➡️    | 🧘‍♂️ | 🏃|
-| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==              | ↪️ |🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Outcome🏆\|🏆]]==  |
+| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==              | ↪️ |🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Outcome🏆\|🏆]]==  |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                         |
