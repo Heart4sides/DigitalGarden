@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-26T14:18:37.674+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-27T13:08:03.400+02:00"}
 ---
 
 
@@ -29,7 +29,7 @@
  [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Parent\|Cognitive attitude of the Parent]] 
 - [ ] [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]
 	- [ ] [[Skeptical\|Skeptical]]
-- [ ] [[CARDS/Depth Psychology Theory/Immature 🐎\|Immature 🐎]]
+- [ ] [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]]
 	- [ ] [[Gullible\|Gullible]]
 - [ ] "The parent is - trying to  impart some of its responsibilities and  confer some of its responsibilities upon  the hero so the person using their hero  becomes more responsible while using it"[^1]
 
