@@ -5,13 +5,11 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                                  | 1-Mature                                                  |
-| ----------------------------------------------------------- | --------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Hero🦸‍♂️, the savior of what I experience. |  I am a Warrior👨‍🚒, responsible with what I experience. |
+| 1-Immature | 1-Mature |
+| ---------- | -------- |
 
-| 2-Immature                                              | 2-Mature                                         |
-| ------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Teen👦, gullible with what others know. |  I am a Parent🤨, skeptical of what others know. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature                                                      | 3-Mature                                   |
 | --------------------------------------------------------------- | ------------------------------------------ |
