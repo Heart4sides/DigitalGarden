@@ -7,7 +7,7 @@
 > [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[Plato\|Plato]]
 
 # Types 
-[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]
+[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]
 
 # Temperament 
 [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] | [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] 
