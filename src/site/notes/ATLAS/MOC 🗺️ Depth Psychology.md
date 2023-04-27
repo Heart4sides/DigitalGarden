@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-27T21:50:42.499+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-27T22:14:20.736+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 # Attitudes
 |  [[Order of Preference\|Order of Preference]]                        |  [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]           |
 |:-------------------------|:--------------------|
-|   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Dominant\|Dominant]]                    |
+|   1[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]   | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                    |
 |  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                    |
 |  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                    |
 |  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                   |
