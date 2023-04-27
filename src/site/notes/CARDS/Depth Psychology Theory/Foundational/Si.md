@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T17:30:14.580+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T18:30:31.557+02:00"}
 ---
 
 #on/depthpsychology 
@@ -54,7 +54,7 @@ High Si users are :
 
 ---
 # Quadra 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font> | <font size="4"> ·Templar·</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]·==</font> |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]·==</font> | <font size="4"> ·Templar·</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | ==[[Si⛰️\[[Si\|⛰️]]💧]]== | 🔥🌪️ | 🔥🌪️ | ==[[Si⛰️\[[Si\|⛰️]]💧]]== |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉  | 🗡️💉 | 🧭🏹 |🧭🏹   |
