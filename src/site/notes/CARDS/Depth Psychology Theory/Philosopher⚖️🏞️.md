@@ -7,7 +7,7 @@
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]==</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==       |    ESTP       | ENTJ|ENFJ| ➡️      | 👋       | 🏆     |
-| 🔜    |ESFJ    |ESFP     | ENTP          | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==           |↪️ | 👋       | 🏃‍♂️ |
+| 🔜    |ESFJ    |ESFP     | ENTP          | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==           |↪️ | 👋       | 🏃‍♂️ |
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==             |   ISTP   | INTJ          | INFJ           |➡️    |  🧘‍♂️ | 🏃 |
 | 🔙 |ISFJ       |  ISFP  | INTP        | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
@@ -23,7 +23,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]
 
 ## Virtu & Vice
-| Type             |[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
+| Type             |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
