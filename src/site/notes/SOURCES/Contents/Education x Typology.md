@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-23T20:50:39.706+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-27T17:30:12.596+02:00"}
 ---
 
 #on/education 
@@ -14,8 +14,8 @@
 - [[EXTRAS/Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
 - Education = provide the foundational tools so that independent learning becomes possible for one's life.
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]]
-	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]
+	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
+	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]
 - [[Templars\|Templars]] : teach, mentor & counsel 
 - [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 	- prefers to educate and inform
