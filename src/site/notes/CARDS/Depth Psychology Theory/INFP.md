@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T07:41:52.727+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T07:47:35.952+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-# Cognitive Functions Stack in Attitudes 
+# Cognitive Functions Stack
 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
+Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
 | 1-Immature                                               | 1-Mature                                      |
 | -------------------------------------------------------- | --------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | I am a Warrior, responsible with what I value |
@@ -36,7 +37,7 @@
 |🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
 
 ---
-# Virtues & Vices
+# Virtu & Vice
 [[Loyalty\|Loyalty]] 🆚 [[Treachery\|Treachery]] 
 
 ---
@@ -50,7 +51,7 @@
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
-The INFP belongs to the [[CARDS/Depth Psychology Theory/Temple🙏\|Temple🙏]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]. 
+The INFP belongs to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]].
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 
 ---
