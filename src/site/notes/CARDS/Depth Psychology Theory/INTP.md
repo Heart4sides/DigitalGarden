@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T18:43:35.392+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T21:24:17.144+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -25,15 +25,21 @@
 [[CARDS/Depth Psychology Theory/Attention\|Attention]] 🆚 [[CARDS/Depth Psychology Theory/Apathy\|Apathy]] 
 
 ---
-# 4 sides / Temple 
-| [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | INFP Ego          | ESFJ Sub |
+# Temple / 4 sides of the Mind
+|  | INTP Ego          | [[ESFJ🤸Sub\|ESFJ🤸Sub]] |
 | ------------ | ----------------- | ----------------- |
-| SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
-| SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[CARDS/Depth Psychology Theory/ENFJ👤Shadow\|ENFJ👤Shadow]]       | ISTP Superego     |
-| UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
-| UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
+| SD           |                   | [[CARDS/Depth Psychology Theory/Servility\|Servility]]    |
+| SF           |                   | [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]      |
 
+|     | [[ENTJ👤Shadow\|ENTJ👤Shadow]] | ISFP Superego |
+| --- | ---------------- | ------------- |
+| UD  |[[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]    |               |
+| UF  | [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]    |               |
+
+The ESFJ belongs to the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]   .
+Its cognitive origin is [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] .
+
+---
 # Examples 
 | File                                                      | octogram |
 | --------------------------------------------------------- | -------- |
