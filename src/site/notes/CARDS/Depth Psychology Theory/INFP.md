@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T08:54:51.291+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T10:19:12.149+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -26,12 +26,12 @@ Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadr
 ---
 # Type Grid 
 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font> | 💬 |💬| 💬 |
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
 | 🔜                    | ESFJ                      |    ESFP |ENTP                                   | ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
 | 🔝    | ISTJ                      |           ISTP            | INTJ| INFJ| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
-| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]==                    | ISFJ        |           ISFP            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
+| [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]]                    | ISFJ        |           ISFP            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
 |🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
 | 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
 |🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
