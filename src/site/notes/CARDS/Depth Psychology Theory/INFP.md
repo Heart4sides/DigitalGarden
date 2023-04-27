@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T13:30:21.183+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T13:41:35.168+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -8,15 +8,34 @@
 4 [[CARDS/Depth Psychology Theory/Attitude\|attitudes]] in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] (4 in the [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]] )
 4 Functions Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
 
+1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/fi/#f22b28" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/attitude/#pvsq9" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
-
-[[CARDS/Depth Psychology Theory/Chesty Hero🦸‍♂️\|Chesty Hero🦸‍♂️]] : Arrogant 
+“What I value” 
 
 </div></div>
 
+2. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/ne/#lng02" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+“What others desire” 
+
+</div></div>
+
+3. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/si/#1ij0k" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+“What I experience” 
+
+</div></div>
+
+4. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
 
 | 1-Immature                                              | 1-Mature                                             |
 | ------------------------------------------------------- | ---------------------------------------------------- |
