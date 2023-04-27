@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-26T22:18:48.507+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-27T14:03:24.403+02:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 
 # Cognitive Functions
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
+- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]
 - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]]
