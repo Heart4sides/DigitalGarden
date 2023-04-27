@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-26T18:34:36.887+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T13:05:37.806+02:00"}
 ---
 
 # Cognitive Functions Stack in Attitudes 
@@ -49,7 +49,7 @@
 
 ---
 # Virtues & Vices
-| Type                 | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]     |
+| Type                 | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]                 | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                  | //                         |
@@ -68,7 +68,7 @@
 ---
 # Temples
 
-| Type                 |   [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/INTP\|INTP]]    [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]  |
+| Type                 |   [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/INTP\|INTP]]    [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
