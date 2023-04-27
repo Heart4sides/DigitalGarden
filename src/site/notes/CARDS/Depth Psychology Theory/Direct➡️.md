@@ -6,8 +6,8 @@
 # Definition & Etymology 
 - Say what they mean, mean what they say 
 - Preference shared by those who prioritize either/both : 
-	- Their desires ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]])
-	- Their reputation ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]])
+	- Their desires ([[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]])
+	- Their reputation ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]])
 - [direct | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=direct)
 	- ” c. 1400, "straight, undeviating, not crooked," from Old French direct (13c.) and directly from Latin directus "straight," adjectival use of past participle of dirigere "to set straight," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference "Etymology, meaning and definition of dis- ")) + regere "to direct, to guide, keep straight" (from PIE root [*reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference "Etymology, meaning and definition of *reg- ") "move in a straight line"). Meaning "plain, expressive, not ambiguous" is from 1580s.”
 ---
