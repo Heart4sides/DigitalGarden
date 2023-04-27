@@ -8,7 +8,7 @@
 - Preference shared by those who prioritize either/both : 
 	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])
 	- What other people’s desire ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]])
-	- What they value ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]])
+	- What they value ([[CARDS/Depth Psychology Theory/Fi\|Fi]])
 - [inform | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=inform)
 	- early 14c., "to train or instruct in some specific subject," from Old French informer, enformer "instruct, teach" (13c.) and directly from Latin informare "to shape, give form to, delineate," figuratively "train, instruct, educate," from in- "into" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference "Etymology, meaning and definition of *en ") "in") + formare "to form, shape," from forma "form" (see [form](https://www.etymonline.com/word/form?ref=etymonline_crossreference#etymonline_v_11807 "Etymology, meaning and definition of form ") (n.)). In early use also enform until c. 1600. Sense of "report facts or news, communicate information to" first recorded late 14c. Related: [Informed](https://www.etymonline.com/word/Informed?ref=etymonline_crossreference "Etymology, meaning and definition of Informed "); informing.
 ---
