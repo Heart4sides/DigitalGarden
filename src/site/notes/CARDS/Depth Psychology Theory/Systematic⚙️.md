@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:16:20.764+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/systematic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T18:50:58.084+02:00"}
 ---
 
-#typegrid 
+#type/grid 
 
 # Definition & Etymology 
 - Method > Benefits  
