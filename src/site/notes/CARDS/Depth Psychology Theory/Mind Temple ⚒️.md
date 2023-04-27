@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-27T13:05:50.063+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-27T14:34:20.928+02:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 | Type                 | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           | //                         |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[Self-sacrifice\|Self-sacrifice]]                 | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[Sacrifice of others\|Sacrifice of others]]              | //                         |
 | Virtu                | [[loyalty\|loyalty]]                   | [[Serenity\|Serenity]]          |
@@ -58,7 +58,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Superego👹\| 👹]] |
 | ---------------- | ------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                 |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]            | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]           | //                 |
 | Virtu            | [[loyalty\|loyalty]]  |  [[Serenity\|Serenity]]     |
@@ -93,7 +93,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | ------------------------- | ---------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           | //                           |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]        | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]   | //                           |
 | Virtu            | [[Serenity\|Serenity]]              | [[loyalty\|loyalty]]                  |
@@ -119,7 +119,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                              |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
 | Virtu            |   [[Serenity\|Serenity]]       |           [[loyalty\|loyalty]]              |
