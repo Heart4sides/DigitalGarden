@@ -1,9 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/dominant/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-27T13:59:57.928+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/dominant/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-27T19:14:32.430+02:00"}
 ---
-
-
-#  Fi - What I value 
 
 
 The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
