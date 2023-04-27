@@ -5,9 +5,8 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                                 | 1-Mature                                                 |
-| ---------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Hero🦸‍♂️, the savior of what others want. |  I am a Warrior👨‍🚒, responsible with what others want. |
+| 1-Immature | 1-Mature |
+| ---------- | -------- |
 
 | 2-Immature                                           | 2-Mature                                     |
 | ---------------------------------------------------- | -------------------------------------------- |
