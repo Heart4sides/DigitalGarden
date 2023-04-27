@@ -12,9 +12,8 @@
 | 2-Immature | 2-Mature |
 | ---------- | -------- |
 
-| 3-Immature                                                      | 3-Mature                                   |
-| --------------------------------------------------------------- | ------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a spoiled Child🥳, tyrannical with  what I value. | I am a Child👼, humble with  what I value. |
+| 3-Immature | 3-Mature |
+| ---------- | -------- |
 
 | 4-Immature                                                                    | 4-Mature                                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------- |
