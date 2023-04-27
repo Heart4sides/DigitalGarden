@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T13:41:29.000+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T14:03:25.069+02:00"}
 ---
 
 #on/depthpsychology 
@@ -13,7 +13,7 @@
 Introverted Sensing is awareness of one’s own experiences. Si users are the source of attention, duty and fortitude for [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] users.
 
 [[⛰️Si-Ne\|⛰️Si-Ne]]
-Si users expect to be [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] chosen for their experience and sense of duty. 
+Si users expect to be [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] chosen for their experience and sense of duty. 
 
 [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
 Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] desires for the sake of their duty and personal comfort. 
@@ -58,7 +58,7 @@ High Si users are :
 # Quadra 
 | <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font> | <font size="4"> ·Templar·</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
-| [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]== | 🔥🌪️ | 🔥🌪️ | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|💧]]== |
+| [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|💧]]== | 🔥🌪️ | 🔥🌪️ | ==[[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|💧]]== |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉  | 🗡️💉 | 🧭🏹 |🧭🏹   |
 | IS**             | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==                  | ISTP            | ISFP              | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==                  |
 | ES**             | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==                  | ESTP              | ESFP               | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==                  |
