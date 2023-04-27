@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:15:17.170+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T17:30:09.397+02:00"}
 ---
 
 #typegrid 
@@ -8,7 +8,7 @@
 - Past & Present > Future
 - Preference shared by those who prioritize either : 
 	- What they experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]])
-	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]])
+	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]])
 - [concrete | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=concrete)
 	- late 14c., "actual, solid; particular, individual; denoting a substance," from Latin concretus "condensed, hardened, stiff, curdled, congealed, clotted," figuratively "thick; dim," literally "grown together;" past participle of concrescere "to grow together," from assimilated form of com "together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference "Etymology, meaning and definition of con- ")) + crescere "to grow" (from PIE root [*ker-](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference#etymonline_v_53176 "Etymology, meaning and definition of *ker- ") (2) "to grow").
 ---
@@ -95,7 +95,7 @@ Video : worldview & politics
 	2. [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] 
 	3. The ISTJ is too lazy / The ISFJ is too insecure
 
-| Si             | [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]                |  |
+| Si             | [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]                |  |
 |:---------------|:------------------|:---|
 | &nbsp;avoidant | anxious           |  |
 | force pure     | explosivité&nbsp; |  |  
