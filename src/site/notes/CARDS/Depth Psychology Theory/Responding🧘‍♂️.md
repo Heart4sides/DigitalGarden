@@ -8,7 +8,7 @@
 	- - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] - What I desire 
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] - What I experience 
 	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] - What I think 
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] - What I value 
+	- [[CARDS/Depth Psychology Theory/Fi\|Fi]] - What I value 
 - "turn within, direct inward," 1650s, from Latin intro "inward, within" (see [intro-](https://www.etymonline.com/word/intro-?ref=etymonline_crossreference "Etymology, meaning and definition of intro- ")) + vertere "to turn" ([etymonline](https://www.etymonline.com/word/introvert))
 
 # Type Grid 
