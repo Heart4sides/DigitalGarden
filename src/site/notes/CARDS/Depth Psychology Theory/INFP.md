@@ -1,12 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T10:19:12.149+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T13:10:26.754+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack
-[[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
-Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
+4 [[CARDS/Depth Psychology Theory/Attitude\|attitudes]] in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] (4 in the [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]] )
+4 Functions Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/chesty-hero/#cc88c6" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+Arrogant, Boastful  
+
+</div></div>
+
 | 1-Immature                                              | 1-Mature                                             |
 | ------------------------------------------------------- | ---------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Hero🦸‍♂️, the savior of  what I value. | I am a Warrior👨‍🚒, responsible with  what I value. |
@@ -25,7 +35,6 @@ Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadr
 
 ---
 # Type Grid 
-
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
@@ -47,7 +56,7 @@ Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadr
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[CARDS/Depth Psychology Theory/ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
+|              | [[CARDS/Depth Psychology Theory/ENFJ👤Shadow\|ENFJ👤Shadow]]       | ISTP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
