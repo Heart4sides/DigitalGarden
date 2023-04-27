@@ -5,7 +5,7 @@
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]]
+- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
 
 ## Wordnik
 
