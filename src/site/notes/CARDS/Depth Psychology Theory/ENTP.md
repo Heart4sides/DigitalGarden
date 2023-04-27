@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-27T07:34:19.982+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-27T13:05:37.503+02:00"}
 ---
 
 #on/depthpsychology  #type
@@ -51,7 +51,7 @@
 
 ---
 # Virtues & Vices
-| Type             | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]              |
+| Type             | [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]              |
 | ---------------- | ------------- | --------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]  | //              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]   | //              |
@@ -70,7 +70,7 @@
 ---
 # Temples
 
-| Type                 |   [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]   |
+| Type                 |   [[CARDS/Depth Psychology Theory/ENTP\|ENTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]     | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]   |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
