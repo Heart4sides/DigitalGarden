@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/struggle/","created":"2023-01-18T14:17:08.273+01:00","updated":"2023-04-21T14:25:36.162+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/struggle/","created":"2023-01-18T14:17:08.273+01:00","updated":"2023-04-27T18:30:17.847+02:00"}
 ---
 
 
-[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]s believe life is a constant struggle. 
+[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader]]s believe life is a constant struggle. 
 
 ## Wordnik
 struggle
