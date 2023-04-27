@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/dominant/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-27T19:14:32.430+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/dominant/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-27T21:11:03.527+02:00"}
 ---
 
 
@@ -34,7 +34,7 @@ It is the main protector of the [[CARDS/Depth Psychology Theory/Infant😨\|Infe
 
 ## Wordnik
 hero
-*noun*: In mythology and legend, a man, often of divine ancestry, who is endowed with great [[CARDS/· Related Concepts & Theories ·/Courage\|Courage]] and strength, celebrated for his bold exploits, and [[CARDS/· Related Concepts & Theories ·/Favour\|favored]] by the gods.
+*noun*: In mythology and legend, a man, often of divine ancestry, who is endowed with great [[CARDS/· Related Concepts & Theories ·/Courage\|Courage]] and strength, celebrated for his bold exploits, and [[CARDS/· Related Concepts & Theories ·/Favouritism\|favored]] by the gods.
 *noun*: A person noted for feats of courage or nobility of purpose, especially one who has risked or sacrificed his or her life.
 *noun*: A person noted for special achievement in a particular field: <i>synonym</i>: <strong> celebrity</strong>.
 *noun*: The principal character in a novel, poem, or dramatic presentation.
