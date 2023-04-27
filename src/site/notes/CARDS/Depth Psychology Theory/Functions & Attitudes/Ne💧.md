@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T17:47:29.989+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T07:27:05.824+02:00"}
 ---
 
 
@@ -58,9 +58,9 @@
 | ----------------------------------------------------- | ----------------------------------------------------- |
 | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others want. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what others want. |
 
-| 2-Immature                                                   | 2-Mature                                           |
-| ------------------------------------------------------------ | -------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Teen👦]], gullible with what others want. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others want |
+| 2-Immature                                                | 2-Mature                                           |
+| --------------------------------------------------------- | -------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] - I am a Teen👦, gullible with what others want. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others want |
 
 | 3-Immature                                               | 3-Mature                                         |
 | -------------------------------------------------------- | ------------------------------------------------ |
