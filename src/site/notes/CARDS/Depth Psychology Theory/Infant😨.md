@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-25T15:22:28.491+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-27T11:10:16.786+02:00"}
 ---
 
+
+4.Infant 
+4.King 
+4.
 
 ## In Attitudes 
 
