@@ -3,9 +3,9 @@
 ---
 
 #on/depthpsychology 
-| MOC                                                             | Type                                            | Concepts                                                                                                                             | Reference                                                                                                        |
-| --------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul> | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
+| MOC                                                             | Type                                                         | Concepts                                                                                                                             | Reference                                                                                                        |
+| --------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul> | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
 
 
 # Wikipedia 
