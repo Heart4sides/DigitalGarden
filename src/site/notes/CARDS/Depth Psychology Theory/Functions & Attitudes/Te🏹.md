@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T18:22:35.898+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T07:28:11.371+02:00"}
 ---
 
 #on/depthpsychology 
@@ -73,9 +73,9 @@ Te users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & At
 | --------------------------------------------------------- | ------------------------------------------------- |
 | I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what others think | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what others think |
 
-| 4-Immature                                                        | 4-Mature                                                             |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others think | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others think |
+| 4-Immature                                                              | 4-Mature                                                             |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]- I am an Infant😨, afraid of & prideful with what others think | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others think |
 
 | 5-Immature                                                     | 5-Mature                                                     |
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
