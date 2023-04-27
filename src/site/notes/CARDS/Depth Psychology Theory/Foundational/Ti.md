@@ -1,11 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-27T17:29:50.631+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-27T19:03:19.377+02:00"}
 ---
 
 #on/depthpsychology 
 
 # What I know
+- personal thinking process 
+- takes in data, turns it into information & knowledge when sharing with Fe
+- true vs false 
+- deduction
+- verification & criticism 
+- authenticity 
+- “I am my own authority”
+- prone to arrogance and condescension
+- aware of people’s contradiction 
 
+---
 # Functional Relationships 
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Te🏹\|🗡️Ti-Te🏹]]
@@ -16,9 +26,6 @@ Ti users [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] help people by te
 
 [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
 Ti users neglect the awareness of their own moral values for the sake of the truth.  
-
----
-# Keywords
 
 --- 
 # Type Grid
@@ -38,7 +45,7 @@ High Ti users are :
 ---
 # Quadra 
 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·==</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ·Philosopher·</font>     |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]·==</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ·Philosopher·</font>     |
 | --------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | ⛰️💧                  | 🔥🌪️             |🔥🌪️            |⛰️💧                |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]                | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]               | 🧭🏹               |🧭🏹                    |
@@ -52,27 +59,8 @@ High Ti users are :
 [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
 
 ---
-# Function in Attitudes
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
+# Ti in Ego 
 
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
+| Immature🐎                                             | Mature🐢                                            |
+| ------------------------------------------------------ | --------------------------------------------------- |
+| [[Ti🗡️\|Ti🗡️]] I am a Hero🦸‍♂️, the savior of what I know. |  I am a Warrior👨‍🚒, responsible with what I know. |
