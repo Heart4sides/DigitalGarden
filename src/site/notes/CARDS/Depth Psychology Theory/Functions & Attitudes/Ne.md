@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:34:21.444+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:53:35.234+02:00"}
 ---
 
 #on/depthpsychology 
 
-# What others desire
+
+#  What others desire
+
 
 # Functional Relationships 
 
