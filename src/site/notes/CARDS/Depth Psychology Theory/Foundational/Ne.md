@@ -28,7 +28,7 @@
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
-| 🔜                    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]                      |    ESFP |[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]| [[CARDS/Depth Psychology Theory/ENFP\|ENFP]]                      | ↪️                          | 👋                          | 🏃‍♂️                       |
+| 🔜                    | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]                      |    ESFP |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]| [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]                      | ↪️                          | 👋                          | 🏃‍♂️                       |
 | 🔝    | [[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]                      |           ISTP            | INTJ| INFJ| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 | 🔙                    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]        |           ISFP            | [[CARDS/Depth Psychology Theory/INTP\|INTP]]| [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
 |🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
@@ -45,9 +45,9 @@ High Ne users are :
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]]== | 🔥🌪️ | 🔥🌪️ | ==[[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]]== |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉  | 🗡️💉 | 🧭🏹 |🧭🏹   |
 | IS**             | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==                  | ISTP            | ISFP              | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==                  |
-| ES**             | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==                  | ESTP              | ESFP               | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==                  |
+| ES**             | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==                  | ESTP              | ESFP               | ==[[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]==                  |
 | IN**             | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | INFJ               | INTJ             | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==                  |
-| EN**             | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==                  | ENFJ              | ENTJ              | ==[[CARDS/Depth Psychology Theory/ENFP\|ENFP]]==                  |
+| EN**             | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                  | ENFJ              | ENTJ              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==                  |
 
 
 ---
