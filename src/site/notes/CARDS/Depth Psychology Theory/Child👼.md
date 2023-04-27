@@ -1,6 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-26T14:18:37.202+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-27T11:16:29.173+02:00"}
 ---
+
+Ego :
+- [[CARDS/Depth Psychology Theory/Precocious Child\|Precocious Child]] 
+- [[Miraculous Child\|Miraculous Child]]
+
+Subconscious : 
+- Tyrannical Parent 
+- Humble Parent 
 
 
 ## In Attitudes
