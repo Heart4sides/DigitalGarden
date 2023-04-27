@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T15:23:08.474+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T17:30:10.118+02:00"}
 ---
 
 #typegrid 
@@ -7,8 +7,8 @@
 # Definition & Etymology 
 - Benefit > Method  
 - Preference shared by those who prioritize either : 
-	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]])
-	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]])
+	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]])
+	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]])
 - [interest | Etymology, origin and meaning of interest by etymonline](https://www.etymonline.com/word/interest?ref=etymonline_crossreference#etymonline_v_9399)
 	- mid-15c., "legal claim or right; a concern; a benefit, advantage, a being concerned or affected (advantageously)," from Old French interest "damage, loss, harm" (Modern French intérêt), from noun use of Latin interest "it is of importance, it makes a difference," third person singular present of interresse "to concern, make a difference, be of importance," literally "to be between," from inter "between" (see [inter-](https://www.etymonline.com/word/inter-?ref=etymonline_crossreference "Etymology, meaning and definition of inter- ")) + esse "to be" (from PIE root [*es-](https://www.etymonline.com/word/*es-?ref=etymonline_crossreference "Etymology, meaning and definition of *es- ") "to be"). The sense development to "profit, advantage" in French and English is not entirely clear.
 ---
