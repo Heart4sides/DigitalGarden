@@ -7,8 +7,8 @@
 # Definition & Etymology 
 - Past & Present > Future
 - Preference shared by those who prioritize either : 
-	- What they experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]])
-	- What other people experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]])
+	- What they experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]])
+	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]])
 - [concrete | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=concrete)
 	- late 14c., "actual, solid; particular, individual; denoting a substance," from Latin concretus "condensed, hardened, stiff, curdled, congealed, clotted," figuratively "thick; dim," literally "grown together;" past participle of concrescere "to grow together," from assimilated form of com "together" (see [con-](https://www.etymonline.com/word/con-?ref=etymonline_crossreference "Etymology, meaning and definition of con- ")) + crescere "to grow" (from PIE root [*ker-](https://www.etymonline.com/word/*ker-?ref=etymonline_crossreference#etymonline_v_53176 "Etymology, meaning and definition of *ker- ") (2) "to grow").
 ---
@@ -95,7 +95,7 @@ Video : worldview & politics
 	2. [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] 
 	3. The ISTJ is too lazy / The ISFJ is too insecure
 
-| Si             | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]                |  |
+| Si             | [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]                |  |
 |:---------------|:------------------|:---|
 | &nbsp;avoidant | anxious           |  |
 | force pure     | explosivité&nbsp; |  |  
