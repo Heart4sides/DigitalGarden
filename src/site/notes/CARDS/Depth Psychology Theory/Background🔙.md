@@ -4,7 +4,7 @@
 
 
 # Types
-[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]
+[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]
 
 # Interaction Style
 
