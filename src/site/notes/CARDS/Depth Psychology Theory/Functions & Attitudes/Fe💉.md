@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:16:21.306+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:24:33.218+02:00"}
 ---
 
 #on/depthpsychology 
 
 # Functional Relationships 
 [[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
-Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] values ↔️ one’s own worth. 
+Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]] values ↔️ one’s own worth. 
 Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
 
 [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
