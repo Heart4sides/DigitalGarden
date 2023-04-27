@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T15:01:25.621+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T15:04:14.012+02:00"}
 ---
 
 #on/depthpsychology  #type 
-| File                                            | f1                                                                            |
-| ----------------------------------------------- | ----------------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi#What\|Fi > What]] |
+| File                                            | f1                                                      |
+| ----------------------------------------------- | ------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Fi#What\|Fi > What]] |
 
 # Cognitive Functions Stack
 [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Background🔙\|Behind the scenes🔙]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] 
 Hierarchy of Preference : 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi#What\|Fi#What]]
+[[CARDS/Depth Psychology Theory/Fi#What\|Fi#What]]
+[[CARDS/Depth Psychology Theory/Fi#Functional Relationships\|Fi#Functional Relationships]]
+[[CARDS/Depth Psychology Theory/Fi#^7b2319\|Fi#^7b2319]]
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne#What others desire\|Ne#What others desire]]
 [[CARDS/Depth Psychology Theory/Dominant#Fi - What I value\|Dominant#Fi - What I value]]
 [[CARDS/Depth Psychology Theory/ISTP#Type Grid\|ISTP#Type Grid]]
