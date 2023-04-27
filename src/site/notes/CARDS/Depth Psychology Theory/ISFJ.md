@@ -23,9 +23,8 @@
 | ---------------------------------------------------------------------------- | ----------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a Nemesis😟, uncertain and worried of what others experience. |  I am an  Ally🛡️, certain of what others experience. |
 
-| 6-Immature                                            | 6-Mature                                |
-| ----------------------------------------------------- | --------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Critic🤔, cynical with  what I value. | I am a Sage🧙, wise with  what I value. |
+| 6-Immature | 6-Mature |
+| ---------- | -------- |
 
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
