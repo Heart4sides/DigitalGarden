@@ -32,8 +32,8 @@ Ti users neglect the awareness of their own moral values for the sake of the tru
 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
-| 🔛                    | ESTJ                      |           [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]            | ENTJ| [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]                      | ➡️                          | 👋                          | 🏆                          |
-| 🔜                    | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]                      |    ESFP |[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]| ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
+| 🔛                    | ESTJ                      |           [[ESTP\|ESTP]]            | ENTJ| [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]                      | ➡️                          | 👋                          | 🏆                          |
+| 🔜                    | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]                      |    ESFP |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]| ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
 | 🔝    | ISTJ                      |           [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]            | INTJ| [[CARDS/Depth Psychology Theory/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 | 🔙                    | [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]        |           ISFP            | [[CARDS/Depth Psychology Theory/INTP\|INTP]]| INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
 |🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
@@ -50,9 +50,9 @@ High Ti users are :
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | ⛰️💧                  | 🔥🌪️             |🔥🌪️            |⛰️💧                |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]                | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]               | 🧭🏹               |🧭🏹                    |
 | IS**                              | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==                              | ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==                             | ISFP                                      | ISTJ                                     |
-| ES**                              | ==[[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]]==                              | ==[[CARDS/Depth Psychology Theory/ESTP\|ESTP]]==                             | ESFP                                      | ESTJ                                    |
+| ES**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==                              | ==[[ESTP\|ESTP]]==                             | ESFP                                      | ESTJ                                    |
 | IN**                              | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                              | ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==                             | INTJ                                      | INFP                                    |
-| EN**                              | ==[[CARDS/Depth Psychology Theory/ENTP\|ENTP]]==                              | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==                             | ENTJ                                      | ENFP                                     |
+| EN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                              | ==[[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]==                             | ENTJ                                      | ENFP                                     |
 
 ---
 # Temple 
