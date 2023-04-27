@@ -6,13 +6,11 @@
 
 # Cognitive Functions Stack 
 4 [[CARDS/Depth Psychology Theory/Attitude\|attitudes]] in the Ego (4 in the [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]] )
-| 1-Immature                                                 | 1-Mature                                                 |
-| ---------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Hero🦸‍♂️, the savior of what others know. |  I am a Warrior👨‍🚒, responsible with what others know. |
+| 1-Immature | 1-Mature |
+| ---------- | -------- |
 
-| 2-Immature                                               | 2-Mature                                          |
-| -------------------------------------------------------- | ------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Teen👦, gullible with what I experience. |  I am a Parent🤨, skeptical of what I experience. |
+| 2-Immature | 2-Mature |
+| ---------- | -------- |
 
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
