@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T14:03:24.995+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T14:15:22.740+02:00"}
 ---
 
 #on/depthpsychology 
 
 # Functional Relationships 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
-Extroverted Sensation is awareness of other people’s experiences ↔️ own performance. Se users guide [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] users attention to cultivate their strength, endurence & self-awareness.   
+Extroverted Sensation is awareness of other people’s experiences ↔️ own performance. Se users guide [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] users attention to cultivate their strength, endurence & self-awareness.   
 
 [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]]
 Se users shape other people’s reality in the image of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] desires. 
