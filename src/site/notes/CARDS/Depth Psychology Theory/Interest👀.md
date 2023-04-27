@@ -7,7 +7,7 @@
 # Definition & Etymology 
 - Benefit > Method  
 - Preference shared by those who prioritize either : 
-	- What they value ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]])
+	- What they value ([[CARDS/Depth Psychology Theory/Fi\|Fi]])
 	- What other people experience ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]])
 - [interest | Etymology, origin and meaning of interest by etymonline](https://www.etymonline.com/word/interest?ref=etymonline_crossreference#etymonline_v_9399)
 	- mid-15c., "legal claim or right; a concern; a benefit, advantage, a being concerned or affected (advantageously)," from Old French interest "damage, loss, harm" (Modern French intérêt), from noun use of Latin interest "it is of importance, it makes a difference," third person singular present of interresse "to concern, make a difference, be of importance," literally "to be between," from inter "between" (see [inter-](https://www.etymonline.com/word/inter-?ref=etymonline_crossreference "Etymology, meaning and definition of inter- ")) + esse "to be" (from PIE root [*es-](https://www.etymonline.com/word/*es-?ref=etymonline_crossreference "Etymology, meaning and definition of *es- ") "to be"). The sense development to "profit, advantage" in French and English is not entirely clear.
