@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T17:49:44.912+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T18:31:31.665+02:00"}
 ---
 
 #on/depthpsychology 
@@ -48,7 +48,7 @@ High Se users are :
 
 ---
 # Quadra 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ·Crusader·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·==</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]·==</font> | <font size="4"> ·Philosopher·</font> |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ·Crusader·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]·==</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]·==</font> | <font size="4"> ·Philosopher·</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] |⛰️💧    | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | ⛰️💧    |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉|🗡️💉 |🧭🏹  | 🧭🏹    |
