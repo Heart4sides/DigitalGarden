@@ -16,9 +16,8 @@
 | ------------------------------------------------------------------------- | ---------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] I am a spoiled Child🥳, tyrannical with what others experience. |  I am a Child👼, humble with what others experience. |
 
-| 4-Immature                                                          | 4-Mature                                            |
-| ------------------------------------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am an Infant😨, afraid of & prideful with  what I value. | I am a King👑, faithful / brave with  what I value. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 | 5-Immature                                                        | 5-Mature                                   |
 | ----------------------------------------------------------------- | ------------------------------------------ |
