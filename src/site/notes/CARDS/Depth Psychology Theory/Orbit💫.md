@@ -12,8 +12,8 @@
 - Transfer of information, stream of [[communication\|communication]]
 - [[CARDS/· Related Concepts & Theories ·/Compensate\|compensation]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] is orbit between two psyches. 
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]] users orbit themselves
-- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] users orbit others 
+- [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] users orbit themselves
+- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] users orbit others 
 
 ## Functions
 - [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]]
