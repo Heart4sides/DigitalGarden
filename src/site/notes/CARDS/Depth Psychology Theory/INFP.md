@@ -1,31 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T13:41:35.168+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T13:55:05.653+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack
-4 [[CARDS/Depth Psychology Theory/Attitude\|attitudes]] in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] (4 in the [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]] )
-4 Functions Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
+4 Functions Fi-Te & Si-Ne ([[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra)
+4 functions in the [[CARDS/Depth Psychology Theory/ENFJ👤Shadow\|ENFJ👤Shadow]]. 
 
-1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/fi/#f22b28" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-“What I value” 
-
-</div></div>
-
-2. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]]
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/ne/#lng02" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-“What others desire” 
-
-</div></div>
-
+1. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭#“What I value”\|Fi🧭#“What I value”]]
+2. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧#“What others desire”\|Ne💧#“What others desire”]]
 3. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/si/#1ij0k" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -36,22 +20,13 @@
 </div></div>
 
 4. [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/functions-and-attitudes/te/#cn1zy" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
-| 1-Immature                                              | 1-Mature                                             |
-| ------------------------------------------------------- | ---------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Hero🦸‍♂️, the savior of  what I value. | I am a Warrior👨‍🚒, responsible with  what I value. |
 
-| 2-Immature                                              | 2-Mature                                         |
-| ------------------------------------------------------- | ------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Teen👦, gullible with what others want. |  I am a Parent🤨, skeptical of what others want. |
 
-| 3-Immature                                                          | 3-Mature                                        |
-| ------------------------------------------------------------------- | ----------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a spoiled Child🥳, tyrannical with what I experience. |  I am a Child👼, humble with what I experience. |
+“What others know” 
 
-| 4-Immature                                                             | 4-Mature                                                |
-| ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am an Infant😨, afraid of & prideful with what others know. |  I am a King👑, faithful / brave with what others know. |
+</div></div>
 
 ---
 # Type Grid 
