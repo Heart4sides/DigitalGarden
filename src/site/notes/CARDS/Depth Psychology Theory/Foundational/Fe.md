@@ -1,26 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T17:50:00.422+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T18:54:22.214+02:00"}
 ---
 
-#on/depthpsychology 
+#on/depthpsychology #function 
 
 # What I do not value
-
-# Functional Relationships 
-[[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
-Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] values ↔️ one’s own worth. 
-Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
-
-[[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
-Fe users manipulate collective values to get people to listen to their [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] thoughts.  
-
-[[🏹Te-Fe💉\|🏹Te-Fe💉]] [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
-Fe users fail to [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] listen to others’ thoughts for the sake of helping them. 
-
---- 
-## Keywords
+- What others value 
 - Extroverted Feeling
-- The collective values & feelings
 - Manipulates people's feelings
 - [[Empathy\|Empathy]]
 - [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
@@ -39,6 +25,17 @@ Fe users fail to [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] listen to
 - [[self-deprecation\|self-deprecation]] 
 - [[CARDS/Depth Psychology Theory/Humility\|Humility]]
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
+---
+# Functional Relationships 
+[[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
+Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] values ↔️ one’s own worth. 
+Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
+
+[[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] 
+Fe users manipulate collective values to get people to listen to their [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] thoughts.  
+
+[[🏹Te-Fe💉\|🏹Te-Fe💉]] [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
+Fe users fail to [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] listen to others’ thoughts for the sake of helping them. 
 
 ---
 # Type Grid 
@@ -55,7 +52,7 @@ High Fe users are
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] 
 --- 
 # Quadra 
-| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader\|Crusader]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar\|Templar]]·==</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ·Philosopher·</font>     |
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]·==</font>     | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]·==</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ·Philosopher·</font>     |
 | --------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | ⛰️💧                  | 🔥🌪️             |🔥🌪️            |⛰️💧                |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]                | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]               | 🧭🏹               |🧭🏹                    |
