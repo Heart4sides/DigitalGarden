@@ -1,25 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T07:26:13.711+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T07:41:52.727+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                               | 1-Mature                                                 |
-| -------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. |
+[[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
+| 1-Immature                                               | 1-Mature                                      |
+| -------------------------------------------------------- | --------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | I am a Warrior, responsible with what I value |
 
-| 2-Immature                                                | 2-Mature                                           |
-| --------------------------------------------------------- | -------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] - I am a Teen👦, gullible with what others want. | I am a [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]], skeptical of what others want |
+| 2-Immature                                                | 2-Mature                                       |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] - I am a Teen👦, gullible with what others want. | I am a Parent🤨, skeptical of what others want |
 
-| 3-Immature                                           | 3-Mature                                          |
-| ---------------------------------------------------- | ------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]- I am a god Child👼, tyrannical with what   | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what I experience |
+| 3-Immature                                           | 3-Mature                                      |
+| ---------------------------------------------------- | --------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]- I am a god Child👼, tyrannical with what   | I am a Child👼, humble with what I experience |
 
-| 4-Immature                                                              | 4-Mature                                                             |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]- I am an Infant😨, afraid of & prideful with what others think | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others think |
+| 4-Immature                                                              | 4-Mature                                               |
+| ----------------------------------------------------------------------- | ------------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]- I am an Infant😨, afraid of & prideful with what others think | I am a King👑, faithful / brave with what others think |
 
 ---
 # Type Grid 
@@ -36,16 +37,21 @@
 
 ---
 # Virtues & Vices
-[[loyalty\|loyalty]] 🆚 [[Treachery\|Treachery]] 
+[[Loyalty\|Loyalty]] 🆚 [[Treachery\|Treachery]] 
 
 ---
 # Temple 
+
+| [[CARDS/Depth Psychology Theory/Octogram\|Octogram]] | INFP Ego          | ESTJ Subconscious |
+| ------------ | ----------------- | ----------------- |
+| SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
+| SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
+|              | [[ENFJ Shadow\|ENFJ Shadow]]       | ISTP Superego     |
+| UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
+| UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
+
 The INFP belongs to the [[CARDS/Depth Psychology Theory/Temple🙏\|Temple🙏]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]. 
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
-SD : [[CARDS/Depth Psychology Theory/Credulity\|Credulity]] 
-SF :  [[CARDS/Depth Psychology Theory/Initiative\|Initiative]] 
-UD : [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] 
-UF : [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] 
 
 ---
 # Examples 
