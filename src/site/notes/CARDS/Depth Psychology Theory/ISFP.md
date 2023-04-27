@@ -5,9 +5,9 @@
 #on/depthpsychology  #type 
 
 # Cognitive Functions Stack in Attitudes 
-| 1-Immature                                        | 1-Mature                                          |
-| ------------------------------------------------- | ------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I value. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I value. |
+| 1-Immature                                               | 1-Mature                                                 |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. |
 
 | 2-Immature                                                         | 2-Mature                                                 |
 | ------------------------------------------------------------------ | -------------------------------------------------------- |
@@ -17,9 +17,9 @@
 | ---------------------------------------------------- | ------------------------------------------- |
 | I am a god [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], tyrannical with what I want. | I am a [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], humble with what I want |
 
-| 4-Immature                                                        | 4-Mature                                                             |
-| ----------------------------------------------------------------- | -------------------------------------------------------------------- |
-| I am an [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]], afraid of & prideful with what others think | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others think |
+| 4-Immature                                                              | 4-Mature                                                             |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]- I am an Infant😨, afraid of & prideful with what others think | I am a [[CARDS/Depth Psychology Theory/Infant😨\|King👑]], faithful / brave with what others think |
 
 | 5-Immature                                                     | 5-Mature                                                     |
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
