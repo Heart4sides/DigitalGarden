@@ -11,9 +11,8 @@
 | -------------------------------------------------------- | ------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a Teen👦, gullible with what I experience. |  I am a Parent🤨, skeptical of what I experience. |
 
-| 3-Immature                                                         | 3-Mature                                       |
-| ------------------------------------------------------------------ | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a spoiled Child🥳, tyrannical with what others want. |  I am a Child👼, humble with what others want. |
+| 3-Immature | 3-Mature |
+| ---------- | -------- |
 
 | 4-Immature                                                         | 4-Mature                                           |
 | ------------------------------------------------------------------ | -------------------------------------------------- |
