@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T17:10:02.924+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T17:30:10.281+02:00"}
 ---
 
 #typegrid 
@@ -7,8 +7,8 @@
 # Definition & Etymology 
 - Independance > Interdependance 
 - Preference shared by those who prioritize either : 
-	- What they think is true ([[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]])
-	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]])
+	- What they think is true ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]])
+	- What other people experience ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]])
 - [pragmatic | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=pragmatic)
 	- 1610s, "meddlesome, impertinently busy," short for earlier [pragmatical](https://www.etymonline.com/word/pragmatical?ref=etymonline_crossreference "Etymology, meaning and definition of pragmatical "), or else from French pragmatique (15c.), from Latin pragmaticus "skilled in business or law," from Greek pragmatikos "fit for business, active, business-like; systematic," from pragma (genitive pragmatos) "a deed, act; that which has been done; a thing, matter, affair," especially an important one; also a euphemism for something bad or disgraceful; in plural, "circumstances, affairs" (public or private, often in a bad sense, "trouble"), literally "a thing done," from stem of prassein/prattein "to do, act, perform" (see [practical](https://www.etymonline.com/word/practical?ref=etymonline_crossreference "Etymology, meaning and definition of practical ")).
 	- From 1640s as "relating to the affairs of a state or community." Meaning "matter-of-fact, treating facts systematically and practically" is from 1853 (Matthew Arnold). In some later senses from German pragmatisch.
