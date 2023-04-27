@@ -6,4 +6,4 @@
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] dyad. 
 
 - The ability to change one’s life circumstances on a whim. 
-- Control over valued ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi\|Fi]]) resources ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]) --> [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
+- Control over valued ([[CARDS/Depth Psychology Theory/Fi\|Fi]]) resources ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]]) --> [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
