@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-26T00:54:30.413+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-27T14:16:14.786+02:00"}
 ---
 
 #on/philosophy #on/politics 
@@ -277,7 +277,7 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118021123.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021123.png)
 [[Validation\|Validation]]
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] 
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] & [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Se🌪️\|Se🌪️]]
 ![Pasted image 20230118021537.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021537.png)
