@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-04-10T10:45:44.333+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-04-27T18:31:13.619+02:00"}
 ---
 
 [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
@@ -7,7 +7,7 @@
 ## Types 
 
 ### Types who seek to be admired
-- [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]
+- [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer]]
 - [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] Dyad
 
 ## Wordnik![Pasted image 20230404173539.png](/img/user/EXTRAS/Images/Pasted%20image%2020230404173539.png)
