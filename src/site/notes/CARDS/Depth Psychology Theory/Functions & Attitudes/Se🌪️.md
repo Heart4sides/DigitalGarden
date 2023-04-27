@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T10:07:56.667+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T14:03:24.995+02:00"}
 ---
 
 #on/depthpsychology 
@@ -12,7 +12,7 @@ Extroverted Sensation is awareness of other people’s experiences ↔️ own pe
 Se users shape other people’s reality in the image of their own [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] desires. 
 
 [[💧Ne-Se🌪️\|💧Ne-Se🌪️]]
-Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] possibilities and consequences for the sake of being attuned with their environement. 
+Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] possibilities and consequences for the sake of being attuned with their environement. 
 
 --- 
 ## Keywords 
