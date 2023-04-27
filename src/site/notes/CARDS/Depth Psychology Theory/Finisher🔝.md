@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-25T11:19:49.307+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/finisher/","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-27T21:48:32.816+02:00"}
 ---
 
 
-[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] 
+[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] 
 { #a2cd63}
 
 
