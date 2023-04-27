@@ -20,8 +20,8 @@
 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| 🔛  | ESTJ       |    ESTP       | ==[[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]==|ENFJ| ➡️      | 👋       | 🏆     |
-| 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/ESFP\|ESFP]]==      |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
+| 🔛  | ESTJ       |    ESTP       | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==|ENFJ| ➡️      | 👋       | 🏆     |
+| 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==      |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
 | 🔝   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | 🔙 |ISFJ          |  ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==  | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
@@ -46,7 +46,7 @@
 |                  | Virtu                     | Vice         |
 | ---------------- | ------------------------- | ------------ |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] | [[Stealing\|Stealing]]              | [[Earning\|Earning]]            |
-| [[CARDS/Depth Psychology Theory/ESFP\|ESFP]]         | [[Delayed Gratification\|Delayed Gratification]] | [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]    |
+| [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]         | [[Delayed Gratification\|Delayed Gratification]] | [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]    |
 | [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]         | [[Instant gratification\|Instant gratification]] | [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]] |
 | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]         | [[Diligence\|Diligence]]             | [[Idleness\|Idleness]] |
-| [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]            | [[CARDS/Depth Psychology Theory/Greed\|Greed]]              |
+| [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]            | [[CARDS/Depth Psychology Theory/Greed\|Greed]]              |
