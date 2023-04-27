@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T14:16:21.141+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T14:34:21.270+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -57,9 +57,9 @@
 	- Stability [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]
 	- Absolute rules [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
-	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ESTJ 
-	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]](ENTJ)
-	- 2/4 - [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
+	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ESTJ 
+	- 3/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] (INFP, ISTJ), [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (INTP, ISFJ), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]](ENTJ)
+	- 2/4 - [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] (INTJ, ISFP),  [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ENFP, [[CARDS/Depth Psychology Theory/Crusader\|Aquad]] (ENTP, ESFJ)
 	- 1/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (ENFJ, ESTP), [[CARDS/Depth Psychology Theory/Wayfarer\|Gquad]] ESFP 
 	- 0/4 - [[CARDS/Depth Psychology Theory/Templar\|Bquad]] (INFJ, ISTP)
 
