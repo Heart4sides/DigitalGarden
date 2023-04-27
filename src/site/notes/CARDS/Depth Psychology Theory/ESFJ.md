@@ -1,6 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T13:05:37.806+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T18:16:29.872+02:00"}
 ---
+
+
+| 1💉                                                                                                | 2⛰️                                                                                            | 2💧                                                                                                  | 4🗡️                                                                               |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] |
+
 
 # Cognitive Functions Stack in Attitudes 
 | 1-Immature | 1-Mature |
