@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T10:06:26.493+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T14:16:21.306+02:00"}
 ---
 
 #on/depthpsychology 
@@ -13,7 +13,7 @@ Fe users provide support, empathy and praise to Fi users, and seek to be accepte
 Fe users manipulate collective values to get people to listen to their [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] thoughts.  
 
 [[🏹Te-Fe💉\|🏹Te-Fe💉]] [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
-Fe users fail to [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] listen to others’ thoughts for the sake of helping them. 
+Fe users fail to [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te\|Te]] listen to others’ thoughts for the sake of helping them. 
 
 --- 
 ## Keywords
