@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T18:50:57.646+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:48:33.057+02:00"}
 ---
 
 #type/grid 
@@ -20,7 +20,7 @@
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  |  ESTJ               |        ESTP         |  ENTJ                   |  ENFJ               | ➡️     | 👋     | 🏆     |
 | ==[[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]==    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==              |       ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==        | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==              |↪️ | 👋       | ==[[CARDS/Depth Psychology Theory/Progression🏃\|🏃]]== |
-| ==[[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]==   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==        | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                  | ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==              | ➡️     | 🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Progression🏃\|🏃]]== |
+| ==[[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]==   | ==[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]==              |       ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==        | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==              | ➡️     | 🧘‍♂️ | ==[[CARDS/Depth Psychology Theory/Progression🏃\|🏃]]== |
 |  [[CARDS/Depth Psychology Theory/Background🔙\|🔙]]  |  ISFJ            |    ISFP        | INTP                | INFP           | ↪️  | 🧘‍♂️  | 🏆   |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
