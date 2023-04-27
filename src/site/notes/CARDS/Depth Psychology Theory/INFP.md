@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T07:47:35.952+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T08:54:51.291+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -42,12 +42,12 @@ Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadr
 
 ---
 # Temple 
-
-| [[CARDS/Depth Psychology Theory/Octogram\|Octogram]] | INFP Ego          | ESTJ Subconscious |
+[[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]] | [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
+| [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | INFP Ego          | [[CARDS/Depth Psychology Theory/ESTJ Sub🤸\|ESTJ Sub🤸]] |
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[ENFJ Shadow\|ENFJ Shadow]]       | ISTP Superego     |
+|              | [[ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
