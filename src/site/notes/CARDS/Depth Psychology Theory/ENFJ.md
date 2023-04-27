@@ -1,29 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-04-27T18:09:00.829+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-04-27T18:47:29.831+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-
+[[CARDS/Depth Psychology Theory/Structure🔛\|In charge🔛]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]].  
 | 1💉                                                                                                | 2🔥                                                                                    | 3🌪️                                                                                                         | 4🗡️                                                                               |
 | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] |
 
-
-# Cognitive Functions Stack in Attitudes 
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
----
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
