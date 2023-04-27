@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/eight-function-model/","created":"2023-04-23T10:55:01.771+02:00","updated":"2023-04-25T15:15:42.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/eight-function-model/","created":"2023-04-23T10:55:01.771+02:00","updated":"2023-04-27T13:34:32.211+02:00"}
 ---
 
 | MOC                                                             | Author                                          | Type                                            | Reference                                                                                                        |
@@ -9,7 +9,7 @@
 
 | Rank | Attitude       | [[FPS\|FPS]] |
 | ---- | -------------- | --- |
-| 1    | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]  | 100 |
+| 1    | [[CARDS/Depth Psychology Theory/Dominant\|Dominant]]  | 100 |
 | 2    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]   | 75  |
 | 3    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]    | 50  |
 | 4    | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] | 25  |
