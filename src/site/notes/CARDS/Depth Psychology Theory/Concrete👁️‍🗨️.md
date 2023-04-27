@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T17:30:09.397+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T18:50:56.813+02:00"}
 ---
 
-#typegrid 
+#type/grid 
 
 # Definition & Etymology 
 - Past & Present > Future
