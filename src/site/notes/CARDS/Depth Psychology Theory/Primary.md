@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-27T13:05:51.387+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-27T13:34:35.504+02:00"}
 ---
 
 #on/psychology 
@@ -9,7 +9,7 @@
 
 The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]. 
 
-- [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] - primary in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
+- [[CARDS/Depth Psychology Theory/Dominant\|Dominant]] - primary in the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 	- [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
 	- [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] - primary in the [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]
