@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:24:32.809+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T15:23:08.809+02:00"}
 ---
 
 #typegrid
 # Definition & Etymology 
 - Behaviour expressed by the individuals who have a preference for introversion, meaning they gain energy when they are alone or in a 1-1 setting. 
-	- - [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] - What I desire 
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si\|Si]] - What I experience 
-	- [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] - What I think 
-	- [[CARDS/Depth Psychology Theory/Fi\|Fi]] - What I value 
+	- - [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] - What I desire 
+	- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] - What I experience 
+	- [[CARDS/Depth Psychology Theory/Foundational/Ti🗡️\|Ti🗡️]] - What I think 
+	- [[CARDS/Depth Psychology Theory/Foundational/Fi🧭\|Fi🧭]] - What I value 
 - "turn within, direct inward," 1650s, from Latin intro "inward, within" (see [intro-](https://www.etymonline.com/word/intro-?ref=etymonline_crossreference "Etymology, meaning and definition of intro- ")) + vertere "to turn" ([etymonline](https://www.etymonline.com/word/introvert))
 
 # Type Grid 
@@ -21,7 +21,7 @@
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  |  ESTJ               |        ESTP         |  ENTJ                   |  ENFJ               | ➡️  | 👋    | 🏆   |
 | [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    | ESFJ             |        ESFP         |  ENTP                   |  ENFP               | ↪️ |👋    | 🏃 | 
 | ==[[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]==   | ==[[CARDS/Depth Psychology Theory/ISTJ\|ISTJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]==        | ==[[CARDS/Depth Psychology Theory/INTJ\|INTJ]]==                  | ==[[CARDS/Depth Psychology Theory/INFJ\|INFJ]]==              | ➡️   | ==[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]== | 🏃 |
-| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/INFP\|INFP]]==              | ↪️| ==[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]== | 🏆     |
+| ==[[CARDS/Depth Psychology Theory/Background🔙\|🔙]]== | ==[[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]]==              |       ==[[CARDS/Depth Psychology Theory/ISFP\|ISFP]]==        | ==[[CARDS/Depth Psychology Theory/INTP\|INTP]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==              | ↪️| ==[[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]]== | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                             |
