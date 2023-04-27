@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-27T10:43:48.776+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-27T13:05:50.063+02:00"}
 ---
 
 
 # INFP Ego’s mind
-| Type                 |   [[CARDS/Depth Psychology Theory/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]  [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]  |
+| Type                 |   [[CARDS/Depth Psychology Theory/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -21,7 +21,7 @@
 | [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
-| Type                 | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]     |
+| Type                 | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]           | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[Self-sacrifice\|Self-sacrifice]]                 | //                         |
@@ -39,7 +39,7 @@
 
 # ENFJ Ego’s mind
 
-| Type                 | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]  |
+| Type                 | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -66,7 +66,7 @@
 
 
 # ISTP Ego’s mind 
-| Type                 |   [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]  |
+| Type                 |   [[CARDS/Depth Psychology Theory/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
@@ -83,7 +83,7 @@
 | [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
 | [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
-| Type                 |[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]     |
+| Type                 |[[CARDS/Depth Psychology Theory/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Templar\|Templar]]               | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]                | //                         |
@@ -100,7 +100,7 @@
 | Vice             | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]                 | [[Treachery\|Treachery]]                |
 
 # ESTJ Ego’s Mind 
-| Type                           | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| Type                           | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ------------------------------ | ----------------------------- | --------------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]    | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]        |
 | Humanity’s Temples             | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]    | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]        |
@@ -117,7 +117,7 @@
 | [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
-| Type             | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]] |
+| Type             | [[CARDS/Depth Psychology Theory/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]]          | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
