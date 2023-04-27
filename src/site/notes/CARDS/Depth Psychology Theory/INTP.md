@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T08:46:23.201+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T08:54:52.574+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -55,11 +55,11 @@
 
 ---
 # 4 sides / Temple 
-| [[CARDS/Depth Psychology Theory/Octogram\|Octogram]] | INFP Ego          | ESTJ Subconscious |
+| [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | INFP Ego          | ESFJ Sub |
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[ENFJ Shadow\|ENFJ Shadow]]       | ISTP Superego     |
+|              | [[ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
