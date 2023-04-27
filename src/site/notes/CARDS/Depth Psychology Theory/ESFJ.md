@@ -1,39 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T18:16:29.872+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T18:44:30.610+02:00"}
 ---
 
+#on/depthpsychology #type 
 
+[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]. 
 | 1💉                                                                                                | 2⛰️                                                                                            | 2💧                                                                                                  | 4🗡️                                                                               |
 | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] |
 
-
-# Cognitive Functions Stack in Attitudes 
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
-
----
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
@@ -49,7 +24,7 @@
 # Virtues & Vices
 | Type                 | [[CARDS/Depth Psychology Theory/ESFJ\|ESFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader\|Crusader]]                 | //                         |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]                 | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                  | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[Injustice\|Injustice]]                | //                         |
 | Virtu                | [[Caregiving\|Caregiving]]           | [[CARDS/Depth Psychology Theory/Attention\|Attention]]             |
@@ -57,7 +32,7 @@
 
 | Type             | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | ------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]              | //                 |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]              | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Stealing\|Stealing]]              | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Earning\|Earning]]               | //                 |
 | Virtu            |  [[Diligence\|Diligence]]  | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]     |
