@@ -16,17 +16,15 @@
 | ------------------------------------------------------------------- | ----------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] I am a spoiled Child🥳, tyrannical with what others value. |  I am a Child👼, humble with what others value. |
 
-| 4-Immature                                                              | 4-Mature                                                 |
-| ----------------------------------------------------------------------- | -------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am an Infant😨, afraid of & prideful with what I experience. |  I am a King👑, faithful / brave with what I experience. |
+| 4-Immature | 4-Mature |
+| ---------- | -------- |
 
 | 5-Immature                                                       | 5-Mature                                   |
 | ---------------------------------------------------------------- | ------------------------------------------ |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]] I am a Nemesis😟, uncertain and worried of what I want. |  I am an  Ally🛡️, certain of what I want. |
 
-| 6-Immature                                               | 6-Mature                                      |
-| -------------------------------------------------------- | --------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Critic🤔, cynical with what others know. | “ I am a Sage🧙, wise with what others know." |
+| 6-Immature | 6-Mature |
+| ---------- | -------- |
 
 | 7-Immature                                               | 7-Mature                                         |
 | -------------------------------------------------------- | ------------------------------------------------ |
