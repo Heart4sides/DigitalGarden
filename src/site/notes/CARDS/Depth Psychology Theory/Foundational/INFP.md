@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T17:32:09.922+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T17:50:10.265+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -7,10 +7,9 @@
 # Cognitive Functions Stack
 [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Background🔙\|Behind the scenes🔙]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] 
 Hierarchy of Preference : 
-| Fi                                                                                   | Ne                                                                                                 | Si                                                                                             | Te                                                                                             |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I don t desire\|Ne > What I don t desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I don t know\|Te > What I don t know]] |
-
+| Fi                                                                                   | Ne                                                                                                   | Si                                                                                             | Te                                                                                               |
+| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] |
 
 ---
 # Type Grid 
