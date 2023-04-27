@@ -7,21 +7,21 @@
 # Cognitive Functions Stack
 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] - [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
 Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadra. 
-| 1-Immature                                               | 1-Mature                                      |
-| -------------------------------------------------------- | --------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | I am a Warrior, responsible with what I value |
+| 1-Immature                                              | 1-Mature                                             |
+| ------------------------------------------------------- | ---------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] I am a Hero🦸‍♂️, the savior of  what I value. | I am a Warrior👨‍🚒, responsible with  what I value. |
 
-| 2-Immature                                                | 2-Mature                                       |
-| --------------------------------------------------------- | ---------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] - I am a Teen👦, gullible with what others want. | I am a Parent🤨, skeptical of what others want |
+| 2-Immature                                              | 2-Mature                                         |
+| ------------------------------------------------------- | ------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] I am a Teen👦, gullible with what others want. |  I am a Parent🤨, skeptical of what others want. |
 
-| 3-Immature                                           | 3-Mature                                      |
-| ---------------------------------------------------- | --------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]- I am a god Child👼, tyrannical with what   | I am a Child👼, humble with what I experience |
+| 3-Immature                                                          | 3-Mature                                        |
+| ------------------------------------------------------------------- | ----------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]] I am a spoiled Child🥳, tyrannical with what I experience. |  I am a Child👼, humble with what I experience. |
 
-| 4-Immature                                                              | 4-Mature                                               |
-| ----------------------------------------------------------------------- | ------------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]]- I am an Infant😨, afraid of & prideful with what others think | I am a King👑, faithful / brave with what others think |
+| 4-Immature                                                             | 4-Mature                                                |
+| ---------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am an Infant😨, afraid of & prideful with what others know. |  I am a King👑, faithful / brave with what others know. |
 
 ---
 # Type Grid 
@@ -47,7 +47,7 @@ Fi-Te / Si-Ne = [[CARDS/Depth Psychology Theory/Philosopher\|Philosopher]] Quadr
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
+|              | [[CARDS/Depth Psychology Theory/ENFJ Shadow👤\|ENFJ Shadow👤]]       | ISTP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
