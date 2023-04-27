@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-27T21:48:01.612+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-27T22:20:59.770+02:00"}
 ---
 
 #on/depthpsychology  #type
 
 [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]][[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|Future-Thinker 🔮]] [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]
-| 1💧                                                                                                  | 2🗡️                                                                               | 3💉                                                                                                | 4⛰️                                                                                            |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                        | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                       | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                        | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                   |
 | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] |
 
@@ -35,7 +35,7 @@
  |     | [[INTJ👤Shadow\|INTJ👤Shadow]] | ESFP Superego |
  | --- | ---------------- | ------------- |
  | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]  |               |
- | UF  | [[CARDS/Depth Psychology Theory/Foundational/Envy\|Envy]]         |               |
+ | UF  | [[CARDS/Depth Psychology Theory/Envy\|Envy]]         |               |
 
 The ENTP belongs to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]].
