@@ -4,7 +4,7 @@
 
 > [!Info]- Navigation 💠
 > [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
-> Type : [[CARDS/Depth Psychology Theory/ISFJ\|ISFJ]] 
+> Type : [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] 
 
 Analyse de son discours dans [[SOURCES/Literature Note/Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018\|Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018]]
 
