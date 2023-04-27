@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/cards/depth-psychology-theory/eight-function-model/","created":"2023-04-23T10:55:01.771+02:00","updated":"2023-04-27T13:34:32.211+02:00"}
 ---
 
-| MOC                                                             | Author                                          | Type                                            | Reference                                                                                                        |
-| --------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/John Beebe\|John Beebe]] | [[CARDS/Depth Psychology Theory/INTP\|INTP]] | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
+| MOC                                                             | Author                                          | Type                                                         | Reference                                                                                                        |
+| --------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/John Beebe\|John Beebe]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
 
 
 | Rank | Attitude       | [[FPS\|FPS]] |
