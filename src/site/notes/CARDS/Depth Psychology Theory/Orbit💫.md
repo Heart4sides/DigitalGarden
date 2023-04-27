@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-27T14:15:19.192+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-27T17:30:10.213+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - Transfer of information, stream of [[communication\|communication]]
 - [[CARDS/· Related Concepts & Theories ·/Compensate\|compensation]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] is orbit between two psyches. 
-- [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] users orbit themselves
+- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] users orbit themselves
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] users orbit others 
 
 ## Functions
