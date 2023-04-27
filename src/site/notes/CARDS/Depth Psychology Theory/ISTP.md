@@ -52,6 +52,13 @@
 
 # Templar’s Virtu & Vice
 [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]] 🆚 [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]] 
+| Type             | [[CARDS/Depth Psychology Theory/INFJ\|INFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |  [[CARDS/Depth Psychology Theory/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
+| ---------------- | ----------------------------- | -------------------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                   | //                               |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]             | //                               |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]           | //                               |
+| Virtu            |  [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]               |   [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                    |
+| Vice             |  [[Corrumption\|Corrumption]]           |   [[Nymphomania\|Nymphomania]]                          |
 
 # Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
