@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T15:20:05.418+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T17:30:14.580+02:00"}
 ---
 
 #on/depthpsychology 
@@ -8,13 +8,13 @@
 
 # Functional Relationships 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
-Introverted Sensing is awareness of one’s own experiences. Si users are the source of attention, duty and fortitude for [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] users.
+Introverted Sensing is awareness of one’s own experiences. Si users are the source of attention, duty and fortitude for [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] users.
 
 [[⛰️Si-Ne\|⛰️Si-Ne]]
 Si users expect to be [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] chosen for their experience and sense of duty. 
 
 [[CARDS/Depth Psychology Theory/🔥Ni-Si⛰️\|🔥Ni-Si⛰️]]
-Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] desires for the sake of their duty and personal comfort. 
+Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] desires for the sake of their duty and personal comfort. 
 
 --- 
 # Keywords
