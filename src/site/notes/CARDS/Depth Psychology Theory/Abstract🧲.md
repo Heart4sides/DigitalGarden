@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-26T21:52:07.940+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T14:03:23.358+02:00"}
 ---
 
 #typegrid 
@@ -7,7 +7,7 @@
 - Future > Past & Present 
 - Preference shared by those who prioritize either : 
 	- What they desire ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ni🔥\|Ni🔥]])
-	- What other people desire ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]])
+	- What other people desire ([[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]])
 - [abstract | Etymology, origin and meaning of abstract by etymonline](https://www.etymonline.com/word/abstract?ref=etymonline_crossreference#etymonline_v_90)
 	- late 14c., originally in grammar (in reference to nouns that do not name concrete things), from Latin abstractus "drawn away," past participle of abstrahere "to drag away, detach, pull away, divert," also used figuratively; from assimilated form of ab "off, away from" (see [ab-](https://www.etymonline.com/word/ab-?ref=etymonline_crossreference "Etymology, meaning and definition of ab- ")) + trahere "to draw" (from PIE root *tragh- "to draw, drag, move;" see [tract](https://www.etymonline.com/word/tract?ref=etymonline_crossreference#etymonline_v_16846 "Etymology, meaning and definition of tract ") (n.1)).
 	- The meaning in philosophy, "withdrawn or separated from material objects or practical matters" (opposed to **concrete**) is from mid-15c. That of "difficult to understand, abstruse" is from c. 1400.
