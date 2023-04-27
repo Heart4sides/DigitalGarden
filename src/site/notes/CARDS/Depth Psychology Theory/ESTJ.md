@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-27T10:49:22.990+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-04-27T10:55:38.608+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-# Cognitive Functions Stack in Attitudes 
+# Cognitive Functions Stack 
+4 [[CARDS/Depth Psychology Theory/Attitude\|attitudes]] in the Ego (4 in the [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]] )
 | 1-Immature                                                 | 1-Mature                                                 |
 | ---------------------------------------------------------- | -------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Te🏹\|Te🏹]] I am a Hero🦸‍♂️, the savior of what others know. |  I am a Warrior👨‍🚒, responsible with what others know. |
@@ -44,7 +45,7 @@
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]    |
-|              | [[CARDS/Depth Psychology Theory/ISTP Shadow👤\|ISTP Shadow👤]]       | ENFJ Superego     |
+|              | [[CARDS/Depth Psychology Theory/ISTP👤Shadow\|ISTP👤Shadow]]       | ENFJ Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                   |                   |
 
