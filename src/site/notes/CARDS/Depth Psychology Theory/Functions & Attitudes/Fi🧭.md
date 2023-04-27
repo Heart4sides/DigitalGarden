@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-26T18:26:19.311+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/functions-and-attitudes/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T07:21:39.500+02:00"}
 ---
 
 #on/depthpsychology 
@@ -59,9 +59,9 @@ Fi users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Func
 
 ---
 # Function in Attitudes
-| 1-Immature                                        | 1-Mature                                          |
-| ------------------------------------------------- | ------------------------------------------------- |
-| I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I value. | I am a [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], the savior of what I value. |
+| 1-Immature                                               | 1-Mature                                                 |
+| -------------------------------------------------------- | -------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fi🧭\|Fi🧭]] - I am a Hero🦸‍♂️, the savior of what I value. |
 
 | 2-Immature                                               | 2-Mature                                       |
 | -------------------------------------------------------- | ---------------------------------------------- |
