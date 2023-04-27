@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-27T07:35:05.582+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-27T13:05:37.241+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -51,7 +51,7 @@
 
 ---
 # Virtues & Vices
-| Type                 | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]   [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]     |
+| Type                 | [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Wayfarer\|Wayfarer]]              | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Stealing\|Stealing]]              | //                 |
@@ -70,7 +70,7 @@
 ---
 # Temples
 
-| Type                 |  [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    [[CARDS/Depth Psychology Theory/Subconscious🤸\|🤸]]  |
+| Type                 |  [[CARDS/Depth Psychology Theory/ENTJ\|ENTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/ISFP\|ISFP]]    [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
