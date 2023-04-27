@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/paranoia/","created":"2023-01-18T14:39:11.982+01:00","updated":"2023-04-24T10:03:29.400+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/paranoia/","created":"2023-01-18T14:39:11.982+01:00","updated":"2023-04-27T21:47:54.549+02:00"}
 ---
 
 
-It is the primary vice of the [[CARDS/Depth Psychology Theory/INTJ\|INTJ]]
+It is the primary vice of the [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]
 
 ## Sources 
 [[SOURCES/Contents/Paranoïa, la folie qui fait l'histoire\|Paranoïa, la folie qui fait l'histoire]]
