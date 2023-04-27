@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-26T22:29:20.291+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T14:03:23.667+02:00"}
 ---
 
 
@@ -28,7 +28,7 @@
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 [[CARDS/Depth Psychology Theory/Functions & Attitudes/Ti🗡️\|Ti🗡️]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Fe💉\|Fe💉]] 
-[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne💧\|Ne💧]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
+[[CARDS/Depth Psychology Theory/Functions & Attitudes/Ne\|Ne]] | [[CARDS/Depth Psychology Theory/Functions & Attitudes/Si⛰️\|Si⛰️]]
 
 ## Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
