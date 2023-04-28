@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T12:44:44.853+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T18:54:51.109+02:00"}
 ---
 
 | Type                                              | Reference                                 |
@@ -32,10 +32,10 @@
 
 > Bovarysme selon Jules de Gaultier : *"le pouvoir départi à l'homme de se concevoir autre qu'il n'est"*
 - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] : sens de sa propre identité
-- [[CARDS/Depth Psychology Theory/Abstract🧲\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
+- [[CARDS/Typing Toolbox/-abstract\|-abstract]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 > *"Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."*
-- [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
+- [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]] focus 
 
 > *"J'ai cette manie de bâtir de suite des livres sur les figures que je rencontre. Une invincible curiosité me fait me demander malgré moi quelle peut-être la vie du passant que je croise."*
 - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]- jouer avec les possibles 
@@ -43,7 +43,7 @@
 > *"Qui sort de son labyrinthe secret encourt de grands risques. Le fait est que, dès que Emma s'arrache à son dédale de lectures et de songes, dès qu'elle grimpe aux branches du réel, la mort entre en elle"* Claro
 - Battleground entre le [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]](songes) et le [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] (réalité) 
 
-> *"L'amour ? Ce n'était qu'un "assaisonnement" , pas "un met principal de l'existence" pour Flaubert"
+> *"L'amour ? Ce n'était qu'un "assaisonnement" , pas "un met principal de l'existence" pour Flaubert"*
 - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] + rejet du [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]  
 
 > *"Ce qui jusqu'à Flaubert était action devient impression."* Proust
@@ -89,13 +89,13 @@
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] optimiste = valorisation du confort 
 
 > *"Les représentants du peuple ne sont autres qu'un tas immonde de vendus, leur vue c'est l'intérêt, leur penchant la bassesse, leur honneur est un orgueil stupide, leur âme un tas de boue, mais un jour, le jour qui arrivera avant peu, le peuple recommencera la troisième révolution ; gare aux têtes de rois, gare aux ruisseaux de sang"*
-- [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]  
+- [[CARDS/Typing Toolbox/-interest👀\|-interest👀]]  
 - Posture d'outrage moral ([[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]])
 - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]= prédiction sur l'avenir collectif 
 
 > *"Seulement je sympathise tout aussi bien, peut-être mieux, aux misères disparues des peuples morts auxquelles personne ne pense maintenant, à tous les cris qu'ils ont poussés et qu'on entend plus. Je ne m'apitoie pas davantage sur le sort des classes ouvrières actuelles que sur les esclaves antiques qui tournaient la meule, pas plus ou tout autant."*
 - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] = sympathie 
-- [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Trickster\|Cognitive attitude of the Trickster]] = le passé compte autant que le présent 
+- [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]  = le passé compte autant que le présent 
 
 > *"Le plébiscite, le socialisme, l'international, et autres ordures, encombrent tous les cerveaux."*
 - [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] = ce à quoi pensent les gens 
