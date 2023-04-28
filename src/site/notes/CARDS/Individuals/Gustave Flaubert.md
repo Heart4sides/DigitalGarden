@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T08:57:20.547+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T12:44:44.853+02:00"}
 ---
 
-| Type                | Reference                                 |
-| ------------------- | ----------------------------------------- |
-| [[-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
+| Type                                              | Reference                                 |
+| ------------------------------------------------- | ----------------------------------------- |
+| [[CARDS/Depth Psychology Theory/-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
 
 
 > *"Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire."** Yves Leclerc
@@ -70,7 +70,7 @@
 > *"Mais quant à gagner de l'argent non, non, et en gagner avec ma plume jamais ! Jamais !"
 - [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] = écart entre l'image qu'il veut se donner et ses préférences réelles ([[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]]) 
 
->"J'ai à Paris, écrit Flaubert à Louise collet en août 1846, un homme à mes ordres, dévoué jusqu'à la mort, actif, brave, intelligent, une grande et héroïque nature aux volontés de la mienne."*
+> *"J'ai à Paris, écrit Flaubert à Louise collet en août 1846, un homme à mes ordres, dévoué jusqu'à la mort, actif, brave, intelligent, une grande et héroïque nature aux volontés de la mienne."*
 - Origine cognitive de l'[[CARDS/Depth Psychology Theory/Authority\|Authority]]  
 - Valorisation du [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] (actif & brave)
 - Valorisation du [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] (intelligent) 
