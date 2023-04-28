@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-28T07:49:00.534+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-28T09:11:02.798+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]][[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted  to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]. 
-
 | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                        | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                    | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                     |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] |
@@ -41,7 +40,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 
 ---
 # Examples 
-See [[-INFP\|-INFP]]
+See [[CARDS/Depth Psychology Theory/-INFP\|-INFP]]
 
 ---
 # Mentions
