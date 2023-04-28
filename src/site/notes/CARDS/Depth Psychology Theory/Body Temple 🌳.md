@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-04-28T08:23:11.395+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-04-28T09:09:56.284+02:00"}
 ---
 
 # Themes 
@@ -38,7 +38,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
 |                      |                              |                            |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -58,7 +58,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]             |
 |                      |                              |                            |
 
 | Type                     | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]   | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
@@ -78,7 +78,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Servility\|Servility]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]            |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]            |
 |                      |                              |                            |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
