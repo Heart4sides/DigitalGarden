@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T21:50:48.160+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-28T09:41:30.705+02:00"}
 ---
 
 #on/depthpsychology 
@@ -7,8 +7,8 @@
 #  What I do not desire 
 - & thus what others desire 
 - Collective Potential, Future, Fate
-- Sees Possibilities 
-- Predict consequences & outcomes 
+- Sees Possibilities
+- Prescience : predict consequences & outcomes 
 - Original [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 ---
