@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-27T22:21:10.435+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-28T14:48:28.145+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] .
 
 ---
 # Examples 
-| File                                                  | octogram |
-| ----------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Peter Jackson\|Peter Jackson]] | \-       |
+See [[CARDS/Depth Psychology Theory/-ESFP\|-ESFP]]
 
 ---
 # Mentions
