@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-04-28T12:41:34.119+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-04-28T12:48:43.916+02:00"}
 ---
-
 
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] 
