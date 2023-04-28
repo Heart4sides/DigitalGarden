@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-28T08:30:06.513+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-04-28T18:51:50.361+02:00"}
 ---
 
 > [!Info] Navigation 💠
@@ -10,7 +10,7 @@
 - [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] of the causes of results ([[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]] ) & of the limits of knowledge ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] )
 
 “I know, but I didn’t realize it. My work. Those horrible days and nights. I couldn’t think of anything else.” – Dr. Henry Frankenstein (Frankenstein-1931)
-- [[CARDS/Typing Toolbox/-Pragmatic✊\|-Pragmatic✊]] task focused 
+- [[CARDS/Typing Toolbox/-Pragmatic🦊\|-Pragmatic🦊]] task focused 
 
 “There can be no wedding while this horrible creation of mine is still alive. I made him with these hands, and with these hands, I will destroy him. I must find him.” *Dr. Henry Frankenstein (Frankenstein-1931)*
 - [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] guilt 
