@@ -1,30 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-20T23:08:06.265+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-28T18:56:23.347+02:00"}
 ---
 
 #on/psychology
 
-## Depth Psychology - 16 Types System
-- [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-#on/depthpsychology 
-- [[CARDS/Individuals/CS Joseph\|CS Joseph]]
-- [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]
-- [[CARDS/Individuals/John Beebe\|John Beebe]]
-- [[CARDS/Individuals/Linda Berens\|Linda Berens]]
-- [[CARDS/Individuals/David Keirsey\|David Keirsey]]
-- [[CARDS/Individuals/Dario Nardi\|Dario Nardi]]
-- [[CARDS/Collectives/MBTI Humans\|MBTI Humans]]
-- [[CARDS/Individuals/Shotgunette\|Shotgunette]]
-
-</div></div>
-
-
-| File | References |
-| ---- | ---------- |
+| File                                                                    | References                                                                                                                                          |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Alain de Botton\|Alain de Botton]]               | [Alain de Botton on Romanticism - YouTube](https://youtu.be/sPOuIyEJnbE)                                                                            |
+| [[CARDS/Individuals/Frank M. LoShiavo\|Frank M. LoShiavo]]           | [PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr) |
+| [[CARDS/Individuals/Marie Louise Von Franz\|Marie Louise Von Franz]] | \-                                                                                                                                                  |
+| [[CARDS/Individuals/Marie-Estelle Dupont\|Marie-Estelle Dupont]]     | [Marie-Estelle Dupont](https://www.marieestelledupont.com/les-articles/au-commencement-etait-le-pere)                                               |
+| [[CARDS/Individuals/Nietzsche\|Nietzsche]]                           | [Nietzsches insight for Ni and Si users \| C.S. Joseph](https://csjoseph.life/nietzsches-insight-for-ni-and-si-users/)                              |
+| [[CARDS/Individuals/Psyche (YT)\|Psyche (YT)]]                       | [Les fous dangereux, mythe ou réalité ? - PSYCHE #4 - YouTube](https://youtu.be/76NGwkOmdbE)                                                        |
+| [[CARDS/Individuals/Robert A. Glover\|Robert A. Glover]]             | [[SOURCES/Contents/Robert A Glover - No More Mr Nice Guy!\|Robert A Glover - No More Mr Nice Guy!]]                                              |
+| [[CARDS/Individuals/Stephen King\|Stephen King]]                     | [Rage by Stephen King \| The Book You're Not Supposed to Read - YouTube](https://www.youtube.com/watch?v=3eCFwYy_TxY)                               |
 
