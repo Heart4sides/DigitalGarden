@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-04-28T12:35:05.584+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-04-28T13:00:00.170+02:00"}
 ---
 
 - [[villain\|villain]]
@@ -16,7 +16,7 @@
 - The parent of the demon ? 
 
 # In Axis 
-"
+- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit💫\|💫]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Villain : 
@@ -31,6 +31,6 @@ We are hesitant to use our nemesis because we are afraid of the impact it’s go
 
 ---
 # References 
-- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
-- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
-- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] 
+- [[CARDS/Individuals/John Beebe\|John Beebe]] 
