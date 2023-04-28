@@ -1,15 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-28T12:40:40.367+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-28T13:48:00.899+02:00"}
 ---
 
 
-- [[Fear\|Fear]] vs [[Faith\|Faith]] (Si users) or Bravery (Se users)
-- Insecurity
-- The [[Future\|Future]] 
-- Raw potential
-- If you hit a person’s inferior, you get instant hatred in return from the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] through [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
 - [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway]] to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] via aspiration 
-- Covers fear with [[CARDS/Depth Psychology Theory/Pride\|Pride]] or Vanity
 - Paramount to develop it early in children. Once a teen, they have to develop it themselves. 
 ---
 # Fearful Infant 
@@ -19,6 +13,7 @@ In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 # Vulnerable Infant 
 In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - Recognizes that the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] ‘s adversity is here to build up strength in the inferior 
+- Has faith (Si users) or bravery (Se users) to overcome its fear  
 ---
 # Proud/Vain Hero 
 In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
@@ -26,10 +21,11 @@ In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]
 ---
 # Versatile King 
 In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-- Trades vulnerability for flexibility 
+- Trades vulnerability for flexibility
+- Accepts and overcomes its vulnerability, which causes it to become more powerful than the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] because of what it has gone through to get there. 
 ---
 # In Axis 
-- with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 ---
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit💫\|💫]]with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
@@ -45,6 +41,6 @@ In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]
 
 ---
 # References 
-- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
-- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
-- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] 
+- [[CARDS/Individuals/John Beebe\|John Beebe]] 
