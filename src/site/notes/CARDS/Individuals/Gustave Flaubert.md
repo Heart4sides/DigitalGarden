@@ -1,26 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-27T17:29:16.832+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T08:32:55.525+02:00"}
 ---
 
-Ref ::
-- Source des textes : Télérama, hors-série sur Gustave Flaubert 
-- Source de l'analyse : C.S. Joseph, Linda Berens, David Kersey 
+| Type                | Reference                                 |
+| ------------------- | ----------------------------------------- |
+| [[-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
 
-Analyse de Yves Leclerc : 
-> [!quote] Yves Leclerc
-> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire."
-> 
-> - [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]]
-> - Lack of [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] endurence
 
-> [!quote] Yves Leclerc 
-> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution."
+> "Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire." Yves Leclerc
 > 
-> - [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
-> - [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
+> - [[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]]
+> - Lack of [[-Si⛰️\|-Si⛰️]] endurence
+
+> "Ensuite, il va s'accommoder du régime de Napoléon III. Il le méprise mais reconnaît qu'il a été habile parce qu'il a fait preuve d'une certaine volonté et qu'il a fait régner l'ordre, qui, selon Flaubert, est préférable au désordre de la révolution." Yves Leclerc
+> - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]
+> - [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]] focus 
+
 
 > "Flaubert conserve une position aristocratique en plaçant la littérature au-dessus de tout"
-- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] evaluation   
+- [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] evaluation, [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher]] 
 
 > "La découverte d'une turpitude derrière une façade honorable lui procure ainsi une grande jouissance. Car pour lui la respectabilité sociale est forcément une façade."
 - Projection de son Te sur les autres --> idée que tout le monde valorise les apparences ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]) plus que l'authenticité ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]). 
@@ -29,13 +27,13 @@ Analyse de Yves Leclerc :
 - [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] : sens de sa propre identité
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|abstraction]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
-"Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
+> "Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."
 - [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
 
-"J'ai cette manie de bâtir de suite des livres sur les figures que je rencontre. Une invincible curiosité me fait me demander malgré moi quelle peut-être la vie du passant que je croise."
+> "J'ai cette manie de bâtir de suite des livres sur les figures que je rencontre. Une invincible curiosité me fait me demander malgré moi quelle peut-être la vie du passant que je croise."
 - Ne - jouer avec les possibles 
 
-"Qui sort de son labyrinthe secret encourt de grands risques. Le fait est que, dès que Emma s'arrache à son dédale de lectures et de songes, dès qu'elle grimpe aux branches du réel, la mort entre en elle" Claro
+> "Qui sort de son labyrinthe secret encourt de grands risques. Le fait est que, dès que Emma s'arrache à son dédale de lectures et de songes, dès qu'elle grimpe aux branches du réel, la mort entre en elle" Claro
 - Battleground entre le Ne (songes) et le Se (réalité) 
 
 "L'amour ? Ce n'était qu'un "assaisonnement" , pas "un met principal de l'existence" pour Flaubert"
