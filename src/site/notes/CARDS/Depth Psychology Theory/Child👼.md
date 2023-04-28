@@ -1,25 +1,35 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-28T12:36:20.088+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-28T13:43:30.937+02:00"}
 ---
 
-Ego :
-- [[CARDS/Depth Psychology Theory/Precocious Child\|Precocious Child]] 
-- [[Miraculous Child\|Miraculous Child]]
 
-Subconscious : 
-- Tyrannical Parent 
-- Humble Parent 
+# Precocious Child 
+- God Complex 
+- Know-it-all 
+- Emulates the Critic’s cynical attitude in an attempt to become as knowledgeable (actually as ignorant) as it. 
+- Follows the guidance of the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] instead of the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]   
 
-## Axis, Orbit, Reflect
+# Bright Child 
+- Where we rest, relax, recover 
+- Enjoys, plays 
+- Explores with curiosity (thanks to the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]])
+- Innocent 
+- Miracle worker  
 
-- [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
-- [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
-- [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Battleground of Innocence\|Battleground of Innocence]]
+# Diligent Parent 
+- Trades rest for diligence 
+- Puts more effort, which creates a sense of responsibility
 
+# In Axis 
+- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 
----
+# In Orbit 
+- 
+# In Reflection 
+- 
+
+--- 
 # References 
-- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
-- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
-- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] 
+- [[CARDS/Individuals/John Beebe\|John Beebe]] 
