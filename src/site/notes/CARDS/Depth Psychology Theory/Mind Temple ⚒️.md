@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-27T21:50:45.460+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-28T08:23:12.484+02:00"}
 ---
 
 
@@ -18,8 +18,8 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
@@ -53,8 +53,8 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Superego👹\| 👹]] |
 | ---------------- | ------------------------- | ------------------ |
@@ -80,8 +80,8 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
 | Type                 |[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
@@ -114,8 +114,8 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
