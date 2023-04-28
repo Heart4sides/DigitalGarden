@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-28T08:15:45.863+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-28T12:20:23.122+02:00"}
 ---
 
 
@@ -83,6 +83,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Standard\|Standard]]
 - [[CARDS/· Related Concepts & Theories ·/Status\|Status]]
 - [[CARDS/· Related Concepts & Theories ·/Struggle\|Struggle]]
+- [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]]
 - [[CARDS/· Related Concepts & Theories ·/Sunk cost\|Sunk cost]]
 - [[CARDS/· Related Concepts & Theories ·/Sympathy\|Sympathy]]
 - [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]]
