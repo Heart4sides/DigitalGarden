@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-27T13:05:52.274+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-28T11:28:05.719+02:00"}
 ---
 
 
-- Theme : [[Depth\|Depth]] 
+# Theme 
+[[Depth\|Depth]] : 
+- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] : substracts to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+- [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 
 ## Attitudes 
 - [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
@@ -41,9 +44,11 @@
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - trying to find the right [[order\|order]]
 - using [[evil\|evil]] to produce [[good\|good]]
-- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
+- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] form : substracts from the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+- [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] form : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - vast great [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
 - [[turtle\|turtle]]
 - [[ignorance\|ignorance]]
 - [[unhappy\|unhappy]]
 - [[critical\|critical]] 
+- 
