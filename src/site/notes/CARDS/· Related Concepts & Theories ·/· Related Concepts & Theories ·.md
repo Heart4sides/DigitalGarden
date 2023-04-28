@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-27T21:11:03.683+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-28T08:15:45.863+02:00"}
 ---
 
 
@@ -36,7 +36,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]]
 - [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]
 - [[CARDS/· Related Concepts & Theories ·/Extern\|Extern]]
-- [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]ism]]
+- [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]
 - [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 - [[CARDS/· Related Concepts & Theories ·/Fortune\|Fortune]]
 - [[CARDS/· Related Concepts & Theories ·/Gen z\|Gen z]]
@@ -57,6 +57,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Justify\|Justify]]
 - [[CARDS/· Related Concepts & Theories ·/Kudos\|Kudos]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]]
+- [[CARDS/· Related Concepts & Theories ·/Living Virtu\|Living Virtu]]
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
