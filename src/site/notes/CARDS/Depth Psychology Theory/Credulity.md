@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-04-27T09:04:28.568+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-04-28T08:12:24.973+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 </div></div>
 
 
-[[CARDS/Depth Psychology Theory/SD\|SD]] [[CARDS/Depth Psychology Theory/UF\|UF]]
+[[CARDS/Depth Psychology Theory/SD\|SD]] [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
