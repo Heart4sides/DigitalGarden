@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-04-28T08:23:12.581+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-04-28T09:09:58.785+02:00"}
 ---
 
 
@@ -18,7 +18,7 @@ Believes humanity's problems stem from a lack of integrity
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]              |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]          |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]          |
 |                      |                              |                            |
 
 | Type                     | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]   | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -36,7 +36,7 @@ Believes humanity's problems stem from a lack of integrity
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]              |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]          |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]          |
 |                      |                              |                            |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]][[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -56,7 +56,7 @@ Believes humanity's problems stem from a lack of integrity
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]      | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]             |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]    |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]    |
 |                      |                              |                            |
 
 | Type             |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] |  [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
