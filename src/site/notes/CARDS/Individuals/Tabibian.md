@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/tabibian/","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-04-21T09:39:35.965+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/tabibian/","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-04-28T08:46:05.176+02:00"}
 ---
 
 Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)
@@ -39,7 +39,7 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 # 👀 Tabibian x Philippe Pascot 
 [NOS ELUS SONT-ILS TOUS POURRIS ? (avec Philippe Pascot) [Pas content avec Tabibian ! #S02E05] - YouTube](https://www.youtube.com/watch?v=NOt3UpiZ28Y)
 > [!Question]- Typing
-> - J'ai j'ai j'ai - [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]]  
+> - J'ai j'ai j'ai - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]]  
 > - Pas très abstrait même s'il utilise beaucoup de métaphores 🤔  
 > - Refuse le Fi qui l'empêcherait de se remettre en question  
 > - [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] rant be like "C'EST LA RE-A-LI-TÉ"
