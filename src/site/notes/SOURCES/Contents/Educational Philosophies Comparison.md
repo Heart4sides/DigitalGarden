@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-27T18:31:30.782+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-28T08:30:07.885+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -53,8 +53,8 @@
 	- Other people's original thoughts with respect to the source [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- Achievements, actions held in high regard [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 	- Value Hierarchy of acts and legacy [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] 
-	- Predictability [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]], [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]
-	- Stability [[CARDS/Typing Toolbox/-Outcome🎯\|-Outcome🎯]]
+	- Predictability [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]], [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]]
+	- Stability [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]]
 	- Absolute rules [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]]
 - Types corresponding : 
 	- 4/4 - [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Dquad]] ESTJ 
