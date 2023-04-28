@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-27T22:14:24.154+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-28T12:35:58.161+02:00"}
 ---
 
 
@@ -13,17 +13,31 @@
 - [[Perform\|Perform]] - the ultimate performer
 - Parent of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] & main protector 
 - Can rest on its laurels 
+- Mentality of savior of everything impairs its ability to discover 
+- Treats the 5th function either as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] or as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]].  
 
-# In Attitudes
+# Chesty Hero 
+- Starts very powerful but irresponsible, so it causes collateral damage wherever it goes 
+- Doesn’t trust the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] so it compensates by trying to do everything by itself so protect the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]], which makes it arrogant and narrow-minded.  
+- Loops with the child, causing the latter to believe it can be a hero too 
 
-## Axis, Orbit, Reflect
+# Pilgrim Warrior 
+- Does its job which is to discover  
+- Is responsible, does its job without pride or complaint 
 
-[[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
+# Complacent Infant  
+- Rests on its laurels because “I’ve accomplished to much”, so stops working   
 
-[[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
+# Happy Infant  
+- Exchanges discovery for happiness 
+- Exchanges constant activity for rest - doesn’t try to constantly save the day, allow the other functions to grow 
 
-[[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] : [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
-[[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]]
+# Axis 
+# Orbit 
+The Hero is in [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] with the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]].
+Immature : the nemesis covers its weakness to take the role of the inferior. But after making a lot of social faux-pas, the hero starts loosing faith in the nemesis and it starts worrying that the nemesis is unable to do its job, which causes the insecurity of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]]. So the hero decides to do everything by itself.  
+# Reflection 
+The Hero is in orbit with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]. The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] reveals its [[Arrogance\|Arrogance]]. 
 
 ## Mentions 
 [[SOURCES/Type Theory by CSJ/Attitudes/What is the cognitive attitude of the hero function\|What is the cognitive attitude of the hero function]]
@@ -55,3 +69,9 @@ hero
 
 > [Additional info](https://www.wordnik.com/words/hero)
 
+
+---
+# References 
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
+- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
