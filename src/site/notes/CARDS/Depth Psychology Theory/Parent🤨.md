@@ -1,6 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-28T12:36:08.914+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-28T13:45:56.651+02:00"}
 ---
+
+
+# Lenient Parent 
+
+# Gullible Teen 
+
+# Free Child 
+- Trades its stifling need for control for freedom 
+- No longer needs to micromanage the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] since the hero is now resting 
 
 - Pessimistic 
 - Last to develop in the ego (Teenage-20s)
@@ -35,17 +44,14 @@ $<div class="markdown-embed-title">
 </div></div>
 
 
-# Axis, Orbit, Reflect
-- [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
-- [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] : [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
-- [[CARDS/Depth Psychology Theory/Battleground of Responsibility\|Battleground of Responsibility]]
+# In Axis 
+- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
 
 ---
 # References 
-- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
-- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
-- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] 
+- [[CARDS/Individuals/John Beebe\|John Beebe]] 
 
 
 [^1]: [[SOURCES/Type Theory by CSJ/What Are The Four Sides of the Mind by CS Joseph\|What Are The Four Sides of the Mind by CS Joseph]]
