@@ -1,13 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-27T17:28:59.864+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-28T12:35:27.126+02:00"}
 ---
 
-
-## In Attitudes
-
-[[Ne💧Critic🤔\|Ne💧Critic🤔]] | [[Ni🔥Critic🤔\|Ni🔥Critic🤔]] | [[Se🌪️Critic🤔\|Se🌪️Critic🤔]] | [[Si⛰️Critic🤔\|Si⛰️Critic🤔]]
-
-[[Te🏹Critic🤔\|Te🏹Critic🤔]] | [[Ti🗡️Critic🤔\|Ti🗡️Critic🤔]] | [[Fe💉Critic🤔\|Fe Critic]] | [[Si⛰️Critic🤔\|Si⛰️Critic🤔]]
 
 ## Keywords 
 - [[cynicism\|cynicism]]
@@ -17,6 +11,23 @@
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
 - [[ignorance\|ignorance]]
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
+
+# In Axis 
+
+# In Orbit 
+- [[CARDS/Depth Psychology Theory/Orbit💫\|💫]] with the Parent 
+- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] ([[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]) : 
+	- [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
+	- Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
+- Optimistic ([[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] ) : 
+	- [[Adds➕\|Adds➕]] [[CARDS/Depth Psychology Theory/Humility\|Humility]] to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
+	- Valued by the Ego, to which it reveals its ignorance. 
+
+# In Reflection 
+- [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
+- The Critic reveals the child’s ignorance. 
+- Everytime the critic is being ignorant, the child is walking the same path. The Child is being deceived by the Critic’s cynicism and believes it is wise and knowledgeable, so it emulates it to become wise itself. 
+
 
 ## Wordnik
 ## critic
@@ -45,7 +56,8 @@
 > [Additional info](https://www.wordnik.com/words/critic)
 
 
-## Wikipedia 
-
-
-## Translations 
+---
+# References 
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
+- [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
+- [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
