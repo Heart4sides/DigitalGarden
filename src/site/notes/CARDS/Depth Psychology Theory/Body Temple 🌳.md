@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-04-27T21:48:15.513+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-04-28T08:23:11.395+02:00"}
 ---
 
 # Themes 
@@ -46,8 +46,8 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]    | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                |    -       |
 
 ---
 # ISFP’s Mind
@@ -66,8 +66,8 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]   | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]     | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]                | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]                   | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              | -                          |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]                   | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                    | -                          |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]                   | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              | -                          |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]                   | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                    | -                          |
 
 ---
 # ESFJ’s Mind 
@@ -86,7 +86,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD\|UD]]               | [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]                      |   -        |
-| [[CARDS/Depth Psychology Theory/UF\|UF]]               | [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]                       |    -       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]                      |   -        |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]                       |    -       |
 
 ---
