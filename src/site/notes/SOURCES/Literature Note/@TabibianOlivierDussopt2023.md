@@ -11,7 +11,7 @@
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/oMo0EMf5XCg?t=387" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 > "C'est une évidence" [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 > "Qu'est-ce que vous en savez ?" [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
-> "Je les ai financées en travaillant en 3x8, dans une usine..." [[CARDS/Typing Toolbox/-Si🏔️\|-Si🏔️]] 
+> "Je les ai financées en travaillant en 3x8, dans une usine..." [[-Si🏔️\|-Si🏔️]] 
 > "C'est un fait que je conteste" [[CARDS/Typing Toolbox/-direct➡️\|-direct➡️]]
 { #b3c4ec}
 
