@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-28T10:02:02.727+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-28T13:30:53.692+02:00"}
 ---
 
 #on/depthpsychology 
@@ -27,6 +27,8 @@
 | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]    | Humility     | Complacency    |
 | [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] | Curiosity    | Ignorance      |
 | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]     | Adversity    | Fear           |
+
+[8:24](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=504s) Child : rest, relaxation, recovery, enjoyment Te child : creating, tearing apart frameworks, research [11:55](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=715s) Parent "Need to control and to kind of stifle" -> gains freedom by finding innocence. [14:00](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=840s) happy hero : Superman when he stops being a superhero
 
 # Comments 
 <script src="https://utteranc.es/client.js"
