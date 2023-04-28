@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-04-28T09:08:45.729+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-04-28T18:51:22.291+02:00"}
 ---
 
 | MOC                                           | Containertitle | Type                                              | Octogram                                                                                                                            | Reference                                                                        |
@@ -18,7 +18,7 @@
 - Her hallucination : “Think or be. You can’t do both” [[CARDS/Depth Psychology Theory/🗡️Ti-Fi🧭\|🗡️Ti-Fi🧭]]
 - “Oh now that’s just rude” (Peggy S2E8) [[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]] 
 - “I’m not a bad guy” (Dodd S2E8) “You called me a whore. I heard” (Peggy S2E8) [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] 
-- “We’re gonna be spending some time together. So you need to be civil” (Peggy S2E8) [[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]] [[CARDS/Typing Toolbox/-abstract⏭️\|-abstract⏭️]] 
+- “We’re gonna be spending some time together. So you need to be civil” (Peggy S2E8) [[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]] [[CARDS/Typing Toolbox/-abstract\|-abstract]] 
 - “You’re gonna be nice ? […] Good.” (Peggy S2E8) [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] 
 - “I’m sorry about your brother. I am. But it was an accident” (Peggy S2E8)
 	- *“It’s not my fault”* [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] 
@@ -26,7 +26,7 @@
 - “You’ll see. Positive Peggy is what they call me” (Peggy S2E8) [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] (identity)
 - “Here I am, trying to actualize fully you know and I mean that’s no small think to review, and reflect, contextualize, not just keep making past mistakes.” (Peggy S2E8) 
 	- “review” & “not just keep making past mistakes” [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] (learn from past experiences)
-	- [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] [[CARDS/Typing Toolbox/-abstract⏭️\|-abstract⏭️]]  
+	- [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]] [[CARDS/Typing Toolbox/-abstract\|-abstract]]  
 - About conceiving babies :
 	- “We’re trying, but it takes time you know”  (Peggy S2E1) [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]
 - About to fake car accident : 
