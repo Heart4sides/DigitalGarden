@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-04-28T08:23:12.186+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-04-28T09:09:58.247+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
@@ -54,7 +54,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]   | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]     | [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]                | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]                   |                              | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]                |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]                   |                              | [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]                |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]                   |                              | [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]                |
 
 | Type             |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] |  [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
 | -------------------- | ---------------------------- | -------------------------- |
@@ -73,7 +73,7 @@ Keep things fresh and sharp.
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
@@ -92,7 +92,7 @@ Keep things fresh and sharp.
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]               |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
@@ -111,7 +111,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]       | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |                |   [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]      |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |                 |   [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]    |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |                 |   [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]    |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]  [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]   |  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  |
 | -------------------- | ---------------------------- | -------------------------- |
