@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-27T22:14:33.303+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-04-28T07:49:00.534+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,10 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 
 ---
 # Examples 
-| File                                                  | octogram |
-| ----------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Caroline Myss\|Caroline Myss]] | \-       |
-| [[CARDS/Individuals/Sandman\|Sandman]]             | \-       |
+See [[-INFP\|-INFP]]
 
 ---
 # Mentions
