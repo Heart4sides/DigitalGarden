@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-28T08:23:12.484+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-28T09:09:58.628+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]            |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                |  [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]             |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]             |
 |                      |                              |                            |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -45,7 +45,7 @@
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]         |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
 |                      |                              |                            |
 
 | Type                 |  [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -72,7 +72,7 @@
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]         |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
 |                      |                              |                            |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -106,7 +106,7 @@
 | Humanity’s Temples             | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]    | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]        |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]           | [[CARDS/Depth Psychology Theory/Authority\|Authority]]                 | //                                |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]                         | -                             | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]                     |
-| [[CARDS/Depth Psychology Theory/SF\|SF]]                         | -                             | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]                    |
+| [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]                         | -                             | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]                    |
 |                                |                               |                                   |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
