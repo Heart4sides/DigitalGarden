@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-23T20:52:04.728+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/liberal-education/","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-04-28T08:47:42.775+02:00"}
 ---
 
 #on/education 
@@ -8,7 +8,7 @@
 
 >[!note]- Type analysis
 >[[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]
-[[CARDS/Typing Toolbox/-affiliative👨‍👩‍👧‍👦\|-affiliative👨‍👩‍👧‍👦]]
+[[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]]
 [[CARDS/Typing Toolbox/-systematic⚙️\|-systematic⚙️]] 
 
 ---
