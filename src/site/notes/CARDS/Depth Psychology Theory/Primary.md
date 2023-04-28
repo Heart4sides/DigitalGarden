@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-27T22:14:21.833+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-28T11:28:47.488+02:00"}
 ---
 
 #on/psychology 
 
 [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]].
 [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
+
+[[CARDS/Depth Psychology Theory/Optimistic\|Optimism]] is our primary preference. 
 
 The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]. 
 
@@ -18,7 +20,7 @@ The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is prim
 
 The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] is the primary temple.
 
-[[CARDS/Depth Psychology Theory/SD\|SD]][[CARDS/Depth Psychology Theory/SF\|SF]] is our primary octogram. 
+[[CARDS/Depth Psychology Theory/SD\|SD]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] is our primary octogram. 
 
 [[primary parenting\|primary parenting]]
 
