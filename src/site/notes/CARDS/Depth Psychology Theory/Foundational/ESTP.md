@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-27T22:21:22.347+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-04-29T13:33:46.847+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]] .
 
 ---
 # Examples 
-| File                                      | octogram |
-| ----------------------------------------- | -------- |
-| [[CARDS/Individuals/Diogène\|Diogène]] | \-       |
+See [[CARDS/Individuals/-ESTP\|-ESTP]] 
 
 ---
 # Mentions
