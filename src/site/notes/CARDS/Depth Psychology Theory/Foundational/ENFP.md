@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-27T22:20:48.247+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-04-29T13:31:56.346+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Justification\|Justifica
 
 ---
 # Examples 
-| File                                                    | octogram |
-| ------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]] | \-       |
+See [[CARDS/Individuals/-ENFP\|-ENFP]] 
 
 ---
 # Mentions
