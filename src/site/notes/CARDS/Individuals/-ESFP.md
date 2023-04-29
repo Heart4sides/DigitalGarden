@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/esfp/","created":"2023-04-28T14:48:32.340+02:00","updated":"2023-04-29T12:44:22.761+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/esfp/","created":"2023-04-28T14:48:32.340+02:00","updated":"2023-04-29T13:23:01.540+02:00"}
 ---
 
 #type/d 
