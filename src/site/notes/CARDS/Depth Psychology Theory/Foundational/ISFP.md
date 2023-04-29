@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-27T22:21:53.958+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfp/","created":"2023-01-05T15:30:17.767+01:00","updated":"2023-04-29T13:30:57.769+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Purpose\|Purpose]] .
 
 ---
 # Examples 
-| File                                                  | octogram |
-| ----------------------------------------------------- | -------- |
-| [[CARDS/Collectives/Bene Gesserit\|Bene Gesserit]] | \-       |
+See [[CARDS/Individuals/-ISFP\|-ISFP]] 
 
 ---
 # Mentions
