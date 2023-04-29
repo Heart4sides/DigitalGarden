@@ -1,11 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-04-28T19:43:06.508+02:00"}
+{"dg-publish":true,"permalink":"/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-04-29T16:15:45.992+02:00"}
 ---
 
 #type
-| File                                                        | octogram |
-| ----------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]] | \-       |
+| File                                                          | octogram |
+| ------------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-       |
+| [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-       |
+| [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-       |
+| [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-       |
+| [[CARDS/Individuals/Hitler\|Hitler]]                       | \-       |
+| [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-       |
+
+{ #ac76c1}
 
 
 <script src="https://utteranc.es/client.js"  
