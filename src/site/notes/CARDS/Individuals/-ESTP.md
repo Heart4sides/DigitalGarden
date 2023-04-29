@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/estp/","created":"2023-04-29T12:10:28.658+02:00","updated":"2023-04-29T12:10:38.386+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/estp/","created":"2023-04-29T12:10:28.658+02:00","updated":"2023-04-29T16:15:01.714+02:00"}
 ---
 
 #type
-| File | octogram |
-| ---- | -------- |
+| File                                                      | octogram |
+| --------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Diogène\|Diogène]]                 | \-       |
+| [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-       |
+
+{ #df963f}
 
 
 <script src="https://utteranc.es/client.js"  
