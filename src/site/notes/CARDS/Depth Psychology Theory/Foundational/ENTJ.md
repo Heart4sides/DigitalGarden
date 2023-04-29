@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-27T22:20:54.373+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-04-29T13:31:25.744+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Purpose\|Purpose]] .
 
 ---
 # Examples 
-| File                                                  | octogram |
-| ----------------------------------------------------- | -------- |
-| [[CARDS/Collectives/Bene Gesserit\|Bene Gesserit]] | \-       |
+See [[CARDS/Individuals/-ENTJ\|-ENTJ]] 
 
 ---
 # Mentions
