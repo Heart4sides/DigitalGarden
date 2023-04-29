@@ -20,7 +20,7 @@
 	- [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 	- Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
 - Optimistic ([[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] ) : 
-	- [[Adds➕\|Adds➕]] [[CARDS/Depth Psychology Theory/Humility\|Humility]] to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
+	- [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] [[CARDS/Depth Psychology Theory/Humility\|Humility]] to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 	- Valued by the Ego, to which it reveals its ignorance. 
 
 # In Reflection 
