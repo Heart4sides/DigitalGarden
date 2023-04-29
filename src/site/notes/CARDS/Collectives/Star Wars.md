@@ -10,10 +10,10 @@
 
 | File                                                        | Type                                                         | Reference                                                                                                 |
 | ----------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]] | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] | \-                                                                                                        |
+| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]] | [[-ENTP\|-ENTP]]                                          | \-                                                                                                        |
 | [[CARDS/Individuals/Boba Fett\|Boba Fett]]               | [[-INTJ\|-INTJ]]                                          | [Typing Boba Fett \| C.S. Joseph](https://csjoseph.life/typing-boba-fett/)                                |
 | [[Obi-Wan Kenobi\|Obi-Wan Kenobi]]                       | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] | [Fictional Typing: Obi-Wan Kenobi \| C.S. Joseph](https://csjoseph.life/fictional-typing-obi-wan-kenobi/) |
-| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]   | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] | [What type is the Mandalorian \| C..S Joseph](https://csjoseph.life/what-type-is-the-mandalorian/)        |
+| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]   | [[-ISFJ\|-ISFJ]]                                          | [What type is the Mandalorian \| C..S Joseph](https://csjoseph.life/what-type-is-the-mandalorian/)        |
 
 
 
