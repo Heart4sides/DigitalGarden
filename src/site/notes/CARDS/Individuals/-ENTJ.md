@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/entj/","created":"2023-04-28T19:48:11.602+02:00","updated":"2023-04-28T19:48:39.909+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/entj/","created":"2023-04-28T19:48:11.602+02:00","updated":"2023-04-29T16:15:14.865+02:00"}
 ---
 
 #type 
-| File | octogram |
-| ---- | -------- |
+| File                                              | octogram |
+| ------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Dali\|Dali]]               | \-       |
+| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]] | \-       |
+
+{ #84fd8f}
 
 
 <script src="https://utteranc.es/client.js"  
