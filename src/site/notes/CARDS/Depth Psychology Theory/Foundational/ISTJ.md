@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-27T22:21:59.872+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-04-29T13:32:16.500+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -56,11 +56,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Justification\|Justifica
 
 ---
 # Examples 
-| File                                                    | octogram |
-| ------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
-| [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
-| [[CARDS/Individuals/Mnemosyne\|Mnemosyne]]           | \-       |
+See [[CARDS/Individuals/-ISTJ\|-ISTJ]] 
 
 ---
 # Mentions
