@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-04-27T22:22:05.318+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-04-29T13:33:27.700+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -24,51 +24,9 @@
 # Virtu & Vice
 [[Joy\|Joy]] 🆚 [[Melancholy\|Melancholy]] 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-
-## Types 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
-|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| 🔛  | ESTJ       |    ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==       | ENTJ |==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==| ➡️      | 👋       | 🏆     |
-| 🔜    |ESFJ    | ESFP    |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
-| 🔝   | ISTJ             |   ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==   | INTJ          | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| 🔙 |ISFJ          |  ISFP | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
-
-[[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti 🗡️ deduce]]
-[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe 💉 empathize]] 
-[[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni 🔥 desire]] 
-[[CARDS/Depth Psychology Theory/Foundational/Se\|Se 🌪️ perform]] 
-
-## Type Grid 
-[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] 
-[[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] 
-
-# Templar’s Virtu & Vice
-[[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]] 🆚 [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]] 
-| Type             | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |  [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
-| ---------------- | ----------------------------- | -------------------------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                   | //                               |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]             | //                               |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]           | //                               |
-| Virtu            |  [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]               |   [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                    |
-| Vice             |  [[Corrumption\|Corrumption]]           |   [[Nymphomania\|Nymphomania]]                          |
-
-# Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-
-
-
-
-</div></div>
-
+---
+# Example 
+See [[CARDS/Individuals/-ISTP\|-ISTP]] 
 
 ---
 # Temples
