@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-27T22:21:40.539+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-04-29T13:34:36.138+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,10 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] .
 
 ---
 # Examples 
-| File                                                      | octogram |
-| --------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Frankenstein 🎭\|Frankenstein 🎭]] | \-       |
-| [[CARDS/Individuals/Kant\|Kant]]                       | \-       |
+See [[CARDS/Individuals/-INTP\|-INTP]] 
 
 ---
 # Mentions
