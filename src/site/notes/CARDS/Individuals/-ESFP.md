@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/esfp/","created":"2023-04-28T14:48:32.340+02:00","updated":"2023-04-29T13:23:01.540+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/esfp/","created":"2023-04-28T14:48:32.340+02:00","updated":"2023-04-29T13:39:24.647+02:00"}
 ---
 
 #type/d 
@@ -13,6 +13,9 @@
 | [[CARDS/Individuals/Peter Jackson\|Peter Jackson]]         | \-       |
 | [[CARDS/Individuals/Quentin Tarantino\|Quentin Tarantino]] | \-       |
 | [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]]   | \-       |
+
+{ #995654}
+
 
 <script src="https://utteranc.es/client.js"  
         repo="Heart4sides/Comment_Section"
