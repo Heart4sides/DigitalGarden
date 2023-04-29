@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-27T22:21:35.119+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-04-29T13:30:17.855+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,8 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] .
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+See [[-INTJ\|-INTJ]] 
 
 ---
 # Mentions
