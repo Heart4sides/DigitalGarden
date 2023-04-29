@@ -24,7 +24,7 @@
 	- The [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Ally : 
 	- The [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] acts responsibly by taking in account what the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] has to say and verifying until it reaches certainty. 
-	- The Nemesis [[Adds➕\|Adds➕]] perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+	- The Nemesis [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 # Reflection 
 The Nemesis reveals the fear in our [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] function. 
 We are hesitant to use our nemesis because we are afraid of the impact it’s gonna have on our inferior. 
