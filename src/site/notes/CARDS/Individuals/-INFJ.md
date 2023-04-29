@@ -1,10 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/infj/","created":"2023-04-29T12:10:55.275+02:00","updated":"2023-04-29T12:11:02.513+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/infj/","created":"2023-04-29T12:10:55.275+02:00","updated":"2023-04-29T16:16:30.817+02:00"}
 ---
 
 #type
-| File | octogram |
-| ---- | -------- |
+| File                                              | octogram |
+| ------------------------------------------------- | -------- |
+| [[CARDS/Individuals/John Bodine\|John Bodine]] | \-       |
+
+{ #ac1f10}
 
 
 <script src="https://utteranc.es/client.js"  
