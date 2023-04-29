@@ -17,7 +17,7 @@
 | [[CARDS/Individuals/George Washington\|George Washington]]         | \-                                                           | \-       |
 | [[CARDS/Individuals/Hitler\|Hitler]]                               | \-                                                           | \-       |
 | [[CARDS/Individuals/Jean-Luc Mélenchon\|Jean-Luc Mélenchon]]       | ENFP?                                                        | fr       |
-| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]]                     | \-                                                           | \-       |
+| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]]                     | \-                                                           | en / fr  |
 | [[CARDS/Individuals/Le Media Pour Tous\|Le Media Pour Tous]]       | INTJ ?                                                       | fr       |
 | [[CARDS/Individuals/Marc Aurèle\|Marc Aurèle]]                     | \-                                                           | \-       |
 | [[CARDS/Individuals/Nicolas Sarkozy\|Nicolas Sarkozy]]             | ESTJ?                                                        | fr       |
@@ -28,7 +28,7 @@
 | [[CARDS/Individuals/Tabibian\|Tabibian]]                           | \-                                                           | fr       |
 | [[CARDS/Individuals/Tatiana Ventôse\|Tatiana Ventôse]]             | \-                                                           | fr       |
 | [[CARDS/Individuals/Thinkerview\|Thinkerview]]                     | \-                                                           | fr       |
-| [[CARDS/Individuals/Thomas Woodrow Wilson\|Thomas Woodrow Wilson]] | ENFP                                                         | \-       |
+| [[CARDS/Individuals/Thomas Woodrow Wilson\|Thomas Woodrow Wilson]] | [[CARDS/Individuals/-ENFP\|-ENFP]]                        | \-       |
 
 
 # Political Collectives 
