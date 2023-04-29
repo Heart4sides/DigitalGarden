@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-04-27T22:21:29.079+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-04-29T13:32:28.747+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -41,9 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]] .
 
 ---
 # Examples 
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Contrapoints\|Contrapoints]] | \-       |
+See [[CARDS/Individuals/-INFJ\|-INFJ]] 
 
 ---
 # Mentions
