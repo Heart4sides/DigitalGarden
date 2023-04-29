@@ -1,10 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/istj/","created":"2023-04-29T12:09:39.846+02:00","updated":"2023-04-29T12:09:46.383+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/istj/","created":"2023-04-29T12:09:39.846+02:00","updated":"2023-04-29T16:16:08.322+02:00"}
 ---
 
 #type
-| File | octogram |
-| ---- | -------- |
+| File                                                    | octogram |
+| ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
+| [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
+
+{ #6b1b82}
 
 
 <script src="https://utteranc.es/client.js"  
