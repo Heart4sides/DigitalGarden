@@ -17,6 +17,7 @@
 | [[CARDS/Individuals/George Washington\|George Washington]]         | \-                                                           | \-       |
 | [[CARDS/Individuals/Hitler\|Hitler]]                               | \-                                                           | \-       |
 | [[CARDS/Individuals/Jean-Luc Mélenchon\|Jean-Luc Mélenchon]]       | ENFP?                                                        | fr       |
+| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]]                     | \-                                                           | \-       |
 | [[CARDS/Individuals/Le Media Pour Tous\|Le Media Pour Tous]]       | INTJ ?                                                       | fr       |
 | [[CARDS/Individuals/Marc Aurèle\|Marc Aurèle]]                     | \-                                                           | \-       |
 | [[CARDS/Individuals/Nicolas Sarkozy\|Nicolas Sarkozy]]             | ESTJ?                                                        | fr       |
