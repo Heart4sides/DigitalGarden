@@ -41,7 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] .
 
 ---
 # Examples 
-See [[CARDS/Depth Psychology Theory/-ESFP\|-ESFP]]
+See [[CARDS/Individuals/-ESFP\|-ESFP]]
 
 ---
 # Mentions
