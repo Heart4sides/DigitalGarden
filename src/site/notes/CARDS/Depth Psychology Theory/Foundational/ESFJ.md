@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-27T22:21:04.894+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfj/","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-04-29T13:34:21.527+02:00"}
 ---
 
 #on/depthpsychology #type 
@@ -41,8 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] .
 
 ---
 # Examples 
-| File | octogram |
-| ---- | -------- |
+See [[-ESFJ\|-ESFJ]] 
 
 ---
 # Mentions
