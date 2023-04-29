@@ -40,10 +40,9 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 
 ---
 # Examples 
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]] | \-       |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]       | \-       |
+| File                                          | octogram |
+| --------------------------------------------- | -------- |
+| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
 
 ---
 # Mentions
