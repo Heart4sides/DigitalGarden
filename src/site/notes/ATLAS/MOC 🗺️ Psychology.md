@@ -16,7 +16,7 @@
 | [[CARDS/Individuals/Psyche (YT)\|Psyche (YT)]]                       | [Les fous dangereux, mythe ou réalité ? - PSYCHE #4 - YouTube](https://youtu.be/76NGwkOmdbE)                                                        |
 | [[CARDS/Individuals/Robert A. Glover\|Robert A. Glover]]             | [[SOURCES/Contents/Robert A Glover - No More Mr Nice Guy!\|Robert A Glover - No More Mr Nice Guy!]]                                              |
 | [[CARDS/Individuals/Robert Greene\|Robert Greene]]                   | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul>                            |
-| [[CARDS/Individuals/Stephen King\|Stephen King]]                     | [Rage by Stephen King \| The Book You're Not Supposed to Read - YouTube](https://www.youtube.com/watch?v=3eCFwYy_TxY)                               |
+| [[CARDS/Individuals/Stephen King\|Stephen King]]                     | \-                                                                                                                                                  |
 
 
 | File                                                                                                                                                                             | References                                                                                                                                  |
