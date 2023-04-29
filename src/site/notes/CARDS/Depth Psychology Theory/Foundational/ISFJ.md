@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-27T22:21:47.447+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-04-29T13:34:08.295+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -44,12 +44,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfacti
 
 ---
 # Examples 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/François Hollande\|François Hollande]] | \-       |
-| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]   | \-       |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
-| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]     | \-       |
+See [[-ISFJ\|-ISFJ]] 
 
 ---
 # Mentions
