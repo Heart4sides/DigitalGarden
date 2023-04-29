@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-28T08:47:42.213+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-29T17:05:35.081+02:00"}
 ---
 
 > [!Info]- Navigation 💠
