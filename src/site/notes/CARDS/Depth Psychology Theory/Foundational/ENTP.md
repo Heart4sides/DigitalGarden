@@ -42,10 +42,9 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfacti
 
 ---
 # Examples 
-| File                                                        | octogram |
-| ----------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]] | \-       |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]               | \-       |
+| File                                          | octogram |
+| --------------------------------------------- | -------- |
+| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
 
 ---
 # Mentions
