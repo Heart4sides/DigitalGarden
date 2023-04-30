@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-04-30T11:22:38.259+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-04-30T13:16:19.141+02:00"}
 ---
 
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] 
 ---
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]] with the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]] with the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
 - Always adds adversity to the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]]. The question is whether the inferior will accept adversity or reject it ?
 ---
 # In Reflection 
