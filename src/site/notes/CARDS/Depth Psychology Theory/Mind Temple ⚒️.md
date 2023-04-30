@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-30T12:18:04.684+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-30T13:16:27.044+02:00"}
 ---
 
 # Themes 
@@ -58,7 +58,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 ---
 # Temples Integration for the Mind 
 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]][[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]][[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
 	- Without action, one cannot verify if what is learned actually works. Education then becomes a solely affiliative environment, detached from reality.  
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] 
 	- One needs motivation and passion to keep on learning and have a good enough motivation to endure the suffering of having your knowledge & skill questioned. 
