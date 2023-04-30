@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-30T11:22:39.692+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-30T13:16:30.925+02:00"}
 ---
 
 #on/depthpsychology #function 
@@ -27,7 +27,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 ---
 # Functional Relationships 
-[[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit⚛️\|Orbit⚛️]] 
+[[🧭Fi-Fe💉 \|🧭Fi-Fe💉 ]] [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] 
 Extraverted Feeling is awareness of other people’s [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] values ↔️ one’s own worth. 
 Fe users provide support, empathy and praise to Fi users, and seek to be accepted by them. 
 
