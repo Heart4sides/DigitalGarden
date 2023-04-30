@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-04-30T09:39:42.902+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-04-30T11:39:29.914+02:00"}
 ---
 
 #on/education 
@@ -52,25 +52,29 @@ Solo book reading impacts Si + Ni. So ESXP hate reading books. They like having 
 
 
 
-Learning is supposed to be stressful. 
-Take a break every 90 minutes. 
-Gap learning effects
-Engage - disengage 
 
-</div></div>
+#book 
+[NEUROSCIENTIST: How To ACTUALLY LEARN](https://www.youtube.com/watch?v=sW0iNSrmcDQ) 
+    
 
+# Description
+Neuroscientist Andrew Huberman explains how everybody can learn much faster using "Gap Effects" and other learning techniques. Andrew Huberman reveals truth about studying and gives out best tips and tricks for quicker studying. We all have to learn throughout our lives, so we can improve and become better and more knowledgeable. A lot of people are studying in wrong way, which decreases their results by a huge margin. You don't have to ask how to study better or learn faster anymore! Well-known neuroscientist Andrew Huberman has revealed the best study tips for everybody, and some of them might shock you! Andrew Huberman is an American neuroscientist and associate professor in the Department of Neurobiology at the Stanford University School of Medicine who has made many contributions to the brain development, brain plasticity, and neural regeneration and repair fields. Speaker : Andrew Huberman Youtube : The Proof Andrew Huberman On The Proof Podcast Clip: Original interview:    • Understanding You...   Fair Use Disclaimer Copyright disclaimer under section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, commenting, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
+# Quotes & Notes
+Neuroplasticity process is dependant on 
+- dopamine
+- [[Norepinephrine\|Norepinephrine]]
 - [[SOURCES/Contents/Acetylcholine\|Acetylcholine]] 
 In Biology almost anything is a process
 Take rest --> learn much faster
 From very focused to very relaxed
 Everything is a 90 minute cycle
-Freedom software to turn off the internet 
+Freedom software to turn off the internet ^38a1da
+
+Learning is supposed to be stressful. 
+Take a break every 90 minutes. 
+Gap learning effects
+Engage - disengage ^c34996
 
 </div></div>
 
