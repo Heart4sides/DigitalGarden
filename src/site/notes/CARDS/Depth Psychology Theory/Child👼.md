@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-28T13:43:30.937+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-04-29T21:30:44.993+02:00"}
 ---
 
 
@@ -8,11 +8,12 @@
 - Know-it-all 
 - Emulates the Critic’s cynical attitude in an attempt to become as knowledgeable (actually as ignorant) as it. 
 - Follows the guidance of the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] instead of the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]   
+- naive 
 
 # Bright Child 
 - Where we rest, relax, recover 
 - Enjoys, plays 
-- Explores with curiosity (thanks to the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]])
+- Explores the unknown with curiosity (thanks to the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]])
 - Innocent 
 - Miracle worker  
 
