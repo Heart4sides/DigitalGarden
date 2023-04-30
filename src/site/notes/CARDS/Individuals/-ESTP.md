@@ -6,6 +6,7 @@
 | File                                                      | octogram |
 | --------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Diogène\|Diogène]]                 | \-       |
+| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-       |
 | [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-       |
 
 { #df963f}
