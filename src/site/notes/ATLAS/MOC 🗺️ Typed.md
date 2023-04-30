@@ -165,9 +165,10 @@
 
 
 
-| File                                              | octogram |
-| ------------------------------------------------- | -------- |
-| [[CARDS/Individuals/John Bodine\|John Bodine]] | \-       |
+| File                                                | octogram |
+| --------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Contrapoints\|Contrapoints]] | \-       |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]   | \-       |
 
 
 </div></div>
