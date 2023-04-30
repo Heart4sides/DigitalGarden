@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-education/","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-04-23T21:03:30.055+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-education/","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-04-30T10:18:48.524+02:00"}
 ---
 
 
@@ -16,6 +16,10 @@
 # Content
 | File                                                                                                                                                                                                                         | author                                              | language |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
+| [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]                                                                                                                                                            | \-                                                  | \-       |
+| [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]                                                                                                                                                                | \-                                                  | \-       |
+| [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                  | \-       |
+| [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                  | \-       |
 | [[SOURCES/Contents/4 Sides In Education\|4 Sides In Education]]                                                                                                                                                           | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | en       |
 | [[SOURCES/Contents/Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy\|Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy]] | \-                                                  | en       |
 | [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                  | en       |
@@ -31,6 +35,9 @@
 # Authors
 | File                                                        | Type | language |
 | ----------------------------------------------------------- | ---- | -------- |
+| [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]   | \-   | \-       |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]         | \-   | \-       |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]               | ENTP | \-       |
 | [[CARDS/Individuals/Jacques Rancière\|Jacques Rancière]] | \-   | \-       |
 
 | File                                                          | Type       |
