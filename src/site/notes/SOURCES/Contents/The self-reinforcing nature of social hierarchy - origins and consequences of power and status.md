@@ -11,7 +11,7 @@ Adam Galinsky
 >[[SOURCES/Contents/The self-reinforcing nature of social hierarchy - origins and consequences of power and status#^8q2kx47yl18\|show annotation]]
 >
 >[[Power]]
->[[Respect Pair\|Respect Pair]]
+>[[CARDS/Depth Psychology Theory/Respect Pair\|Respect Pair]]
 >
 >{ #8q2kx47yl18}
 
