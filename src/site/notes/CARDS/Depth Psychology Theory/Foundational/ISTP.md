@@ -35,11 +35,11 @@ See [[CARDS/Individuals/-ISTP\|-ISTP]]
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]    |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
-|              | [[ESTJ👤Shadow\|ESTJ👤Shadow]]       | INFP Superego     |
+|              | [[CARDS/Depth Psychology Theory/ESTJ👤Shadow\|ESTJ👤Shadow]]       | INFP Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Pride\|Pride]]           |                   |
 The ISTP belongs to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]].
-Its cognitive origin is [[Validation\|Validation]].
+Its cognitive origin is [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]].
 
 
 ---
