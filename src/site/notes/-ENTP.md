@@ -7,9 +7,11 @@
 | ------------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-       |
 | [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-       |
+| [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]         | \-       |
 | [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-       |
 | [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-       |
 | [[CARDS/Individuals/Hitler\|Hitler]]                       | \-       |
+| [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-       |
 | [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-       |
 
 { #ac76c1}
