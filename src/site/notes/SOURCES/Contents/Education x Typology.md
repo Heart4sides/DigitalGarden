@@ -1,28 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-27T17:30:12.596+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-30T09:19:59.555+02:00"}
 ---
 
 #on/education 
 
-## Related topics 
+# Definition 
 
-- [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
-- [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] --> towards [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
-- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] ?
-- [[Templars\|Templars]] : teach, mentor & counsel
-- [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] function 
-- [[EXTRAS/Digital Garden/Educational Philosophies pdf\|Educational Philosophies pdf]]
-- Education = provide the foundational tools so that independent learning becomes possible for one's life.
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-	-  [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]] = [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
-	-  [[skill\|Skill]] = [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]
-- [[Templars\|Templars]] : teach, mentor & counsel 
+Education = provide the foundational tools so that independent learning becomes possible for one's life.
+
+# Educators are… 
+
+- [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] 
+- [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] function : educates the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 - [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
-	- prefers to educate and inform
-	- exhibits explanatory tendencies
-	- aims to stir curiosity & explain
+	- prefers to educate and [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] 
+	- exhibits explanatory tendencies 
+	- aims to stir curiosity & [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]] 
 	- Drawbacks : ambiguous language, unclear communication, others misinterpreting context 
-
+--- 
 ## Introverted Thinking
 
 Ti users learn by themselves. They internalize the inputs to create new knowledge with a deductive process : if this, then that.
@@ -47,8 +43,8 @@ They respect the opinions of others by using their Fe, when:
 -   It is by listening to the opinions of others that they can gather new input to perfect their thinking 
     
 
-
-## Extroverted Sensing 
+---
+# Extroverted Sensing 
 
 - cultivate strength
 - impart skills
@@ -56,20 +52,45 @@ They respect the opinions of others by using their Fe, when:
 - showing, demonstrating
 - the how 
 
-## Temple Integration 
 
-Integration of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [[CARDS/Depth Psychology Theory/Foundational/Se\|Extroverted Sensing]] ([[CARDS/Individuals/Chris Taylor\|Chris Taylor]], [2023-03-20](https://www.youtube.com/watch?v=mQ_YLslzPAc&pp=ygUoUHJhY3RpY2UsIHdobyBiZW5lZml0cyBtb3JlIENocmlzIFRheWxvcg%3D%3D)) 
+
+</div></div>
+
+
+---
+# Introverted Sensing 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [[CARDS/Depth Psychology Theory/Foundational/Si\|Introverted Sensing]] ([[CARDS/Individuals/Chris Taylor\|Chris Taylor]], [2023-03-20](https://www.youtube.com/watch?v=mQ_YLslzPAc&pp=ygUoUHJhY3RpY2UsIHdobyBiZW5lZml0cyBtb3JlIENocmlzIFRheWxvcg%3D%3D)) 
+
+</div></div>
+
+
+---
+# Temples Integration for the Mind 
+
+## Integration of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 When education is disconnected from the physical creation, it loses its connection with its usefulness, its reason for being. Knowledge is knowledge only if it can be applied in a concrete way and if its application lasts over time.
 
-Integration of the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
+## Integration of the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
 No learning without motivation to learn. Passion is by far the most powerful engine of continuous learning.
 
-Integration of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+## Integration of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
 
-A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.**
-## Ease to learn by Type 
+A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.
+
+---
+# Ease to learn by Type 
 
 XXX = Ti + Se + Info + MT
 
