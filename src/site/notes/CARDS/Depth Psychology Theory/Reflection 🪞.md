@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-28T11:08:55.470+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-30T11:22:38.994+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 	- 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Responding by CSJ\|Responding by CSJ]] exhibits reflection. Think before speaking: tend to reflect, then speak and act. 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Initiating by CSJ\|Initiating by CSJ]] : think out loud; tend to speak and act. then reflect
-- [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] 
+- [[CARDS/Depth Psychology Theory/Orbit⚛️\|Orbit⚛️]] 
 - [[CARDS/Depth Psychology Theory/Battleground\|Battleground]] 
 - [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] = instant reflection 
 - [[SOURCES/Type Theory by CSJ/Functions/Templar by CSJ\|Templar by CSJ]] = reflect the identity of those around them 
