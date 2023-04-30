@@ -66,13 +66,13 @@
 |                    |                   |
 | ------------------ | ----------------- |
 | [[CARDS/Depth Psychology Theory/Affection Pair\|Affection Pair]] | [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] |
-| [[Respect Pair\|Respect Pair]]   |                   |
+| [[CARDS/Depth Psychology Theory/Respect Pair\|Respect Pair]]   |                   |
 | [[CARDS/Depth Psychology Theory/Natural Pair\|Natural Pair]]   |                   |
 | [[CARDS/Depth Psychology Theory/Pedagogue Pair\|Pedagogue Pair]] |                   |
 | [[CARDS/Depth Psychology Theory/Benefit Pair\|Benefit Pair]]   |                   |
 | [[CARDS/Depth Psychology Theory/Kindred Pair\|Kindred Pair]]   |                   |
 | [[CARDS/Depth Psychology Theory/Intrigue Pair\|Intrigue Pair]]                    |                   |
-| [[Supervisor Pair\|Supervisor Pair]]                   |                   |
+| [[CARDS/Depth Psychology Theory/Supervisor Pair\|Supervisor Pair]]                   |                   |
 |                    |                   |
 |                    |                   |
 |                    |                   |
