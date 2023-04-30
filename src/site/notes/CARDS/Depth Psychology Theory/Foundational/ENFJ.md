@@ -29,7 +29,7 @@
 [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]] | [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
 | [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | ENFJ Ego          | [[ISTP Sub🤸\|ISTP Sub🤸]] |
 | ------------ | ----------------- | ----------------- |
-| SD           |                   | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]    |
+| SD           |                   | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]    |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
 |              | [[CARDS/Depth Psychology Theory/INFP Shadow👤\|INFP Shadow👤]]       | ESTJ Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]] |                   |
