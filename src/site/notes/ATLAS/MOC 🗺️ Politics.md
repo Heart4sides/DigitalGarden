@@ -8,6 +8,8 @@
 # Politicians
 | File                                                                  | Type                                                         | language |
 | --------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
+| [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]                 | \-                                                           | fr       |
+| [[CARDS/Individuals/Christiane Taubira\|Christiane Taubira]]       | \-                                                           | \-       |
 | [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] | \-       |
 | [[CARDS/Individuals/Eisenhower\|Eisenhower]]                       | \-                                                           | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | \-                                                           | fr       |
@@ -21,6 +23,7 @@
 | [[CARDS/Individuals/Le Media Pour Tous\|Le Media Pour Tous]]       | INTJ ?                                                       | fr       |
 | [[CARDS/Individuals/Marc Aurèle\|Marc Aurèle]]                     | \-                                                           | \-       |
 | [[CARDS/Individuals/Nicolas Sarkozy\|Nicolas Sarkozy]]             | ESTJ?                                                        | fr       |
+| [[CARDS/Individuals/Philippe Poutou\|Philippe Poutou]]             | \-                                                           | \-       |
 | [[CARDS/Individuals/Pierre-Yves Rougeyron\|Pierre-Yves Rougeyron]] | \-                                                           | fr       |
 | [[CARDS/Individuals/Politiciens français\|Politiciens français]]   | \-                                                           | \-       |
 | [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]]           | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] | fr       |
