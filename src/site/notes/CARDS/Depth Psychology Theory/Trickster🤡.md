@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-04-30T11:22:39.222+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-04-30T13:16:30.036+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
@@ -8,7 +8,7 @@
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
 
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]]with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]]with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
 - It substracts or adds curiosity to it. 
 	- When its behaving like a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] parent, the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] substracts curiosity to the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], causing it to behave like a know-it-all with a god complex. 
 	- When it behaves like an [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]], it causes the child to ask questions and explore, while verifying everything the trickster tells.   
@@ -23,7 +23,7 @@
 
 
 # In Reflection
-- The trickster is trying to replace the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]. It can fill the role of the parent more easily because it’s an [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] function. It comes into play earlier in life than the parent, through [[CARDS/Depth Psychology Theory/Orbit⚛️\|Orbit⚛️]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
+- The trickster is trying to replace the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]. It can fill the role of the parent more easily because it’s an [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] function. It comes into play earlier in life than the parent, through [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
 
 
 
