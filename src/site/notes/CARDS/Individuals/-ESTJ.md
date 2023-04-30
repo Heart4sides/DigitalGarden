@@ -3,9 +3,10 @@
 ---
 
 #type
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]] | \-       |
+| File                                                    | octogram |
+| ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-       |
+| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-       |
 
 { #5c1826}
 
