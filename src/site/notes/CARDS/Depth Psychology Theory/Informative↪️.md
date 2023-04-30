@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:48:32.839+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-30T09:21:50.309+02:00"}
 ---
 
 #type/grid 
@@ -47,12 +47,14 @@ I prefer to give context so the other person can be informed and make the best d
 - Informative provides maximum information without taking a stand and allows the listener to decide roles.
 - Provides context and information so the other person can make a decision.
 
-## **Prefers to** 
-- Inform
-- Ask
-- Describe
-- Educate
-- Notify
+- **Prefers to**
+{ #767c0c}
+
+	- Inform
+	- Ask
+	- Describe
+	- Educate 
+	- Notify
 
 ## **Prone to**
 - Ambiguous language
@@ -72,6 +74,8 @@ I prefer to give context so the other person can be informed and make the best d
 - Anecdote telling
 - subtlety
 - Explanarory tendencies
+{ #b7a18f}
+
 - Tact
 - Coyness (réserve, timidité)
 
