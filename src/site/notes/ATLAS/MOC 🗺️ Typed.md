@@ -9,9 +9,10 @@
 
 
 
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]] | \-       |
+| File                                                    | octogram |
+| ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-       |
+| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-       |
 
 
 </div></div>
@@ -25,6 +26,7 @@
 | File                                                      | octogram |
 | --------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Diogène\|Diogène]]                 | \-       |
+| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-       |
 | [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-       |
 
 
@@ -40,6 +42,7 @@
 | ------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Dali\|Dali]]               | \-       |
 | [[CARDS/Individuals/Jules Cesar\|Jules Cesar]] | \-       |
+| [[CARDS/Individuals/Varga\|Varga]]             | \-       |
 
 
 </div></div>
@@ -51,8 +54,9 @@
 
 
 
-| File | octogram |
-| ---- | -------- |
+| File                                                        | octogram |
+| ----------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-       |
 
 
 </div></div>
@@ -100,9 +104,11 @@
 | ------------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-       |
 | [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-       |
+| [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]         | \-       |
 | [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-       |
 | [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-       |
 | [[CARDS/Individuals/Hitler\|Hitler]]                       | \-       |
+| [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-       |
 | [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-       |
 
 
@@ -119,6 +125,8 @@
 | --------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] | \-       |
 | [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]]   | \-       |
+| [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]               | \-       |
+| [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]       | \-       |
 
 
 </div></div>
@@ -131,6 +139,7 @@
 
 | File                                                    | octogram |
 | ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Bilbo Baggins\|Bilbo Baggins]]   | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
 | [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
 
@@ -174,6 +183,7 @@
 | [[CARDS/Individuals/Batman\|Batman]]                       | \-       |
 | [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-       |
 | [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]   | \-       |
+| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]   | \-       |
 | [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-       |
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-       |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
@@ -203,8 +213,9 @@
 
 
 
-| File | octogram |
-| ---- | -------- |
+| File                                            | octogram |
+| ----------------------------------------------- | -------- |
+| [[CARDS/Individuals/Mia Warren\|Mia Warren]] | \-       |
 
 
 </div></div>
@@ -227,7 +238,7 @@
 
 # INFP 
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/infp/#f35e03" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/individuals/infp/#f35e03" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
