@@ -3,8 +3,9 @@
 ---
 
 #type
-| File | octogram |
-| ---- | -------- |
+| File                                                        | octogram |
+| ----------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-       |
 
 { #ae523f}
 
