@@ -5,6 +5,7 @@
 #type
 | File                                                | octogram |
 | --------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Aragorn\|Aragorn]]           | \-       |
 | [[CARDS/Individuals/Contrapoints\|Contrapoints]] | \-       |
 | [[CARDS/Individuals/John Bodine\|John Bodine]]   | \-       |
 
