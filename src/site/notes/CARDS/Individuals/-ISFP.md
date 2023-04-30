@@ -3,8 +3,9 @@
 ---
 
 #type
-| File | octogram |
-| ---- | -------- |
+| File                                            | octogram |
+| ----------------------------------------------- | -------- |
+| [[CARDS/Individuals/Mia Warren\|Mia Warren]] | \-       |
 
 { #5b31a9}
 
