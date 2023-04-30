@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-28T13:00:09.445+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-04-30T11:22:38.119+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] 
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit💫\|💫]] with the Parent 
+- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]] with the Parent 
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] ([[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]) : 
 	- [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 	- Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
