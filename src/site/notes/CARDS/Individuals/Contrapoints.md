@@ -275,7 +275,7 @@ Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118020849.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118020849.png)
 
 ![Pasted image 20230118021123.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021123.png)
-[[Validation\|Validation]]
+[[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]
 ![Pasted image 20230118021213.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021213.png)and understanding"
 [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] & [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] 
 ![Pasted image 20230118021405.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118021405.png)
