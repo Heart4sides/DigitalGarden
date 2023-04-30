@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-30T11:22:38.675+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-30T13:16:26.180+02:00"}
 ---
 
 
@@ -28,7 +28,7 @@ In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 ---
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]]with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]]with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
 - The demon adds adversity to the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] 
 - When hit, the inferior goes directly to the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] for help, which causes a [[CARDS/Depth Psychology Theory/Chaotic Transition\|Chaotic Transition]] in the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 { #437f26}
