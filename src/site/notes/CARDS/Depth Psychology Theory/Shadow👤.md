@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-30T11:22:39.143+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-30T13:16:29.896+02:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 - [[CARDS/Depth Psychology Theory/Greed\|Greed]] - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
 
 ## 4 sides 
-- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/Orbit⚛️\|Orbit⚛️]]
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]]
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] : [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]
 - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]]
 
