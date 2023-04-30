@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-30T12:36:41.245+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-04-30T13:16:29.005+02:00"}
 ---
 
 # Roles 
@@ -34,7 +34,7 @@
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
 
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|⚛️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|⚛️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
 
 # In Reflection 
 - [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]] with the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] 
