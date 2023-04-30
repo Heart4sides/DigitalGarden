@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-28T11:28:47.488+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-30T11:54:47.985+02:00"}
 ---
 
 #on/psychology 
@@ -20,7 +20,7 @@ The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is prim
 
 The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] is the primary temple.
 
-[[CARDS/Depth Psychology Theory/SD\|SD]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] is our primary octogram. 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] is our primary octogram. 
 
 [[CARDS/Depth Psychology Theory/primary parenting\|primary parenting]]
 
