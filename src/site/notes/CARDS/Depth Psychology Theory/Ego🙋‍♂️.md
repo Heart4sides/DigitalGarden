@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-27T22:14:21.225+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-04-30T12:14:23.821+02:00"}
 ---
 
 
 - [[Consciousness\|Consciousness]]
 - theme : [[alignement\|alignement]]
+{ #5aa846}
+
 - [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] : [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
@@ -12,7 +14,7 @@
 - mature: [[responsible\|responsible]]    
 - final product : [[order\|order]] 
 - Ego-focused people tend to be boring & bland
-- Light of the [[Soul\|Soul]]
+- Light of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]
 - [[Hare\|Hare]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 
