@@ -5,7 +5,7 @@
 #on/psychology 
 
 [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]].
-[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] is primary in the [[Wheel of Judgement\|Wheel of Judgement]]. 
+[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of Judgement\|Wheel of Judgement]]. 
 
 [[CARDS/Depth Psychology Theory/Optimistic\|Optimism]] is our primary preference. 
 
@@ -22,7 +22,7 @@ The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] is the 
 
 [[CARDS/Depth Psychology Theory/SD\|SD]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] is our primary octogram. 
 
-[[primary parenting\|primary parenting]]
+[[CARDS/Depth Psychology Theory/primary parenting\|primary parenting]]
 
 # Comments 
 <script src="https://utteranc.es/client.js"
