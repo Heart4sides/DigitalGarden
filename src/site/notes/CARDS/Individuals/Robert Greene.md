@@ -3,9 +3,9 @@
 ---
 
 #on/psychology 
-| MOC                                         | Type                                              | Reference                                                                                                                |
-| ------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [[ATLAS/MOC 🗺️ Psychology\|Psychology]] | [[CARDS/Depth Psychology Theory/-INFP\|-INFP]] | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul> |
+| MOC                                         | Type                                  | Reference                                                                                                                |
+| ------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| [[ATLAS/MOC 🗺️ Psychology\|Psychology]] | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul> |
 
 
 
