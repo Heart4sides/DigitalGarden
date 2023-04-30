@@ -7,6 +7,8 @@
 | --------------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] | \-       |
 | [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]]   | \-       |
+| [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]               | \-       |
+| [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]       | \-       |
 
 { #b0d723}
 
