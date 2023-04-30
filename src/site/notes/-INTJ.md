@@ -8,6 +8,7 @@
 | [[CARDS/Individuals/Batman\|Batman]]                       | \-       |
 | [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-       |
 | [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]   | \-       |
+| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]   | \-       |
 | [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-       |
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-       |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
