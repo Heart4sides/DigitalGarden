@@ -7,6 +7,7 @@
 | ------------------------------------------------- | -------- |
 | [[CARDS/Individuals/Dali\|Dali]]               | \-       |
 | [[CARDS/Individuals/Jules Cesar\|Jules Cesar]] | \-       |
+| [[CARDS/Individuals/Varga\|Varga]]             | \-       |
 
 { #84fd8f}
 
