@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-30T09:19:59.555+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-30T11:14:25.647+02:00"}
 ---
 
 #on/education 
@@ -77,17 +77,21 @@ They respect the opinions of others by using their Fe, when:
 ---
 # Temples Integration for the Mind 
 
-## Integration of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-When education is disconnected from the physical creation, it loses its connection with its usefulness, its reason for being. Knowledge is knowledge only if it can be applied in a concrete way and if its application lasts over time.
 
-## Integration of the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
 
-No learning without motivation to learn. Passion is by far the most powerful engine of continuous learning.
+# Temple Integration
+| Orbit (Shadow)            | Body Temple<br/>Without action education ends up creating an affiliative environment which has no basis on survival of the fittest. Then people are not fit at all. The working environment has no respect for education because they know how much it's a scam. Education then becomes a buffer to hide from reality.                                                                                   |  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|
+| Axis (Superego)           | Heart Temple<br/>Without passion and purpose people will lack the willingness to keep learning. Learning without the heart leads educators to become pussies who never test what they teach nor refine their teaching to reflect reality.                                                                                                                                                                |  |
+| Reflection (Subconscious) | Soul Temple<br/>Good education helps someone discover who they are and discover a sense of self they can focus on and moral integrity. all the standardization that receipt today destroys the individual soul taking part in the education. it chokes out the individual voices that education is supposed to protect. education that does not treat students as humans should be set on fire.          |
 
-## Integration of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
 
-A good education must allow the student to discover who he is and allow him to build moral integrity. Standardization of education destroys the individual by stifling rather than protecting his personal voice. The teacher must remember that he or she is teaching humans, not machines.
+
+
+</div></div>
+
 
 ---
 # Ease to learn by Type 
