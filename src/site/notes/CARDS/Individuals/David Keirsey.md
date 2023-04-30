@@ -3,9 +3,9 @@
 ---
 
 #on/depthpsychology 
-| MOC                                                             | Type | Concepts                                                          | Reference                                                                                                                                                                                                                                          |
-| --------------------------------------------------------------- | ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | STP  | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]] | <ul><li>[Keirsey](https://keirsey.com/temperament-overview/)</li><li>[David West Keirsey, How to Learn: Practice with Immediate Feedback - YouTube](https://www.youtube.com/watch?v=5rmaCTaSNqM&list=PLyeRkAWZDJZsWrueU5rPPIsAURrZ47t-j)</li></ul> |
+| MOC                                                    | Type | Concepts                                                          | Reference                                                                                                                                                                                                                                          |
+| ------------------------------------------------------ | ---- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | STP  | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]] | <ul><li>[Keirsey](https://keirsey.com/temperament-overview/)</li><li>[David West Keirsey, How to Learn: Practice with Immediate Feedback - YouTube](https://www.youtube.com/watch?v=5rmaCTaSNqM&list=PLyeRkAWZDJZsWrueU5rPPIsAURrZ47t-j)</li></ul> |
 
 
 
