@@ -31,11 +31,11 @@
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]    |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
-|              | [[INFP Shadow👤\|INFP Shadow👤]]       | ESTJ Superego     |
+|              | [[CARDS/Depth Psychology Theory/INFP Shadow👤\|INFP Shadow👤]]       | ESTJ Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Pride\|Pride]]           |                   |
 The ENFJ belongs to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]].
-Its cognitive origin is [[Validation\|Validation]].
+Its cognitive origin is [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]].
 
 ---
 # Examples 
