@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-30T09:49:19.042+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-30T12:21:25.856+02:00"}
 ---
 
 
@@ -67,6 +67,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
 - [[CARDS/· Related Concepts & Theories ·/Motive\|Motive]]
+- [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]
 - [[CARDS/· Related Concepts & Theories ·/Opportunity\|Opportunity]]
 - [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
 - [[CARDS/· Related Concepts & Theories ·/Passivity\|Passivity]]
@@ -92,6 +93,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]]
 - [[CARDS/· Related Concepts & Theories ·/Sunk cost\|Sunk cost]]
 - [[CARDS/· Related Concepts & Theories ·/Sympathy\|Sympathy]]
+- [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]
 - [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
