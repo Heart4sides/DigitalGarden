@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-28T12:20:23.122+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-04-30T09:49:19.042+02:00"}
 ---
 
 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
+- [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]]
 - [[CARDS/· Related Concepts & Theories ·/Admire\|Admire]]
 - [[CARDS/· Related Concepts & Theories ·/Autism\|Autism]]
 - [[CARDS/· Related Concepts & Theories ·/Balance\|Balance]]
@@ -31,6 +32,7 @@
 - [[CARDS/· Related Concepts & Theories ·/diffidence\|diffidence]]
 - [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
 - [[CARDS/· Related Concepts & Theories ·/Dysphoria\|Dysphoria]]
+- [[CARDS/· Related Concepts & Theories ·/Education\|Education]]
 - [[CARDS/· Related Concepts & Theories ·/Endearing\|Endearing]]
 - [[CARDS/· Related Concepts & Theories ·/Expectation\|Expectation]]
 - [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]]
@@ -38,10 +40,12 @@
 - [[CARDS/· Related Concepts & Theories ·/Extern\|Extern]]
 - [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]
 - [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
+- [[CARDS/· Related Concepts & Theories ·/Foolishness\|Foolishness]]
 - [[CARDS/· Related Concepts & Theories ·/Fortune\|Fortune]]
 - [[CARDS/· Related Concepts & Theories ·/Gen z\|Gen z]]
 - [[CARDS/· Related Concepts & Theories ·/gradual\|gradual]]
 - [[CARDS/· Related Concepts & Theories ·/grandeur\|grandeur]]
+- [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]]
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 - [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
 - [[CARDS/· Related Concepts & Theories ·/Help\|Help]]
@@ -57,6 +61,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Justify\|Justify]]
 - [[CARDS/· Related Concepts & Theories ·/Kudos\|Kudos]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]]
+- [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]
 - [[CARDS/· Related Concepts & Theories ·/Living Virtu\|Living Virtu]]
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
@@ -77,6 +82,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]
 - [[CARDS/· Related Concepts & Theories ·/Rival\|Rival]]
 - [[CARDS/· Related Concepts & Theories ·/Romantic\|Romantic]]
+- [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]]
 - [[CARDS/· Related Concepts & Theories ·/Silver Lining\|Silver Lining]]
 - [[CARDS/· Related Concepts & Theories ·/Soft\|Soft]]
 - [[CARDS/· Related Concepts & Theories ·/Solve\|Solve]]
@@ -95,6 +101,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Tyrant\|Tyrant]]
 - [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
 - [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]
+- [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]
 - [[CARDS/· Related Concepts & Theories ·/Vergogne\|Vergogne]]
 - [[CARDS/· Related Concepts & Theories ·/Voluptuousness\|Voluptuousness]]
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
