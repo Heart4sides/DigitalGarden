@@ -16,5 +16,5 @@ Equivalent exhange
 - [[Ignorant\|Ignorant]] : leap of faith
 - [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] 
 - Transformed
-- [[CARDS/Depth Psychology Theory/Pride\|Pride]] vs [[CARDS/Depth Psychology Theory/Humility\|Humility]] : [[Validation\|Validation]] Dyad - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+- [[CARDS/Depth Psychology Theory/Pride\|Pride]] vs [[CARDS/Depth Psychology Theory/Humility\|Humility]] : [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]] Dyad - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 - [[overdone\|overdone]]
