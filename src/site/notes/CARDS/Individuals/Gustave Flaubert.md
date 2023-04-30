@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T18:54:51.109+02:00"}
 ---
 
-| Type                                              | Reference                                 |
-| ------------------------------------------------- | ----------------------------------------- |
-| [[CARDS/Depth Psychology Theory/-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
+| Type                                  | Reference                                 |
+| ------------------------------------- | ----------------------------------------- |
+| [[CARDS/Individuals/-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
 
 
 > *"Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire."** Yves Leclerc
