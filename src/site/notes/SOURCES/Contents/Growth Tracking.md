@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-28T13:30:53.692+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-30T11:22:39.605+02:00"}
 ---
 
 #on/depthpsychology 
@@ -21,7 +21,7 @@
 # What each attitude substracts (pess) or adds (opt)
 | ➕  | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]           | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]     |                
 | ---------------- | ------------ | -------------- |
-|     🔗             | [[CARDS/Depth Psychology Theory/Orbit💫\|Orbit💫]] | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] |
+|     🔗             | [[CARDS/Depth Psychology Theory/Orbit⚛️\|Orbit⚛️]] | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] |
 |                  | Depth        | Revolution     |
 | [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]   | Perspective  | Arrogance      |
 | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]    | Humility     | Complacency    |
