@@ -17,7 +17,7 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
@@ -43,7 +43,7 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]            | //                         |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]         |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
 |                      |                              |                            |
@@ -70,7 +70,7 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]            | //                         |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD\|SD]]               |              -                | [[CARDS/Depth Psychology Theory/Obstinance\|Obstinance]]         |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Humility\|Humility]]           |
 |                      |                              |                            |
@@ -113,7 +113,7 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[Validation\|Validation]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
