@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-30T11:22:38.538+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-30T13:16:23.661+02:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] 
 ---
 # In Orbit 
-- [[CARDS/Depth Psychology Theory/Orbit⚛️\|💫]] with the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]].
+- [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]] with the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]].
 - Immature : the nemesis covers its weakness to take the role of the inferior. But after making a lot of social faux-pas, the hero starts loosing faith in the nemesis and it starts worrying that the nemesis is unable to do its job, which causes the insecurity of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]]. So the hero decides to do everything by itself.  
 
 ---
