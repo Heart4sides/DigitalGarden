@@ -5,6 +5,7 @@
 #type
 | File                                                    | octogram |
 | ------------------------------------------------------- | -------- |
+| [[CARDS/Individuals/Bilbo Baggins\|Bilbo Baggins]]   | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
 | [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
 
