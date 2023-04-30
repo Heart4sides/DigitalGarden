@@ -16,7 +16,7 @@ Secundary prefered attitudes :
 
 Functional IPOF : 
 - [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
-- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the secund function of the [[Wheel of Judgement\|Wheel of Judgement]]. 
+- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of Judgement\|Wheel of Judgement]]. 
 
 [[SOURCES/Contents/Daniel Kahneman - Thinking, Fast and Slow\|Daniel Kahneman - Thinking, Fast and Slow]]'s [[System 2\|System 2]] 
 
