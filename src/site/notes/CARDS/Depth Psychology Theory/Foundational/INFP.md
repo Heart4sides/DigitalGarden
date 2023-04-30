@@ -40,7 +40,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 
 ---
 # Examples 
-See [[CARDS/Depth Psychology Theory/-INFP\|-INFP]]
+See [[CARDS/Individuals/-INFP\|-INFP]]
 
 ---
 # Mentions
