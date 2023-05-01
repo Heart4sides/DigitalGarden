@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-04-27T22:20:59.770+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-05-02T00:21:00.783+02:00"}
 ---
 
 #on/depthpsychology  #type
@@ -42,9 +42,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfacti
 
 ---
 # Examples 
-| File                                          | octogram |
-| --------------------------------------------- | -------- |
-| [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
+See [[-ENTP\|-ENTP]] 
 
 ---
 # Mentions
