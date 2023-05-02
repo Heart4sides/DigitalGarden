@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-04-20T10:15:32.087+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-05-02T10:46:15.171+02:00"}
 ---
 
 
@@ -69,13 +69,3 @@
 
 </div></div>
  
-
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
