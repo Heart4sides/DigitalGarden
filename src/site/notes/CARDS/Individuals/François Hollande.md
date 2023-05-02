@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-04-29T17:05:35.081+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-05-02T10:46:24.422+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -16,14 +16,6 @@ Analyse de son discours dans [[SOURCES/Literature Note/Portrait intimiste de Fra
 > - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] loyauté 
 
 
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
 
 
