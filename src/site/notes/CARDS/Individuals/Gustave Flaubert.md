@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-04-28T18:54:51.109+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-02T19:34:17.386+02:00"}
 ---
 
 | Type                                  | Reference                                 |
@@ -44,7 +44,7 @@
 - Battleground entre le [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]](songes) et le [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]] (réalité) 
 
 > *"L'amour ? Ce n'était qu'un "assaisonnement" , pas "un met principal de l'existence" pour Flaubert"*
-- [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] + rejet du [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]  
+- [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] + rejet du [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]  
 
 > *"Ce qui jusqu'à Flaubert était action devient impression."* Proust
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] = impression 
@@ -108,14 +108,14 @@
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] = recherche d'expérience physique 
 
 > *"Oui et cent mille fois oui, j'aime mieux une putain qu'une grisette parce que de tous les genres celui que j'ai le plus en horreur et le genre grisette, c'est ainsi je crois qu'on appelle ce quelque chose de frétillant, de propre, de coquet, de minauder, de contourner, de dégager et de bêtes ! Qui vous emmerde perpétuellement et veut faire de la passion comme elle en voit dans les drames-vaudeville. Non, j'aime bien mieux l'ignoble pour l'ignoble, c'est une pose tout comme une autre et que je sens mieux que qui que ce soit."*
-- Antagonisation du [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]  et de l'[[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  
+- Antagonisation du [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]  et de l'[[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  
 
 > *"J'ai peur pour toi quand je te vois une amour sérieuse, écrit-il a Maxime Du Camp. La vérole est moins à craindre que la passion."*
--  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] nemesis + antagonisation du [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] 
+-  [[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]] nemesis + antagonisation du [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 > *"Peut-être est-ce le cœur en moi qui est impuissant."*
 - Thème de l’[[CARDS/Depth Psychology Theory/Authority\|Authority]] (origine cognitive de l’INFP & ESTJ) 
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] on an [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] with [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] on an [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] with [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 > *"Puis comme la marche l'essoufflait un peu, on s'arrêtait sous une porte cochère et il racontait des anecdotes anciennes, se plongeait dans les souvenirs. Sa voix haute sonnait dans la solitude de Paris endormi. Souvent, aux éclats de cette parole, deux agents s'approchaient doucement comme deux ombres, et s'éloignaient sans bruit après avoir jeté un coup d'œil furtif sur ce géant en gilet blanc qui criait si fort en frappant les pavés de sa canne. Alors, chez cet écrivain de génie, chez ce prodigieux romancier, on découvrait une naïveté d'enfant, presque de l'ingénuité parfois. Son observation, si aiguë et si brutale dans le livre, semblait émoussée dans la pratique usuelle de la vie. On l'avait imaginé sceptique ; il était au contraire plein de croyances, non de croyances religieuses bien entendu, mais de cet abandonnement si humain à toutes les espérances, à tous les sentiments doux et réconfortants. Blessé souvent, comme on l'est du reste chaque jour dans le pêle-mêle féroce du monde, il s'était formé dans son âme un fond permanent de tristesse ; et, sa nature impressionnable luttant avec sa forte raison, il passait sans cesse d'une sorte de gaieté inconsciente à la mélancolie noire. »* Guy de Maupassant
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] + [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  = raconter des anecdotes de son passé
@@ -124,4 +124,4 @@
 
 > *"Malheureusement, si Flaubert a le bonheur de n'être pas un esprit facile, il n'a nullement celui d'être un esprit fécond. non ! C'est un homme a pensées rares, qui, quand il en a une, la cuit et la recuit, et non point dans son jus, car elle n'en a pas. c'est un esprit d'une sécheresse supérieure parmi les secs, une intelligence tout en surface, n'ayant ni sentiment, ni passion, ni enthousiasme, ni idéal, ni aperçu, ni réflexion, ni profondeur, et d'un talent presque physique, comme celui par exemple du coffreur ou du dessinateur à l'emporte-pièce, ou encore comme celui de l'enlumineur de cartes de géographie. [...]  Matérialiste de fond, je n'oserais pas dire de doctrine (je ne crois guère à ce qu'on peut appeler des doctrines en monsieur Flaubert), l'auteur de Madame Bovary se révéla matérialiste dans la forme comme personne, avant lui, ne s'était peut-être jamais révélé. Et cela, avec son personnage de Madame Bovary, qui est la femme type du genre de corruption le plus particulier à la femme du 19e siècle, lui valut ce succès sur lequel monsieur Gustave Flaubert a toujours vécu et vit encore, mais qu'il ne recommencera plus. [...] Flaubert n'est ni un inventeur, ni un observateur, comme tout romancier est tenu de l'être. le romancier qui n'a trouvé, après Madame Bovary, que cette perruque carthaginoise de Salammbô, est un homme absolument dénué d'invention et d'observation impersonnelle, propre tout au plus, à des recollage archaïques. [...] Le caractère principal du roman si malheureusement nommé de ce titre abstrait, pédagogique et pédant : l'éducation sentimentale est avant tout la vulgarité, la vulgarité prise dans le ruisseau, où elle se tient, et sous les pieds de tout le monde. Le médiocre jeune homme dont ce livre est l'histoire est vulgaire, et tout autour de lui l'est comme lui, maîtresse, société, sentiment, passion."* - Jules Barbey d'Aurevilly 
 - Absence de [[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]] 
-- Absence de passion ([[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] ) 
+- Absence de passion ([[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] ) 
