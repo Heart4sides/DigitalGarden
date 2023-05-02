@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/tabibian/","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-04-28T08:46:05.176+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/tabibian/","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-05-02T10:41:05.539+02:00"}
 ---
 
 Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)
@@ -54,12 +54,3 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 > [!Abstract]- Content
 > - Les revenus des hauts fonctionnaires sont secrets  
 > - Le mec le mieux payé est probablement le dirigeant de la banque de France = 350 K  
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
