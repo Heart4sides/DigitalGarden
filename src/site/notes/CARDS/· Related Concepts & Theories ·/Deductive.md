@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","created":"2023-01-03T21:09:33.203+01:00","updated":"2023-04-07T16:51:36.853+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","created":"2023-01-03T21:09:33.203+01:00","updated":"2023-05-02T10:39:17.116+02:00"}
 ---
 
 #on/education 
@@ -24,12 +24,3 @@ Sherlock’s (and [Arthur Conan Doyle](https://www.dictionary.com/browse/conan-
 Example : 
 **Premises:** I am lactose intolerant. Lactose intolerant people get sick when they consume dairy. This milkshake contains dairy.  
 **Conclusion:** I will get sick if I drink this milkshake.
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
