@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/functions-as-sins/","created":"2023-04-05T01:34:17.207+02:00","updated":"2023-04-26T14:18:36.715+02:00"}
+{"dg-publish":true,"permalink":"/cards/functions-as-sins/","created":"2023-04-05T01:34:17.207+02:00","updated":"2023-05-02T10:46:27.682+02:00"}
 ---
 
 Ref :: 
@@ -45,12 +45,3 @@ UDSF = uncsin + egogod = 1 wrath (roots in the body Si = superego, focus on ego 
 UDUF = Uncsin + uncgod = 1 gluttony  (body = superego)
   
 God function = Worship, focus, energy, value
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
