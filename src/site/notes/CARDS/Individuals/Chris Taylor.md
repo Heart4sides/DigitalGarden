@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/chris-taylor/","created":"2023-04-10T10:26:21.192+02:00","updated":"2023-04-30T10:20:01.368+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/chris-taylor/","created":"2023-04-10T10:26:21.192+02:00","updated":"2023-05-02T10:39:01.990+02:00"}
 ---
 
 #on/depthpsychology #on/education #on/philosophy 
@@ -15,12 +15,3 @@
 | [[SOURCES/Type Theory by CSJ/4 sides/Octogram - Chris Taylor\|Octogram - Chris Taylor]]                                         | [What is Octagram? \| Season 34, Ep. 1 \| CS Joseph - YouTube](https://youtu.be/mB0tLRRTrao)                                                                                                | <ul></ul>                                                   |
 | [[SOURCES/Type Theory by CSJ/Functions/Practice, who benefits more - Chris Taylor\|Practice, who benefits more - Chris Taylor]] | [Practice, Who Benefits More? \| Si vs Se \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=mQ_YLslzPAc&pp=ygUoUHJhY3RpY2UsIHdobyBiZW5lZml0cyBtb3JlIENocmlzIFRheWxvcg%3D%3D) | <ul><li>#on/education</li></ul>                             |
 
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
