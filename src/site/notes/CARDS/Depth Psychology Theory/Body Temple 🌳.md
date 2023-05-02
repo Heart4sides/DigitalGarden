@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-04-30T12:19:53.210+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-05-02T19:34:15.269+02:00"}
 ---
 
 # Themes 
@@ -44,7 +44,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 
 | Type                 |  [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]    [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
+| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]  |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]               |
@@ -54,7 +54,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]    | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                |    -       |
@@ -64,7 +64,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 
 | Type                 |  [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
+| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]  |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Purpose\|Purpose]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]               |
@@ -74,7 +74,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Type                     | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]   [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]   | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]]   |
 | ------------------------ | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]   | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]]     | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]                | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]                   | [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]              | -                          |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]                   | [[CARDS/Depth Psychology Theory/Greed\|Greed]]                    | -                          |
@@ -84,7 +84,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 
 | Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]    [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]  |
+| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]  |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Discovery\|Discovery]]          | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/Depth Psychology Theory/Servility\|Servility]]               |
@@ -94,7 +94,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]                      |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]                       |    -       |
