@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-04-30T11:55:35.951+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-02T10:42:15.666+02:00"}
 ---
 
 
@@ -13,13 +13,3 @@
 - Necessary for growth but too much of it leads to stagnation  
 
 # Pride through Obstinance 
-
-
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
