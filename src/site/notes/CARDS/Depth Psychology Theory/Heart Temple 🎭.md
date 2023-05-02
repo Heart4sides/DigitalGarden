@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-04-30T12:17:52.758+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-02T14:11:20.830+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
