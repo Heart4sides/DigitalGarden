@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-02T19:34:13.959+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-02T22:33:22.745+02:00"}
 ---
 
 
@@ -18,20 +18,19 @@
 - [[Opposites\|Opposites]] 
 - AC : alternate current 
 
-## The 4 Axis
+# The 4 Axis
 - [[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]] : "I value (Fi) your truth (Te)"
 - [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] : "I deduce truth (Ti) for you benefit (Fe)"
 - [[SOURCES/Type Theory by CSJ/Functions/⛰️Si-Ne💧\|⛰️Si-Ne💧]] : "From my experience (Si) this is what could happen (Ne)"
 - [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] : "I want (Ni) this shared reality (Se)" 
 
-## 4 Sides in Axis
+# 4 Sides in Axis
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 - [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] - [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]
 
-## Temples in Axis
+# Temples in Axis
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
 - [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] 
 
-## Personal Observations
-The Axis implies that one function is preferred to the other. 
-One function protects the other. 
+# Personal Observations
+- One function protects the other. 
