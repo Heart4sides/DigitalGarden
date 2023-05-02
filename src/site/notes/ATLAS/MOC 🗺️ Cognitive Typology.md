@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-cognitive-typology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-04-30T13:16:14.963+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-cognitive-typology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-02T10:42:56.484+02:00"}
 ---
 
 
@@ -110,12 +110,3 @@
 
 
 
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
-
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#9428e0', 'P5P1KOUGQ');kofiwidget2.draw();</script> 
