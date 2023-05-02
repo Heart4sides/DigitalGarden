@@ -22,7 +22,7 @@
 
 ---
 # Virtues & Vices
-[[Faith\|Faith]] 🆚 [[Fear\|Fear]] 
+[[Faith\|Faith]] 🆚 [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] 
 
 ---
 # Temple / 4 sides of the Mind
