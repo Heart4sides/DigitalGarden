@@ -1,25 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-04-30T13:16:26.180+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-02T23:27:49.539+02:00"}
 ---
 
 
-- [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway]] to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] via aspiration 
+- [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway]] to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] via aspiration 
 - Paramount to develop it early in children. Once a teen, they have to develop it themselves. 
 ---
-# Fearful Infant 
+# Fearful
 In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - Most underdeveloped function due to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] being constantly used to protect it. 
 ---
-# Vulnerable Infant 
+# Vulnerable 
 In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - Recognizes that the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] ‘s adversity is here to build up strength in the inferior 
 - Has faith (Si users) or bravery (Se users) to overcome its fear  
 ---
-# Proud/Vain Hero 
+# Proud or Vain 
 In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
 - Covers its insecurity with pride or vanity 
 ---
-# Versatile King 
+# Versatile 
 In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
 - Trades vulnerability for flexibility
 - Accepts and overcomes its vulnerability, which causes it to become more powerful than the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] because of what it has gone through to get there. 
