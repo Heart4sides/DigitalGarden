@@ -42,7 +42,7 @@
 - [[mysterious\|mysterious]]
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]] 
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
-- trying to find the right [[order\|order]]
+- trying to find the right [[Order\|order]]
 - using [[evil\|evil]] to produce [[good\|good]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] form : substracts from the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] form : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
