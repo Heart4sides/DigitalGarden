@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-04-28T14:48:28.145+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-05-02T19:34:18.418+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]. 
+[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]. 
 | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                                | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                      | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                           |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
@@ -36,7 +36,7 @@
 | UD  | [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]  |               |
 | UF  | [[Vainglory\|Vainglory]]    |               |
 
-The ESFP belongs to the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] .
+The ESFP belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverance\|Reverance]] .
 
 ---
