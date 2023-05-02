@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-04-28T08:19:30.087+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-05-02T10:45:03.690+02:00"}
 ---
 
 #type/virtu
@@ -14,12 +14,3 @@
 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]   |
 | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]   |
 | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/Generativity\|Generativity]] | 
-
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
