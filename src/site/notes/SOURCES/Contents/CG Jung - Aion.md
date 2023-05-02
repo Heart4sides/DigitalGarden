@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-04-24T12:00:10.054+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cg-jung-aion/","created":"2023-02-24T16:30:53.170+01:00","updated":"2023-05-02T10:38:36.541+02:00"}
 ---
 
 #book #on/depthpsychology 
@@ -26,11 +26,4 @@
 > 
 
 
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
 
