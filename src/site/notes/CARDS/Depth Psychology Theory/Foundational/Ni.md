@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-27T21:48:49.319+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-02T19:34:18.920+02:00"}
 ---
 
 #on/depthpsychology 
@@ -52,7 +52,7 @@ High Ni users are :
 
 ---
 # Temple 
-[[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]. 
+[[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]. 
 
 --- 
 # Function in Attitudes
