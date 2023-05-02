@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/ray-kroc/","created":"2023-04-19T19:58:37.990+02:00","updated":"2023-04-29T18:31:47.449+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/ray-kroc/","created":"2023-04-19T19:58:37.990+02:00","updated":"2023-05-02T10:41:45.906+02:00"}
 ---
 
 | MOC                                           | Author | Type                                  | Reference |
@@ -15,11 +15,4 @@
 - looking for guys with “drive, they gotta little fire” (The Founder, 57:54) [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
 - I offer “opportunity” “to advance” “to move forward” (The Founder, 58:00) [[CARDS/Typing Toolbox/-Progression🔦\|-Progression🔦]] [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
 
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
 
