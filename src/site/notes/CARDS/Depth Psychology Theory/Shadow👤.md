@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-02T23:28:59.415+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-03T01:15:27.030+02:00"}
 ---
 
 
@@ -42,7 +42,7 @@
 - [[mysterious\|mysterious]]
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]] 
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
-- trying to find the right [[Order\|order]]
+- trying to find the right [[CARDS/· Related Concepts & Theories ·/Order\|Order]]
 - using [[evil\|evil]] to produce [[good\|good]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] form : substracts from the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] form : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
