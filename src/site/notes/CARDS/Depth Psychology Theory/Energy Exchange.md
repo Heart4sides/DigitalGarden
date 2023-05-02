@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-04-30T15:57:20.091+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-05-02T14:16:48.181+02:00"}
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC 🗺️ Cognitive Typology\|MOC 🗺️ Cognitive Typology]] #on/depthpsychology 
+> [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] #on/depthpsychology 
 
 Functions exchange energy through : 
 - Internally
