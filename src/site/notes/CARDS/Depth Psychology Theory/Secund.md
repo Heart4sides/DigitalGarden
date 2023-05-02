@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-02T10:41:36.596+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-02T20:44:17.895+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Secundary prefered attitudes :
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] → secund in the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 Functional IPOF : 
-- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of perception\|Wheel of perception]]
+- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of Perception\|Wheel of Perception]]
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the secund function of the [[CARDS/Depth Psychology Theory/Wheel of Judgement\|Wheel of Judgement]]. 
 
 [[SOURCES/Contents/Daniel Kahneman - Thinking, Fast and Slow\|Daniel Kahneman - Thinking, Fast and Slow]]'s [[System 2\|System 2]] 
