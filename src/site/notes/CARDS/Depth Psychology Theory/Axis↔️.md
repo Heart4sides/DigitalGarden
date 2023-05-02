@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-04-30T11:18:09.026+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-02T19:34:13.959+02:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 
 ## Temples in Axis
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
-- [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] 
+- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] 
 
 ## Personal Observations
 The Axis implies that one function is preferred to the other. 
