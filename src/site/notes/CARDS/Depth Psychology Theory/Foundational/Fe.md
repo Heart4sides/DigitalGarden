@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-30T13:16:30.925+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-02T19:34:18.657+02:00"}
 ---
 
 #on/depthpsychology #function 
@@ -61,7 +61,7 @@ High Fe users are
 | IN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==                             | INTJ                                      | INFP                                    |
 | EN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==                             | ENTJ                                      | ENFP                                     |
 
-[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]][[Fe💉\|Fe💉]]Fe💉]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]. 
+[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]][[Fe💉\|Fe💉]]Fe💉]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]. 
 
 ---
 # Function in Attitudes
