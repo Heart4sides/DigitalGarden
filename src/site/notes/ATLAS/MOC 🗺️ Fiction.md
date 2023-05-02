@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-fiction/","created":"2023-04-19T17:29:47.405+02:00","updated":"2023-04-30T09:53:46.390+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-fiction/","created":"2023-04-19T17:29:47.405+02:00","updated":"2023-05-02T10:34:33.778+02:00"}
 ---
 
 
@@ -52,14 +52,3 @@
 | [[CARDS/Collectives/Unbreakable\|Unbreakable]]                         | ISXJ       | \-        | <ul><li>#examples</li></ul>                                    |
 | [[CARDS/Collectives/Une conviction de femme\|Une conviction de femme]] | \-         | \-        | <ul></ul>                                                      |
 
-
-
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
