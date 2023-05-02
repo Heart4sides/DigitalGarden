@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-04-24T17:27:53.470+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-05-02T10:37:50.404+02:00"}
 ---
 
 #on/depthpsychology 
@@ -37,11 +37,3 @@ Compatible octograms are extremely rare, 1 to 5%
 
 - You are the most exposed in the golden pair. You have to be yourself.
 - 
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
