@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-04-30T13:16:27.044+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-02T19:34:16.766+02:00"}
 ---
 
 # Themes 
@@ -15,7 +15,7 @@
 	- Perception : [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]] 
 		- The collective how 
 		- Skill 
-		- Bringing the collective vision ([[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] ) to existence through developing skills and imparting the skills upon the rest of humanity
+		- Bringing the collective vision ([[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] ) to existence through developing skills and imparting the skills upon the rest of humanity
 	- Judgement : [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
 		- The collective knowledge 
 ---
@@ -60,7 +60,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 - [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]][[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
 	- Without action, one cannot verify if what is learned actually works. Education then becomes a solely affiliative environment, detached from reality.  
-- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] 
+- [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] 
 	- One needs motivation and passion to keep on learning and have a good enough motivation to endure the suffering of having your knowledge & skill questioned. 
 - 🪞 [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] 
 	- Standardization of education destroys individuals and deprives them of their voice. The active participation of individuals is essential in the process of learning. People are not mere receptors of knowledge.   
@@ -77,8 +77,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
@@ -112,8 +112,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 | Type                 |  [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
@@ -139,8 +139,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]]                         |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
@@ -173,8 +173,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
