@@ -1,12 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-02T19:34:11.420+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-02T23:59:08.978+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]
+7th [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]
 
+---
+# Foolish 
+
+---
+# Curious
+
+---
+# Double-Binding 
+
+---
+# Master 
+
+
+---
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
-
+---
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]]with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
 - It substracts or adds curiosity to it. 
@@ -21,7 +35,7 @@
 
 </div></div>
 
-
+---
 # In Reflection
 - The trickster is trying to replace the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]. It can fill the role of the parent more easily because it’s an [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] function. It comes into play earlier in life than the parent, through [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
 
