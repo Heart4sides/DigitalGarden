@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:48:33.057+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-02T19:34:16.857+02:00"}
 ---
 
 #type/grid 
@@ -29,7 +29,7 @@
 ---
 # Temple 
 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
-- [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] 
+- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 ---
 # Udja
