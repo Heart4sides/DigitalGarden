@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj-shadow/","created":"2023-04-27T07:23:39.276+02:00","updated":"2023-04-28T09:12:11.757+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/enfj-shadow/","created":"2023-04-27T07:23:39.276+02:00","updated":"2023-05-02T10:46:08.170+02:00"}
 ---
 
 #type/shadow 
@@ -9,11 +9,3 @@
 
 
 
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
