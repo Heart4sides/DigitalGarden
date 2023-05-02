@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-02T23:27:49.345+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-03T00:16:27.584+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 - It has an infinite amount of energy. 
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - [[Loop\|Loop]] - with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
-- [[Arrogance\|Arrogance]]
+- [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]]
 - [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway Function 🌊]] to the Ego
 - [[Perform\|Perform]] - the ultimate performer
 - Parent of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] & main protector 
@@ -43,7 +43,10 @@
 
 ---
 # Reflection 
-The Hero is in orbit with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]. The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] reveals its [[Arrogance\|Arrogance]]. 
+- The Hero is in orbit with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]. 
+- The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] reveals the Hero’s [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]] in the [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]], for the demon is more powerful than the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] who acts like he can save the world on its own, but causes much collateral damage by doing so.
+{ #2f8856}
+
 
 ---
 ## Wordnik
