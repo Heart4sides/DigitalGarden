@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-04-27T21:48:16.018+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-02T19:34:15.515+02:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 | Vice             |  [[Insincerity\|Insincerity]]    |  [[Fear\|Fear]] |
 
 ## Temple 
-[[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
+[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 ### Music 
