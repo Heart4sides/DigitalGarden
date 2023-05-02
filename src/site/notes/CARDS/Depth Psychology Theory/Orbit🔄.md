@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-02T10:42:11.596+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-02T19:34:19.150+02:00"}
 ---
 
 🛰️⚖️
@@ -27,7 +27,7 @@
 
 ## Temples 
 - [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] ⚛️ [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|mind]]
-- [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|heart]] ⚛️ [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
+- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|heart]] ⚛️ [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
 
 ## Wikipedia
 
