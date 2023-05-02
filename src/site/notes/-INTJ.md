@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-04-29T16:16:41.822+02:00"}
+{"dg-publish":true,"permalink":"/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-05-02T10:36:52.564+02:00"}
 ---
 
 #type
@@ -13,13 +13,3 @@
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-       |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
 
-{ #560aa0}
-
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
