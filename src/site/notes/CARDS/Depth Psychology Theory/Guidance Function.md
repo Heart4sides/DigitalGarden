@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-04-30T15:57:20.114+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-02T14:16:48.234+02:00"}
 ---
 
 
@@ -20,5 +20,5 @@
 - Control the flow 
 
 
-[[ATLAS/MOC 🗺️ Cognitive Typology\|MOC 🗺️ Cognitive Typology]]
+[[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 Source of the concept : [[CARDS/Individuals/CS Joseph\|CS Joseph]] and Chris Taylor
