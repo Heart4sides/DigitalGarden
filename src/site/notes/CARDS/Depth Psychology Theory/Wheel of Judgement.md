@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-04-30T09:49:34.043+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-02T10:40:50.919+02:00"}
 ---
 
 #on/depthpsychology 
@@ -14,11 +14,3 @@
 </div></div>
 
 
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
