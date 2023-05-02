@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-02T14:08:06.745+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-02T14:47:35.659+02:00"}
 ---
 
 # Keywords 
@@ -50,3 +50,4 @@ envy
 # Examples
 - [[CARDS/Individuals/The Grinch\|The Grinch]] is envious of people’s joy
 - [[Ramsay Bolton\|Ramsay Bolton]] is envious of Theon’s nobility, so he removes his ability to bear heirs 
+- Notes from Underground ([[CARDS/Individuals/Dostoïevski\|Dostoïevski]])
