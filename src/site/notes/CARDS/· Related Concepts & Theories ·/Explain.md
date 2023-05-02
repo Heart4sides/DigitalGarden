@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/explain/","created":"2023-04-17T11:24:42.259+02:00","updated":"2023-04-30T09:32:12.093+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/explain/","created":"2023-04-17T11:24:42.259+02:00","updated":"2023-05-02T10:50:11.807+02:00"}
 ---
 
 #on/education 
@@ -60,12 +60,3 @@
 |  |  |  |  | Champaign | recognize | break down |  |
 
 > [Additional info](https://www.wordnik.com/words/explain)
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
