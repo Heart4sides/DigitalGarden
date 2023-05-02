@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/kindred-pair/","created":"2022-12-26T21:15:37.312+01:00","updated":"2023-04-24T16:06:23.271+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/kindred-pair/","created":"2022-12-26T21:15:37.312+01:00","updated":"2023-05-02T10:45:28.970+02:00"}
 ---
 
 
@@ -15,12 +15,3 @@ ESTJ-ENTJ
 ISTJ-INTJ
 ESFJ-ENFJ
 
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
