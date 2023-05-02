@@ -1,22 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-04-30T13:16:27.286+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-02T22:24:06.566+02:00"}
 ---
 
-- [[villain\|villain]]
-- [[ally\|ally]]
-- provide[[challenge\|challenge]]
-- [[CARDS/· Related Concepts & Theories ·/Worry\|Worry]]
-- [[uncertainty\|uncertainty]] vs [[certainty\|certainty]]
-- [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]]
-- [[Concern\|Concern]] 
-- [[Confrontational\|Confrontational]] vs [[Peacekeeper\|Peacekeeper]]
-- The nemesis is there to force you to take action 
-- You can only make peace with your ennemy 
-- Agent of the Demon 
-- The parent of the demon ? 
+---
+# Worried 
+[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- Concerned
+- Substracts perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+- Uncertain
+- Confrontational
+- Provides challenge to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], to force him to take action  
+- Agent of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
 
+---
+# Ally
+[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- Adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+- Certain 
+- Peacekeeper
+
+---
+# Hesitant 
+[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+
+---
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
+---
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Villain : 
@@ -24,7 +34,8 @@
 	- The [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Ally : 
 	- The [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] acts responsibly by taking in account what the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] has to say and verifying until it reaches certainty. 
-	- The Nemesis [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+	- The Nemesis [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]
+--- 
 # Reflection 
 The Nemesis reveals the fear in our [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] function. 
 We are hesitant to use our nemesis because we are afraid of the impact it’s gonna have on our inferior. 
