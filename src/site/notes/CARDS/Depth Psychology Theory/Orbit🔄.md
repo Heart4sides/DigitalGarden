@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-04-30T16:12:47.010+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-02T10:42:11.596+02:00"}
 ---
 
 🛰️⚖️
@@ -38,13 +38,3 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit)
 
 [^1]: C.S.J "The 1st Orbit"
-
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
