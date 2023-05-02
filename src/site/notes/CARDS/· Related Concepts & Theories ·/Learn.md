@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-04-30T11:39:29.914+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-02T10:45:09.786+02:00"}
 ---
 
 #on/education 
@@ -78,13 +78,3 @@ Engage - disengage ^c34996
 
 </div></div>
 
-
-
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
