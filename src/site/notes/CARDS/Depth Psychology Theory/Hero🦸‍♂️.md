@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-04-30T13:16:23.661+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-02T20:47:44.098+02:00"}
 ---
 
 
-- The hero function is the first [[CARDS/Depth Psychology Theory/Attitude\|Attitude]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
+- The hero function is the first [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]] of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]. 
 - It is the strongest function of our stack along with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon]]. 
 - It has an infinite amount of energy. 
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
@@ -16,7 +16,8 @@
 - Mentality of savior of everything impairs its ability to discover 
 - Treats the 5th function either as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] or as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]].  
 
-# Chesty Hero 
+# Irresponsible 
+- Looking for glory
 - Starts very powerful but irresponsible, so it causes collateral damage wherever it goes 
 - Doesn’t trust the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] so it compensates by trying to do everything by itself so protect the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]], which makes it arrogant and narrow-minded.  
 - Loops with the child, causing the latter to believe it can be a hero too 
