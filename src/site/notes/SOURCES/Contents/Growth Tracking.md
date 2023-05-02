@@ -3,9 +3,9 @@
 ---
 
 #on/depthpsychology 
-| MOC                                                    | Author                                              | Type                                                         | Reference                                                                                                                           |
-| ------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s) |
+| MOC                                                             | Author                                              | Type                                                         | Reference                                                                                                                           |
+| --------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s) |
 
 
 # Theme & keys to realize it  
