@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-04-30T11:54:47.985+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-05-02T10:42:00.155+02:00"}
 ---
 
 #on/psychology 
@@ -24,11 +24,3 @@ The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] is the 
 
 [[CARDS/Depth Psychology Theory/primary parenting\|primary parenting]]
 
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
