@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-04-28T08:37:02.188+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-02T10:41:55.530+02:00"}
 ---
 
 # Themes
@@ -49,13 +49,4 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 ---
 # Temple 
 ==[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]== | ==[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]== 
-
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-
 
