@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-02T20:47:44.098+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-02T23:27:49.345+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - [[Loop\|Loop]] - with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - [[Arrogance\|Arrogance]]
-- [[CARDS/Depth Psychology Theory/Gateway Function\|Gateway Function]] to the Ego
+- [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway Function 🌊]] to the Ego
 - [[Perform\|Perform]] - the ultimate performer
 - Parent of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] & main protector 
 - Can rest on its laurels 
@@ -26,10 +26,10 @@
 - Does its job which is to discover  
 - Is responsible, does its job without pride or complaint 
 ---
-# Complacent Infant  
+# Complacent  
 - Rests on its laurels because “I’ve accomplished to much”, so stops working   
 ---
-# Happy Infant  
+# Happy  
 - Exchanges discovery for happiness
 - Finds happiness in handing over the reigns to the infant. 
 - Exchanges constant activity for rest - doesn’t try to constantly save the day, allow the other functions to grow 
