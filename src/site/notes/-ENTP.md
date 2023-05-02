@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-02T10:35:34.044+02:00"}
+{"dg-publish":true,"permalink":"/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-02T11:08:58.520+02:00"}
 ---
 
 #type
@@ -13,4 +13,7 @@
 | [[CARDS/Individuals/Hitler\|Hitler]]                       | \-       |
 | [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-       |
 | [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-       |
+
+{ #7392c4}
+
 
