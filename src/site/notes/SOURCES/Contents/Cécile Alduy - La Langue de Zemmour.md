@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-04-20T13:27:04.484+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","created":"2023-04-15T12:49:47.127+02:00","updated":"2023-05-02T14:49:12.132+02:00"}
 ---
 
 **Title:** La Langue de Zemmour  
 **Author:** Cécile Alduy  
 **Tag::** #book 
-**Category**: #on/SocialScience
+**Category**: #on/SocialScience #on/politics 
 **Description**: Eric Zemmour utilise les mots comme des armes. Et d'abord contre la langue elle-même. Sous sa plume, le sens se brouille, les concepts politiques s'inversent, l'ironie et le grotesque attaquent comme un acide les valeurs humanistes. La torsion des mots et de l'histoire y est la norme. L'obsession raciale omniprésente. Pourtant ses fictions fascinent... Pourquoi ?}[^1]
 
 [^1]: [Google Livres](https://books.google.fr/)
