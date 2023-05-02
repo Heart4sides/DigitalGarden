@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-04-21T09:38:45.960+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/nicolas-sarkozy/","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-05-02T10:42:26.190+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -23,12 +23,3 @@
 </div></div>
 
 
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
