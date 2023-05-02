@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-03T00:50:46.694+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-03T01:15:27.357+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 - [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] the [[Flow\|Flow]]
 - [[Gatekeeper\|Gatekeeper]]
 - [[Adjust\|Adjust]] the [[Flood\|Flood]]
-- Bring [[Order\|order]]
+- Bring [[CARDS/· Related Concepts & Theories ·/Order\|Order]]
 - Learns from the [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway Function 🌊]]
 - Control the flow 
 
