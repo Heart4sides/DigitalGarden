@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-02T23:09:31.222+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-03T00:04:32.769+02:00"}
 ---
 
 # Fundamental Concepts 
 To explore the basics of depth psychology, I suggest you start with the following pages :
-- [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]] 
 - [[CARDS/Depth Psychology Theory/Cognitive Functions\|8 Cognitive Functions]] 
 - [[CARDS/Depth Psychology Theory/Attitude🎭\|8 attitudes]] 
+- [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]] 
 
 # Authors 
 | File                                                  | Concepts                                                                                                                                                                                                                                                                                                                     |
