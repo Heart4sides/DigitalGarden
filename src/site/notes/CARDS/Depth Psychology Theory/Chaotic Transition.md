@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chaotic-transition/","created":"2023-04-28T12:07:28.692+02:00","updated":"2023-04-28T12:10:06.728+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chaotic-transition/","created":"2023-04-28T12:07:28.692+02:00","updated":"2023-05-02T10:38:42.098+02:00"}
 ---
 
 # In the Superego 
@@ -17,11 +17,3 @@
 - Destruction 
 - Curse : immediate access to great power, but at a terrible cost 
 
-
-<script src="https://utteranc.es/client.js"  
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="github-dark-orange"
-        crossorigin="anonymous"
-        async> 
-</script>
