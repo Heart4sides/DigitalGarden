@@ -3,9 +3,9 @@
 ---
 
 #on/depthpsychology #type/grid 
-| Reference                                                                                                                                                                                                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li>[[MOC 🗺️ Depth Psychology\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+| Reference                                                                                                                                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
 Type Grid = 4 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]] x 4 [[CARDS/Depth Psychology Theory/Interaction Style💬\|interaction styles💬]] 
 # Temperaments 
