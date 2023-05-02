@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-04-27T21:47:54.366+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-02T19:34:17.338+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -38,7 +38,7 @@
 [[Earning\|Earning]] | [[Stealing\|Stealing]] 
 
 ## Temple 
-[[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]]
+[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]
 [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 # Virtues & Vices
