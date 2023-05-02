@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-04-30T13:16:30.036+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-02T19:34:11.420+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Attitude\|Attitude]]
+[[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]
 
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
