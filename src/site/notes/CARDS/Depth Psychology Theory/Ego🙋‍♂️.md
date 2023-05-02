@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-02T23:28:59.366+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-03T01:15:26.929+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - Attitude : [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - mature: [[responsible\|responsible]]    
-- final product : [[order\|order]] 
+- final product : [[CARDS/· Related Concepts & Theories ·/Order\|Order]] 
 - Ego-focused people tend to be boring & bland
 - Light of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]
 - [[Hare\|Hare]]
