@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-04-30T13:16:30.726+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-05-02T10:46:33.887+02:00"}
 ---
 
 #on/depthpsychology 
@@ -29,12 +29,3 @@
 | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]     | Adversity    | Fear           |
 
 [8:24](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=504s) Child : rest, relaxation, recovery, enjoyment Te child : creating, tearing apart frameworks, research [11:55](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=715s) Parent "Need to control and to kind of stifle" -> gains freedom by finding innocence. [14:00](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=840s) happy hero : Superman when he stops being a superhero
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
