@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-04-27T18:31:13.619+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-02T10:37:57.537+02:00"}
 ---
 
 [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
@@ -35,17 +35,3 @@ Admire
 |  |  | hire | risk-averse | bless |  |
 
 > [Additional info](https://www.wordnik.com/words/admire)
-
-## Wikipedia 
-
-
-## Translations 
-
-# Comments
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
