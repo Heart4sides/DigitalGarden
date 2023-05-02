@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-04-14T10:16:18.634+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/olivier-dussopt/","created":"2023-04-05T10:20:58.464+02:00","updated":"2023-05-02T10:42:21.631+02:00"}
 ---
 
 Ref :: 
@@ -37,14 +37,6 @@ collapse: closed
 
 ^c6d2b3
 
-# Commentaires
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
 </div></div>
 
@@ -82,14 +74,6 @@ collapse: closed
 
 ^c6d2b3
 
-# Commentaires
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
 
 </div></div>
 
@@ -114,13 +98,3 @@ collapse: closed
 
 </div></div>
 
-
-
-# Comments
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
