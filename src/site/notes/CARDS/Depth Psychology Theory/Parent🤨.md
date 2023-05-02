@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-02T20:47:59.218+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-02T21:00:59.103+02:00"}
 ---
 
 2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|cognitive function]], but last to develop in the ego (20s). 
@@ -29,10 +29,14 @@ It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the
 - Doesn’t indulge the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
 - Helps the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] become more responsible 
 ---
-# Diligent
+# Gullible 
+[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+
+---
+# Free 
 [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-- Trades rest for diligence 
-- Puts more effort, which creates a sense of responsibility  
+- Trades its stifling need for control for freedom 
+- No longer needs to micromanage the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] since the hero is now resting 
 ---
 # In Axis 
 - [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
