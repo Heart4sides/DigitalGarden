@@ -1,14 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/ni/","created":"2023-04-14T09:40:55.769+02:00","updated":"2023-04-26T15:38:37.893+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/ni/","created":"2023-04-14T09:40:55.769+02:00","updated":"2023-05-02T10:37:08.836+02:00"}
 ---
 
 #on/depthpsychology #type/grid  
-
-# Comments 
-<script src="https://utteranc.es/client.js"
-        repo="Heart4sides/Comment_Section"
-        issue-term="pathname"
-        theme="gruvbox-dark"
-        crossorigin="anonymous"
-        async>
-</script>
