@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-04-30T13:16:29.439+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-05-02T19:34:16.920+02:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 	- The [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] reflects the [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - 4 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
 	- The [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] reflects the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-	- The [[CARDS/Depth Psychology Theory/Heart Temple 🎭\|Heart Temple 🎭]] reflects the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+	- The [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] reflects the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 - [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]] 
 	- 
 - [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Responding by CSJ\|Responding by CSJ]] exhibits reflection. Think before speaking: tend to reflect, then speak and act. 
