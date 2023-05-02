@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-02T10:37:38.440+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-03T00:53:45.228+02:00"}
 ---
 
 
@@ -7,6 +7,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
 - [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]]
 - [[CARDS/· Related Concepts & Theories ·/Admire\|Admire]]
+- [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]]
 - [[CARDS/· Related Concepts & Theories ·/Autism\|Autism]]
 - [[CARDS/· Related Concepts & Theories ·/Balance\|Balance]]
 - [[CARDS/· Related Concepts & Theories ·/Baratin\|Baratin]]
@@ -39,6 +40,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]
 - [[CARDS/· Related Concepts & Theories ·/Extern\|Extern]]
 - [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]
+- [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]]
 - [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 - [[CARDS/· Related Concepts & Theories ·/Foolishness\|Foolishness]]
 - [[CARDS/· Related Concepts & Theories ·/Fortune\|Fortune]]
@@ -48,6 +50,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]]
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 - [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
+- [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]]
 - [[CARDS/· Related Concepts & Theories ·/Help\|Help]]
 - [[CARDS/· Related Concepts & Theories ·/Idea\|Idea]]
 - [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]]
@@ -110,7 +113,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Worry\|Worry]]
 - [[CARDS/· Related Concepts & Theories ·/Worth by Merriam-Webster\|Worth by Merriam-Webster]]
 - [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
-- [[CARDS/· Related Concepts & Theories ·/Yang\|Yang]]
+- [[CARDS/· Related Concepts & Theories ·/Yang☯️\|Yang☯️]]
 - [[CARDS/· Related Concepts & Theories ·/Yin\|Yin]]
 
 
