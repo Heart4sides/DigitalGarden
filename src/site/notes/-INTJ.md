@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-05-02T10:36:52.564+02:00"}
+{"dg-publish":true,"permalink":"/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-05-02T11:09:19.277+02:00"}
 ---
 
 #type
@@ -12,4 +12,7 @@
 | [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-       |
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-       |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
+
+{ #d243d1}
+
 
