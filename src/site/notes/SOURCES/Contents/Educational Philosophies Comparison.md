@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-04-28T08:46:05.357+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-05-03T17:31:36.377+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -68,7 +68,7 @@
 > "The emphasis in this conservative perspective is on  intellectual and moral [[CARDS/· Related Concepts & Theories ·/Standard\|standards]] ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]) that schools should teach"
 > "Schooling should be practical, preparing students to become valuable members of society ([[CARDS/Typing Toolbox/-Fe💉\|-Fe💉]])."
 > "It should focus on facts ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]) -the objective reality ([[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]) out there--and "the basics," training students to read, write, speak, and compute clearly and logically ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]])."
-> "Students should be taught hard work, [[CARDS/Depth Psychology Theory/Reverance\|respect]] for [[CARDS/Depth Psychology Theory/Authority\|Authority]], and [[CARDS/Depth Psychology Theory/Foundational/Si\|discipline]]" [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+> "Students should be taught hard work, [[CARDS/Depth Psychology Theory/Reverence\|respect]] for [[CARDS/Depth Psychology Theory/Authority\|Authority]], and [[CARDS/Depth Psychology Theory/Foundational/Si\|discipline]]" [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]  [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
 ## Progressivism
 > "Progressivists believe that education should focus on the whole child, rather than on the content or the teacher." [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
