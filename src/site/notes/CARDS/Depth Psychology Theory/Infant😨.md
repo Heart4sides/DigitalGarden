@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-02T23:27:49.539+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-03T18:57:22.268+02:00"}
 ---
 
 
-- [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway]] to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] via aspiration 
+- [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway]] to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] via aspiration 
 - Paramount to develop it early in children. Once a teen, they have to develop it themselves. 
 ---
 # Fearful
