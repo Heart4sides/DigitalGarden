@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-03T15:55:35.968+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-03T18:57:23.343+02:00"}
 ---
 
 #on/psychology
@@ -7,38 +7,38 @@
 
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==            | [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]] | ==[[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]==              |
 | --------------------------- | ----------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Irresponsible\|Hero🦸‍♂️#Irresponsible]] |     [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]]| [[CARDS/Depth Psychology Theory/Infant😨#Proud or Vain\|Infant😨#Proud or Vain]] |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Irresponsible\|Hero🦸‍♂️#Irresponsible]] |     [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]]| [[CARDS/Depth Psychology Theory/Infant😨#Proud or Vain\|Infant😨#Proud or Vain]] |
 | [[CARDS/Depth Psychology Theory/Parent🤨#Stifling\|Parent🤨#Stifling]]       | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]                  | [[CARDS/Depth Psychology Theory/Child👼#Ignorant\|Child👼#Ignorant]]       |
 | [[CARDS/Depth Psychology Theory/Child👼#Precocious\|Child👼#Precocious]]      |[[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]   | [[CARDS/Depth Psychology Theory/Parent🤨#Gullible\|Parent🤨#Gullible]]      |
-| [[CARDS/Depth Psychology Theory/Infant😨#Fearful\|Infant😨#Fearful]]        | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]]| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Complacent\|Hero🦸‍♂️#Complacent]]   |
+| [[CARDS/Depth Psychology Theory/Infant😨#Fearful\|Infant😨#Fearful]]        | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]]| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Complacent\|Hero🦸‍♂️#Complacent]]   |
 
 [[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
 
 | ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
 | ----------------------- | ---------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Nemesis😟#Worried\|Nemesis😟#Worried]]   | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#Hateful\|Demon😈#Hateful]]                    |
+| [[CARDS/Depth Psychology Theory/Nemesis😟#Worried\|Nemesis😟#Worried]]   | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#Hateful\|Demon😈#Hateful]]                    |
 | [[CARDS/Depth Psychology Theory/Critic🤔#Cynical\|Critic🤔#Cynical]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Double-Binding\|Trickster🤡#Double-Binding]]                    |
 | [[CARDS/Depth Psychology Theory/Trickster🤡#Foolish\|Trickster🤡#Foolish]] | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Critic🤔#Senile\|Critic🤔#Senile]]                    |
-| [[CARDS/Depth Psychology Theory/Demon😈#Apathetic\|Demon😈#Apathetic]]|[[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#Hesitant\|Nemesis😟#Hesitant]]                           |
+| [[CARDS/Depth Psychology Theory/Demon😈#Apathetic\|Demon😈#Apathetic]]|[[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#Hesitant\|Nemesis😟#Hesitant]]                           |
 
 ---
 # Mature Attitudes in 4 sides 
 
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==              | [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]]       | ==[[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]== |
 | ----------------------------- | --------------------------- | ----------------------------- |
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Pilgrim Warrior\|Hero🦸‍♂️#Pilgrim Warrior]] | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Infant😨#Versatile\|Infant😨#Versatile]]        |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Pilgrim Warrior\|Hero🦸‍♂️#Pilgrim Warrior]] | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Infant😨#Versatile\|Infant😨#Versatile]]        |
 | [[CARDS/Depth Psychology Theory/Parent🤨#Skeptical\|Parent🤨#Skeptical]]        | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Child👼#Diligent\|Child👼#Diligent]]          |
 | [[CARDS/Depth Psychology Theory/Child👼#Bright\|Child👼#Bright]]            | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Parent🤨#Free\|Parent🤨#Free]]             |
-| [[CARDS/Depth Psychology Theory/Infant😨#Vulnerable\|Infant😨#Vulnerable]]       | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Happy\|Hero🦸‍♂️#Happy]]           |
+| [[CARDS/Depth Psychology Theory/Infant😨#Vulnerable\|Infant😨#Vulnerable]]       | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Happy\|Hero🦸‍♂️#Happy]]           |
 
 [[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
 
 | ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
 | ----------------------- | ---------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Nemesis😟#Ally\|Nemesis😟#Ally]]   | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#\|Demon😈#]]                    |
+| [[CARDS/Depth Psychology Theory/Nemesis😟#Ally\|Nemesis😟#Ally]]   | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#\|Demon😈#]]                    |
 | [[CARDS/Depth Psychology Theory/Critic🤔#Wise\|Critic🤔#Wise]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Master\|Trickster🤡#Master]]                    |
 | [[CARDS/Depth Psychology Theory/Trickster🤡#Curious\|Trickster🤡#Curious]] | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Critic🤔#\|Critic🤔#]]                    |
-| [[CARDS/Depth Psychology Theory/Demon😈#Angelic\|Demon😈#Angelic]]|[[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#\|Nemesis😟#]]                           |
+| [[CARDS/Depth Psychology Theory/Demon😈#Angelic\|Demon😈#Angelic]]|[[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#\|Nemesis😟#]]                           |
 
 ---
 # Definitions 
