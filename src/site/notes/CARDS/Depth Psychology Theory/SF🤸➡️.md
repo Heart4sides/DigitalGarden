@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-03T15:56:00.409+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-03T16:55:38.403+02:00"}
 ---
 
 
@@ -11,4 +11,4 @@ SF is attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple �
 
 It is the [[CARDS/Depth Psychology Theory/Primary\|Primary]] preference of the mind.
 
-Subconscious focused people are externally expressing their [[CARDS/· Related Concepts & Theories ·/Living Virtu\|Living Virtu]]. 
+Subconscious focused people are externally expressing their [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]. 
