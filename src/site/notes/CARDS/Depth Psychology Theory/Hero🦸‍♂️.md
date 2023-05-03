@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-03T00:16:27.584+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-03T18:57:22.027+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]]
 - [[Loop\|Loop]] - with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 - [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]]
-- [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway Function 🌊]] to the Ego
+- [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway Function⛩️]] to the Ego
 - [[Perform\|Perform]] - the ultimate performer
 - Parent of the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]] & main protector 
 - Can rest on its laurels 
