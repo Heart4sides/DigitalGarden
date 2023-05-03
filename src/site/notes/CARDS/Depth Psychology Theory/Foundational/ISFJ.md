@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-02T19:34:18.832+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-03T19:17:02.283+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                  | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                       | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                        | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                         |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] |
 
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
