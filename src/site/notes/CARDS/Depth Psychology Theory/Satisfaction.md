@@ -86,7 +86,7 @@ Compassion probes for the places of pain, suffering and dissatisfaction in other
 
 
 
-Complacency : the feeling of quiet pleasure or security, often while unaware of some potential danger defects or the like, self-[[CARDS/Depth Psychology Theory/Satisfaction\|satisfaction]] or smug satisfaction with an existing situation, condition, etc. ([Dictionary.com](https://www.dictionary.com/browse/complacency)) 
+The feeling of quiet pleasure or security, often while unaware of some potential danger defects or the like, self-[[CARDS/Depth Psychology Theory/Satisfaction\|satisfaction]] or smug satisfaction with an existing situation, condition, etc. ([Dictionary.com](https://www.dictionary.com/browse/complacency)) 
 
 </div></div>
 
