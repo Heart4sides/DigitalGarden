@@ -5,9 +5,8 @@
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Structure🔛\|In charge🔛]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                                | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                       | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                        | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                           |
-| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
+| ------------- | ------------ | ----------- | ------------ |
 
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
