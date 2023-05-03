@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-03T01:15:27.030+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-03T18:57:22.508+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]
 
 ## Attitudes 
-- [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|Gateway Function 🌊]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
+- [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway Function⛩️]] : [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guidance]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
