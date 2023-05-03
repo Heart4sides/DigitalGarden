@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-02T21:04:17.039+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-03T18:09:42.450+02:00"}
 ---
 
+# Rôle 
+- To accomplish miracles 
+---
 # Precocious
 [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - God Complex 
