@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-04-28T09:41:30.705+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-03T16:23:30.425+02:00"}
 ---
 
 #on/depthpsychology 
@@ -55,28 +55,11 @@ High Ne users are :
 [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
 
 --- 
-
-# Function in Attitudes
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
+# 1💧 
+# 2💧 
+# 3💧  
+# 4💧  
+# 5💧 
+# 6💧 
+# 7💧 
+# 8💧 
