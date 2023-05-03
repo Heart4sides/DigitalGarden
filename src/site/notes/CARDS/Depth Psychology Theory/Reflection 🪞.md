@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-05-02T22:45:26.337+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-05-03T15:56:00.293+02:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] / [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]] 
 		- what they want / what they experience 
 - Reflector functions inform us of the level of development  & integration of an individual, but it cannot be used. 
-- [[CARDS/Depth Psychology Theory/4 sides of the Mind ➕\|4 sides of the Mind ➕]]
+- [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 	- The [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] reflects the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].
 	- The [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] reflects the [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]]
 - 4 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
