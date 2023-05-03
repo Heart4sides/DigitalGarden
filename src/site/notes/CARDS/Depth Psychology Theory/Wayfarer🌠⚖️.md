@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-02T19:34:17.338+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-03T18:12:01.580+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
+Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
 
 ## Keywords
 - Treasure gatherer
-- Pirates
+- Pirates : take what you can, give nothing back 
 - "Life is about strengthening my position so that I can choose who to bring along with me."
+- Their purpose is to pursue treasure and the status it brings, and choosing with whom they share it
 - Seek admiration and loyalty, but [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]] others’ ability to provide it. 
-- [[Sharing\|Sharing]] the treasure with whom they choose
 - [[Suspicion\|Suspicion]]
 - [[Self-mockery\|Self-mockery]]
 - [[Fake\|Fake]] it until you make it
