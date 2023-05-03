@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-02T10:40:50.919+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-03T15:45:20.869+02:00"}
 ---
 
 #on/depthpsychology 
@@ -14,3 +14,34 @@
 </div></div>
 
 
+```mermaid
+
+graph LR; 
+
+Input --> Process --> Output --> Feedback --> Input
+
+```
+```mermaid
+
+graph LR; 
+
+Data --> Information --> Knowledge --> Value --> Data 
+
+```
+{ #e501ef}
+
+
+```mermaid
+
+graph LR; 
+
+A("Te🏹") --> B("Ti🗡️") --> C("Fe💉") --> D("Fi🧭") --> A("Te🏹") 
+
+```
+{ #b929e0}
+
+
+
+{ #g0jnk}
+
+[[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]] → [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]] → [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] → [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] 
