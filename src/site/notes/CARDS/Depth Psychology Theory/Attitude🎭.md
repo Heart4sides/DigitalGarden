@@ -1,30 +1,53 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-02T21:11:28.223+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-03T15:55:35.968+02:00"}
 ---
 
 #on/psychology
+# Immature Attitudes in 4 sides 
 
-# Depth Psychology Theory
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==            | [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]] | ==[[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]==              |
+| --------------------------- | ----------------- | -------------------------- |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Irresponsible\|Hero🦸‍♂️#Irresponsible]] |     [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]]| [[CARDS/Depth Psychology Theory/Infant😨#Proud or Vain\|Infant😨#Proud or Vain]] |
+| [[CARDS/Depth Psychology Theory/Parent🤨#Stifling\|Parent🤨#Stifling]]       | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]                  | [[CARDS/Depth Psychology Theory/Child👼#Ignorant\|Child👼#Ignorant]]       |
+| [[CARDS/Depth Psychology Theory/Child👼#Precocious\|Child👼#Precocious]]      |[[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]   | [[CARDS/Depth Psychology Theory/Parent🤨#Gullible\|Parent🤨#Gullible]]      |
+| [[CARDS/Depth Psychology Theory/Infant😨#Fearful\|Infant😨#Fearful]]        | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]]| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Complacent\|Hero🦸‍♂️#Complacent]]   |
 
-| [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]  | [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] |[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]  [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] | 
-| ---------------------------- | --------------------------- | ----------------------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Irresponsible\|Hero🦸‍♂️#Irresponsible]]| Pilgrim Warrior | [[Complacent Infant\|Complacent Infant]] |    [[Resting Infant\|Resting Infant]]                |
-| [[CARDS/Depth Psychology Theory/Parent🤨#Stifling\|Parent🤨#Stifling]]      | [[CARDS/Depth Psychology Theory/Parent🤨#Skeptical Parent\|Parent🤨#Skeptical Parent]]  |  [[CARDS/Depth Psychology Theory/Parent🤨\|Credulous Teen👦]]                                    | [[Free Child\|Free Child]]     |
-| [[CARDS/Depth Psychology Theory/Child👼#Precocious\|Child👼#Precocious]]      | [[CARDS/Depth Psychology Theory/Child👼#Bright\|Child👼#Bright]]          | [[Tyrannical Parent\|Tyrannical Parent]]                          | Diligent Parent  |
-| [[Fearful Infant😨\|Fearful Infant😨]]| Vulnerable Infant     | [[Proud Hero😨\|Proud Hero😨]] |   Versatile King  
+[[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
 
- | [[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | Mature [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]       | Immature [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] | Mature [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] |
-| ---------------------------- | ------------------------- | ----------------------- | --------------------- |
-| [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                | [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]]     |                         |                       |
-| [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                 | [[CARDS/Depth Psychology Theory/Critic🤔\|Sage🧙‍♂️]]   |                         |                       |
-| [[Foolish Trickster🤡\|Foolish Trickster🤡]]              | Curious Trickster |                          |      [[CARDS/Depth Psychology Theory/Trickster🤡\|Master💎]]                  |
-| [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                  | [[CARDS/Depth Psychology Theory/Demon😈\|Angel😇]]      |                         |                       |
+| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
+| ----------------------- | ---------- | ------------------ |
+| [[CARDS/Depth Psychology Theory/Nemesis😟#Worried\|Nemesis😟#Worried]]   | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#Hateful\|Demon😈#Hateful]]                    |
+| [[CARDS/Depth Psychology Theory/Critic🤔#Cynical\|Critic🤔#Cynical]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Double-Binding\|Trickster🤡#Double-Binding]]                    |
+| [[CARDS/Depth Psychology Theory/Trickster🤡#Foolish\|Trickster🤡#Foolish]] | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Critic🤔#Senile\|Critic🤔#Senile]]                    |
+| [[CARDS/Depth Psychology Theory/Demon😈#Apathetic\|Demon😈#Apathetic]]|[[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#Hesitant\|Nemesis😟#Hesitant]]                           |
 
 ---
-# Dictionary 
+# Mature Attitudes in 4 sides 
+
+| ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==              | [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]]       | ==[[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]== |
+| ----------------------------- | --------------------------- | ----------------------------- |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Pilgrim Warrior\|Hero🦸‍♂️#Pilgrim Warrior]] | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Infant😨#Versatile\|Infant😨#Versatile]]        |
+| [[CARDS/Depth Psychology Theory/Parent🤨#Skeptical\|Parent🤨#Skeptical]]        | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Child👼#Diligent\|Child👼#Diligent]]          |
+| [[CARDS/Depth Psychology Theory/Child👼#Bright\|Child👼#Bright]]            | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Parent🤨#Free\|Parent🤨#Free]]             |
+| [[CARDS/Depth Psychology Theory/Infant😨#Vulnerable\|Infant😨#Vulnerable]]       | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️#Happy\|Hero🦸‍♂️#Happy]]           |
+
+[[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
+
+| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
+| ----------------------- | ---------- | ------------------ |
+| [[CARDS/Depth Psychology Theory/Nemesis😟#Ally\|Nemesis😟#Ally]]   | [[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#\|Demon😈#]]                    |
+| [[CARDS/Depth Psychology Theory/Critic🤔#Wise\|Critic🤔#Wise]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Master\|Trickster🤡#Master]]                    |
+| [[CARDS/Depth Psychology Theory/Trickster🤡#Curious\|Trickster🤡#Curious]] | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]] | [[CARDS/Depth Psychology Theory/Critic🤔#\|Critic🤔#]]                    |
+| [[CARDS/Depth Psychology Theory/Demon😈#Angelic\|Demon😈#Angelic]]|[[CARDS/Depth Psychology Theory/Gateway Function 🌊\|🌊]] | [[CARDS/Depth Psychology Theory/Nemesis😟#\|Nemesis😟#]]                           |
+
+---
+# Definitions 
+## Etymonline 
+-Apt 
+	mid-14c., "inclined, disposed;" late 14c., "suited, fitted, adapted, possessing the necessary qualities for the purpose," from Old French ate "fitting, suitable, appropriate" (13c., Modern French apte), or directly from Latin aptus "fit, suited, proper, appropriate," adjectival use of past participle of *apere "to attach, join, tie to." This is reconstructed to be from PIE root *ap- (1) "to grasp, take, reach" (source also of Sanskrit apnoti "he reaches," Latin apisci "to reach after, attain," Hittite epmi "I seize"). The elliptical sense of "becoming, appropriate" is from 1560s.
 
 ## Wordnik 
-
+### Attitude
 *noun*: A manner of thinking, feeling, or behaving that reflects a state of mind or disposition.
 *noun*: Arrogant or aggressive disposition or behavior.
 *noun*: A position of the body or manner of carrying oneself: <i>synonym</i>: <strong> posture</strong>.
@@ -69,8 +92,9 @@
 ---
 # Research
 
-[https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744)
-[The Dynamics of Persuasion: Communication and Attitudes in the Twenty-First ... - Richard M. Perloff - Google Books](https://books.google.fr/books?hl=en&lr=&id=CDHwDwAAQBAJ&oi=fnd&pg=PT6&dq=attitude+studies+psychology+-covid&ots=TP4cSUXt7p&sig=7i74IdCQg5zQdvP2Tw_zsQ74bUc&redir_esc=y#v=onepage&q=attitude%20studies%20psychology%20-covid&f=false)
+- [https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744](https://www.annualreviews.org/doi/pdf/10.1146/annurev-psych-020821-011744)
+- [The Dynamics of Persuasion: Communication and Attitudes in the Twenty-First ... - Richard M. Perloff - Google Books](https://books.google.fr/books?hl=en&lr=&id=CDHwDwAAQBAJ&oi=fnd&pg=PT6&dq=attitude+studies+psychology+-covid&ots=TP4cSUXt7p&sig=7i74IdCQg5zQdvP2Tw_zsQ74bUc&redir_esc=y#v=onepage&q=attitude%20studies%20psychology%20-covid&f=false)
+- [(143) PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr)
 
 ---
 # Examples
@@ -96,13 +120,3 @@
 ## Khan Academy 
 > [Components of attitudes | Behavior | MCAT | Khan Academy - YouTube](https://www.youtube.com/watch?v=cDq1_R-J51w)
 ![Pasted image 20230327092934.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327092934.png)
-
-## Frank M. LoShiavo
-[[CARDS/Individuals/Frank M. LoShiavo\|Frank M. LoShiavo]]
-[(143) PSY 2510 Social Psychology: The Study of Attitudes - YouTube](https://www.youtube.com/watch?v=4i46o7xLNiY&list=PLApmiahrmPkv36dvFkRkDGcWD7gYjTttr)
-
-## Research Methods in Language Attitudes 
-
-> [!quote]- [Research Methods in Language Attitudes - Google Books](https://books.google.fr/books?hl=en&lr=&id=GqZ3EAAAQBAJ&oi=fnd&pg=PA1&dq=attitudes+%2B+body+language&ots=uDun0jUd6e&sig=xBIFVInosD64DU6p1z7lncY_8ms&redir_esc=y#v=onepage&q=attitudes%20%2B%20body%20language&f=false)
-> "The most prevalent model is one that posits three different components : affect - the feelings elicited by an attitude object ; cognition - the beliefs held about the attitude object ; and conation - behavioural intentions as well as actual behaviour directed at the attitude object" (p4)
-> "The importance of attitudes at the intergroup level is due to the fact that all intergroup relations are characterised by positive as well as negative prejudices (feelings), stereotypes (beliefs), and discrimination (behaviour; Bourhis and Maass 2005)"
