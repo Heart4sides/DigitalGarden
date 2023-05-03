@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-04-27T21:50:45.975+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-03T16:50:14.285+02:00"}
 ---
 
 
-[[Deadly Sin\|Deadly Sin]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] Dyad. 
+[[Deadly Sins💀\|Deadly Sins💀]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] Dyad. 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
