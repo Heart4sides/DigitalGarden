@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-05-02T19:34:15.269+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-05-03T18:16:23.139+02:00"}
 ---
 
 # Themes 
+- Worship of creation 
 - Legacy 
 - Manifest Destiny 
 - Tradition 
@@ -11,7 +12,17 @@
 - Boundaries 
 ---
 # Core Belief 
-Humanity's problems stem from a lack of action. 
+Humanity's problems stem from a lack of action, sense of purpose and territories to discover. 
+
+---
+# Cognitive Origins 
+- [[CARDS/Depth Psychology Theory/Macro-Origin\|Macro-Origin]] : Legacy 
+- Micro-Origins : 
+	- [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] 
+	- + [[CARDS/Depth Psychology Theory/Purpose\|Purpose]] 
+	- = Manifest destiny  
+- We are able to draw our purpose from the act of discovery. 
+- Purpose inspires discovery.
 
 ---
 # God Functions 
@@ -95,7 +106,7 @@ Ultimate testing ground for all the potential and knowledge given by the previou
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverance\|Reverance]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]                      |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]]                       |    -       |
 
