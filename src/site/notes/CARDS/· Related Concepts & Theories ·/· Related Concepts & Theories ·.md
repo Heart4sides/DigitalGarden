@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-03T01:15:27.140+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-03T16:55:38.630+02:00"}
 ---
 
 
@@ -7,6 +7,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Accept\|Accept]]
 - [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]]
 - [[CARDS/· Related Concepts & Theories ·/Admire\|Admire]]
+- [[CARDS/· Related Concepts & Theories ·/Adversity\|Adversity]]
 - [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]]
 - [[CARDS/· Related Concepts & Theories ·/Autism\|Autism]]
 - [[CARDS/· Related Concepts & Theories ·/Balance\|Balance]]
@@ -65,7 +66,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Kudos\|Kudos]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]]
 - [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]
-- [[CARDS/· Related Concepts & Theories ·/Living Virtu\|Living Virtu]]
+- [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]]]
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
