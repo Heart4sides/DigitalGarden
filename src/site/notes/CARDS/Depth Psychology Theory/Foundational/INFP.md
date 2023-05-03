@@ -5,9 +5,8 @@
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]][[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted  to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                        | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                    | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                     |
-| ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
+| ------------- | ------------ | ----------- | ------------ |
 
 ---
 # Type Grid 
