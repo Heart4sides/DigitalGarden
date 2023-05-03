@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-03T10:47:49.674+02:00"}
+{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-03T11:01:19.281+02:00"}
 ---
 
 # Type a Cross 💠
-
-Type a Cross 💠
 
 Hasty [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]], halt a moment on your race to life and type a ➕. 
 
