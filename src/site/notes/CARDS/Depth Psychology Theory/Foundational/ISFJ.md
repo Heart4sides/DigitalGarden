@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-03T19:17:02.283+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-04T16:59:18.518+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -34,7 +34,7 @@
 
  |     | [[ESFP👤Shadow\|ESFP👤Shadow]] | INTJ Superego |
  | --- | ---------------- | ------------- |
- | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]  |               |
+ | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]  |               |
  | UF  | [[CARDS/Depth Psychology Theory/Envy\|Envy]]         |               |
 
 The ISFJ belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
