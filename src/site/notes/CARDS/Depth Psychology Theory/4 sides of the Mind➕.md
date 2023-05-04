@@ -1,18 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-04T09:11:36.312+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-04T09:24:23.855+02:00"}
 ---
 
 
 # 1. Ego 🙋‍♂️
 - Our Type = Our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] = Our 4 preferred [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]] in a specific order. 
+- We spend around 75% of our time in our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].  But events in our lives push us to momentarily modify this order of preference by transitioning into one of the other 3 sides of our mind. 
 
 > ***Example** : the ISTJ type prefers using these 4 functions : 
 		1. Si = my experience 
 		2. Te = others’ thoughts 
 		3. Fi = my moral values 
-		4. Ne* = others’ desires * 
-		
-- We spend around 75% of our time in our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].  But events in our lives push us to momentarily modify this order of preference. 
+		4. Ne = others’ desires*
 ---
 # 2. Subconscious 🤸
 - When we are forced or allowed to express the **weakest** function of our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] = the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
