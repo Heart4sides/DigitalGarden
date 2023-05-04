@@ -1,16 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-03T19:40:25.694+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-04T09:00:15.000+02:00"}
 ---
 
-
-# Temples of Humanity’s Mind
-{ #3d2752}
-
+# of Humanity{ #3d2752}
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |
 | ------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]                    |
 
+---
+# of an Individual
+
+## Soul
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] / [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]  | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] / [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]  |
+| ------------------ | ------------------ |
+|[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |
+|  [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]|[[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]|
+
+## Heart 
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] / [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]  | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] / [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]  |
+| ------------------ | ------------------ |
+|[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] |[[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  |
+|[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]|
+
+## Mind 
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] / [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]  | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] / [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]  |
+| ------------------ | ------------------ |
+|[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]  |[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]   |
+|[[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  |[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] |
+
+## Body
+| [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] / [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]  | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] / [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]  |
+| ------------------ | ------------------ |
+|[[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]   |[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]    |
+|[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]   |[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  |
+
+---
 # Origin Wheel 
 | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]       | [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] |
 | ------------------ | ------------------------- |
@@ -18,7 +43,7 @@
 
 | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]      | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] |
 | ------------------ | ------------------------- |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] Pole | [[Deadly Sins💀\|Deadly Sins💀]]       |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] Pole | [[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sins💀]]       |
 
 # Wheel of Perception 
 
