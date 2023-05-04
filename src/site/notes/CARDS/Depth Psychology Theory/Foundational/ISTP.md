@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-05-03T19:15:21.878+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-05-04T08:26:01.928+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -35,7 +35,7 @@ See [[CARDS/Individuals/-ISTP\|-ISTP]]
 | SD           |                   | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]    |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
 |              | [[CARDS/Depth Psychology Theory/ESTJ👤Shadow\|ESTJ👤Shadow]]       | INFP Superego     |
-| UD           | [[CARDS/Depth Psychology Theory/Accomodation\|Accomodation]] |                   |
+| UD           | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Pride\|Pride]]           |                   |
 The ISTP belongs to the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]].
 Its cognitive origin is [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]].
