@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T08:46:34.479+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T17:56:30.772+02:00"}
 ---
 
-# 4 sides Placement 
+#type/pole 
+
+# [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
 	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  
-
+---
 # Humility through Obstinance 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
 - “I know nothing”
