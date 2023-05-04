@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-03T18:39:48.124+02:00"}
 ---
 
-[[Deadly Sins💀\|Deadly Sins💀]] of the [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]]. 
+[[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sins💀]] of the [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]]. 
 
 # Definition by CSJ 
 
