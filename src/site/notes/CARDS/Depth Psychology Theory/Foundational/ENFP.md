@@ -28,7 +28,7 @@
 # Temple / 4 sides of the Mind
 |  | ENFP Ego          | [[ISTJ🤸Sub\|ISTJ🤸Sub]] |
 | ------------ | ----------------- | ----------------- |
-| SD           |                   | [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]   |
+| SD           |                   | [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]]   |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]     |
 
 |     | [[INFJ👤Shadow\|INFJ👤Shadow]] | ESTP Superego |
