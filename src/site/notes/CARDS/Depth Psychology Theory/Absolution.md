@@ -1,16 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-03T23:04:20.320+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:44:01.832+02:00"}
 ---
 
-[[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] ([[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] ) of the [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]]. 
+#type/pole 
 
+[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]]
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+---
 # Definition by CSJ
 - Height of giving the benefit of the [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]] 
 - Removing [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]] by demonstrating why someone is [[CARDS/Depth Psychology Theory/Justification\|justified]] in his actions  
 ---
-# Absolution expressed through Favoritism 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]
-
+# Absolution expressed through [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]] 
+[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
+- Give absolution based on whether they like the person 
+---
+# Absolution through [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
+- Absolves based on facts and objectivity 
 ---
 # Wordnik Definition 
 
