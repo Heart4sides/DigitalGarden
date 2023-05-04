@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-03T16:55:38.630+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-04T08:37:19.172+02:00"}
 ---
 
 
@@ -28,6 +28,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Crafty\|Crafty]]
 - [[CARDS/· Related Concepts & Theories ·/Culture\|Culture]]
 - [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]
+- [[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sins💀]]
 - [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]
 - [[CARDS/· Related Concepts & Theories ·/Deserve\|Deserve]]
 - [[CARDS/· Related Concepts & Theories ·/Désinvolte\|Désinvolte]]
@@ -66,7 +67,8 @@
 - [[CARDS/· Related Concepts & Theories ·/Kudos\|Kudos]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]]
 - [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]
-- [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]]]
+- [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]
+- [[CARDS/· Related Concepts & Theories ·/Love\|Love]]
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
@@ -81,6 +83,7 @@
 - [[CARDS/· Related Concepts & Theories ·/predictability\|predictability]]
 - [[CARDS/· Related Concepts & Theories ·/Préoccupé\|Préoccupé]]
 - [[CARDS/· Related Concepts & Theories ·/Prepare\|Prepare]]
+- [[CARDS/· Related Concepts & Theories ·/presumptive\|presumptive]]
 - [[CARDS/· Related Concepts & Theories ·/Pretend\|Pretend]]
 - [[CARDS/· Related Concepts & Theories ·/Principle\|Principle]]
 - [[CARDS/· Related Concepts & Theories ·/quick\|quick]]
@@ -106,6 +109,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Tricky\|Tricky]]
 - [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]
 - [[CARDS/· Related Concepts & Theories ·/Tyrant\|Tyrant]]
+- [[CARDS/· Related Concepts & Theories ·/uncertainty\|uncertainty]]
 - [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
 - [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]
 - [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]
