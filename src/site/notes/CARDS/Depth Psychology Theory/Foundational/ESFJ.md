@@ -41,7 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Discovery\|Discovery]] .
 
 ---
 # Examples 
-See [[-ESFJ\|-ESFJ]] 
+See [[CARDS/Individuals/-ESFJ\|-ESFJ]] 
 
 ---
 # Mentions
