@@ -20,8 +20,8 @@
 
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-**Excuse**, Convince, Favoritism, Grudge, Coerce, Confirmation
-**[[CARDS/· Related Concepts & Theories ·/Explain\|Explanation]]**, Clarification, Confirmation, Reasoning, Advocacy, Basis
+- **Excuse**, Convince, Favoritism, Grudge, Coerce, Confirmation
+- **[[CARDS/· Related Concepts & Theories ·/Explain\|Explanation]]**, Clarification, Confirmation, Reasoning, Advocacy, Basis
 
 
 </div></div>
