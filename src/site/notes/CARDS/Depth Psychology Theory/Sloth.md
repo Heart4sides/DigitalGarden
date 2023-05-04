@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-04T09:09:01.214+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-04T17:52:39.357+02:00"}
 ---
 
-[[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sin💀]] of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]]. 
+#type/pole 
+
+[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sin💀]] of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]]
+- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 ---
 # Definition by CSJ 
 
