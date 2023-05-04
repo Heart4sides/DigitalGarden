@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-04-27T21:48:49.502+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-04T15:29:38.646+02:00"}
 ---
 
 #on/depthpsychology 
@@ -21,6 +21,7 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Foundational/N
 - Is - what's happening
 - Collective consciousness
 - Collective present & past
+- Short term memory
 - Manipulating the collective experience 
 - Kinetic Energy 
 - Reactions
