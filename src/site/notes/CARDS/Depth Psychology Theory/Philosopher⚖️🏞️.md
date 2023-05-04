@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-02T10:41:55.530+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-03T22:21:51.564+02:00"}
 ---
+
+Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
 
 # Themes
 - Aristocracy : elite of better people 
@@ -14,9 +16,7 @@
 	- [[CARDS/· Related Concepts & Theories ·/Conservative\|Conservative]] 
 	- Learn from the past 
 - [[Civic Duty\|Civic Duty]]
-- [[Blackmail\|Blackmail]]
-- [[Manipulative\|Manipulative]]
-- [[Slavery\|Slavery]] 
+
 ---
 # TypeGrid
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]==</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
@@ -48,5 +48,5 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 
 ---
 # Temple 
-==[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]== | ==[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]== 
+[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 
