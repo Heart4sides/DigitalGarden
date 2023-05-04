@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-03T18:43:09.092+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T16:37:52.775+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
+
+# Udja
+[Udja App (Typing Tool)](https://www.udja.app/#/)
+Managing my habits is the key to contributing to my own and others prosperity. I am dedicated to inventing new and lasting ways to [[CARDS/· Related Concepts & Theories ·/Solve\|solving]] people’s problems. I risk giving myself consistent rewards for it without [[CARDS/· Related Concepts & Theories ·/Solve\|solving]] my own problems.
+- **Appeasement**, Gratification, Deprecation, Indulgence, Debauchery, Scrutiny
+- **Exploration**, Curiosity, Inquisitiveness, Searching, Investigation, Undertaking
 
 Living Virtu ([[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]): [[CARDS/Depth Psychology Theory/Generativity\|Generativity]]
 Deadly Sin ([[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]) : [[CARDS/Depth Psychology Theory/Gluttony\|Gluttony]] 
@@ -19,3 +25,4 @@ Discovery is pushing into a frontier and making the unknown known. It is inventi
 
 </div></div>
 
+- INTPs discover the new [[CARDS/· Related Concepts & Theories ·/Standard\|standards]].
