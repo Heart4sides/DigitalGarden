@@ -1,24 +1,41 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-02T13:54:28.372+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:44:11.934+02:00"}
 ---
 
-# Keywords 
+#type/pole 
+# [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
+[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]  
+---
+# Definition by CSJ 
 - To suffer with 
 - Alleviate suffering
 - [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] 
 - When you stop electing yourself judge of who deserves what 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Compassion probes for the places of pain, suffering and dissatisfaction in other people's lives, and allows for understanding regarding the complexities of a person's trouble or successes. ([[CARDS/Individuals/CS Joseph\|CS Joseph]]-[S7E28](https://offers.csjoseph.life/portal)) 
+
+</div></div>
+
 ---
-# Compassion through Fanatism 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]
+# Compassion through [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience MORE suffering that what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured. 
 - Abundance of understanding and glorification of compassion 
 - Risk of being a doormat 
 - Religion of external care. But it’s often a covert contract out of repressed envy. 
 ---
-# Compassion through Malevolence 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]
+# Compassion through [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]] 
+[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience AS MUCH sufferings as what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured 
 - Burning something to help the person get closer to fullfillment 
+- For other’s satisfaction. 
 ---
 # Etymonline 
 - "feeling of sorrow or deep tenderness for one who is suffering or experiencing misfortune," mid-14c., compassioun, literally "a suffering with another," from Old French compassion "sympathy, pity" (12c.), from Late Latin compassionem (nominative compassio) "sympathy," noun of state from past participle stem of compati "to feel pity," from com "with, together" (see [com-](https://www.etymonline.com/word/com-?ref=etymonline_crossreference "Etymology, meaning and definition of com- ")) + pati "to suffer" (see [passion](https://www.etymonline.com/word/passion?ref=etymonline_crossreference "Etymology, meaning and definition of passion ")).
