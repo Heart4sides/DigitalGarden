@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-04-27T21:50:48.228+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-04T15:29:49.037+02:00"}
 ---
 
 #on/depthpsychology 
@@ -22,6 +22,7 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 - Was
 - Personal consciousness
 - Personal experiences
+- Long term memory
 - Needs
 - Discipline
 - Endurence, Fortitude, Steadfastness
