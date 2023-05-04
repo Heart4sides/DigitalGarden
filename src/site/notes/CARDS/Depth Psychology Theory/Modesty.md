@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-03T17:45:17.366+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:44:35.157+02:00"}
 ---
 
+#type/pole 
+
+# 4 sides of the Mind 
+[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
+---
 # Definition by CSJ 
 - Decency, simplicity, moderation in behaviour, speech, dress. 
 - Share the spotlight, the passion, the regard, the respect. 
@@ -19,7 +27,7 @@
 
 
 ---
-# Descration through Modesty 
+# [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]] through Modesty 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - Killing sacred cows
 - “Mockers” in the Bible 
@@ -28,10 +36,12 @@
 - Force people to be as modest as they are or even more modest (arrogance of Fi child)
 - Modest with people’s belief systems, including their own 
 ---
-# Egotism through Modesty 
+# [[CARDS/Depth Psychology Theory/Egotism\|Egotism]] through Modesty 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
-- Dissatisfaction with who they are 
-- Motivation to become worthy of [[CARDS/Depth Psychology Theory/Reverence\|Reverence]] 
+- Motivation to become worthy of [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]
+- Believing one has the potential to grow 
+- Unsatisfied with who they are 
+
 
 ---
 # Wordnik
