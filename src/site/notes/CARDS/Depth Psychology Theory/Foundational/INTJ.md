@@ -41,7 +41,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverence\|Reverence]] .
 
 ---
 # Examples 
-See [[-INTJ\|-INTJ]] 
+See [[CARDS/Individuals/-INTJ\|-INTJ]] 
 
 ---
 # Mentions
