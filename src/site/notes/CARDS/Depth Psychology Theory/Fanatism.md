@@ -1,9 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/fanatism/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-03T22:28:16.271+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/fanatism/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:58:52.747+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole ([[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]) of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+#type/pole 
 
+# [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]]
+- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+---
 # Keywords 
 - Blind faith 
 - Pushing beliefs onto others 
@@ -20,16 +26,18 @@
 </div></div>
 
 ---
-# Envy expressed through Fanatism 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
+# [[CARDS/Depth Psychology Theory/Envy\|Envy]] expressed through Fanatism 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Seeks satisfaction through fanatic loyalty to the envied object.
 - Self-glorification through the object of fanatism 
 - Feel holier than the person they envy (smug [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]])
-
 ---
-# Compassion expressed through Fanatism 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]
-
+# [[CARDS/Depth Psychology Theory/Compassion\|Compassion]] expressed through Fanatism 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+- Compassion for those who experience MORE suffering that what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured. 
+- Abundance of understanding and glorification of compassion 
+- Risk of being a doormat 
+- Religion of external care. But it’s often a covert contract out of repressed envy. 
 ---
 # Examples 
 - The Joker is a fan of Batman ([[The Dark Knight\|The Dark Knight]])
