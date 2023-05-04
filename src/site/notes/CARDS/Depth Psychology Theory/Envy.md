@@ -1,18 +1,50 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-02T14:47:35.659+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-04T17:50:30.367+02:00"}
 ---
 
-# Keywords 
-- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] desire what other’s desire 
-- When you oversimplify someone’s life 
-- Pain at the sight of another’s fortune 
+#type/pole 
+
+# [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
+[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 ---
-# Envy expressed through Malevolence
+# Definition by CSJ
+- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] desire what other’s desire 
+- Greed over they think is unfairly given to others, esp because they didn’t provide as much effort 
+- Pain at the sight of another’s fortune, advantage, success, possessions, etc
+- Comes from bitterness & lack of desirability 
+- When you oversimplify someone’s life 
+- Motivation for revenge  
+- Makes them overly cold and critical → undesirable
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+There is a smug [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] when one believes they are above the object or person that they envy. ([[CARDS/Individuals/CS Joseph\|CS Joseph]]-[S7E28](https://offers.csjoseph.life/portal)) 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- Envy is awareness - often projected - of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] in other people's lives. Constant reminder of their own dissatisfaction. ([[CARDS/Individuals/CS Joseph\|CS Joseph]])  
+
+</div></div>
+
+
+---
+# Envy expressed through [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
 - Balance perceived injustice by reducing one’s fortune 
 - Holding other people responsible for the lack of satisfaction in your life 
+- For the ISFJ/ENTP’s satisfaction. 
 ---
-# Envy expressed through Fanatism 
+# Envy expressed through [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
 Seeks satisfaction through fanatic loyalty to the envied object.
 
