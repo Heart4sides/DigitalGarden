@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-04T08:37:19.172+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-04T17:14:18.822+02:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Baratin\|Baratin]]
 - [[CARDS/· Related Concepts & Theories ·/Belief\|Belief]]
 - [[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]]
+- [[CARDS/· Related Concepts & Theories ·/Borderline Autism\|Borderline Autism]]
 - [[CARDS/· Related Concepts & Theories ·/Boredom\|Boredom]]
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]]
@@ -30,6 +31,7 @@
 - [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]
 - [[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sins💀]]
 - [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]
+- [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]
 - [[CARDS/· Related Concepts & Theories ·/Deserve\|Deserve]]
 - [[CARDS/· Related Concepts & Theories ·/Désinvolte\|Désinvolte]]
 - [[CARDS/· Related Concepts & Theories ·/diffidence\|diffidence]]
@@ -56,6 +58,8 @@
 - [[CARDS/· Related Concepts & Theories ·/Help\|Help]]
 - [[CARDS/· Related Concepts & Theories ·/Idea\|Idea]]
 - [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]]
+- [[CARDS/· Related Concepts & Theories ·/Idolatry\|Idolatry]]
+- [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]]
 - [[CARDS/· Related Concepts & Theories ·/Impotence\|Impotence]]
 - [[CARDS/· Related Concepts & Theories ·/Inductive\|Inductive]]
 - [[CARDS/· Related Concepts & Theories ·/infer\|infer]]
@@ -69,6 +73,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]
 - [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]
 - [[CARDS/· Related Concepts & Theories ·/Love\|Love]]
+- [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
@@ -120,7 +125,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Worth by Merriam-Webster\|Worth by Merriam-Webster]]
 - [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]
 - [[CARDS/· Related Concepts & Theories ·/Yang☯️\|Yang☯️]]
-- [[CARDS/· Related Concepts & Theories ·/Yin\|Yin]]
+- [[CARDS/· Related Concepts & Theories ·/Yin☯️\|Yin☯️]]
 
 
 
