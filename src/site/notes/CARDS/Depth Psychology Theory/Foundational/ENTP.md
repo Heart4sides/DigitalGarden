@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-05-03T19:14:01.723+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-05-04T16:59:18.175+02:00"}
 ---
 
 #on/depthpsychology  #type
@@ -34,7 +34,7 @@
 
  |     | [[INTJ👤Shadow\|INTJ👤Shadow]] | ESFP Superego |
  | --- | ---------------- | ------------- |
- | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]  |               |
+ | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]  |               |
  | UF  | [[CARDS/Depth Psychology Theory/Envy\|Envy]]         |               |
 
 The ENTP belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
@@ -42,13 +42,16 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfacti
 
 ---
 # Examples 
-See [[-ENTP\|-ENTP]] 
+See [[CARDS/Individuals/-ENTP\|-ENTP]] 
 
 ---
 # Mentions
 | File                                                                        | Author                       | External Link                                                                                                                    |
 | --------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [[SOURCES/Literature Note/NP & Committment 2023\|NP & Committment 2023]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
+
+# Notes on the ENTP 
+- Most [[CARDS/· Related Concepts & Theories ·/presumptive\|presumptive]] type ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22/23?)
 
 ---
 # References
