@@ -33,7 +33,7 @@
 
 |     | [[ENTP👤Shadow\|ENTP👤Shadow]] | ISFJ Superego |
 | --- | ---------------- | ------------- |
-| UD  | [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]  |               |
+| UD  | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |               |
 | UF  | [[Vainglory\|Vainglory]]    |               |
 
 The INTJ belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
