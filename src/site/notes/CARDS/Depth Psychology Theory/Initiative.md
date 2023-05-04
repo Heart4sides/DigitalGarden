@@ -1,7 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-03T17:57:44.069+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-04T17:53:20.882+02:00"}
 ---
 
+#type/pole 
+
+# [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
+[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]   
+---
 # Definitions by CSJ 
 - Leadership is an aspect of initiative : when you transfer your power to other people, you make sure that your power is being used. 
 
@@ -15,7 +23,7 @@
 
 
 ---
-# Initiative through Manifestation 
+# Initiative through [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -29,7 +37,7 @@
 - Act like the thing you want to become 
 - Alchemy 
 ---
-# Initiative through Credulity 
+# Initiative through [[CARDS/Depth Psychology Theory/Credulity\|Credulity]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
