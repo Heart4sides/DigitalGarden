@@ -41,7 +41,7 @@ Solo book reading impacts Si + Ni. So ESXP hate reading books. They like having 
 
 
 
-“You must have enough confidence to begin [[CARDS/· Related Concepts & Theories ·/Learn\|learning]] and enough humility to keep learning. The reality and deeper implication of the model is that some pride is required for a dynamic validation. If someone has no confidence in their own thinking, how can they validate anyone or anything?” 
+“You must have enough confidence to begin [[CARDS/· Related Concepts & Theories ·/Learn\|learning]] and enough humility to keep learning. The reality and deeper implication of the model is that some pride is required for a dynamic validation. If someone has no confidence in their own thinking, how can they validate anyone or anything?” ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22/23?) 
 
 </div></div>
 
