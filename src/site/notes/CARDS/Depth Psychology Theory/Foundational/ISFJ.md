@@ -44,7 +44,7 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfacti
 
 ---
 # Examples 
-See [[-ISFJ\|-ISFJ]] 
+See [[CARDS/Individuals/-ISFJ\|-ISFJ]] 
 
 ---
 # Mentions
