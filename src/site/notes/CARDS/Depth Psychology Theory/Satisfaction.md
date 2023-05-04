@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-02T14:11:20.856+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-03T23:12:02.400+02:00"}
 ---
 
+# Udja
+[Udja App (Typing Tool)](https://www.udja.app/#/)
+- **Covetous**, Zealotry, Rivalry, Ruthless, Revenge, Stoic, Relief
+- **Fulfillment**, Attainment, Contentment, Effort, Chivalry, Comfort
 
 # Depth Psychology
 
