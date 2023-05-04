@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T08:36:19.409+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T17:46:26.561+02:00"}
 ---
 
+#type/pole
+
+---
 # Definition by CSJ 
 - Acknowledge that one does not know much 
 - Opens the mind for learning 
