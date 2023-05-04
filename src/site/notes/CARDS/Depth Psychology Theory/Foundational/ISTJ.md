@@ -43,7 +43,7 @@
 
 |  | ISTJ Ego          | [[ENFP🤸Sub\|ENFP🤸Sub]] |
 | ------------ | ----------------- | ----------------- |
-| SD           |                   | [[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]   |
+| SD           |                   | [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]]   |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]     |
 
 |     | [[ESTP👤Shadow\|ESTP👤Shadow]] | INFJ Superego |
