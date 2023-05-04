@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-03T16:50:14.285+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-04T09:09:01.214+02:00"}
 ---
 
-
-[[Deadly Sins💀\|Deadly Sins💀]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] Dyad. 
-
+[[CARDS/· Related Concepts & Theories ·/Deadly Sins💀\|Deadly Sin💀]] of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]]. 
+---
+# Definition by CSJ 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -15,22 +15,28 @@
 </div></div>
 
 
+---
+# Sloth expressed through [[CARDS/Depth Psychology Theory/Credulity\|Credulity]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-- Basically sloth through credulity is a covert contract to obtain authority.  : "If I accept what is thought to be true by others, especially certain, more valuable circles of people, then they will elevate me to authority." ([[CARDS/Individuals/CS Joseph\|CS Joseph]]) 
+- Basically sloth through credulity is a covert contract to obtain authority.  : "If I accept what is thought to be true by others, especially certain, more valuable circles of people, then they will elevate me to authority." ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22) 
 
 </div></div>
 
 
+---
+# Sloth expressed through [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] 
+[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-- Manifestation expressed through Sloth is the age old attempt to get something for nothing. Fake it until you make it. ([[CARDS/Individuals/CS Joseph\|CS Joseph]] ) 
+- Manifestation expressed through Sloth is the age old attempt to get something for nothing. Fake it until you make it. ([[CARDS/Individuals/CS Joseph\|CS Joseph]] , S7E22) 
 
 </div></div>
 
