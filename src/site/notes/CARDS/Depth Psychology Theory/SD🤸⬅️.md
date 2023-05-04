@@ -17,7 +17,7 @@ Attached to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] or t
 
 | Extravert | Introvert | SD Pole              | 
 | --------- | --------- | ------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  |[[CARDS/Depth Psychology Theory/Impartiality\|Impartiality]]     | 
+| [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  |[[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]]     | 
 | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]   |    
 | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]    |    
 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]  | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]  | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]  |   
