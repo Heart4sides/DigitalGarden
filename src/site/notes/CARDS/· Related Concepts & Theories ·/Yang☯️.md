@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-05-03T16:00:58.151+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-05-04T16:06:27.327+02:00"}
 ---
 
 
 - [[CARDS/· Related Concepts & Theories ·/Intern\|Internal]] Force
 - [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Introverted]] [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|functions]] 
-- Our souls are an equilibrium of [[CARDS/· Related Concepts & Theories ·/Yin\|Yin]] and Yang
+- Our souls are an equilibrium of [[CARDS/· Related Concepts & Theories ·/Yin☯️\|Yin☯️]] and Yang
 - Positive polarity
 - [[Objectivity\|Objectivity]]
-- The great [[CARDS/Depth Psychology Theory/Foundational/Ni\|will]], [[CARDS/· Related Concepts & Theories ·/Order\|Order]] brought to chaos. 
+- The great [[CARDS/Depth Psychology Theory/Foundational/Ni\|will]], [[CARDS/· Related Concepts & Theories ·/Order\|Order]] brought to chaos.
+- [[CARDS/Depth Psychology Theory/Justification\|Justification]] is the Yang, and Intimacy is the Yin.
+- [[CARDS/Depth Psychology Theory/Reverence\|Reverence]] is the Yang, and [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] is the Yin 
+
