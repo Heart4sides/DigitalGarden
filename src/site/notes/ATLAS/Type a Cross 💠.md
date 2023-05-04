@@ -10,7 +10,7 @@ The ➕ divides your mind🧠 into 4 lands🌾.
 
 The 4 lands🌾 are guarded by the [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateways⛩️]] of [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]], [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]],  [[CARDS/· Related Concepts & Theories ·/Worry\|Worry]] and [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]].
 
-Yet, with the proper [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guidance🚿]], the lands🌾 will yield [[CARDS/· Related Concepts & Theories ·/Order\|Order]], [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]], [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]] and [[Love\|Love]].  
+Yet, with the proper [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guidance🚿]], the lands🌾 will yield [[CARDS/· Related Concepts & Theories ·/Order\|Order]], [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]], [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]] and [[CARDS/· Related Concepts & Theories ·/Love\|Love]].  
 
 This Digital Garden👩‍🌾 provides some paths 🛤️ to explore, transform, educate and integrate the 4👨‍👩‍👧‍👦residents of your Self. 
 
