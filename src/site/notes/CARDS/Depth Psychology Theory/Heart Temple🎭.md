@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-03T17:31:36.781+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-04T16:59:20.913+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
@@ -22,6 +22,27 @@
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Perception | Ni - The collective vision : Finding a deep sense of meaning to the point of suffering for what one loves (Pathos = to suffer with) |     |
 | Judgement  | Fe - The collective ethics : drama, emotional intensity. Keep things fresh.                                                                                                         |     |
+
+---
+# Micro Origins
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Reverence is the orderly masculine yang, [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] is the chaotically feminine yin. ISFJ and ENTP will only get [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] when they gain respect. INTJ and ESFP will find respect when they achieve fullfillment. ([[CARDS/Individuals/CS Joseph\|CS Joseph]]) 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+if someone has deep respect for us, that means they actually want us. `=this.Shortref` 
+
+</div></div>
+
 
 ---
 # Udja 
@@ -66,7 +87,7 @@ Keep things fresh and sharp.
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]  |      -        |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
 
@@ -86,7 +107,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]                              |   -        |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]                              |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Envy\|Envy]]                              |    -       |
 
 
@@ -105,7 +126,7 @@ Keep things fresh and sharp.
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Malevolence\|Malevolence]]                              |   -        |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]                              |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Envy\|Envy]]                              |    -       |
 
 # ESFP Ego’s Mind 
@@ -123,7 +144,7 @@ Keep things fresh and sharp.
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/Depth Psychology Theory/Desacration\|Desacration]]  |      -        |
+| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
 
