@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/purpose/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-03T23:13:30.181+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/purpose/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-04T17:07:45.410+02:00"}
 ---
 
 # Udja
