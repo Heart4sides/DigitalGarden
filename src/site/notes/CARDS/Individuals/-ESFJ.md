@@ -3,9 +3,10 @@
 ---
 
 #type
-| File                                          | octogram |
-| --------------------------------------------- | -------- |
-| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]] | \-       |
+| File                                                        | octogram                                                                                                                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Robert Baratheon\|Robert Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]]               | \-                                                                                                                                  |
 
 { #8de7f3}
 
