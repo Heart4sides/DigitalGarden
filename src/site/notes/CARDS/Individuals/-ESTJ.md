@@ -3,10 +3,11 @@
 ---
 
 #type
-| File                                                    | octogram |
-| ------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-       |
-| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-       |
+| File                                                    | octogram                                                                                                                            |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Alliser Thorne\|Alliser Thorne]] | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-                                                                                                                                  |
+| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-                                                                                                                                  |
 
 { #1b1728}
 
