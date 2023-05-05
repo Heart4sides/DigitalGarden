@@ -3,9 +3,10 @@
 ---
 
 #type
-| File                                                        | octogram |
-| ----------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-       |
+| File                                                        | octogram                                                                                                                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]       | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-                                                                                                                                  |
 
 { #264b75}
 
