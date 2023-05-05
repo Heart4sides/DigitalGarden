@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-04-30T11:46:03.484+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-05-05T11:00:06.780+02:00"}
 ---
 
 #on/depthpsychology 
@@ -8,7 +8,7 @@
 - personal thinking process 
 - takes in data, turns it into information & knowledge when sharing with Fe
 - true vs false 
-- deduction
+- [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]] 
 - verification & criticism 
 - authenticity 
 - “I am my own authority”
