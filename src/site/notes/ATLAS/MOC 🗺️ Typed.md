@@ -9,10 +9,11 @@
 
 
 
-| File                                                    | octogram |
-| ------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-       |
-| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-       |
+| File                                                    | octogram                                                                                                                            |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Alliser Thorne\|Alliser Thorne]] | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-                                                                                                                                  |
+| [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-                                                                                                                                  |
 
 
 </div></div>
@@ -23,11 +24,12 @@
 
 
 
-| File                                                      | octogram |
-| --------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Diogène\|Diogène]]                 | \-       |
-| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-       |
-| [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-       |
+| File                                                      | octogram                                                                                                                            |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Balon Greyjoy\|Balon Greyjoy]]     | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul> |
+| [[CARDS/Individuals/Diogène\|Diogène]]                 | \-                                                                                                                                  |
+| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-                                                                                                                                  |
+| [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-                                                                                                                                  |
 
 
 </div></div>
@@ -38,11 +40,16 @@
 
 
 
-| File                                              | octogram |
-| ------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dali\|Dali]]               | \-       |
-| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]] | \-       |
-| [[CARDS/Individuals/Varga\|Varga]]             | \-       |
+| File                                                            | octogram                                                                                                                            |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Christopher Nolan\|Christopher Nolan]]   | \-                                                                                                                                  |
+| [[CARDS/Individuals/Dali\|Dali]]                             | \-                                                                                                                                  |
+| [[CARDS/Individuals/Donald Trump\|Donald Trump]]             | \-                                                                                                                                  |
+| [[CARDS/Individuals/Hans Zimmer\|Hans Zimmer]]               | \-                                                                                                                                  |
+| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]]               | \-                                                                                                                                  |
+| [[CARDS/Individuals/Napoleon Bonaparte\|Napoleon Bonaparte]] | \-                                                                                                                                  |
+| [[CARDS/Individuals/Tywin Lannister\|Tywin Lannister]]       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul>                                          |
+| [[CARDS/Individuals/Varga\|Varga]]                           | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
 
 </div></div>
@@ -54,9 +61,10 @@
 
 
 
-| File                                                        | octogram |
-| ----------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-       |
+| File                                                        | octogram                                                                                                                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]       | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-                                                                                                                                  |
 
 
 </div></div>
@@ -67,9 +75,10 @@
 
 
 
-| File                                          | octogram |
-| --------------------------------------------- | -------- |
-| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]] | \-       |
+| File                                                        | octogram                                                                                                                            |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Robert Baratheon\|Robert Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]]               | \-                                                                                                                                  |
 
 
 </div></div>
@@ -100,16 +109,19 @@
 
 
 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-       |
-| [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-       |
-| [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]         | \-       |
-| [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-       |
-| [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-       |
-| [[CARDS/Individuals/Hitler\|Hitler]]                       | \-       |
-| [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-       |
-| [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-       |
+| File                                                          | octogram                                                                                   |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-                                                                                         |
+| [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-                                                                                         |
+| [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]         | \-                                                                                         |
+| [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-                                                                                         |
+| [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-                                                                                         |
+| [[CARDS/Individuals/Hitler\|Hitler]]                       | \-                                                                                         |
+| [[CARDS/Individuals/Littlefinger\|Littlefinger]]           | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-                                                                                         |
+| [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-                                                                                         |
+| [[CARDS/Individuals/The Joker\|The Joker]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul> |
+| [[CARDS/Individuals/Tyrion Lannister\|Tyrion Lannister]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
 
 </div></div>
@@ -121,12 +133,13 @@
 
 
 
-| File                                                      | octogram |
-| --------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] | \-       |
-| [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]]   | \-       |
-| [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]               | \-       |
-| [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]       | \-       |
+| File                                                          | octogram                                                                                                                            |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]     | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Joffrey Baratheon\|Joffrey Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]]       | \-                                                                                                                                  |
+| [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]                   | \-                                                                                                                                  |
+| [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]           | \-                                                                                                                                  |
 
 
 </div></div>
@@ -152,9 +165,14 @@
 
 
 
-| File                                                    | octogram |
-| ------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Alexis Poulain\|Alexis Poulain]] | \-       |
+| File                                                                        | octogram                                                                                                                            |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Alexis Poulain\|Alexis Poulain]]                     | \-                                                                                                                                  |
+| [[CARDS/Individuals/Arya Stark\|Arya Stark]]                             | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] </li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] </li></ul>                                                                                   |
+| [[CARDS/Individuals/Charles Bukowski\|Charles Bukowski]]                 | <ul><li></li><li></li></ul>                                                                                                         |
+| [[CARDS/Individuals/Diana, Princess of Wales\|Diana, Princess of Wales]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Eminem\|Eminem]]                                     | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/The Hound\|The Hound]]                               | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul>                                                                                   |
 
 
 </div></div>
@@ -165,11 +183,13 @@
 
 
 
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Aragorn\|Aragorn]]           | \-       |
-| [[CARDS/Individuals/Contrapoints\|Contrapoints]] | \-       |
-| [[CARDS/Individuals/John Bodine\|John Bodine]]   | \-       |
+| File                                                            | octogram                                                                                                                            |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Aragorn\|Aragorn]]                       | \-                                                                                                                                  |
+| [[CARDS/Individuals/Contrapoints\|Contrapoints]]             | \-                                                                                                                                  |
+| [[CARDS/Individuals/Daenerys Targaryen\|Daenerys Targaryen]] | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]               | \-                                                                                                                                  |
+| [[CARDS/Individuals/Lysa Arryn\|Lysa Arryn]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] </li></ul>                                          |
 
 
 </div></div>
@@ -180,15 +200,15 @@
 
 
 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Batman\|Batman]]                       | \-       |
-| [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-       |
-| [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]   | \-       |
-| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]   | \-       |
-| [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-       |
-| [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-       |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-       |
+| File                                                          | octogram                                                                                                                            |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Batman\|Batman]]                       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-                                                                                                                                  |
+| [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]   | \-                                                                                                                                  |
+| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]   | \-                                                                                                                                  |
+| [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-                                                                                                                                  |
+| [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-                                                                                                                                  |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-                                                                                                                                  |
 
 
 </div></div>
@@ -248,6 +268,7 @@
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | [[CARDS/Individuals/Dr. Sean Maguire\|Dr. Sean Maguire]] | \-                                                                                                                                  | [Good Will Hunting - Wikipedia](https://en.wikipedia.org/wiki/Good_Will_Hunting)                                         |
 | [[CARDS/Individuals/Gustave Flaubert\|Gustave Flaubert]] | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]                                                                                 | Télérama, hors-série sur Gustave Flaubert                                                                                |
+| [[CARDS/Individuals/Jon Snow\|Jon Snow]]                 | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul> | \-                                                                                                                       |
 | [[CARDS/Individuals/Lord Morpheus\|Lord Morpheus]]       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [The Sandman (TV series) - Wikipedia](https://en.wikipedia.org/wiki/The_Sandman_(TV_series))                             |
 | [[CARDS/Individuals/Peggy Blomquist\|Peggy Blomquist]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))                                         |
 | [[CARDS/Individuals/Robert Greene\|Robert Greene]]       | \-                                                                                                                                  | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul> |
