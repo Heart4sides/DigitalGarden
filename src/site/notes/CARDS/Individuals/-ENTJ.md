@@ -3,11 +3,16 @@
 ---
 
 #type 
-| File                                              | octogram |
-| ------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Dali\|Dali]]               | \-       |
-| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]] | \-       |
-| [[CARDS/Individuals/Varga\|Varga]]             | \-       |
+| File                                                            | octogram                                                                                                                            |
+| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Christopher Nolan\|Christopher Nolan]]   | \-                                                                                                                                  |
+| [[CARDS/Individuals/Dali\|Dali]]                             | \-                                                                                                                                  |
+| [[CARDS/Individuals/Donald Trump\|Donald Trump]]             | \-                                                                                                                                  |
+| [[CARDS/Individuals/Hans Zimmer\|Hans Zimmer]]               | \-                                                                                                                                  |
+| [[CARDS/Individuals/Jules Cesar\|Jules Cesar]]               | \-                                                                                                                                  |
+| [[CARDS/Individuals/Napoleon Bonaparte\|Napoleon Bonaparte]] | \-                                                                                                                                  |
+| [[CARDS/Individuals/Tywin Lannister\|Tywin Lannister]]       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul>                                          |
+| [[CARDS/Individuals/Varga\|Varga]]                           | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
 { #ff9558}
 
