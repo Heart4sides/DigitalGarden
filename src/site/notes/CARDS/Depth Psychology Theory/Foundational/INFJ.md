@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-03T19:15:39.937+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-04T16:09:23.541+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -33,7 +33,7 @@
 
 |     | [[ENFP👤Shadow\|ENFP👤Shadow]] | ISTJ Superego |
 | --- | ---------------- | ------------- |
-| UD  | [[SOURCES/Type Theory by CSJ/Temples/Soul Temple/Intimacy Dyad/Idolatry by CSJ\|Idolatry]]   |               |
+| UD  | [[CARDS/· Related Concepts & Theories ·/Idolatry\|Idolatry]]   |               |
 | UF  | [[CARDS/Depth Psychology Theory/Lust\|Lust]]    |               |
 
 The INFJ belongs to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  .
