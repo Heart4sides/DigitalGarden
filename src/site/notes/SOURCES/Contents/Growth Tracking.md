@@ -7,6 +7,7 @@
 | --------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] | [Introduction to Cognitive Growth Tracking \| Season 33 \| CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s) |
 
+{ .block-language-dataview}
 
 # Theme & keys to realize it  
 |    ➕    | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]            |
