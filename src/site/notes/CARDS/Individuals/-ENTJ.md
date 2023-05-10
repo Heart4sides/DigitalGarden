@@ -14,6 +14,7 @@
 | [[CARDS/Individuals/Tywin Lannister\|Tywin Lannister]]       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul>                                          |
 | [[CARDS/Individuals/Varga\|Varga]]                           | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
+{ .block-language-dataview}
 { #ff9558}
 
 
