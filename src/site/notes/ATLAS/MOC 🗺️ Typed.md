@@ -15,6 +15,7 @@
 | [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-                                                                                                                                  |
 | [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -31,6 +32,7 @@
 | [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-                                                                                                                                  |
 | [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -51,6 +53,7 @@
 | [[CARDS/Individuals/Tywin Lannister\|Tywin Lannister]]       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul>                                          |
 | [[CARDS/Individuals/Varga\|Varga]]                           | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -66,6 +69,7 @@
 | [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]       | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -80,6 +84,7 @@
 | [[CARDS/Individuals/Robert Baratheon\|Robert Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Ted Bundy\|Ted Bundy]]               | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -99,6 +104,7 @@
 | [[CARDS/Individuals/Quentin Tarantino\|Quentin Tarantino]] | \-       |
 | [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]]   | \-       |
 
+{ .block-language-dataview}
 
 </div></div>
  
@@ -123,6 +129,7 @@
 | [[CARDS/Individuals/The Joker\|The Joker]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul> |
 | [[CARDS/Individuals/Tyrion Lannister\|Tyrion Lannister]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -141,6 +148,7 @@
 | [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]                   | \-                                                                                                                                  |
 | [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]           | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -156,6 +164,7 @@
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
 | [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -174,6 +183,7 @@
 | [[CARDS/Individuals/Eminem\|Eminem]]                                     | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/The Hound\|The Hound]]                               | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul>                                                                                   |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -191,6 +201,7 @@
 | [[CARDS/Individuals/John Bodine\|John Bodine]]               | \-                                                                                                                                  |
 | [[CARDS/Individuals/Lysa Arryn\|Lysa Arryn]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] </li></ul>                                          |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -210,6 +221,7 @@
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-                                                                                                                                  |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -219,13 +231,15 @@
 
 
 
-| File                                                          | octogram |
-| ------------------------------------------------------------- | -------- |
-| [[CARDS/Individuals/Brice de Nice\|Brice de Nice]]         | \-       |
-| [[CARDS/Individuals/François Hollande\|François Hollande]] | \-       |
-| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]   | \-       |
-| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]     | \-       |
+| File                                                                          | octogram                                                               |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [[CARDS/Individuals/Brice de Nice\|Brice de Nice]]                         | \-                                                                     |
+| [[CARDS/Individuals/François Hollande\|François Hollande]]                 | \-                                                                     |
+| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]                   | \-                                                                     |
+| [[CARDS/Individuals/Mother Teresa of Calcutta\|Mother Teresa of Calcutta]] | <ul><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul> |
+| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]                     | \-                                                                     |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -239,6 +253,7 @@
 | ----------------------------------------------- | -------- |
 | [[CARDS/Individuals/Mia Warren\|Mia Warren]] | \-       |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -255,6 +270,7 @@
 | [[CARDS/Individuals/Kant\|Kant]]                 | \-       |
 | [[CARDS/Individuals/Stephen King\|Stephen King]] | \-       |
 
+{ .block-language-dataview}
 
 </div></div>
 
@@ -273,6 +289,7 @@
 | [[CARDS/Individuals/Peggy Blomquist\|Peggy Blomquist]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))                                         |
 | [[CARDS/Individuals/Robert Greene\|Robert Greene]]       | \-                                                                                                                                  | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul> |
 
+{ .block-language-dataview}
 
 </div></div>
 
