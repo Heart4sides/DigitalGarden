@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T16:32:21.102+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-08T19:34:09.617+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] and [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] 
@@ -23,6 +23,7 @@
 - “Familiarity breeds contempt”
 - Building relationship with self and others 
 - the chaotic, malleable, creative Yin that carries potential and reveals the relational element of character.
+- Best at seeing what other people lack because of Se+Fe
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
