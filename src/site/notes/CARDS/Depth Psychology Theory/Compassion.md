@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:44:11.934+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-10T20:41:58.828+02:00"}
 ---
 
 #type/pole 
@@ -11,18 +11,14 @@
 ---
 # Definition by CSJ 
 - To suffer with 
+- Deep [[CARDS/· Related Concepts & Theories ·/sorrow\|sorrow]] or [[CARDS/· Related Concepts & Theories ·/Sympathy\|Sympathy]] for sb who is stricken by misfortune
 - Alleviate suffering
-- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] 
-- When you stop electing yourself judge of who deserves what 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-Compassion probes for the places of pain, suffering and dissatisfaction in other people's lives, and allows for understanding regarding the complexities of a person's trouble or successes. ([[CARDS/Individuals/CS Joseph\|CS Joseph]]-[S7E28](https://offers.csjoseph.life/portal)) 
-
-</div></div>
-
+- When you stop electing yourself judge of who deserves what
+- Unfair treatment
+- Desire to alleviate suffering 
+- Choosing to see the sources of pain, misery and incompleteness in other people's lives 
+- Understanding for the complexities of a person's successes or troubles 
+- Allows for the messiness of human experience to be expressed
 ---
 # Compassion through [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
@@ -31,7 +27,7 @@ Compassion probes for the places of pain, suffering and dissatisfaction in other
 - Risk of being a doormat 
 - Religion of external care. But it’s often a covert contract out of repressed envy. 
 ---
-# Compassion through [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]] 
+# Compassion through [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience AS MUCH sufferings as what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured 
 - Burning something to help the person get closer to fullfillment 
