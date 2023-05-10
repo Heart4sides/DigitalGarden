@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-03T18:09:42.450+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-08T21:06:38.395+02:00"}
 ---
 
 # Rôle 
 - To accomplish miracles 
 ---
 # Precocious
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - God Complex 
 - Know-it-all 
 - Follows the guidance of the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] instead of the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]   
