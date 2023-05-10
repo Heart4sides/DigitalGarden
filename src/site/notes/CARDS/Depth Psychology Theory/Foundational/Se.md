@@ -68,27 +68,35 @@ High Se users are :
 | 1-Immature | 1-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 2-Immature | 2-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 4-Immature | 4-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 5-Immature | 5-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 8-Immature | 8-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 ---
 # Mentions 
 
@@ -99,3 +107,4 @@ High Se users are :
 | References |
 | ---------- |
 
+{ .block-language-dataview}
