@@ -7,3 +7,4 @@
 | --------------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[Crusader\|Crusader]] | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]] | [Home](https://lindaberens.com/) \| [[SOURCES/Contents/Linda V Berens - Understanding Yourself and Others\|Understanding Yourself and Others]] |
 
+{ .block-language-dataview}
