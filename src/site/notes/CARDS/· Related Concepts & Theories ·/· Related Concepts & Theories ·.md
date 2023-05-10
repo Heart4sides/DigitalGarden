@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-10T21:31:55.620+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-10T21:50:39.383+02:00"}
 ---
 
 
@@ -132,6 +132,7 @@
 - [[CARDS/· Related Concepts & Theories ·/uncertainty\|uncertainty]]
 - [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
 - [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]
+- [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]
 - [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]
 - [[CARDS/· Related Concepts & Theories ·/Vergogne\|Vergogne]]
 - [[CARDS/· Related Concepts & Theories ·/Voluptuousness\|Voluptuousness]]
