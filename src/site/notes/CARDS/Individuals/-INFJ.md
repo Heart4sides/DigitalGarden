@@ -12,6 +12,7 @@
 | [[CARDS/Individuals/John Bodine\|John Bodine]]               | \-                                                                                                                                  |
 | [[CARDS/Individuals/Lysa Arryn\|Lysa Arryn]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] </li></ul>                                          |
 
+{ .block-language-dataview}
 { #a0ecc3}
 
 
