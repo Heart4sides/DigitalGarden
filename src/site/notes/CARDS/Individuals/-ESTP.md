@@ -10,6 +10,7 @@
 | [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-                                                                                                                                  |
 | [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 { #e4121c}
 
 
