@@ -11,6 +11,7 @@
 | [[CARDS/Individuals/Peggy Blomquist\|Peggy Blomquist]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))                                         |
 | [[CARDS/Individuals/Robert Greene\|Robert Greene]]       | \-                                                                                                                                  | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul> |
 
+{ .block-language-dataview}
 { #1c69d5}
 
 
