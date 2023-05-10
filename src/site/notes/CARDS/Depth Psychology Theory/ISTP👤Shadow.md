@@ -6,11 +6,16 @@
 | 5-Immature | 5-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 8-Immature | 8-Mature |
 | ---------- | -------- |
+
+{ .block-language-dataview}
