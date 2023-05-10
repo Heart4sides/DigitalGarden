@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-04T17:41:56.167+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-08T22:09:08.898+02:00"}
 ---
 
 #type/pole 
@@ -10,17 +10,34 @@
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
 ---
+# Definition by [[CARDS/Individuals/CS Joseph\|CSJ]]  
+- Vengeful 
+- Ill-[[CARDS/Depth Psychology Theory/Foundational/Ni\|will]]
+- Malice 
+- [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]] 
+- Harmful 
+- Attack people who try to destroy their internalized [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]] 
+- Icy sword of truth 
+
+---
 # [[CARDS/Depth Psychology Theory/Compassion\|Compassion]] through Malevolence 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience AS MUCH sufferings as what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured 
 - Burning something to help the person get closer to fullfillment 
 - For other’s satisfaction. 
+- Demon torturing people to free them from the shackles of their ego investments
+- Burning away lies, burning trauma away, burning poison away, like cauterizing a wound
+- Encourage others to reject people 
+- Perceive themselves as compassionate, but may actually be cruel 
+- May be spiteful for no reason. Do things for the sake of being a dick.
+
 ---
-# [[CARDS/Depth Psychology Theory/Envy\|Envy]] expressed through Malevolence
+# [[CARDS/Depth Psychology Theory/Envy\|Envy]] through Malevolence
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Balance perceived injustice by reducing one’s fortune 
 - Holding other people responsible for the lack of satisfaction in your life 
 - For the ISFJ/ENTP’s satisfaction. 
+- Inflicting the pain that one has experienced onto other people (Fairness)
 ---
 # Wordnik Definition 
 ## malevolent
@@ -48,3 +65,33 @@
 
 > [Additional info](https://www.wordnik.com/words/malevolent)
 ---
+
+# Examples 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+"Some men just want to see the world burn" (Alfred, The Dark Knight) 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- The Grinch maliciously sets traps, shaves MayWho’s head, burns down the christmas tree & steals all the gfts  
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Ramsay Bolton is envious of Theon’s nobility, so he removes his ability to bear heirs ([[CARDS/Collectives/Game of Thrones\|Game of Thrones]]) 
+
+</div></div>
+
