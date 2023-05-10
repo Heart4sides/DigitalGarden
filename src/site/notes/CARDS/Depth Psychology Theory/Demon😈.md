@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-05-02T21:33:46.015+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-05-08T21:06:38.528+02:00"}
 ---
 
 # Apathetic 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 
 ---
 # Hateful 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 ---
 # Angelic 
