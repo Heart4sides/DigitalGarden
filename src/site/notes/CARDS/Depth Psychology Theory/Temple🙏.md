@@ -1,12 +1,32 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-04T17:59:21.586+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-10T20:18:45.754+02:00"}
 ---
+
+A temple is comprised of 4 types (constituting [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]) worshiping a particular philosophy of life. 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [4:55](https://www.youtube.com/watch?v=mB0tLRRTrao&t=295s) "The temples are the 4 components of human experience." `=this.Shortref` 
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]/ [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] temples are competing for control `=this.Shortref` 
+
+</div></div>
+
 
 # of Humanity{ #3d2752}
 
-| [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |
+| [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] influence|
 | ------------------- | ------------------ |
-| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]                    |
+| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] influence | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] influence                    |
 
 ---
 # of an Individual
@@ -102,3 +122,4 @@ Body_Te --> Mind_Ti --> Heart_Fe --> Soul_Fi --> Body_Te
 | [[Vainglory\|Vainglory]]                                             | \-                                                          | [[CARDS/Depth Psychology Theory/Superego👹\|👹]]  | \-                                                           | \-                                                                  |
 | [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]               | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Superego👹\|👹]]  | \-                                                           | \-                                                                  |
 
+{ .block-language-dataview}
