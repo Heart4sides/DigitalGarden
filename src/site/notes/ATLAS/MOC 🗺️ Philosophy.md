@@ -21,6 +21,7 @@
 | [[CARDS/Individuals/Monsieur Phi\|Monsieur Phi]]         | \-                                                           | \-                                                                                                                                                                                                                                                                                                                                                                                                       |
 | [[CARDS/Individuals/Nietzsche\|Nietzsche]]               | [[CARDS/Individuals/-INTJ\|-INTJ]]                        | [Nietzsches insight for Ni and Si users \| C.S. Joseph](https://csjoseph.life/nietzsches-insight-for-ni-and-si-users/)                                                                                                                                                                                                                                                                                   |
 
+{ .block-language-dataview}
 
 
 # Content
@@ -36,3 +37,5 @@
 | [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]]                                                                                 | [Noam Chomsky: The Strange Bubble of French Intellectuals - YouTube](https://youtu.be/772WncdxCSw)                     |
 | [[SOURCES/Contents/Twelve rules for life · Jordan Peterson\|Twelve rules for life · Jordan Peterson]]                                                                                                                     | \-                                                                                                                     |
 | [[SOURCES/Contents/Vivre sans argent\|Vivre sans argent]]                                                                                                                                                                 | \-                                                                                                                     |
+
+{ .block-language-dataview}
