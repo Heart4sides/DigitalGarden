@@ -6,3 +6,4 @@
 | --------------------------------------------------------------- | ------------------------------------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/-INTJ\|-INTJ]] | brain activity patterns | <ul><li>[Home](http://www.darionardi.com/vpc.html)</li><li>[[SOURCES/Contents/Dario Nardi - Neuroscience of Personality.md\\|Neuroscience of Personality]]</li></ul> |
 
+{ .block-language-dataview}
