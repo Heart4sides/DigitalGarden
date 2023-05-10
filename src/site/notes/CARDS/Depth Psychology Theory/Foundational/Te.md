@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-04T08:42:26.734+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-10T22:03:19.191+02:00"}
 ---
 
 #on/depthpsychology 
@@ -64,36 +64,3 @@ High Te users are :
 # Te[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]�|Te]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 ---
-# Function in Attitudes
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
