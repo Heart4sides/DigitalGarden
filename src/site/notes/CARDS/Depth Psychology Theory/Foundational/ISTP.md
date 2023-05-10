@@ -9,6 +9,7 @@
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Se#What I do not experience\|Se > What I do not experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] |
 
+{ .block-language-dataview}
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
@@ -50,12 +51,14 @@ See [[CARDS/Individuals/-ISTP\|-ISTP]]
 | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[SOURCES/Contents/Healthy ISTP & ISFP friendship - Chris Taylor\|Healthy ISTP & ISFP friendship - Chris Taylor]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [Keeping ISTP & ISFP friendships healthy \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=MWybVI0JeeU&pp=ygUnS2VlcGluZyBJU1RQICYgSVNGUCBmcmllbmRzaGlwIGhlYWx0aHkg) |
 
+{ .block-language-dataview}
 ---
 # References
 | References                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
+{ .block-language-dataview}
 
 
 
