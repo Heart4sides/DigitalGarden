@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-04T16:59:17.372+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-08T21:43:50.833+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]] - [[CARDS/Depth Psychology Theory/Idolatry\|CARDS/Depth Psychology Theory/Idolatry]]
 - [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]] 
 - [[Vainglory\|Vainglory]] - [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]
-- [[CARDS/Depth Psychology Theory/Envy\|Envy]] - [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]
+- [[CARDS/Depth Psychology Theory/Envy\|Envy]] - [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] - [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] - [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 - [[CARDS/Depth Psychology Theory/Greed\|Greed]] - [[CARDS/Depth Psychology Theory/Subjugation\|Subjugation]]
@@ -37,7 +37,7 @@
 	- final product
 - [[worried\|worried]]
 - [[CARDS/Depth Psychology Theory/double-binding\|double-binding]]
-- [[CARDS/· Related Concepts & Theories ·/Malevolence\|CARDS/· Related Concepts & Theories ·/Malevolence]] : executor of sin nature (immaturity)
+- [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]] : executor of sin nature (immaturity)
 - acess to one's [[maturity\|maturity]]
 - [[mysterious\|mysterious]]
 - [[CARDS/Depth Psychology Theory/Chaos\|Chaos]] 
