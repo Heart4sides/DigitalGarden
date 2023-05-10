@@ -7,6 +7,7 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
+{ .block-language-dataview}
 Type Grid = 4 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]] x 4 [[CARDS/Depth Psychology Theory/Interaction Style💬\|interaction styles💬]] 
 # Temperaments 
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] vs [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
