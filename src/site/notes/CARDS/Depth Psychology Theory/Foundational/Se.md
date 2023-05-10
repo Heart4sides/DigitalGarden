@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-04T15:29:38.646+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-10T22:04:04.203+02:00"}
 ---
 
 #on/depthpsychology 
@@ -62,41 +62,6 @@ High Se users are :
 # Temple 
 [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
 
----
-# Function in Attitudes 
-
-| 1-Immature | 1-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 2-Immature | 2-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 3-Immature | 3-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 4-Immature | 4-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 5-Immature | 5-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 6-Immature | 6-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 7-Immature | 7-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
-| 8-Immature | 8-Mature |
-| ---------- | -------- |
-
-{ .block-language-dataview}
 ---
 # Mentions 
 
