@@ -89,7 +89,7 @@ Keep things fresh and sharp.
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[Vainglory\|Vainglory]]            |     -     |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
 
 # ENTP Ego’s Mind 
@@ -146,7 +146,7 @@ Keep things fresh and sharp.
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[Vainglory\|Vainglory]]            |     -     |
+| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
 
 
