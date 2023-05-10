@@ -6,5 +6,6 @@
 | [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] | [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] |
 | ------------- | ------------ | --------------- | ----------- |
 
+{ .block-language-dataview}
 
 
