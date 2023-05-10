@@ -9,6 +9,7 @@
 | [[CARDS/Individuals/Dr Eric Berg\|Dr Eric Berg]]     | \-                                                                                                                                  |
 | [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 { #1b1728}
 
 
