@@ -6,6 +6,7 @@
 | ------------------------------------- | ----------------------------------------- |
 | [[CARDS/Individuals/-INFP\|-INFP]] | Télérama, hors-série sur Gustave Flaubert |
 
+{ .block-language-dataview}
 
 > *"Libre au sein de sa famille, il se sentait enfermé au collège. Les élèves devaient obéir à la cloche et au tambour. Il a été renvoyé par ce qu'il ne supportait pas la [[CARDS/Depth Psychology Theory/Foundational/Si\|disciplin]]e militaire."** Yves Leclerc
 > 
