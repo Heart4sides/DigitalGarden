@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-03T18:57:22.027+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-10T20:18:25.684+02:00"}
 ---
 
 
@@ -15,6 +15,15 @@
 - Can rest on its laurels 
 - Mentality of savior of everything impairs its ability to discover 
 - Treats the 5th function either as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] or as its [[CARDS/Depth Psychology Theory/Nemesis😟\|Ally🛡️]].  
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [7:37](https://www.youtube.com/watch?v=mB0tLRRTrao&t=457s) "The Origins are coming through via the hero function" `=this.Shortref` 
+
+</div></div>
+
 
 # Irresponsible 
 - Looking for glory
