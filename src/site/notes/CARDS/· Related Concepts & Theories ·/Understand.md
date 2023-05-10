@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-04-26T00:10:50.720+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-05-10T21:22:14.641+02:00"}
 ---
 
 
@@ -23,7 +23,7 @@ Understand
 
 | cross-reference |has_topic |hypernym |hyponym |rhyme |same-context |synonym |variant |verb-form |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| to give to understand | Religion & Spirituality | believe | appreciate | Grande | Sicily | absorb | understood | understanding |
+| to give to understand | Religion & Spirituality | believe | [[CARDS/· Related Concepts & Theories ·/appreciate\|appreciate]] | Grande | Sicily | absorb | understood | understanding |
 | to have to understand |  |  | apprehend | Hand | abstract | accept |  | understands |
 | to understand trap |  |  | bottom | Land | all-composite | agree |  | understood |
 |  |  |  | catch | Marchand | bring | allow |  |  |
