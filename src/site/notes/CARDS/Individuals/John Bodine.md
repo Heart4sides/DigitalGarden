@@ -6,9 +6,11 @@
 | --------------------------------------------------------------- | ------------------------------------------------- | ---- | ------------------------------------------------------------------------ |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/John Bodine\|John Bodine]] | \-   | [John Bodine, Author at C.S. Joseph](https://csjoseph.life/author/john/) |
 
+{ .block-language-dataview}
 #on/depthpsychology 
 | File                                                                                       | External_Link                                                                                                                                         | Tags                                  |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
 | [[CARDS/Individuals/John Bodine\|John Bodine]]                                          | [John Bodine, Author at C.S. Joseph](https://csjoseph.life/author/john/)                                                                              | <ul><li>#on/depthpsychology</li></ul> |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Orbit (by John Bodine)\|Orbit (by John Bodine)]] | [The Cognitive Functions Handbook: Perception Functions \| C.S. Joseph](https://csjoseph.life/the-cognitive-functions-handbook-perception-functions/) | <ul></ul>                             |
 
+{ .block-language-dataview}
