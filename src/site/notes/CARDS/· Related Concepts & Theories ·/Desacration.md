@@ -27,7 +27,7 @@
 - Force people to be as modest as they are or even more modest (arrogance of Fi child)
 - Modest with people’s belief systems, including their own 
 ---
-# Desacration through [[Vainglory\|Vainglory]] 
+# Desacration through [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]  [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - Elect oneself the judge of what is sacred, and even more of what isn’t sacred 
 - Elect oneself the judge of who deserves what, like the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] naturally does 
