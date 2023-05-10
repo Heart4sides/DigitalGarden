@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-04T16:30:49.883+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-10T19:49:34.432+02:00"}
 ---
 
 # Themes 
@@ -10,6 +10,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]] 
 - Authenticiy, genuineness
 	- Believe honest character leads to good character (cf  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️#^5aa846\|Ego🙋‍♂️#^5aa846]])
+- Improving other people 
 ---
 # Functional 
 - Quadra : [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] and [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] 
