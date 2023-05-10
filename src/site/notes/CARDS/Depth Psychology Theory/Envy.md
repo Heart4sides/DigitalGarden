@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-04T17:50:30.367+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-08T22:06:52.587+02:00"}
 ---
 
 #type/pole 
@@ -10,14 +10,25 @@
 	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
 ---
-# Definition by CSJ
+# Definition by [[CARDS/Individuals/CS Joseph\|CSJ]] 
+- Projection of the satisfaction in other people’s lives, reminding them of their own dissatisfaction 
+- Overly critical 
+- Doesn't see what other people lack because of low Se 
+- Ni nemesis debilitating despair. Locked in depression 
+- Si overvalues personal safety. Plays it safe. 
+- Burns with envy at the mear sight of people looking happy 
+- Main source : "I'm making more efforts than others, yet they are happier" → loose all motivation, becomes slothful (expedient) 
+- Bitterness at the sight of people getting things they didn't earn 
+- Awakens when desire is not directed at the ENTP/ISFJ 
+- Can also create an unlimited amount of hope, like vainglory
 - [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] desire what other’s desire 
 - Greed over they think is unfairly given to others, esp because they didn’t provide as much effort 
 - Pain at the sight of another’s fortune, advantage, success, possessions, etc
 - Comes from bitterness & lack of desirability 
 - When you oversimplify someone’s life 
 - Motivation for revenge  
-- Makes them overly cold and critical → undesirable
+- Makes them overly cold and critical → undesirable 
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -38,7 +49,7 @@ There is a smug [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] whe
 
 
 ---
-# Envy expressed through [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]
+# Envy expressed through [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
 - Balance perceived injustice by reducing one’s fortune 
 - Holding other people responsible for the lack of satisfaction in your life 
@@ -46,7 +57,20 @@ There is a smug [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] whe
 ---
 # Envy expressed through [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]
-Seeks satisfaction through fanatic loyalty to the envied object.
+- Seeks satisfaction through fanatic loyalty to the envied object.
+
+---
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+# Envy by Saint Gregory
+“From envy there spring hatred, whispering, [[CARDS/· Related Concepts & Theories ·/detraction\|detraction]], exultation at the misfortunes of a neighbour, and affliction at his prosperity.” (`=this.Shortref`)
+
+
+</div></div>
+
 
 ---
 # Wordnik Definition 
@@ -80,6 +104,22 @@ envy
 > [Wikipedia](https://en.wikipedia.org/wiki/Envy)
 ---
 # Examples
-- [[CARDS/Individuals/The Grinch\|The Grinch]] is envious of people’s joy
-- [[Ramsay Bolton\|Ramsay Bolton]] is envious of Theon’s nobility, so he removes his ability to bear heirs 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- The Grinch is envious of other people’s joy    
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+Ramsay Bolton is envious of Theon’s nobility, so he removes his ability to bear heirs ([[CARDS/Collectives/Game of Thrones\|Game of Thrones]]) 
+
+</div></div>
+ 
 - Notes from Underground ([[CARDS/Individuals/Dostoïevski\|Dostoïevski]])
