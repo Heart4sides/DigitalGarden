@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-03T17:31:36.117+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-10T21:19:16.395+02:00"}
 ---
 
 [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
@@ -28,7 +28,7 @@ Admire
 |  |  | Tyre | brick/mortar | accord respect to | admiring |
 |  |  | afire | clary | adore |  |
 |  |  | aspire | closeout | apotheosize |  |
-|  |  | dire | easeful | appreciate |  |
+|  |  | dire | easeful | [[CARDS/· Related Concepts & Theories ·/appreciate\|appreciate]] |  |
 |  |  | expire | mes- | approve |  |
 |  |  | fire | multichannel | approve |  |
 |  |  | gire | realised | approve of |  |
