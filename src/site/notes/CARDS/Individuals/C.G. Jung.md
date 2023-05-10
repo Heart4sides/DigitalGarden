@@ -7,6 +7,7 @@
 | --------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | \-   | <ul><li>[[Cognitive Functions\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[CARDS/Depth Psychology Theory/Shadow👤.md\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> | <ul><li>[[SOURCES/Contents/CG Jung - Aion.md\\|Aion]]</li><li>[[SOURCES/Contents/Psychological Types.md\\|Psychological Types]]</li><li>[[SOURCES/Contents/C Jung-1962.md\\|Memories, Dreams, Reflections]]</li></ul> |
 
+{ .block-language-dataview}
 
 # Wikipedia 
 
