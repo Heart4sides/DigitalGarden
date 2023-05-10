@@ -10,6 +10,7 @@
 | [[CARDS/Individuals/Kant\|Kant]]                 | \-       |
 | [[CARDS/Individuals/Stephen King\|Stephen King]] | \-       |
 
+{ .block-language-dataview}
 { #7fd4f0}
 
 
