@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-04-27T21:50:45.567+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-10T18:52:43.477+02:00"}
 ---
 
 #type/grid 
@@ -29,7 +29,9 @@
 ---
 # Udja
 [Udja App](https://www.udja.app/#/)
-I work slowly and specifically according to plan in order to get things done right the first time.
+I work slowly and specifically according to plan in order to [[CARDS/· Related Concepts & Theories ·/get things done\|get things done]] right the first time.
+{ #f4ce91}
+
 
 ---
 # Companion Guide 
