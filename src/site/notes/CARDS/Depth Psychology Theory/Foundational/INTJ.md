@@ -35,7 +35,7 @@
 |     | [[ENTP👤Shadow\|ENTP👤Shadow]] | ISFJ Superego |
 | --- | ---------------- | ------------- |
 | UD  | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |               |
-| UF  | [[Vainglory\|Vainglory]]    |               |
+| UF  | [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]    |               |
 
 The INTJ belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Reverence\|Reverence]] .
