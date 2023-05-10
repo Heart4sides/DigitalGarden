@@ -6,6 +6,7 @@
 | --------------------------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- |
 | [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[-Star Wars\|-Star Wars]] | <ul><li>[[CARDS/Depth Psychology Theory/Foundational/ENTP.md\\|ENTP]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/ESTJ.md\\|ESTJ]]</li><li>[[CARDS/Individuals/-INTJ.md\\|-INTJ]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/INFJ.md\\|INFJ]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/ISFJ.md\\|ISFJ]]</li></ul> | \-        |
 
+{ .block-language-dataview}
 
 
 | File                                                        | Type                                  | Reference                                                                                                 |
@@ -15,5 +16,6 @@
 | [[CARDS/Individuals/Obi-Wan Kenobi\|Obi-Wan Kenobi]]     | [[CARDS/Individuals/-ESTJ\|-ESTJ]] | [Fictional Typing: Obi-Wan Kenobi \| C.S. Joseph](https://csjoseph.life/fictional-typing-obi-wan-kenobi/) |
 | [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]   | [[CARDS/Individuals/-ISFJ\|-ISFJ]] | [What type is the Mandalorian \| C..S Joseph](https://csjoseph.life/what-type-is-the-mandalorian/)        |
 
+{ .block-language-dataview}
 
 
