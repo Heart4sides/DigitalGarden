@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-02T11:08:58.520+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-10T19:37:14.704+02:00"}
 ---
 
 #type
@@ -17,6 +17,11 @@
 | [[CARDS/Individuals/The Joker\|The Joker]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul> |
 | [[CARDS/Individuals/Tyrion Lannister\|Tyrion Lannister]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 
+{ .block-language-dataview}
 { #7392c4}
+
+
+# Musicians 
+[ENTP - playlist by Thaïs Plouvier | Spotify](https://open.spotify.com/playlist/4uCnpN3cQbzVbtoYyoYIl1?si=4552b1c5dd524d8b)
 
 
