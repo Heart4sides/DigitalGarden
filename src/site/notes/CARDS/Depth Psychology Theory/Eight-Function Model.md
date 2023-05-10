@@ -6,6 +6,7 @@
 | --------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/John Beebe\|John Beebe]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
 
+{ .block-language-dataview}
 
 | Rank | Attitude       | [[FPS\|FPS]] |
 | ---- | -------------- | --- |
