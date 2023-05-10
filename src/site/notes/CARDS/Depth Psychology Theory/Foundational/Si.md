@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-04T15:29:49.037+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-10T21:04:55.223+02:00"}
 ---
 
 #on/depthpsychology 
@@ -22,6 +22,7 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 - Was
 - Personal consciousness
 - Personal experiences
+- Action
 - Long term memory
 - Needs
 - Discipline
@@ -73,23 +74,32 @@ High Si users are :
 | 1-Immature | 1-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 2-Immature | 2-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 3-Immature | 3-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 4-Immature | 4-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 5-Immature | 5-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 6-Immature | 6-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 7-Immature | 7-Mature |
 | ---------- | -------- |
 
+{ .block-language-dataview}
 | 8-Immature | 8-Mature |
 | ---------- | -------- |
+
+{ .block-language-dataview}
