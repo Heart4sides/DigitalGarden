@@ -1,11 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-05-03T19:22:30.219+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-05-10T20:15:34.912+02:00"}
 ---
 
 #type/virtu
 
-Blessing : you get more out of it than you put in (positive return on investment). 
-Too much of it leads to stagnation, as the return on investment diminishes with time. 
+- Blessing : you get more out of it than you put in (positive return on investment). 
+- Too much of it leads to stagnation, as the return on investment diminishes with time. 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- [10:40](https://www.youtube.com/watch?v=mB0tLRRTrao&t=640s) the living virtue is "what the temple itself is trying to aspire to be, it's what it claims to be" `=this.Shortref` 
+
+</div></div>
+
 
 | Extravert | Introvert | Living Virtu     | Risk of Stagnation                   |
 | --------- | --------- | ---------------- | ------------------------------------ |
