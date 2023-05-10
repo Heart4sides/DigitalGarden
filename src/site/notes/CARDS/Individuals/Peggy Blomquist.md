@@ -6,6 +6,7 @@
 | --------------------------------------------- | -------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[SOURCES/Contents/Fargo\|Fargo]] S2   | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series)) |
 
+{ .block-language-dataview}
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] & [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] : prefers to ignore the problematic reality of the crash 
 - “Why did he have to crash on my car ?” [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
 	- Looking for some spiritual meaning in this, relating to her 
