@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-02T19:34:16.857+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-10T18:52:09.473+02:00"}
 ---
 
 #type/grid 
@@ -70,7 +70,9 @@ I prefer to figure out a quick plan and then get moving, I'll flesh out the deta
 - being too fast
 
 ## **Aims to :**
-- Get things done
+- [[CARDS/· Related Concepts & Theories ·/get things done\|Get things done]]
+{ #040249}
+
 - Keep progress going
 - Maintain continuous improvement
 - accelerate
