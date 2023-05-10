@@ -7,6 +7,7 @@
 | --------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/-INTP\|-INTP]] | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul> | [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]] |
 
+{ .block-language-dataview}
 
 # Wikipedia 
 > **John Beebe** (born June 24, 1939) is an American psychiatrist and  Jungian analyst in practice in San Francisco.
