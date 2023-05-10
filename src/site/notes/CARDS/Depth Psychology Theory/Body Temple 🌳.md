@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-05-03T18:16:23.139+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/body-temple/","created":"2022-12-31T17:35:01.934+01:00","updated":"2023-05-10T18:56:57.673+02:00"}
 ---
 
 # Themes 
@@ -13,6 +13,8 @@
 ---
 # Core Belief 
 Humanity's problems stem from a lack of action, sense of purpose and territories to discover. 
+{ #3cae99}
+
 
 ---
 # Cognitive Origins 
