@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-05-05T11:41:09.724+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/intj/","created":"2023-04-26T22:03:44.019+02:00","updated":"2023-05-10T19:36:44.604+02:00"}
 ---
 
 #type
@@ -14,6 +14,10 @@
 | [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-                                                                                                                                  |
 | [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 { #d243d1}
 
+
+# Musicians 
+[INTJ - playlist by Thaïs Plouvier | Spotify](https://open.spotify.com/playlist/0cl876xaHzIIVxLiCud6Mk?si=2b538a65a7fe4b72)
 
