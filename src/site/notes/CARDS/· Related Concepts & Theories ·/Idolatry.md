@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/idolatry/","created":"2022-12-20T15:48:12.129+01:00","updated":"2023-05-04T17:42:45.627+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/idolatry/","created":"2022-12-20T15:48:12.129+01:00","updated":"2023-05-08T21:23:45.459+02:00"}
 ---
 
 #type/pole 
