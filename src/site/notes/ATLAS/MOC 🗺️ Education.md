@@ -17,20 +17,21 @@
 | File                                                                                                                                                                                                                         | author                                              | language |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
 | [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]                                                                                                                                                            | \-                                                  | \-       |
-| [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                  | \-       |
-| [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                  | \-       |
 | [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]                                                                                                                                                                | \-                                                  | \-       |
-| [[SOURCES/Contents/Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy\|Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy]] | \-                                                  | en       |
-| [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                  | en       |
-| [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]]                                                                                 | [[Noam Chomsky\|Noam Chomsky]]                      | en       |
-| [[SOURCES/Contents/Education x Typology\|Education x Typology]]                                                                                                                                                           | \-                                                  | en       |
-| [[SOURCES/Contents/Liberal education\|Liberal education]]                                                                                                                                                                 | \-                                                  | en       |
+| [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                  | \-       |
+| [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                  | \-       |
 | [[SOURCES/Contents/4 Sides In Education\|4 Sides In Education]]                                                                                                                                                           | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | en       |
+| [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                  | en       |
 | [[SOURCES/Contents/Educational Philosophies Comparison\|Educational Philosophies Comparison]]                                                                                                                             | \-                                                  | en       |
-| [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                                                                                                         | [[CARDS/Individuals/Tabibian\|Tabibian]]         | fr       |
+| [[SOURCES/Contents/Education x Typology\|Education x Typology]]                                                                                                                                                           | \-                                                  | en       |
+| [[SOURCES/Contents/Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy\|Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy]] | \-                                                  | en       |
+| [[SOURCES/Contents/Liberal education\|Liberal education]]                                                                                                                                                                 | \-                                                  | en       |
+| [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]]                                                                                 | [[Noam Chomsky\|Noam Chomsky]]                      | en       |
 | [[SOURCES/Contents/Les ministres passent, l'éducation trépasse\|Les ministres passent, l'éducation trépasse]]                                                                                                             | [[Le Média Pour Tous\|Le Média Pour Tous]]          | fr       |
+| [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                                                                                                         | [[CARDS/Individuals/Tabibian\|Tabibian]]         | fr       |
 | [[SOURCES/Contents/Montessori\|Montessori]]                                                                                                                                                                               | Maria Montessori                                    | fr       |
 
+{ .block-language-dataview}
 
 # Authors
 | File                                                        | Type | language |
@@ -40,10 +41,12 @@
 | [[CARDS/Individuals/CS Joseph\|CS Joseph]]               | ENTP | \-       |
 | [[CARDS/Individuals/Jacques Rancière\|Jacques Rancière]] | \-   | \-       |
 
+{ .block-language-dataview}
 | File                                                          | Type       |
 | ------------------------------------------------------------- | ---------- |
 | [[CARDS/Collectives/Good Will Hunting\|Good Will Hunting]] | INFJ, INFP |
 | [[CARDS/Collectives/Knowing Better\|Knowing Better]]       | \-         |
 
+{ .block-language-dataview}
 
 [^1]: (see [[SOURCES/Contents/The Unabridged Devil's Dictionary by Ambrose Bierce#^qxbq3\|The Unabridged Devil's Dictionary by Ambrose Bierce#^qxbq3]])
