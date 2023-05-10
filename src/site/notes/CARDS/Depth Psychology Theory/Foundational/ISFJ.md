@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-04T16:59:18.518+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-08T21:43:51.263+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -9,6 +9,7 @@
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What I do not value\|Fe > What I do not value]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] |
 
+{ .block-language-dataview}
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
@@ -22,7 +23,7 @@
 
 ---
 # Virtues & Vices
-[[Faith\|Faith]] 🆚 [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] 
+[[CARDS/· Related Concepts & Theories ·/Faith\|Faith]] 🆚 [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] 
 
 ---
 # Temple / 4 sides of the Mind
@@ -34,7 +35,7 @@
 
  |     | [[ESFP👤Shadow\|ESFP👤Shadow]] | INTJ Superego |
  | --- | ---------------- | ------------- |
- | UD  | [[CARDS/Depth Psychology Theory/Malevolence\|CARDS/Depth Psychology Theory/Malevolence]]  |               |
+ | UD  | [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]  |               |
  | UF  | [[CARDS/Depth Psychology Theory/Envy\|Envy]]         |               |
 
 The ISFJ belongs to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] .
@@ -51,10 +52,12 @@ See [[CARDS/Individuals/-ISFJ\|-ISFJ]]
 | File | Author | External Link |
 | ---- | ------ | ------------- |
 
+{ .block-language-dataview}
 ---
 # References
 | References                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
+{ .block-language-dataview}
 
