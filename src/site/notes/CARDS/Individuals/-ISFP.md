@@ -7,6 +7,7 @@
 | ----------------------------------------------- | -------- |
 | [[CARDS/Individuals/Mia Warren\|Mia Warren]] | \-       |
 
+{ .block-language-dataview}
 { #19ad9a}
 
 
