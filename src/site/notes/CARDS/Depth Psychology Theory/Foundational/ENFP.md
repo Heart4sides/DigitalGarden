@@ -9,6 +9,7 @@
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] |
 
+{ .block-language-dataview}
 # Type Grid 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
@@ -49,12 +50,14 @@ See [[CARDS/Individuals/-ENFP\|-ENFP]]
 | --------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [[SOURCES/Literature Note/NP & Committment 2023\|NP & Committment 2023]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
 
+{ .block-language-dataview}
 ---
 # References
 | References                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
+{ .block-language-dataview}
 
 
 
