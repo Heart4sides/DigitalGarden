@@ -37,7 +37,7 @@
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]  | //              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]   | //              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]] | //              |
-| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]     | [[Faith\|Faith]] |
+| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]     | [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]] |
 | Vice             |  [[Insincerity\|Insincerity]]    |  [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] |
 
 ## Temple 
