@@ -7,6 +7,7 @@
 | --------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] | [What Role Can 4 Sides Play In Education? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=qi1bNXHJ6Sc&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=2) |
 
+{ .block-language-dataview}
 
 Learning is no longer about the classroom because of the internet. 
 
