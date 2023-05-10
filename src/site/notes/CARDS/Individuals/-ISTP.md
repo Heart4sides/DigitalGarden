@@ -13,6 +13,7 @@
 | [[CARDS/Individuals/Eminem\|Eminem]]                                     | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/The Hound\|The Hound]]                               | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul>                                                                                   |
 
+{ .block-language-dataview}
 { #1c4056}
 
 
