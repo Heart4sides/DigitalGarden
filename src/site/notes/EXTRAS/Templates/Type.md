@@ -6,3 +6,4 @@
 | File | octogram |
 | ---- | -------- |
 
+{ .block-language-dataview}
