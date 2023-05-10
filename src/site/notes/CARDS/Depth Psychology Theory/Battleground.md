@@ -6,6 +6,7 @@
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | <ul><li>[[CARDS/Individuals/Chris Taylor.md\\|Chris Taylor]]</li><li>[[CARDS/Individuals/CS Joseph.md\\|CS Joseph]]</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/Foundational/ENFP.md\\|ENFP]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/ENTP.md\\|ENTP]]</li></ul> | [CSJ Members Portal](https://offers.csjoseph.life/portal) |
 
+{ .block-language-dataview}
 
 
 - [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
