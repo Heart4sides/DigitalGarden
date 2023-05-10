@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:41:11.926+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-10T21:28:02.326+02:00"}
 ---
 
 #type/pole 
@@ -15,14 +15,16 @@
 ---
 # Wordnik Definition 
 ## objectify
-*transitive verb*: To present or regard as an object.
-*transitive verb*: To make objective, external, or concrete.
-*undefined*: To make objective; present as an object; especially, to constitute as an object of sense; give form and shape to as an external object; externalize. Also <em>objectivate, objectize.</em>
-*transitive verb*: To cause to become an object; to cause to assume the character of an object; to represent or consider as an object; to render objective.
-*verb*: to make something (such as an <xref>abstract</xref> idea) possible to be <xref>perceived</xref> by the <xref>senses</xref>
-*verb*: to treat as something <xref>objectively</xref> <xref>real</xref>
-*verb*: to treat as a <xref>mere</xref> <xref>object</xref> and deny the <xref>dignity</xref> of
-*verb*: make external or objective, or give reality to
+- *transitive verb*: To present or regard as an object.
+- *transitive verb*: To make objective, external, or concrete.
+- *undefined*: To make objective; present as an object; especially, to constitute as an object of sense; give form and shape to as an external object; externalize. Also <em>objectivate, objectize.</em>
+- *transitive verb*: To cause to become an object; to cause to assume the character of an object; to represent or consider as an object; to render objective.
+- *verb*: to make something (such as an <xref>abstract</xref> idea) possible to be <xref>perceived</xref> by the <xref>senses</xref>
+- *verb*: to treat as something <xref>objectively</xref> <xref>real</xref>
+- *verb*: to treat as a <xref>mere</xref> <xref>object</xref> and deny the [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]]of
+{ #8732af}
+
+- *verb*: make external or objective, or give reality to 
 
 | hypernym |synonym |variant |verb-form |
 | --- | --- | --- | --- |
