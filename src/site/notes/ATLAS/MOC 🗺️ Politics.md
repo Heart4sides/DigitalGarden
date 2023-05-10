@@ -33,6 +33,7 @@
 | [[CARDS/Individuals/Thinkerview\|Thinkerview]]                     | \-                                                           | fr       |
 | [[CARDS/Individuals/Thomas Woodrow Wilson\|Thomas Woodrow Wilson]] | [[CARDS/Individuals/-ENFP\|-ENFP]]                        | \-       |
 
+{ .block-language-dataview}
 
 # Political Collectives 
 | File                                                                                              | Type                                                         |
@@ -41,6 +42,7 @@
 | [[CARDS/Collectives/Denmark\|Denmark]]                                                         | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] |
 | [[CARDS/Collectives/Typologie dans l'Histoire de France\|Typologie dans l'Histoire de France]] | \-                                                           |
 
+{ .block-language-dataview}
 
 # Political Content
 | File                                                                                                                                         | ref                                                                                                                        |
@@ -51,3 +53,5 @@
 | [[SOURCES/Contents/On the News · Alain de Botton\|On the News · Alain de Botton]]                                                         | [Alain de Botton on The News - YouTube](https://www.youtube.com/watch?v=SNr-AoFLjok&t=3s)                                  |
 | [[SOURCES/Contents/Tabibian x Interviews\|Tabibian x Interviews]]                                                                         | \-                                                                                                                         |
 | [[SOURCES/Contents/The Invention of Individual Responsibility · Then and Now\|The Invention of Individual Responsibility · Then and Now]] | [The Invention of Individual Responsibility - YouTube](https://youtu.be/tp4FGAv2gks)                                       |
+
+{ .block-language-dataview}
