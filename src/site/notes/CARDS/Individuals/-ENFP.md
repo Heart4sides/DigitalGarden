@@ -11,6 +11,7 @@
 | [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]                   | \-                                                                                                                                  |
 | [[CARDS/Individuals/Tony Robbins\|Tony Robbins]]           | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 { #262aa6}
 
 
