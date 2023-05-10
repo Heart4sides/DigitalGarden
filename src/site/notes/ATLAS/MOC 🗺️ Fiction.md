@@ -44,6 +44,7 @@
 | [[CARDS/Individuals/Tywin Lannister\|Tywin Lannister]]         | [[CARDS/Individuals/-ENTJ\|-ENTJ]]                                                                   | \-                                                                                                                                 | <ul></ul>                                          |
 | [[CARDS/Individuals/Varga\|Varga]]                             | [[CARDS/Individuals/-ENTJ\|-ENTJ]]                                                                   | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))                                                   | <ul></ul>                                          |
 
+{ .block-language-dataview}
 
 # Works 
 
@@ -63,3 +64,4 @@
 | [[CARDS/Collectives/Unbreakable\|Unbreakable]]                         | ISXJ       | \-        | <ul><li>#examples</li></ul>                                    |
 | [[CARDS/Collectives/Une conviction de femme\|Une conviction de femme]] | \-         | \-        | <ul></ul>                                                      |
 
+{ .block-language-dataview}
