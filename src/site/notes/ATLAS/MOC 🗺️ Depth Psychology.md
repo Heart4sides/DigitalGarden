@@ -19,6 +19,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 | [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                                        |
 | [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                             |
 
+{ .block-language-dataview}
 ---
 # Attitudes
 |  Order of Preference                        |  [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]           |
