@@ -9,6 +9,7 @@
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]     | \-       |
 | [[CARDS/Individuals/J.R.R. Tolkien\|J.R.R. Tolkien]] | \-       |
 
+{ .block-language-dataview}
 { #a6fdcd}
 
 
