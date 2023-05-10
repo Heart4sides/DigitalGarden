@@ -6,6 +6,7 @@
 | --------------------------------------------- | ------ | ------------------------------------- | --------- |
 | [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | \-     | [[CARDS/Individuals/-ENFP\|-ENFP]] | \-        |
 
+{ .block-language-dataview}
 
 - “I know what you’re thinking” [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] 
 - According to his wife, he invests all his time in his carreer, and his carreer is based on selling other people’s products & ideas. (The Founder, 30:00)[[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]  
