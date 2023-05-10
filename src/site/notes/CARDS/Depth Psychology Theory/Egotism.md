@@ -16,7 +16,7 @@
 - Unsatisfied with who they are 
 - Motivation to become worthy of [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]
 ---
-# Egotism expressed through [[Vainglory\|Vainglory]] 
+# Egotism expressed through [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - When don’t receive the deep respect they think they deserve 
 - Venerating oneself : “I am great because of who I am”
