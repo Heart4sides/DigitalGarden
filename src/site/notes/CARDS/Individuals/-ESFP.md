@@ -14,6 +14,7 @@
 | [[CARDS/Individuals/Quentin Tarantino\|Quentin Tarantino]] | \-       |
 | [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]]   | \-       |
 
+{ .block-language-dataview}
 { #a6966e}
 
 
