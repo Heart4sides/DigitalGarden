@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-02T22:32:06.480+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-08T21:06:38.454+02:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
 ---
 # Cynical 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow]] 
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
 ---
@@ -23,7 +23,7 @@
 - Valued by the Ego, to which it reveals its ignorance. 
 ---
 # Senile 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 - An old man acting like a child 
 ---
 # In Axis 
