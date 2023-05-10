@@ -8,6 +8,7 @@
 | [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]       | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Elena Richardson\|Elena Richardson]] | \-                                                                                                                                  |
 
+{ .block-language-dataview}
 { #264b75}
 
 
