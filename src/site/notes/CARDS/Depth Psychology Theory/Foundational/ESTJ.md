@@ -9,6 +9,7 @@
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [[CARDS/Depth Psychology Theory/Foundational/Te#What I do not know\|Te > What I do not know]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What I do not desire\|Ne > What I do not desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] |
 
+{ .block-language-dataview}
 # Type Grid 
 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]]</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
@@ -44,17 +45,20 @@ Its cognitive origin is [[CARDS/Depth Psychology Theory/Authority\|Authority]].
 | --------------------------------------------- | -------- |
 | [[CARDS/Collectives/Star Wars\|Star Wars]] | \-       |
 
+{ .block-language-dataview}
 ---
 # Mentions
 | File | Author | External Link |
 | ---- | ------ | ------------- |
 
+{ .block-language-dataview}
 ---
 # References
 | References                                                                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
+{ .block-language-dataview}
 
 
 
