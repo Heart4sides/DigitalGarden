@@ -18,6 +18,7 @@
 | [[CARDS/Individuals/Robert Greene\|Robert Greene]]                   | <ul><li>[[Robert Greene - Mastery\\|Mastery]], [[Robert Greene - The 48 Laws Of Power\\|The 48 Laws Of Power]]</li></ul>                            |
 | [[CARDS/Individuals/Stephen King\|Stephen King]]                     | \-                                                                                                                                                  |
 
+{ .block-language-dataview}
 
 | File                                                                                                                                                                             | References                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -37,3 +38,4 @@
 | [[SOURCES/Contents/Type and Archetype - John Beebe\|Type and Archetype - John Beebe]]                                                                                         | \-                                                                                                                                          |
 | [[SOURCES/Contents/Who Am I · The School of Life\|Who Am I · The School of Life]]                                                                                             | [Who Am I? - The School of Life](https://youtu.be/oocunV4JX4w)                                                                              |
 
+{ .block-language-dataview}
