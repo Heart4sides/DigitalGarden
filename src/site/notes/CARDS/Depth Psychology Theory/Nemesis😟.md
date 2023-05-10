@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-02T22:24:06.566+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-08T21:06:38.834+02:00"}
 ---
 
 ---
 # Worried 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
 - Concerned
 - Substracts perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Uncertain
@@ -21,7 +21,7 @@
 
 ---
 # Hesitant 
-[[CARDS/Depth Psychology Theory/Immature🐎\|Immature🐎]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 ---
 # In Axis 
