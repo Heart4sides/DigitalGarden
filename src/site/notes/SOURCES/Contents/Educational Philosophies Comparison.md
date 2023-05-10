@@ -7,6 +7,7 @@
 | ------------------------------------------------- | ------ | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [[ATLAS/MOC 🗺️ Education\|MOC 🗺️ Education]] | \-     | \-   | [https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf](https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf) |
 
+{ .block-language-dataview}
 
 # Comparison 
 
