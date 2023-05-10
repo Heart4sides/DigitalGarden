@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-04T16:33:05.329+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-10T21:30:43.497+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]
@@ -7,7 +7,9 @@
 # Udja 
 [Udja App (Typing Tool)](https://www.udja.app/#/)
 - **Superficial**, Competitive, Privilege, Egotistical, Glory, Shallow
-- **Respect**, Regard, Dignity, Admiration, Treasure, Noticed
+- **Respect**, Regard, [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]], Admiration, Treasure, Noticed
+{ #198519}
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
