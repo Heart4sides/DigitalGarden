@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-04T08:07:31.129+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-12T08:21:15.684+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@
 - **Prestige**, Legitimate, Credible, Prerogative, Permit, Access
 ---
 - The ability to change one’s life circumstances on a whim. 
-- Control over valued ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]) resources ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]) → [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
+- Control over valued ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]) resources ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]) → [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
