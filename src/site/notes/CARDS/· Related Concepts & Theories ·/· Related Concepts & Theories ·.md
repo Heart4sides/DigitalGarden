@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-10T21:50:39.383+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-11T12:24:31.607+02:00"}
 ---
 
 
@@ -108,8 +108,10 @@
 - [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]
 - [[CARDS/· Related Concepts & Theories ·/Rival\|Rival]]
 - [[CARDS/· Related Concepts & Theories ·/Romantic\|Romantic]]
+- [[CARDS/· Related Concepts & Theories ·/scathing\|scathing]]
 - [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]]
 - [[CARDS/· Related Concepts & Theories ·/Silver Lining\|Silver Lining]]
+- [[CARDS/· Related Concepts & Theories ·/slander\|slander]]
 - [[CARDS/· Related Concepts & Theories ·/Soft\|Soft]]
 - [[CARDS/· Related Concepts & Theories ·/Solve\|Solve]]
 - [[CARDS/· Related Concepts & Theories ·/sorrow\|sorrow]]
