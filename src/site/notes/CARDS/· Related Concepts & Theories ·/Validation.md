@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T09:02:47.775+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-12T08:21:17.576+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
