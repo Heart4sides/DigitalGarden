@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-03T22:21:51.564+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-12T08:21:17.768+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -35,7 +35,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]
 - [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]
-- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]
+- [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]
 ---
 ## Virtu & Vice
 | Type             |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
