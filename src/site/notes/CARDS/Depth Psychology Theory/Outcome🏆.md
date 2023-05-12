@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-10T18:52:43.477+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-12T08:21:16.336+02:00"}
 ---
 
 #type/grid 
@@ -7,7 +7,7 @@
 - Quality of the result > Speed of progression  
 - Preference shared by those who prioritize either/both : 
 	- What others think is true ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]])
-	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]])
+	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]])
 - [outcome | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=outcome)
 	- 1788, "that which results from something," originally Scottish, from the verbal phrase; see [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference#etymonline_v_9965 "Etymology, meaning and definition of out ") (adv.) + [come](https://www.etymonline.com/word/come?ref=etymonline_crossreference#etymonline_v_15860 "Etymology, meaning and definition of come ") (v.). Popularized in English by Carlyle (c. 1830s). It was used in Middle English in sense of "an emergence, act or fact of coming out" (c. 1200), and the gerund, outcoming, was used as "an issue, a result." Old English had utancumen (n.) "stranger, foreigner."
 ---
