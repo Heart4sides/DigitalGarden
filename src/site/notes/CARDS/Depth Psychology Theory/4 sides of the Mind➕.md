@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-04T09:24:23.855+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-12T08:21:15.464+02:00"}
 ---
 
 
@@ -32,5 +32,5 @@
 - When we are forced or allowed to express the least valued functions of our mind ([[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] & [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]), we transition into the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]], where we experience revelation about ourself.
 - Provided that we can overcome our apathy towards the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], we will experience [[CARDS/· Related Concepts & Theories ·/Love\|Love]] as the highest level of understanding for the alterity in ourselves and others. 
 
-> ***Example** : An ExTJ, naturally protective of their own sense of value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]) at the detriment of others, will experience other’s values ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]]) when he transitions into his [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]].* 
+> ***Example** : An ExTJ, naturally protective of their own sense of value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]) at the detriment of others, will experience other’s values ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]]) when he transitions into his [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]].* 
 ---
