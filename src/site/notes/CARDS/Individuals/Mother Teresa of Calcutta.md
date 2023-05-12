@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-10T21:40:03.140+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-12T08:21:17.638+02:00"}
 ---
 
 | MOC                                                                           | Type                                  | Octogram                                                               | Reference                                                                                                                                         |
@@ -11,7 +11,7 @@
 
 “Dearest Lord, may I see you today and every day in the person of your sick, and while nursing them, minister to you.
 
-Though you hide yourself behind the unattractive disguise of the irritable ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]), the [[CARDS/· Related Concepts & Theories ·/exacting\|exacting]], the unreasonable (lacking [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]), may I still recognize you, and say:
+Though you hide yourself behind the unattractive disguise of the irritable ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]), the [[CARDS/· Related Concepts & Theories ·/exacting\|exacting]], the unreasonable (lacking [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]), may I still recognize you, and say:
 
 “Jesus, my patient, how sweet it is to serve you.”
 
