@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-03T16:30:12.490+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-12T08:21:18.319+02:00"}
 ---
 
 #on/depthpsychology 
@@ -75,7 +75,7 @@ High Fi users are :
 | EN**             | ENTP                | ENFJ              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==                  |
 
 ---
-# Temple[[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] . 
+# Temple[[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] . 
 
 ---
 # 1🧭
