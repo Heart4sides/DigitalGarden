@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:48:33.077+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-12T08:21:16.797+02:00"}
 ---
 
 #type/grid
@@ -8,7 +8,7 @@
 	- - [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] - What I desire 
 	- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] - What I experience 
 	- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] - What I think 
-	- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] - What I value 
+	- [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] - What I value 
 - "turn within, direct inward," 1650s, from Latin intro "inward, within" (see [intro-](https://www.etymonline.com/word/intro-?ref=etymonline_crossreference "Etymology, meaning and definition of intro- ")) + vertere "to turn" ([etymonline](https://www.etymonline.com/word/introvert))
 
 # Type Grid 
