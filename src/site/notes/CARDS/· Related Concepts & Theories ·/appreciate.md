@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/appreciate/","created":"2023-05-10T21:17:39.397+02:00","updated":"2023-05-10T21:25:40.466+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/appreciate/","created":"2023-05-10T21:17:39.397+02:00","updated":"2023-05-12T08:21:17.265+02:00"}
 ---
 
 # Depth Psychology 
