@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-03T16:30:37.636+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-12T08:21:15.110+02:00"}
 ---
 
 # Fundamental Concepts 
@@ -96,7 +96,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
-|[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
+|[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|CARDS/Depth Psychology Theory/Foundational/Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
 |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] |  [[Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]        | [[Se🌪️Inferior😨\|4🌪️]] [[Ti🗡️Child👼\|3🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] | [[Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]        | [[Se🌪️hero🦸‍♂️\|1🌪️]] [[Ti🗡️Parent🤨\|2🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] |[[Ne💧Inferior😨\|4💧]] [[Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]        | [[Se🌪️Nemesis😟\|5🌪️]] [[Ti🗡️Critic🤔\|6🗡️]]             | 
