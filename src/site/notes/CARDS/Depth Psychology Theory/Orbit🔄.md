@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-02T23:07:54.222+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-12T13:46:27.819+02:00"}
 ---
 
 ## Definitions by C.S. Joseph
-- "Orbit is when what affects one function affects the other"[^1]
+- "Orbit is when what affects one function affects the other" ([[CARDS/Individuals/CS Joseph\|CSJ]]· [S18 1st Orbit](https://www.youtube.com/watch?v=J3msCUQJGFc&t=1234s&pp=ygUJY3NqIG9yYml0) )
 - Transfer of information, stream of [[communication\|communication]] between the introverted and the extraverted variant of a function (ex: between Ne and Ni)
 - Two way street, with one unconscious door (Backdoor)
 - DC = direct current 
@@ -38,4 +38,11 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orbit)
 
-[^1]: C.S.J "The 1st Orbit"
+---
+# References 
+- [The 1st Orbit: Si & Se | Season 18 Cognitive Mechanics | CS Joseph - YouTube](https://www.youtube.com/watch?v=J3msCUQJGFc&t=1234s&pp=ygUJY3NqIG9yYml0)
+- [The 2nd Orbit: Ni & Ne | Season 18 Cognitive Mechanics | CS Joseph - YouTube](https://www.youtube.com/watch?v=rfAAXpQ-csM&pp=ygUJY3NqIG9yYml0)
+- [The 3rd Orbit Ti and Te | Season 18 Cognitive Mechanics Email Lectures | CS Joseph - YouTube](https://www.youtube.com/watch?v=5OCLl2PN-Bc&pp=ygUJY3NqIG9yYml0)
+- [The 4th Cognitive Orbit Fi & Fe | Season 18 Cognitive Mechanics | CS Joseph - YouTube](https://www.youtube.com/watch?v=ur5Vvaew5hs&pp=ygUJY3NqIG9yYml0)
+
+
