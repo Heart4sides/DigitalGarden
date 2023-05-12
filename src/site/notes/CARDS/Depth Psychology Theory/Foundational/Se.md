@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-10T22:12:01.773+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-12T08:18:11.235+02:00"}
 ---
 
 #on/depthpsychology 
 
-# What I do not experience
+# What others experience
 
 # Functional Relationships 
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
