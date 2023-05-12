@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-03T18:12:01.580+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-12T08:21:17.021+02:00"}
 ---
 
 Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -28,7 +28,7 @@ Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                      |
 
-[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]]
+[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]
 [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] | [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] 
 
 ## Type Grid 
