@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-03T16:01:09.673+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-12T08:21:15.885+02:00"}
 ---
 
 - The 8 Cognitive Functions are 8 different ways of interacting with the world. 
@@ -87,7 +87,7 @@ Like with our hands, some functions are prefered over others, such that we are m
 > Example : some prefer to judge wether something is true or false, while others prefer to judge whether something is right or wrong. 
 
 These preferences exclude each other ([[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]]): 
-- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] (*Deduce*) excludes [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] (*Weigh*) : to judge wether sth is true / false ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]) one must restrain oneself to judge whether it is good / bad ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]])
+- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] (*Deduce*) excludes [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] (*Weigh*) : to judge wether sth is true / false ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]) one must restrain oneself to judge whether it is good / bad ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]])
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] (*Sense*) excludes [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] (*Imagine*) 
 - [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] (*React*) excludes [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] (*Predict*)
 - [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] (*Believe*) excludes [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] (*Empathize*) 
