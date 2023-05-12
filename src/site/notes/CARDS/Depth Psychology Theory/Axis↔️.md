@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-02T22:33:22.745+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-12T08:21:15.770+02:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 - Loose on one side to gain on the other 
 - Make the weak functions of the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]  stronger and the strong functions weaker 
 - Trading [[CARDS/Depth Psychology Theory/Optimistic\|optimism]] for [[CARDS/Depth Psychology Theory/Pessimistic\|pessimism]]
-	- Loose [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]] values to gain [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] achievement 
+	- Loose [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] values to gain [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] achievement 
 	- Loose [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] thoughts to gain [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] empathy 
 	- Loose [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] desires to gain [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] performance 
 	- Loose [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] experiences to gain [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] prescience
