@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-30T09:21:50.309+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-12T08:21:16.098+02:00"}
 ---
 
 #type/grid 
@@ -8,7 +8,7 @@
 - Preference shared by those who prioritize either/both : 
 	- What they experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]])
 	- What other people’s desire ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]])
-	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi]])
+	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]])
 - [inform | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=inform)
 	- early 14c., "to train or instruct in some specific subject," from Old French informer, enformer "instruct, teach" (13c.) and directly from Latin informare "to shape, give form to, delineate," figuratively "train, instruct, educate," from in- "into" (from PIE root [*en](https://www.etymonline.com/word/*en?ref=etymonline_crossreference "Etymology, meaning and definition of *en ") "in") + formare "to form, shape," from forma "form" (see [form](https://www.etymonline.com/word/form?ref=etymonline_crossreference#etymonline_v_11807 "Etymology, meaning and definition of form ") (n.)). In early use also enform until c. 1600. Sense of "report facts or news, communicate information to" first recorded late 14c. Related: [Informed](https://www.etymonline.com/word/Informed?ref=etymonline_crossreference "Etymology, meaning and definition of Informed "); informing.
 ---
