@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-12T13:46:27.819+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-12T13:56:14.810+02:00"}
 ---
 
 ## Definitions by C.S. Joseph
@@ -27,8 +27,8 @@
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
 ---
 ## Temples 
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|soul]] ⚛️ [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]
-- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|heart]] ⚛️ [[CARDS/Depth Psychology Theory/Body Temple 🌳\|body]]
+- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] ⚛️ [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]
+- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] ⚛️ [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]
 ---
 ## Wikipedia
 
