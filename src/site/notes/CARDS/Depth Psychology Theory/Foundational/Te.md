@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-10T22:03:19.191+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-13T09:08:26.370+02:00"}
 ---
 
 #on/depthpsychology 
@@ -61,6 +61,8 @@ High Te users are :
 | EN**             | ENTP                | ENFJ              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==                  |
 
 ---
-# Te[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]�|Te]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
+[[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]
 
 ---
+# Quotes 
+- “In the absence of communication or explanation, perceptions become reality”
