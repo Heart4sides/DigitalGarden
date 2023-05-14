@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-11T12:24:31.607+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-14T10:13:43.202+02:00"}
 ---
 
 
@@ -127,6 +127,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
+- [[CARDS/· Related Concepts & Theories ·/thoughtfulness\|thoughtfulness]]
 - [[CARDS/· Related Concepts & Theories ·/three-quarter life crisis\|three-quarter life crisis]]
 - [[CARDS/· Related Concepts & Theories ·/Tricky\|Tricky]]
 - [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]
