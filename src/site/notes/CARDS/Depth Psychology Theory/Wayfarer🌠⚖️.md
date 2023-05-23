@@ -22,7 +22,7 @@ Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ESTJ       |    ESTP       | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==|ENFJ| ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==      |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
-| 🔝   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==            | INFJ           | [[CARDS/Depth Psychology Theory/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| 🔝   | ISTJ             |   ISTP   | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==            | INFJ           | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | 🔙 |ISFJ          |  ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==  | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
