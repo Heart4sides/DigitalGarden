@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-12T08:21:16.336+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-23T15:58:25.213+02:00"}
 ---
 
 #type/grid 
@@ -35,7 +35,7 @@ I work slowly and specifically according to plan in order to [[CARDS/· Related 
 
 ---
 # Companion Guide 
-[Type Grid Companion Guide Download | C.S. Joseph 
+[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
 We need to plan everything that we are going to do so we don’t waste our time.
 ## **Outcome**
 - [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]] focus is deliberate, measured, and going at one’s own pace to obtain the result the first time through, planning every step of the process.
