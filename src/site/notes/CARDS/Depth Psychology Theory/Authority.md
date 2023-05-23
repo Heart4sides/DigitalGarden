@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-12T08:21:15.684+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-23T14:51:45.452+02:00"}
 ---
 
 
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] dyad. 
+[[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] dyad. 
 
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
