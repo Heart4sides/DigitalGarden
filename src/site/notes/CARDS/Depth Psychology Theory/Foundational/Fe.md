@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-12T08:21:18.256+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fe/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-23T16:47:43.488+02:00"}
 ---
 
 #on/depthpsychology #function 
 
-# What I do not value
-- What others value 
+# What others value 
 - Extroverted Feeling
 - Manipulates people's feelings
 - [[Empathy\|Empathy]]
@@ -61,6 +60,8 @@ High Fe users are
 | IN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==                             | INTJ                                      | INFP                                    |
 | EN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==                             | ENTJ                                      | ENFP                                     |
 
-[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]][[Fe💉\|Fe💉]]Fe💉]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]. 
+---
+# Temple
+[[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]. 
 
 ---
