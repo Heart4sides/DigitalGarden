@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-12T08:18:11.235+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-21T23:20:20.792+02:00"}
 ---
 
 #on/depthpsychology 
@@ -45,7 +45,7 @@ High Se users are :
 - [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] 
 	- [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] 
 	- [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] 
-	- [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] 
+	- [[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] 
 
 ---
 # Quadra 
