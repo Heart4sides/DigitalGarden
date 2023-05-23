@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-12T08:21:16.797+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-23T15:55:00.352+02:00"}
 ---
 
 #type/grid
 # Definition & Etymology 
 - Behaviour expressed by the individuals who have a preference for introversion, meaning they gain energy when they are alone or in a 1-1 setting. 
-	- - [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] - What I desire 
+	- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] - What I desire 
 	- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] - What I experience 
 	- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] - What I think 
 	- [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] - What I value 
