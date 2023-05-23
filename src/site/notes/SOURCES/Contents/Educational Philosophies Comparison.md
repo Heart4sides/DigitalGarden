@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-05-03T17:31:36.377+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-05-21T23:20:19.564+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -32,7 +32,7 @@
 | Curriculum                  | composed of three Rs                                                                       | three Rs, arts, sciences, vocational                            |
 | Learning                    | cognitive learning, disciplines                                                            | exploratory, discovery                                          |
 | Grouping                    | homogeneous                                                                                | heterogeneous, culturally diverse                               |
-| Teacher                     | disseminates, dominates, lectures, instruction ([[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]])                              | facilitates, coaches, change agent                              |
+| Teacher                     | disseminates, dominates, lectures, instruction ([[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]])                              | facilitates, coaches, change agent                              |
 | Student                     | receptacle, receives knowledge ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]]), [[passive\|passive]] ([[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]])               | engages discoverer, constructs knowledge                        |
 | Social                      | direction, control, restraint ([[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]])                                          | Individualism                                                   |
 | Citizenship                 | cognitive, personal development                                                            | personal, social development                                    |
@@ -76,7 +76,7 @@
 > "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]) by active [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]])." 
 > "Learning is rooted in the questions of learners that arise through experiencing the world ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]]). It is active ([[CARDS/Depth Psychology Theory/Initiating👋\|extraverted]]), not passive. The learner is a problem solver and thinker ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]) who makes meaning through his or her individual experience in the physical ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]]) and cultural ([[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]]) context"
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]])"
-> "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest👀\|interests]] and questions."
+> "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest⚖️\|interests]] and questions."
 > "The scientific [[CARDS/Depth Psychology Theory/Systematic⚙️\|method]] is used by progressivist educators so that students can study matter and events [[CARDS/Depth Psychology Theory/Systematic⚙️\|systematically]] and first hand. The emphasis is on [[process\|process]]- [[CARDS/· Related Concepts & Theories ·/The How\|how]] one comes to know."
 > "John Dewey was its foremost proponent. One of his tenets was that the school should improve the way of life ([[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] [[CARDS/Typing Toolbox/-Fe💉\|-Fe]]) of our citizens through  experiencing freedom ([[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]] [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]) and democracy in schools. Shared decision making ([[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]), planning of teachers with students, student-selected topics are all aspects. Books are tools, rather than authority."
 
