@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/isfj/","created":"2023-04-29T12:08:47.375+02:00","updated":"2023-05-03T21:16:29.488+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/isfj/","created":"2023-04-29T12:08:47.375+02:00","updated":"2023-05-21T21:02:38.599+02:00"}
 ---
 
 #type
@@ -31,7 +31,7 @@
 | Halle Berry         | actrice, productrice et ancienne mannequin                                                                |
 | Heath Ledger        | acteur                                                                                                    |
 | Jay Z               | rappeur                                                                                                   |
-| Julian Assange      | journaliste, informaticien, cybermilitant et lanceur d'alerte australien                                  |
+| [[Julian Assange\|Julian Assange]]      | journaliste, informaticien, cybermilitant et lanceur d'alerte australien                                  |
 | Khabib Nurmagomedov | combattant de MMA                                                                                         |
 | Louis Tomlinson     | chanteur, auteur compositeur du groupe One Direction                                                      |
 | Matt LeFleur        | joueur de football américain                                                                              |
