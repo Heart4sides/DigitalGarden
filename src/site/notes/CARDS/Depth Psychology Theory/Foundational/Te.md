@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-13T09:08:26.370+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-23T16:30:59.013+02:00"}
 ---
 
 #on/depthpsychology 
 
-# What I do not  know
+# What others know
 
 # Functional Relationships 
 
@@ -20,6 +20,7 @@ Te users neglect the awareness of [[CARDS/Depth Psychology Theory/Foundational/F
 --- 
 # Keywords
 - Collective Thinking
+- The appearance of [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] personal value 
 - Collective knowledge
 - Manipulate people's thoughts 
 - [[CARDS/· Related Concepts & Theories ·/Inductive\|Inductive]]
@@ -47,7 +48,7 @@ Te users neglect the awareness of [[CARDS/Depth Psychology Theory/Foundational/F
 | 🌍 | 🐜|🦊| 🦊| 🐜||                             |                             |
 |🌍| ⚙️|👀| ⚙️| 👀|                             |                             |                             |
 High Te users are : 
-- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] 
+- [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] 
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] 
 ---
 # Quadra  
