@@ -8,6 +8,6 @@
 
 
 1 of 4 [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]
-[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
+[[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 
 Like to lead and manage groups
