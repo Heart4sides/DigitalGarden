@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:50:44.594+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-22T09:54:07.836+02:00"}
 ---
 
 #type/grid 
@@ -99,7 +99,6 @@ Video : worldview & politics
 |:---------------|:------------------|:---|
 | &nbsp;avoidant | anxious           |  |
 | force pure     | explosivité&nbsp; |  |  
-
 
 ---
 # Music
