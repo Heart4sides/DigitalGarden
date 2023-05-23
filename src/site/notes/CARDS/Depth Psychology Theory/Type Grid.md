@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-04-27T19:58:20.776+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/type-grid/","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-05-21T23:20:18.976+02:00"}
 ---
 
 #on/depthpsychology #type/grid 
@@ -12,13 +12,13 @@ Type Grid = 4 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]
 # Temperaments 
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] vs [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] vs [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]]
-- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] vs [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]]
+- [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] vs [[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]]
 
 Sources : [[Plato\|Plato]], [[CARDS/Individuals/David Keirsey\|David Keirsey]], 
 
 # Interaction Styles 
 - [[CARDS/Depth Psychology Theory/Initiating👋\|Initiating👋]] vs [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]]
-- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] vs [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
+- [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] vs [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 - [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]] vs [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]
 
 Sources : [[CARDS/Individuals/Linda Berens\|Linda Berens]], [[CARDS/Individuals/CS Joseph\|CS Joseph]]
