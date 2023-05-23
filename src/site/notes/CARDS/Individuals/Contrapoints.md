@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-04-30T10:20:45.868+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-21T23:20:19.094+02:00"}
 ---
 
 #on/philosophy #on/politics 
@@ -11,7 +11,7 @@
 	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
 - [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] : "I love attention !"
 - [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] : empathize with the person but still criticize  
-- [[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] : analyzing situations on a case by case basis 
+- [[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
 - [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] 
 
@@ -87,7 +87,7 @@ Glamour ethymology
  22:06
  ```
 ![Pasted image 20230119210256.png](/img/user/EXTRAS/Images/Pasted%20image%2020230119210256.png)
-[[CARDS/Depth Psychology Theory/Interest👀\|Interest👀]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
+[[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
 ```timestamp 
  24:20
  ```
