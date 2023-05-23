@@ -12,7 +12,7 @@
 ## Roles
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent]]
 - [[CARDS/Depth Psychology Theory/Conductor\|Conductor]]
-- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] the [[Flow\|Flow]]
+- [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] the [[Flow\|Flow]]
 - [[Gatekeeper\|Gatekeeper]]
 - [[Adjust\|Adjust]] the [[Flood\|Flood]]
 - Bring [[CARDS/· Related Concepts & Theories ·/Order\|Order]]
