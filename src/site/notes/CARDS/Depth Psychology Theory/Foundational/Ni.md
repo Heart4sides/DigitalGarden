@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-10T22:04:27.814+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ni/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-23T16:34:17.855+02:00"}
 ---
 
 #on/depthpsychology 
@@ -37,7 +37,7 @@ Ni users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 | 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
 |🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
 High Ni users are : 
-- [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] 
+- [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] 
 - [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] 
 ---
 # Quadra
@@ -56,6 +56,11 @@ High Ni users are :
 
 --- 
 # Mentions 
-"Desire is a contract you make with yourself to be unhappy until you get what you want"
+- "Desire is a contract you make with yourself to be unhappy until you get what you want"
+- Ancient Greek : 
+	- Thelo “to desire, wish”
+	- [ἐπιθυμία — Wiktionnaire](https://fr.wiktionary.org/wiki/%E1%BC%90%CF%80%CE%B9%CE%B8%CF%85%CE%BC%CE%AF%CE%B1) 
+	- [βούλομαι — Wiktionnaire](https://fr.wiktionary.org/wiki/%CE%B2%CE%BF%CF%8D%CE%BB%CE%BF%CE%BC%CE%B1%CE%B9)
+	- [Himéros — Wikipédia](https://fr.wikipedia.org/wiki/Him%C3%A9ros)
 
 
