@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-10T21:30:43.497+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-23T14:51:53.352+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Cognitive origin\|Cognitive origin]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]
+[[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]. Reverence is found when they are [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] accepted. 
+
 ---
 # Udja 
 [Udja App (Typing Tool)](https://www.udja.app/#/)
