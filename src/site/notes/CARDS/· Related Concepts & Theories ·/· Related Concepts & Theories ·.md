@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-14T10:13:43.202+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-18T13:33:06.979+02:00"}
 ---
 
 
@@ -9,6 +9,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]]
 - [[CARDS/· Related Concepts & Theories ·/Admire\|Admire]]
 - [[CARDS/· Related Concepts & Theories ·/Adversity\|Adversity]]
+- [[CARDS/· Related Concepts & Theories ·/Ambiguous\|Ambiguous]]
 - [[CARDS/· Related Concepts & Theories ·/appreciate\|appreciate]]
 - [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]]
 - [[CARDS/· Related Concepts & Theories ·/Autism\|Autism]]
@@ -40,6 +41,7 @@
 - [[CARDS/· Related Concepts & Theories ·/detraction\|detraction]]
 - [[CARDS/· Related Concepts & Theories ·/diffidence\|diffidence]]
 - [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]]
+- [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]]
 - [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]]
 - [[CARDS/· Related Concepts & Theories ·/Dysphoria\|Dysphoria]]
 - [[CARDS/· Related Concepts & Theories ·/Education\|Education]]
@@ -60,6 +62,7 @@
 - [[CARDS/· Related Concepts & Theories ·/get things done\|get things done]]
 - [[CARDS/· Related Concepts & Theories ·/gradual\|gradual]]
 - [[CARDS/· Related Concepts & Theories ·/grandeur\|grandeur]]
+- [[CARDS/· Related Concepts & Theories ·/Gratification\|Gratification]]
 - [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]]
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 - [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
