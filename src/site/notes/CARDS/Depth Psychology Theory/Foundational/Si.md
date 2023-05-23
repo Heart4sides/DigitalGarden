@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-10T22:04:17.156+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-23T16:43:02.876+02:00"}
 ---
 
 #on/depthpsychology 
@@ -67,6 +67,6 @@ High Si users are :
 
 ---
 # Temple 
-[[Si⛰️][[Si\|Si⛰️][[Si]] [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]. 
+Si is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]. 
 
 ---
