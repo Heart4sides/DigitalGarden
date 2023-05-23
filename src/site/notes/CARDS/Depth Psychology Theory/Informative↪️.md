@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-12T08:21:16.098+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/informative/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-18T13:33:00.476+02:00"}
 ---
 
 #type/grid 
@@ -14,7 +14,7 @@
 ---
 # Type Grid 
 [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
-- 🆚 [[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] 
+- 🆚 [[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] 
 - 1 of 6 [[CARDS/Depth Psychology Theory/Interaction Style💬\|interaction styles💬]] 
 
 |                      | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
@@ -57,7 +57,7 @@ I prefer to give context so the other person can be informed and make the best d
 	- Notify
 
 ## **Prone to**
-- Ambiguous language
+- [[CARDS/· Related Concepts & Theories ·/Ambiguous\|Ambiguous]] language
 - Passive Aggression
 - Unclear communication
 - Other misinterpreting context
