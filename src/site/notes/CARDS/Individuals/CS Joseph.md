@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-04T16:32:40.604+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-15T13:49:17.619+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy #on/education 
