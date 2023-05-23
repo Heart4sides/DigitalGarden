@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-03T16:23:30.425+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-23T16:29:14.184+02:00"}
 ---
 
 #on/depthpsychology 
 
-#  What I do not desire 
-- & thus what others desire 
+#  What others desire 
 - Collective Potential, Future, Fate
 - Sees Possibilities
 - Prescience : predict consequences & outcomes 
