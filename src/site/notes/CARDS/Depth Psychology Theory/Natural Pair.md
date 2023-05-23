@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/natural-pair/","created":"2022-12-21T11:22:42.871+01:00","updated":"2023-05-03T22:56:46.540+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/natural-pair/","created":"2022-12-21T11:22:42.871+01:00","updated":"2023-05-23T14:51:52.932+02:00"}
 ---
 
 # Benefit : Acceptance 
