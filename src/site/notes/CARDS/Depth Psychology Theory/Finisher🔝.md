@@ -7,5 +7,5 @@
 { #a2cd63}
 
 
-[[CARDS/Depth Psychology Theory/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]  
+[[CARDS/· Related Concepts & Theories ·/Direct➡️\|Direct➡️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|Progression🏃]]  
 
