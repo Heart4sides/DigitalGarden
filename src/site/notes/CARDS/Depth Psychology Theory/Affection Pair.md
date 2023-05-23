@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-05-03T22:55:59.026+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-05-23T14:51:45.342+02:00"}
 ---
 
 #on/depthpsychology 
