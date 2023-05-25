@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-10T18:39:29.811+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-24T13:38:16.912+02:00"}
 ---
 
 # Theme 
 [[CARDS/· Related Concepts & Theories ·/equivalent exchange\|equivalent exchange]] between the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]‘s strengths and weaknesses. 
 
+- When the Ego is trying to become better than itself, it aspires into the Sub. 
 - Purpose : Conquering [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
 - Final product : [[CARDS/Depth Psychology Theory/Humility\|Humility]]
 - [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway Function⛩️]] : [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
@@ -23,3 +24,13 @@
 	- [[CARDS/Depth Psychology Theory/Fanatism\|fanatic]] 
 - [[Ignorant\|Ignorant]] : leap of faith
 - Transformed
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“fear really really drives the bus when it comes to the subconscious and it's pessimistic by default“ `=this.Shortref` 
+
+</div></div>
+
