@@ -9,7 +9,7 @@ An attribute of the [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] fu
 # Related concepts
 - [[CARDS/· Related Concepts & Theories ·/Recognition\|Recognition]]
 - [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]]
-- [[Gratitude\|Gratitude]] 
+- [[CARDS/· Related Concepts & Theories ·/Gratitude\|Gratitude]] 
 ---
 # Wornik's Definition
 ## appreciate
