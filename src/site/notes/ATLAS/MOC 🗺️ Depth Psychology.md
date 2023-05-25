@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-21T23:20:17.612+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-24T16:58:04.368+02:00"}
 ---
 
-# Fundamental Concepts 
+# Vectors to Understand the Types 
 To explore the basics of depth psychology, I suggest you start with the following pages :
 - [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|8 Cognitive Functions🛠️]] 
 - [[CARDS/Depth Psychology Theory/Attitude🎭\|8 attitudes🎭]] 
