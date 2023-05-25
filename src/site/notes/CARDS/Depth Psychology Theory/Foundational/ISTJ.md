@@ -37,7 +37,7 @@
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]          | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]        | //                           |
 | Virtu            | [[CARDS/Depth Psychology Theory/Chastity\|Chastity]]                  | [[CARDS/Depth Psychology Theory/Integrity\|Integrity]]                    |
-| Vice             | [[Nymphomania\|Nymphomania]]               | [[Corrumption\|Corrumption]]          |
+| Vice             | [[CARDS/· Related Concepts & Theories ·/Nymphomania\|Nymphomania]]               | [[Corrumption\|Corrumption]]          |
 
 ---
 # Temple / 4 sides of the Mind
