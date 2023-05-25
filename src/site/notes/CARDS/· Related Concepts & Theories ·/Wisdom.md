@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-03T01:01:13.335+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-24T13:08:42.455+02:00"}
 ---
 
 # Depth Psychology 
@@ -9,7 +9,8 @@
 - [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] : “the Sage”
 
 # C.S. Joseph
-Knowing when to do good and when to do bad, when to be truthful and when to be false. 
+- “Knowing when to do good and when to do bad, when to be truthful and when to be false.”
+- “Wisdom comes from failure and suffering” 
 
 # Etymonline
 
