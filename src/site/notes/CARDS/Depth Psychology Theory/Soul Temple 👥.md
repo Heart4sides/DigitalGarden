@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-12T08:21:16.921+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-25T11:19:05.803+02:00"}
 ---
 
 # Themes 
@@ -8,7 +8,7 @@
 - [[Individuation\|Individuation]] Process 
 - Essence 
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]] 
-- Authenticiy, genuineness
+- Authenticiy, [[CARDS/· Related Concepts & Theories ·/genuine\|genuine]]ness
 	- Believe honest character leads to good character (cf  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️#^5aa846\|Ego🙋‍♂️#^5aa846]])
 - Improving other people 
 ---
