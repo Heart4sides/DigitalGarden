@@ -15,7 +15,7 @@ Though you hide yourself behind the unattractive disguise of the irritable ([[CA
 
 “Jesus, my patient, how sweet it is to serve you.”
 
-Lord, give me this seeing [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]), then my work will never be [[monotonous\|monotonous]]. I will ever find joy ([[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]) in humoring the fancies and gratifying the wishes ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]) of all poor sufferers.
+Lord, give me this seeing [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]), then my work will never be [[CARDS/· Related Concepts & Theories ·/monotonous\|monotonous]]. I will ever find joy ([[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]) in humoring the fancies and gratifying the wishes ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]) of all poor sufferers.
 
 O beloved sick, how doubly dear ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) you are to me, when you personify Christ; and what a privilege ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) is mine to be allowed to tend you.
 
