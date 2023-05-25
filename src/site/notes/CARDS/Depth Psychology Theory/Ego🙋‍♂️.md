@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-08T21:06:38.685+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-24T12:47:44.412+02:00"}
 ---
 
 
 - [[Consciousness\|Consciousness]]
+- Where your Mind is most comfortable
 - theme : [[alignement\|alignement]]
 { #5aa846}
 
@@ -29,3 +30,15 @@
 2. [[Guidance Function\|Guidance]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 3. [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
 4. [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] 
+
+The [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] flies around trying to save everybody, but in doing so it provokes collateral damage to the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]], which causes the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] to intervene to educate the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] in becoming more responsible. 
+
+# Ego - Shadow 
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+[7:04]([YouTube](https://youtu.be/T7e7yMlWg6w?list=PLCPzIFw2QJDdx32WYP84vx_w2xbteYkr3&t=424)) : “if the ego is mature then the shadow is immature” `=this.Shortref` 
+
+</div></div>
