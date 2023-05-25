@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-04-27T18:50:58.004+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-05-24T16:56:40.736+02:00"}
 ---
 
 #type/grid 
+Disposition & Worldview 
 Question : What are you talking about ? What are you doing ? 
 Origin : Plato's Republic 
 
