@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/diogene/","created":"2023-04-08T17:30:42.290+02:00","updated":"2023-05-17T12:23:13.178+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/diogene/","created":"2023-04-08T17:30:42.290+02:00","updated":"2023-05-24T23:43:53.015+02:00"}
 ---
 
 > [!Info]- Navigation 💠
@@ -47,7 +47,7 @@ Résultat : ESTP
 12. “On demandait à ? à quelle heure il fallait dîner : - Si l'on est riche, [répondit-il](https://www.dicocitations.com/citation.php?mot=repondit-il "Citations repondit-il"), quand on veut ; si l'on est pauvre, quand on peut."
 13. “Ôte-toi de mon soleil.”
 14. “Un ami est une seule âme qui habite deux corps."
-15. Pourquoi ne pas fouetter le professeur lorsque l’élève se comporte mal ?"
+15. “Pourquoi ne pas fouetter le professeur lorsque l’élève se comporte mal ?"
 16. "La plus belle chose au monde est la liberté d’expression"
 17. "Il a une fois demandé l’aumône d’une statue et, lorsqu’on lui a demandé pourquoi il l’avait fait, il a répondu : "Pour s’entrainer à être refusé.""
 18. "Pour devenir un autodidacte, vous devez vous condamner pour toutes ces choses que vous critiqueriez les autres"
