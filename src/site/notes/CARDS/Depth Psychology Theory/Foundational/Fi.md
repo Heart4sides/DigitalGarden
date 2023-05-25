@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-22T10:16:25.006+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-24T10:31:39.648+02:00"}
 ---
 
 #on/depthpsychology 
@@ -83,6 +83,15 @@ High Fi users are :
 # 2🧭
 # 3🧭
 # 4🧭
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“EXTJ's walk around insecure that they're bad people“ `=this.Shortref` 
+
+</div></div>
+
 # 5🧭
 # 6🧭
 # 7🧭
