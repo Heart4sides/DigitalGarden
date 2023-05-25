@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-23T16:32:19.107+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-24T12:17:02.907+02:00"}
 ---
 
 - The 8 Cognitive Functions are 8 different ways of interacting with the world. 
-- Everyone uses all 8 functions, but prioritizes them differently. 
+- Everyone uses all 8 functions equally. 
+- But we are not equally **aware** of all functions. Each [[EXTRAS/Templates/Type\|Type]] prefers to tune in some functions more than others. We tune in our [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Dominant]] function with the highest [[FPS\|FPS]], then the [[CARDS/Depth Psychology Theory/Parent🤨\|Secund]] etc all the way down to the [[CARDS/Depth Psychology Theory/Demon😈\|Eighth]] function. 
 - Each of the 8 ranks is tied to an [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]].  
 - Our order of preference changes dynamically, depending on the [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|side of the mind]] we are in. 
 
