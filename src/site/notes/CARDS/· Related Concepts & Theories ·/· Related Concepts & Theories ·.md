@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-18T13:33:06.979+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-25T11:19:09.911+02:00"}
 ---
 
 
@@ -19,6 +19,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Bigotry\|Bigotry]]
 - [[CARDS/· Related Concepts & Theories ·/Borderline Autism\|Borderline Autism]]
 - [[CARDS/· Related Concepts & Theories ·/Boredom\|Boredom]]
+- [[CARDS/· Related Concepts & Theories ·/Camaraderie\|Camaraderie]]
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]]
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]]
 - [[CARDS/· Related Concepts & Theories ·/child-king\|child-king]]
@@ -59,6 +60,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Foolishness\|Foolishness]]
 - [[CARDS/· Related Concepts & Theories ·/Fortune\|Fortune]]
 - [[CARDS/· Related Concepts & Theories ·/Gen z\|Gen z]]
+- [[CARDS/· Related Concepts & Theories ·/genuine\|genuine]]
 - [[CARDS/· Related Concepts & Theories ·/get things done\|get things done]]
 - [[CARDS/· Related Concepts & Theories ·/gradual\|gradual]]
 - [[CARDS/· Related Concepts & Theories ·/grandeur\|grandeur]]
@@ -90,6 +92,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
 - [[CARDS/· Related Concepts & Theories ·/Motive\|Motive]]
+- [[CARDS/· Related Concepts & Theories ·/Nymphomania\|Nymphomania]]
 - [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]
 - [[CARDS/· Related Concepts & Theories ·/Opportunity\|Opportunity]]
 - [[CARDS/· Related Concepts & Theories ·/Order\|Order]]
@@ -113,12 +116,15 @@
 - [[CARDS/· Related Concepts & Theories ·/Romantic\|Romantic]]
 - [[CARDS/· Related Concepts & Theories ·/scathing\|scathing]]
 - [[CARDS/· Related Concepts & Theories ·/Seasons of the year\|Seasons of the year]]
+- [[CARDS/· Related Concepts & Theories ·/setback\|setback]]
 - [[CARDS/· Related Concepts & Theories ·/Silver Lining\|Silver Lining]]
+- [[CARDS/· Related Concepts & Theories ·/Skill\|Skill]]
 - [[CARDS/· Related Concepts & Theories ·/slander\|slander]]
 - [[CARDS/· Related Concepts & Theories ·/Soft\|Soft]]
 - [[CARDS/· Related Concepts & Theories ·/Solve\|Solve]]
 - [[CARDS/· Related Concepts & Theories ·/sorrow\|sorrow]]
 - [[CARDS/· Related Concepts & Theories ·/Spite\|Spite]]
+- [[CARDS/· Related Concepts & Theories ·/Spoiled Goodness\|Spoiled Goodness]]
 - [[CARDS/· Related Concepts & Theories ·/Standard\|Standard]]
 - [[CARDS/· Related Concepts & Theories ·/Status\|Status]]
 - [[CARDS/· Related Concepts & Theories ·/strained\|strained]]
@@ -126,6 +132,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]]
 - [[CARDS/· Related Concepts & Theories ·/Sunk cost\|Sunk cost]]
 - [[CARDS/· Related Concepts & Theories ·/Sympathy\|Sympathy]]
+- [[CARDS/· Related Concepts & Theories ·/Talent\|Talent]]
 - [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]
 - [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]]
 - [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
