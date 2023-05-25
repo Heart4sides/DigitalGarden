@@ -1,27 +1,31 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-08T21:06:38.834+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-24T14:04:28.895+02:00"}
 ---
 
 ---
 # Worried 
-[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
 - Concerned
 - Substracts perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Uncertain
 - Confrontational
 - Provides challenge to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], to force him to take action  
 - Agent of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
+- The Nemesis wants to be defeated by the Hero. 
+- Sometimes it just wants to make a point. 
+- Becomes a villain when it doesn’t feel heard by the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]. 
+- The Nemesis needs light to function
 
 ---
 # Ally
-[[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
 - Adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Certain 
 - Peacekeeper
 
 ---
 # Hesitant 
-[[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]** 
 
 ---
 # In Axis 
