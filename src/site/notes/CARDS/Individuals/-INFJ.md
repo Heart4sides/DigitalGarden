@@ -11,6 +11,7 @@
 | [[CARDS/Individuals/Daenerys Targaryen\|Daenerys Targaryen]] | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/John Bodine\|John Bodine]]               | \-                                                                                                                                  |
 | [[CARDS/Individuals/Lysa Arryn\|Lysa Arryn]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] </li></ul>                                          |
+| [[CARDS/Individuals/Martin Luther King\|Martin Luther King]] | <ul><li></li><li></li></ul>                                                                                                         |
 
 { .block-language-dataview}
 { #a0ecc3}
