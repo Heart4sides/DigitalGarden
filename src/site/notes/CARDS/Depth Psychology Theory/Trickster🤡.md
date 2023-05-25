@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-02T23:59:08.978+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-24T14:18:36.840+02:00"}
 ---
 
 7th [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]
-
+- Black hole 
+- You think you’re very aware of it when actually you are completely unaware 
 ---
 # Foolish 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
 
 ---
 # Curious
+**Behaviour in an [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
 
 ---
 # Double-Binding 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]** 
 
 ---
 # Master 
-
+**Behaviour in an [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]** 
 
 ---
 # In Axis 
