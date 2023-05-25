@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-15T13:49:17.619+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-24T16:14:08.955+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy #on/education 
@@ -9,5 +9,114 @@
 
 { .block-language-dataview}
 
-
-
+# Notes on Videos 
+- [ ] [S1 - Jungian Cognitive Functions](https://www.youtube.com/watch?v=kywOjcPgGl0&list=PLCPzIFw2QJDdx32WYP84vx_w2xbteYkr3&pp=iAQB) 
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [ ] E11 
+	- [ ] E12 
+	- [x] E13
+	- [x] E14
+	- [x] E15
+	- [x] E16
+- [ ] [S2 - How to Type Yourself and Others](https://www.youtube.com/watch?v=kQxzwJfdWDQ&list=PLCPzIFw2QJDdtiA1Uy7NAPtTbi50q6ce6&pp=iAQB) 
+	- [ ] E1 
+	- [x] E2
+	- [x] E3
+	- [x] E4
+	- [x] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [ ] E11 
+- [ ] [S3 - The 16 Personality Types](https://www.youtube.com/watch?v=rKEbXXbsb7k&list=PLCPzIFw2QJDdK0sYB-8ng8MTc2EmCDo9V) 
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [x] E11
+	- [ ] E12 
+	- [ ] E13
+	- [ ] E14
+	- [ ] E15
+	- [ ] E16
+- [ ] [S4 - Intimate Relationships](https://www.youtube.com/watch?v=E5jmNqmmXpM&list=PLCPzIFw2QJDeDrBLackkpYWEY5KUPVQYG) 
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+- [ ] [S5 - Jungian Cognitive Synchronicity](https://www.youtube.com/watch?v=gH9YaFADufo&list=PLCPzIFw2QJDd_s1yOZyq2yDzC_Geh3IHO&pp=iAQB) 
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+- [ ] [S6 - The 4 Pillars of Self Intimacy](https://www.youtube.com/watch?v=KugjDAH0QyY&list=PLCPzIFw2QJDd-iKFSrhSkrYtRJMlpVUcZ&pp=iAQB)
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+- [ ] [S7 - Virtue and Vice](https://www.youtube.com/watch?v=wfPGr9Cxn84&list=PLCPzIFw2QJDeIVA5fnD-TLQt1iUUfrPyw&pp=iAQB)
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [x] E6
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [x] E11
+	- [ ] E12 
+	- [ ] E13
+	- [ ] E14
+	- [ ] E15
+	- [ ] E16
+- [ ] [S8 - Type Comparisons - J vs P](https://www.youtube.com/watch?v=e0ttE91ks70&list=PLCPzIFw2QJDdTu9FbVZNvSFXSlMbRrwvX&pp=iAQB)
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
+- [ ] [S9 - Type Comparisons - E vs I](https://www.youtube.com/watch?v=1NBvt25_GbE&list=PLCPzIFw2QJDf7WMJalRWZTmbY-e-RTShL&pp=iAQB)
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [x] E6
+	- [ ] E7
+	- [ ] E8
+- [ ] [S10 - Type Comparisons - Similar Perceptions](https://www.youtube.com/watch?v=RN_ZojNgAmw&list=PLCPzIFw2QJDd9oBRWm9uLbY1IkE3x1CZv&pp=iAQB)
+	- [ ] E1
+	- [ ] E2
+	- [ ] E3
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
