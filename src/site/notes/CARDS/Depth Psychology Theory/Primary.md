@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-05-03T15:55:59.179+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-05-24T10:21:32.742+02:00"}
 ---
 
 #on/psychology 
@@ -8,6 +8,8 @@
 [[CARDS/Depth Psychology Theory/Foundational/Te\|Te]] is primary in the [[CARDS/Depth Psychology Theory/Wheel of Judgement\|Wheel of Judgement]]. 
 
 [[CARDS/Depth Psychology Theory/Optimistic\|Optimism]] is our primary preference. 
+{ #199478}
+
 
 The [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] is primary in the [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]. 
 
