@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-10T20:18:25.684+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-24T13:38:54.211+02:00"}
 ---
 
 
@@ -24,21 +24,25 @@
 
 </div></div>
 
-
+---
 # Irresponsible 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Looking for glory
 - Starts very powerful but irresponsible, so it causes collateral damage wherever it goes 
 - Doesn’t trust the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] so it compensates by trying to do everything by itself so protect the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]], which makes it arrogant and narrow-minded.  
 - Loops with the child, causing the latter to believe it can be a hero too 
 ---
 # Pilgrim Warrior 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Does its job which is to discover  
 - Is responsible, does its job without pride or complaint 
 ---
 # Complacent  
+**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Rests on its laurels because “I’ve accomplished to much”, so stops working   
 ---
 # Happy  
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Exchanges discovery for happiness
 - Finds happiness in handing over the reigns to the infant. 
 - Exchanges constant activity for rest - doesn’t try to constantly save the day, allow the other functions to grow 
