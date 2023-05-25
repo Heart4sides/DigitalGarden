@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-23T16:30:59.013+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-25T12:15:15.688+02:00"}
 ---
 
 #on/depthpsychology 
-
+![Bow-and-Arrows-sans-letters.png](/img/user/EXTRAS/Images/Bow-and-Arrows-sans-letters.png)
 # What others know
 
 # Functional Relationships 
