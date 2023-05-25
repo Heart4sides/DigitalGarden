@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-03T18:57:22.268+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-24T14:01:44.742+02:00"}
 ---
 
 
@@ -7,20 +7,20 @@
 - Paramount to develop it early in children. Once a teen, they have to develop it themselves. 
 ---
 # Fearful
-In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Most underdeveloped function due to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] being constantly used to protect it. 
 ---
 # Vulnerable 
-In the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Recognizes that the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] ‘s adversity is here to build up strength in the inferior 
 - Has faith (Si users) or bravery (Se users) to overcome its fear  
 ---
 # Proud or Vain 
-In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Covers its insecurity with pride or vanity 
 ---
 # Versatile 
-In the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Trades vulnerability for flexibility
 - Accepts and overcomes its vulnerability, which causes it to become more powerful than the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] because of what it has gone through to get there. 
 ---
