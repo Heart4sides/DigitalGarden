@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/order/","created":"2023-05-03T00:35:57.899+02:00","updated":"2023-05-10T18:30:49.372+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/order/","created":"2023-05-03T00:35:57.899+02:00","updated":"2023-05-24T13:51:25.760+02:00"}
 ---
 
 
@@ -9,3 +9,7 @@
 - The [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] begins the process of bringing order 
 - The [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] ends the process of bringing order 
 - [[CARDS/· Related Concepts & Theories ·/Yang☯️\|Yang☯️]] 
+- “Order determines [[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]]”
+- We find order through experiments and learning from failure. 
+- Figure out an outcome, then a process, then try it out and fail. 
+- The default state : death, decay, chaos, disintegration, failure 
