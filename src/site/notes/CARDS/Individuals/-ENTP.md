@@ -13,6 +13,7 @@
 | [[CARDS/Individuals/Hitler\|Hitler]]                       | \-                                                                                         |
 | [[CARDS/Individuals/Littlefinger\|Littlefinger]]           | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-                                                                                         |
+| [[CARDS/Individuals/Robert A. Glover\|Robert A. Glover]]   | <ul><li></li><li></li></ul>                                                                |
 | [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-                                                                                         |
 | [[CARDS/Individuals/The Joker\|The Joker]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul> |
 | [[CARDS/Individuals/Tyrion Lannister\|Tyrion Lannister]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
