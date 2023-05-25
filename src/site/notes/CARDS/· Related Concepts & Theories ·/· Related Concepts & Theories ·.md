@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-25T11:19:09.911+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-25T17:46:02.067+02:00"}
 ---
 
 
@@ -65,6 +65,7 @@
 - [[CARDS/· Related Concepts & Theories ·/gradual\|gradual]]
 - [[CARDS/· Related Concepts & Theories ·/grandeur\|grandeur]]
 - [[CARDS/· Related Concepts & Theories ·/Gratification\|Gratification]]
+- [[CARDS/· Related Concepts & Theories ·/Gratitude\|Gratitude]]
 - [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]]
 - [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]]
 - [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]]
@@ -91,6 +92,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]]
 - [[CARDS/· Related Concepts & Theories ·/Merit\|Merit]]
 - [[CARDS/· Related Concepts & Theories ·/Mistake\|Mistake]]
+- [[CARDS/· Related Concepts & Theories ·/monotonous\|monotonous]]
 - [[CARDS/· Related Concepts & Theories ·/Motive\|Motive]]
 - [[CARDS/· Related Concepts & Theories ·/Nymphomania\|Nymphomania]]
 - [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]
@@ -149,6 +151,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]
 - [[CARDS/· Related Concepts & Theories ·/Vergogne\|Vergogne]]
 - [[CARDS/· Related Concepts & Theories ·/Voluptuousness\|Voluptuousness]]
+- [[CARDS/· Related Concepts & Theories ·/whimsical\|whimsical]]
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
 - [[CARDS/· Related Concepts & Theories ·/Worry\|Worry]]
 - [[CARDS/· Related Concepts & Theories ·/Worth by Merriam-Webster\|Worth by Merriam-Webster]]
