@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-23T14:51:53.824+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-26T20:02:59.569+02:00"}
 ---
 
-Satisfaction is the [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] and [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] personality types. Satisfaction is found when the [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] desires are fulfilled. 
+Satisfaction is the [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] and [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] personality types. Satisfaction is found when the [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] desires are fulfilled. 
 
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
