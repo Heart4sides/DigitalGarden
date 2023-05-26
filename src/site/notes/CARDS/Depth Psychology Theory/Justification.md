@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-23T14:51:51.811+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-26T20:02:58.294+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] and [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]
+[[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] and [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]
 ---
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
@@ -21,7 +21,7 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]      | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]      | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |   | [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]             |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]        |    |
 
@@ -29,6 +29,6 @@
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]|
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]]      | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]]|   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               ||   [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]     |
