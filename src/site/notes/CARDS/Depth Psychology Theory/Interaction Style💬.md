@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-04-27T08:31:29.667+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interaction-style/","created":"2023-01-12T15:19:27.997+01:00","updated":"2023-05-26T20:52:33.220+02:00"}
 ---
 
 #type/grid 
@@ -7,6 +7,7 @@ Question : How do you interact ?
 Gateway to all human interaction and communication.
 
 # 4 Interaction Styles
+
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]| ESTJ|ESTP| ENTJ| ENFJ| ➡️| 👋| 🏆|
