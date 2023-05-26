@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-24T16:58:04.368+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T18:14:45.824+02:00"}
 ---
 
 # Vectors to Understand the Types 
@@ -7,6 +7,27 @@ To explore the basics of depth psychology, I suggest you start with the followin
 - [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|8 Cognitive Functions🛠️]] 
 - [[CARDS/Depth Psychology Theory/Attitude🎭\|8 attitudes🎭]] 
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
+
+
+- # [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]]  #mcl/list-grid
+	- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
+		- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]
+	- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] 
+		- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]
+		- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
+- # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
+	- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+	- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+	- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+	- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
+
+
+
 ---
 # Authors 
 | File                                                  | Concepts                                                                                                                                                                                                                                                                                                                  |
