@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-04-27T21:48:46.742+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T20:25:57.449+02:00"}
 ---
 
 #type/grid 
@@ -18,7 +18,7 @@
 - 🆚 [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]]
 - 1 of 6 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]] 
 
-|                      | <font size="4">  🏛️ </font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4">   ==[[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]]==  </font> | <font size="4">   🦄  </font>    |  💬                       |    💬|    💬                     |
+|                      | <font size="4">  🏛️ </font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4">   ==[[CARDS/Depth Psychology Theory/Future-Thinker🔮\|🔮]]==  </font> | <font size="4">   🦄  </font>    |  💬                       |    💬|    💬                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ESTJ   |        ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==         |    ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==                     |   ENFJ                | ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ          |     ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==       |   ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                    |   ENFP                | ↪️ | 👋       | 🏃‍♂️ |
