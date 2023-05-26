@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-25T20:57:49.318+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T10:06:48.956+02:00"}
 ---
 
 #type/grid 
-![Abstract_transparent.png](/img/user/EXTRAS/Images/Abstract_transparent.png)
+
 # Definition & Etymology 
 - Future > Past & Present 
 - Preference shared by those who prioritize either : 
