@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-23T16:43:02.876+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-26T18:10:47.092+02:00"}
 ---
 
 #on/depthpsychology 
