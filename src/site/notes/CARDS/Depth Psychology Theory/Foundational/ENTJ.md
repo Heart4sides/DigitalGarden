@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-05-26T20:25:59.522+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-05-26T21:59:31.449+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -13,7 +13,7 @@
 # Type Grid 
 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         |  |  | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|🔮]]</font>  | 
-|:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ | :------------------------------------------------ |
+|--------------------- | ------------------------- |------------------------- | ------------------------------------------------ | ------------------------------------------------ |
 |                  | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      |   
 |                    | ESFJ                      |       ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==        | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                                     | ENFP                      |  
 | [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | ISTJ                      |           ISTP            | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==                                     | INFJ                      | 
