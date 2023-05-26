@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-23T14:51:49.835+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-26T20:02:57.329+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
+[[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
 
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
