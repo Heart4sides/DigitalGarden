@@ -1,12 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T21:04:20.542+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T22:01:59.762+02:00"}
 ---
 
 #type/grid 
-# Definition & Etymology 
-- Say what they mean, mean what they say 
-- [direct | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=direct)
-	- ” c. 1400, "straight, undeviating, not crooked," from Old French direct (13c.) and directly from Latin directus "straight," adjectival use of past participle of dirigere "to set straight," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference "Etymology, meaning and definition of dis- ")) + regere "to direct, to guide, keep straight" (from PIE root [reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference "Etymology, meaning and definition of *reg- ") "move in a straight line"). Meaning "plain, expressive, not ambiguous" is from 1580s.”
+Say what they mean, mean what they say 
+
 ---
 # Vectors  
 - [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]] Stack
@@ -70,6 +68,10 @@ I'm clear with my words to avoid any guesswork.
 -   “ It’s called a frying pan because you fry eggs in it.”
 -   “ So are we going to the store or are we not going to the store?”
 
+---
+# Etymology 
+- [direct | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=direct)
+	- ” c. 1400, "straight, undeviating, not crooked," from Old French direct (13c.) and directly from Latin directus "straight," adjectival use of past participle of dirigere "to set straight," from dis- "apart" (see [dis-](https://www.etymonline.com/word/dis-?ref=etymonline_crossreference "Etymology, meaning and definition of dis- ")) + regere "to direct, to guide, keep straight" (from PIE root [reg-](https://www.etymonline.com/word/*reg-?ref=etymonline_crossreference "Etymology, meaning and definition of *reg- ") "move in a straight line"). Meaning "plain, expressive, not ambiguous" is from 1580s.”
 ---
 # Ressources 
 - [https://ubuntu-communication.ch/resources/pdf/2017-Comm\_directe\_indirecte\_f\_final.pdf](https://ubuntu-communication.ch/resources/pdf/2017-Comm_directe_indirecte_f_final.pdf)
