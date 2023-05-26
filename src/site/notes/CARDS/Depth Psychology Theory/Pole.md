@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pole/","created":"2023-02-01T19:46:46.176+01:00","updated":"2023-05-23T14:51:53.290+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pole/","created":"2023-02-01T19:46:46.176+01:00","updated":"2023-05-26T20:02:59.239+02:00"}
 ---
 
-Poles are tools to achieve the [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]], but they are also a form of the [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]]. 
+Poles are tools to achieve the [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]], but they are also a form of the [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]]. 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
