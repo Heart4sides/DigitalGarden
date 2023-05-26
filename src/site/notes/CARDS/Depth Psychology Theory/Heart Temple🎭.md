@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-23T14:51:50.015+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-26T20:02:57.690+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
@@ -79,7 +79,7 @@ Keep things fresh and sharp.
 | ------------------------ | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]   | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]]     | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]                | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]]     | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]                | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]                   |                              | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]                |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]                   |                              | [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]                |
 
@@ -87,7 +87,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
@@ -98,7 +98,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]               |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
@@ -107,7 +107,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]                              |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Envy\|Envy]]                              |    -       |
 
@@ -117,7 +117,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]               |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                | [[CARDS/Depth Psychology Theory/Compassion\|Compassion]]             |
 |                      |                              |                            |
@@ -126,7 +126,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]                              |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Envy\|Envy]]                              |    -       |
 
@@ -136,7 +136,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]  | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]  | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]       | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |                |   [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]      |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |                 |   [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]    |
 
@@ -144,7 +144,7 @@ Keep things fresh and sharp.
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
 | Humanity’s Temples | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
-| [[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
+| [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]]             | //                         |
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]             | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |      -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |  [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]            |     -     |
 |                      |                              |                            |
