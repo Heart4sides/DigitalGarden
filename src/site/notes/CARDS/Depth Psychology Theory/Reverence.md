@@ -1,8 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-23T14:51:53.352+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-26T20:02:59.394+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Cognitive origin⭕\|Cognitive origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]. Reverence is found when they are [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] accepted. 
+[[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]. Reverence is found when they are [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] accepted. 
+
+| [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] / [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]     | [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] |
+| --- | -------- | -------------- |
+| SD  |          | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]    |
+| SF  |          | [[CARDS/Depth Psychology Theory/Modesty\|Modesty]]    |
+
+| [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] / [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]      | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] |
+| --- | ---------------- | ------------- |
+| UD  | [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]  |               |
+| UF  | [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]]    |               |
 
 ---
 # Udja 
