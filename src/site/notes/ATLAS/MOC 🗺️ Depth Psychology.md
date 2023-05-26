@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T18:14:45.824+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T18:52:55.794+02:00"}
 ---
 
 # Vectors to Understand the Types 
@@ -8,8 +8,12 @@ To explore the basics of depth psychology, I suggest you start with the followin
 - [[CARDS/Depth Psychology Theory/Attitude🎭\|8 attitudes🎭]] 
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 
+- # Help #mcl/list-grid 
+	- they 
+	- they 
+- # Hello 
 
-- # [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]]  #mcl/list-grid
+- # Cognitive Functions #mcl/list-grid
 	- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
 		- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
