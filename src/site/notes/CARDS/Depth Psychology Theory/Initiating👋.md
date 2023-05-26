@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-05-24T12:43:37.169+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-05-26T20:52:25.554+02:00"}
 ---
 
 #type/grid 
 # Definition & Etymology 
+- EXXX types 
 - Behaviour expressed by the individuals who have a preference for extraversion, meaning they gain energy when they are interacting with ≥ 4 people. 
 	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] - What others desire 
 	- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] - What others experience 
@@ -16,16 +17,6 @@
 [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]
 - 🆚 [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Responding🧘‍♂️]] 
 - 1 of 6 [[CARDS/Depth Psychology Theory/Interaction Style💬\|interaction styles💬]] 
-
-|                      | <font size="4"> 🏛️</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> 🦄</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
-|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| ==[[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]==  | ==[[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]==              |       ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==        | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==              | ➡️| ==[[CARDS/Depth Psychology Theory/Initiating👋\|👋]]==       |🏆  |
-| ==[[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]==    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==              |       ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==        | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                  | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==              | ↪️ | ==[[CARDS/Depth Psychology Theory/Initiating👋\|👋]]==       | 🏃 |
-| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   |ISTJ           |      ISTP      | INTJ              | INFJ            |➡️  | 🧘‍♂️ | 🏃|
-| [[CARDS/Depth Psychology Theory/Background🔙\|🔙]] | ISFJ           |      ISFP       | INTP                | INFP         | ↪️| 🧘‍♂️ | 🏆
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | ⚙️  |  👀   |⚙️      |👀  |                       |                            |                         |
 
 ---
 # Udja 
