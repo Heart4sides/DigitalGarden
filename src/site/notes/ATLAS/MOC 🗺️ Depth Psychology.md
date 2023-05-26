@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T20:22:56.030+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T20:31:31.635+02:00"}
 ---
 
 # Vectors to Understand the Types 
@@ -70,7 +70,8 @@ To explore the basics of depth psychology, I suggest you start with the followin
 ---
 # 4 Interaction Styles x 4 Temperaments 
 [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]    /     [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]
-|                      | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]   |  [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]   | [[CARDS/Depth Psychology Theory/Future-Thinker 🔮\|🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]    |                       |                            |                     |
+
+|                      | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]   |  [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]   | [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]    |                       |                            |                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]        | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]              | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
 | [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]        | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]                  | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
@@ -82,6 +83,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 ---
 # 4 Quadras 
+
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]              | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]              | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]             | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] |
@@ -110,7 +112,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 |                    |                   |
 |                    |                   |
 | [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]]                    |                   |
-|  [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]                   |                   |
+| [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]                   |                   |
 | [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]                    |  [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]]                  |
 
 ---
@@ -122,7 +124,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
-|[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|CARDS/Depth Psychology Theory/Foundational/Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
+|[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
 |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] |  [[Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]        | [[Se🌪️Inferior😨\|4🌪️]] [[Ti🗡️Child👼\|3🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] | [[Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]        | [[Se🌪️hero🦸‍♂️\|1🌪️]] [[Ti🗡️Parent🤨\|2🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] |[[Ne💧Inferior😨\|4💧]] [[Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]        | [[Se🌪️Nemesis😟\|5🌪️]] [[Ti🗡️Critic🤔\|6🗡️]]             | 
