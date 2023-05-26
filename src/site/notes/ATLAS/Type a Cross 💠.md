@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-03T19:03:25.365+02:00"}
+{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-26T18:11:41.558+02:00"}
 ---
 
 # Type a Cross 💠
@@ -27,4 +27,3 @@ The [[CARDS/Depth Psychology Theory/Secund\|secundary]] focus is on studying the
 - [[ATLAS/MOC 🗺️ Politics\|Politics]] | #on/politics 
 - Neuroscience | #on/neuroscience 
 - [[ATLAS/MOC 🗺️ Fiction\|Fiction]] 
-
