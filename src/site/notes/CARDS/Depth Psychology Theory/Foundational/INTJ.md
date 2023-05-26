@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-26T20:25:59.930+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-26T21:56:20.975+02:00"}
 ---
 
 #on/depthpsychology  #type 
