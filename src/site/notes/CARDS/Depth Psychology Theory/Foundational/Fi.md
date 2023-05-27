@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-24T10:31:39.648+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/fi/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-27T15:36:16.373+02:00"}
 ---
 
 #on/depthpsychology 
@@ -76,7 +76,7 @@ High Fi users are :
 
 ---
 # Temple
-[[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] . 
+[[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] . 
 
 ---
 # 1🧭
