@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chastity/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:54:00.137+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chastity/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.990+02:00"}
 ---
 
 #type/pole 
@@ -7,16 +7,16 @@
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy Dyad]] 
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]   
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
+	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]   
 ---
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] pole of the [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy Dyad]] :
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 ---
 # Definition by CSJ
-- Focusing on the relationship between [[CARDS/Depth Psychology Theory/Soul Temple 👥\|souls]] (spiritual, emotional, psychological) instead of the relationship between bodies. ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S18, E24)
+- Focusing on the relationship between [[CARDS/Depth Psychology Theory/Soul Temple👤\|souls]] (spiritual, emotional, psychological) instead of the relationship between bodies. ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S18, E24)
 - Intimacy with self-acceptance 
 
 
