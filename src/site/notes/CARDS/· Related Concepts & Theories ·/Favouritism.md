@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/favouritism/","created":"2023-01-17T22:00:04.460+01:00","updated":"2023-05-04T17:43:20.060+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/favouritism/","created":"2023-01-17T22:00:04.460+01:00","updated":"2023-05-27T15:36:25.336+02:00"}
 ---
 
 #type/pole 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of the [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]]  :
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 ---
 # Definition by CSJ 
