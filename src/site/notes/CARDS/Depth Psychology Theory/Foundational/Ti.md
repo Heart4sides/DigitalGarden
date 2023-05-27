@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-05-05T11:00:06.780+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-05-27T15:35:35.223+02:00"}
 ---
 
 #on/depthpsychology 
@@ -56,7 +56,7 @@ High Ti users are :
 
 ---
 # Temple 
-[[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
+[[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]. 
 
 ---
 # Ti Bias 
