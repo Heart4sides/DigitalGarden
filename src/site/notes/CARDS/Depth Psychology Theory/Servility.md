@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-04T17:39:01.844+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:35:31.263+02:00"}
 ---
 
 #type/pole 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]  
-	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 # Definition by CSJ
