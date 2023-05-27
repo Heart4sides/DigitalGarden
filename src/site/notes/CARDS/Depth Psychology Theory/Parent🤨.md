@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-24T13:40:01.102+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-27T15:34:43.912+02:00"}
 ---
 
-2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|cognitive function]], but last to develop in the ego (20s). 
+2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|cognitive function]], but last to develop in the ego (20s). 
 It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the primary source of responsibility in a human being. It develops through adversity. 
 
 # Roles 
