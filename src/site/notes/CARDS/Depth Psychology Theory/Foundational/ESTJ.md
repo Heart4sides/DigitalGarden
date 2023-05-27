@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-05-27T15:35:34.482+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estj/","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-05-27T21:35:00.274+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Structure🔛\|In charge🔛]] [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher]] devoted to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                   | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                      | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                         |
+| -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What others desire\|Ne > What others desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] |
 
 { .block-language-dataview}
 # Type Grid 
