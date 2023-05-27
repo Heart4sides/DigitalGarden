@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/templar/","created":"2023-01-04T19:20:17.077+01:00","updated":"2023-05-25T17:18:07.096+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/templar/","created":"2023-01-04T19:20:17.077+01:00","updated":"2023-05-27T15:36:15.192+02:00"}
 ---
 
 
@@ -34,8 +34,8 @@
 | Vice             |  [[Corrumption\|Corrumption]]           |   [[CARDS/· Related Concepts & Theories ·/Nymphomania\|Nymphomania]]                          |
 
 # Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-[[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
+[[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
+[[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]
 
 # Mirroring
 ![292806313_5597024243682825_3636919196813151815_n.jpg](/img/user/EXTRAS/Images/292806313_5597024243682825_3636919196813151815_n.jpg)
