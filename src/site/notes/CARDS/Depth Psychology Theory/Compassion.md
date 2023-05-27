@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-10T20:41:58.828+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:13.004+02:00"}
 ---
 
 #type/pole 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
 	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]  
 ---
 # Definition by CSJ 
