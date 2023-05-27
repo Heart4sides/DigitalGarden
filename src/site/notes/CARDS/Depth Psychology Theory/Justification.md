@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-26T20:02:58.294+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.543+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] and [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]
@@ -19,13 +19,13 @@
 
 | Type             |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | -------------------- | ---------------------------- | -------------------------- |
-| [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
-| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[Soul Temple👥\|Soul👥]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Mind⚒️]] |
+| [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[Soul Temple👥\|Soul👥]] | [[Mind Temple\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]      | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |   | [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]             |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               | [[CARDS/Depth Psychology Theory/Absolution\|Absolution]]        |    |
 
-| Type             |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Shadow👤\|👤]] |  [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type             |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] |  [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]|
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
