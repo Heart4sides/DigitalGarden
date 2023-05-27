@@ -1,24 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-05-27T15:35:34.378+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfj/","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-05-27T21:29:17.193+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Structure🔛\|In charge🔛]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]].  
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
-
-{ .block-language-dataview}
 # Type Grid 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
-|:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
-| [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]]                    | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
-| 🔜                    | ESFJ                      |    ESFP |ENTP                                   | ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
-| 🔝    | ISTJ                      |           ISTP            | INTJ| INFJ| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
-| 🔙                    | ISFJ        |           ISFP            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
-|🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
-| 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
-|🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
+
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]   | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬    | 💬    | 💬    |
+|:--------------- |:------------------------- |:-------------------------:|:------------------------- |:------------------------------------- |:----- |:----- |:----- |
+| [[CARDS/Depth Psychology Theory/Structure🔛\|Structure🔛]] | ESTJ                      |           ESTP            | ENTJ                      | ENFJ                                  | ➡️    | 👋    | 🏆    |
+| 🔜              | ESFJ                      |           ESFP            | ENTP                      | ENFP                                  | ↪️    | 👋    | 🏃‍♂️ |
+| 🔝              | ISTJ                      |           ISTP            | INTJ                      | INFJ                                  | 🧘‍♂️ | 🏃‍♂️ | 🔙    |
+| 🔙              | ISFJ                      |           ISFP            | INTP                      | INFP                                  | ↪️    | 🧘‍♂️ | 🏆    |
+| 🌍              | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                        | 🧲                                    |       |       |       |
+| 🌍              | 🐜                        |            🦊             | 🦊                        | 🐜                                    |       |       |       |
+| 🌍              | ⚙️                        |            👀             | ⚙️                        | 👀                                    |       |       |       |
 
 ---
 # Virtues & Vices
@@ -27,13 +24,14 @@
 ---
 # Temples
 [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] | [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
+
 | [[CARDS/Depth Psychology Theory/Octogram☀️\|Octogram☀️]] | ENFJ Ego          | [[ISTP Sub🤸\|ISTP Sub🤸]] |
-| ------------ | ----------------- | ----------------- |
-| SD           |                   | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]    |
-| SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
-|              | [[CARDS/Depth Psychology Theory/INFP Shadow👤\|INFP Shadow👤]]       | ESTJ Superego     |
-| UD           | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]] |                   |
-| UF           | [[CARDS/Depth Psychology Theory/Pride\|Pride]]           |                   |
+| -------------- | ----------------- | -------------- |
+| SD             |                   | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]] |
+| SF             |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]   |
+|                | [[CARDS/Depth Psychology Theory/INFP Shadow👤\|INFP Shadow👤]] | ESTJ Superego  |
+| UD             | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]] |                |
+| UF             | [[CARDS/Depth Psychology Theory/Pride\|Pride]]         |                |
 The ENFJ belongs to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]].
 Its cognitive origin is [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]].
 
