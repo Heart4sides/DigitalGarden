@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-04T16:09:23.541+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-27T15:36:16.682+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                          | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                   | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                        | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                             |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What others value\|Fe > What others value]] | [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Se#What others experience\|Se > What others experience]] |
+[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]. 
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
+| ------------- | ------------ | ----------- | ------------ |
 
 { .block-language-dataview}
 # Type Grid 
@@ -37,7 +36,7 @@
 | UD  | [[CARDS/· Related Concepts & Theories ·/Idolatry\|Idolatry]]   |               |
 | UF  | [[CARDS/Depth Psychology Theory/Lust\|Lust]]    |               |
 
-The INFJ belongs to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  .
+The INFJ belongs to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]  .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy]] .
 
 ---
