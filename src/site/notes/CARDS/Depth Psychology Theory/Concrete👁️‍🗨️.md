@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-22T09:54:07.836+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:29:16.961+02:00"}
 ---
 
 #type/grid 
@@ -30,7 +30,7 @@
 ---
 # Temple 
 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
 
 ---
@@ -42,7 +42,8 @@ What "is" matters more to me than what's possible.
 # Companion Guide 
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
 ## Concrete 
--  is a focus on tangibles such as the physical world, experience, [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]], and observation. 
+- Prefers to start with what’s known and work towards potential solutions. 
+- is a focus on tangibles such as the physical world, experience, [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]], and observation. 
 -   Concrete perceives through the five senses of sight, sound, touch, taste, and smell. 
 -   Concrete asks “What is?”
 -   Concrete is present/past-focused, proven, and realistic.   
