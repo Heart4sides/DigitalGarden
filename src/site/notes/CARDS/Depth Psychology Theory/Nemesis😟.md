@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-24T14:04:28.895+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-27T15:36:22.723+02:00"}
 ---
 
 ---
 # Worried 
-**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 - Concerned
 - Substracts perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Uncertain
@@ -18,7 +18,7 @@
 
 ---
 # Ally
-**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 - Adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Certain 
 - Peacekeeper
