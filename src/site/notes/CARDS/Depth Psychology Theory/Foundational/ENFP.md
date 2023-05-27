@@ -1,13 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-05-03T19:13:43.794+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-05-27T15:36:16.259+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                  | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                   |
-| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| [[CARDS/Depth Psychology Theory/Foundational/Ne#What others desire\|Ne > What others desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] |
+[[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]. 
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
+| ------------- | ------------ | ----------- | ------------ |
 
 { .block-language-dataview}
 # Type Grid 
@@ -37,7 +36,7 @@
 | UD  | [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]]    |               |
 | UF  | [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]]    |               |
 
-The ENFP belongs to the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] .
+The ENFP belongs to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Justification\|Justification]] .
 
 ---
