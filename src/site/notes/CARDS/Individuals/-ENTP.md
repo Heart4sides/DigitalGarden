@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-10T19:37:14.704+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-26T22:21:52.687+02:00"}
 ---
 
 #type
@@ -22,7 +22,8 @@
 { #7392c4}
 
 
+Mostly ENTPs : [List of fictional tricksters - Wikipedia](https://en.wikipedia.org/wiki/List_of_fictional_tricksters)
+
 # Musicians 
 [ENTP - playlist by Thaïs Plouvier | Spotify](https://open.spotify.com/playlist/4uCnpN3cQbzVbtoYyoYIl1?si=4552b1c5dd524d8b)
-
 
