@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-05-14T10:47:26.962+02:00"}
+{"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-05-27T15:36:12.087+02:00"}
 ---
 
 #on/psychology 
@@ -9,7 +9,7 @@
 The KEY ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) moment ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]) in people’s life is when their living legacy is most vulnerable = Pregnancy🤰 
 
 What is required for the child’s prosperity, one must FIRST provide it to oneself : 
-Alignment ([[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) → Peace ([[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]][[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]) → Knowledge ([[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]) → Prosperity ([[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]). 
+Alignment ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]] [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) → Peace ([[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]][[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]) → Knowledge ([[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]] [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]) → Prosperity ([[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]). 
 
 - [[Woman🙎‍♀️\|Women🙎‍♀️]] must have **self-respect** 
 	- ==Why ?== [[Woman🙎‍♀️\|Women🙎‍♀️]]‘s [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]] needs + [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] feelings = Fetus👶’ health = Woman🙎‍♀️’s value 
