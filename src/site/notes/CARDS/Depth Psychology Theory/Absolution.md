@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:44:01.832+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.260+02:00"}
 ---
 
 #type/pole 
 
 [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]]
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 ---
 # Definition by CSJ
 - Height of giving the benefit of the [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]] 
