@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-03T18:57:23.439+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-27T15:36:22.081+02:00"}
 ---
 
 
 ## Attitudes
 [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] : [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
-[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
+[[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] : [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] : [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 
 ## Roles
