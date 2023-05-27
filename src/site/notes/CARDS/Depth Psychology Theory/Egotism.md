@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/egotism/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:58:28.301+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/egotism/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:35:28.677+02:00"}
 ---
 
 #type/pole 
@@ -7,7 +7,7 @@
 # 4 sides of the Mind 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]]: 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
 ---
 # Egotism expressed through [[CARDS/Depth Psychology Theory/Modesty\|Modesty]] 
