@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-24T13:08:42.455+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-27T15:36:26.076+02:00"}
 ---
 
 # Depth Psychology 
 - [[tradition\|tradition]] = the corpse of wisdom 
 - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] : final product is wisdom 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] : final product is wisdom 
 - [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] : “the Sage”
 
 # C.S. Joseph
@@ -29,7 +29,7 @@ From [Middle English](https://en.wikipedia.org/wiki/Middle_English "w:Middle En
 Cognate with [Dutch](https://en.wikipedia.org/wiki/Dutch_language "w:Dutch language") _[wijzen](https://en.wiktionary.org/wiki/wijzen#Dutch "wijzen")_ (“to indicate, point out”), [German](https://en.wikipedia.org/wiki/German_language "w:German language") _[weisen](https://en.wiktionary.org/wiki/weisen#German "weisen")_ (“to show, indicate”), [Danish](https://en.wikipedia.org/wiki/Danish_language "w:Danish language") and [Norwegian Bokmål](https://en.wikipedia.org/wiki/Bokm%C3%A5l "w:Bokmål") _[vise](https://en.wiktionary.org/wiki/vise#Norwegian_Bokm%C3%A5l "vise")_ (“to show”), [Norwegian Nynorsk](https://en.wikipedia.org/wiki/Nynorsk "w:Nynorsk") _[visa](https://en.wiktionary.org/wiki/visa#Norwegian_Nynorsk "visa")_ (“to show”).
 
 Ref :: [wise - Wiktionary](https://en.wiktionary.org/wiki/wise#:~:text=From%20Middle%20English%20wisen%20(%E2%80%9Cto,(%E2%80%9Cto%20know%E2%80%9D).)
-[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]], [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] 
+[[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]], [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]] 
 
 # Wordnik Definition 
 ## wise
