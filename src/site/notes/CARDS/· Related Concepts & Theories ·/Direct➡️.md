@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T22:01:59.762+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:19:44.486+02:00"}
 ---
 
 #type/grid 
@@ -7,7 +7,7 @@ Say what they mean, mean what they say
 
 ---
 # Vectors  
-- [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]] Stack
+- [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] Stack
 	- Preference shared by those who prioritize either/both (First 2 slots) : 
 		- Their [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] desires 
 		- Their [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]] reputation 
@@ -23,6 +23,7 @@ I'm clear with my words to avoid any guesswork.
 ---
 # Companion Guide 
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
+
 ## **DIRECT communication is** 
 -   explicit
 -   specific
