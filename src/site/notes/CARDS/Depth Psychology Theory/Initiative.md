@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-04T17:53:20.882+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.966+02:00"}
 ---
 
 #type/pole 
@@ -7,8 +7,8 @@
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]pole, [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]] of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
-	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]   
+	- Humanity’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
+	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]   
 ---
 # Definitions by CSJ 
 - Leadership is an aspect of initiative : when you transfer your power to other people, you make sure that your power is being used. 
