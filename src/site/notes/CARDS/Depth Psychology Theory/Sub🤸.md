@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-24T13:38:16.912+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sub/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:35:31.631+02:00"}
 ---
 
 # Theme 
@@ -11,7 +11,7 @@
 - [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway Function⛩️]] : [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]] Function : [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
 - [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guidance Function🚿]] : [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
-- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 - [[CARDS/· Related Concepts & Theories ·/Order\|Orderly transition]]  : 
 	- Brave ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] users) 
 	- Faithful ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] users) 
