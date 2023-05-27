@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-04-30T11:14:25.647+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-05-27T15:35:34.137+02:00"}
 ---
 
 #on/education 
@@ -12,7 +12,7 @@ Education = provide the foundational tools so that independent learning becomes 
 
 - [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] 
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] function : educates the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 - [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]]
 	- prefers to educate and [[CARDS/Depth Psychology Theory/Informative↪️\|Informative↪️]] 
 	- exhibits explanatory tendencies 
