@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-26T20:02:59.997+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:26.045+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
@@ -59,14 +59,14 @@ Seeking accuracy helps me become a better teacher. I must learn to listen to oth
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
-| Individual’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
-| Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
+| Individual’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[Mind Temple\|Mind⚒️]]  | [[Soul Temple👥\|Soul👥]] |
+| Humanity’s Temples | [[Soul Temple👥\|Soul👥]] | [[Mind Temple\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               |              -                | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]         |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |        [[CARDS/Depth Psychology Theory/Humility\|Humility]]                  |            |
 |                      |                              |                            |
 
-| Type                 |  [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type                 |  [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of Humanity\|Temple🙏#of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -79,13 +79,13 @@ Seeking accuracy helps me become a better teacher. I must learn to listen to oth
 
 | Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
-| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]]  | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] |
-| Humanity’s Temples | [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] |
+| Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[Mind Temple\|Mind⚒️]]  | [[Soul Temple👥\|Soul👥]] |
+| Humanity’s Temples | [[Soul Temple👥\|Soul👥]] | [[Mind Temple\|Mind⚒️]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]            | //                         |
 | [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]]               | -          | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]         |
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |   [[CARDS/Depth Psychology Theory/Humility\|Humility]]          |          |
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
