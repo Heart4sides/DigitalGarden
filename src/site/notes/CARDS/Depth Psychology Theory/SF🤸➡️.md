@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-10T19:39:29.059+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-27T15:36:15.032+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Double-down on ther [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍
 
 SF people are focused on being [[happy\|happy]]. 
 
-SF is attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+SF is attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
 
 It is the [[CARDS/Depth Psychology Theory/Primary\|Primary]] preference of the mind.
 
