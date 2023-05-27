@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-04-27T21:50:43.140+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-05-27T15:36:12.770+02:00"}
 ---
 
 #type/grid 
@@ -31,7 +31,7 @@
 ---
 # Temple 
 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+- [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 
 ---
 # Udja
