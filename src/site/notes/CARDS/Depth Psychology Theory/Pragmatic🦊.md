@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T20:25:57.449+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T15:35:30.340+02:00"}
 ---
 
 #type/grid 
@@ -31,7 +31,7 @@
 ---
 # Temple 
 [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]] 
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]  ? 
+- [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]  ? 
 
 ---
 # Udja
