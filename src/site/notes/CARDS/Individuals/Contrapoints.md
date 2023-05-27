@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-21T23:20:19.094+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-27T15:36:15.347+02:00"}
 ---
 
 #on/philosophy #on/politics 
 
 ## Contrapoints' Type
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]
+- [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
 	- [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 	- [[CARDS/Depth Psychology Theory/Lust\|Lust]]
 	- [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
@@ -87,7 +87,7 @@ Glamour ethymology
  22:06
  ```
 ![Pasted image 20230119210256.png](/img/user/EXTRAS/Images/Pasted%20image%2020230119210256.png)
-[[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul]] 
+[[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul]] 
 ```timestamp 
  24:20
  ```
@@ -241,7 +241,7 @@ Freud about [[CARDS/· Related Concepts & Theories ·/Fetichism\|Fetichism]]
 Trans = narcissistic male fetichist who preys on women
 ![Pasted image 20230118014124.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014124.png)
 ![Pasted image 20230118014140.png](/img/user/EXTRAS/Images/Pasted%20image%2020230118014140.png)
-- Lack of [[Identity \|Identity ]] ([[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]])
+- Lack of [[Identity \|Identity ]] ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]])
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]]
 ```timestamp 
  01:03:41
