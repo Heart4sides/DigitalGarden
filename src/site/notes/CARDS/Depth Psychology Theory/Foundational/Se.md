@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-26T18:10:34.023+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-27T15:35:35.001+02:00"}
 ---
 
 #on/depthpsychology 
@@ -60,7 +60,7 @@ High Se users are :
 
 --- 
 # Temple 
-[[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]. 
+[[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]. 
 
 ---
 # Mentions 
