@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-02T20:44:17.895+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/secund/","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-27T15:36:23.988+02:00"}
 ---
 
 
 Secundary prefered functions : 
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 - [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] 
 
 Secundary prefered attitudes : 
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] 
 - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] (also secund to develop) → secund in the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-- [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] → secund in the [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]
+- [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] → secund in the [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]
 - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] → secund in the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 Functional IPOF : 
