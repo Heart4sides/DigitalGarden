@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-24T12:47:44.412+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:36:13.294+02:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 - mature: [[responsible\|responsible]]    
 - final product : [[CARDS/· Related Concepts & Theories ·/Order\|Order]] 
 - Ego-focused people tend to be boring & bland
-- Light of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]
+- Light of the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]
 - [[Hare\|Hare]]
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 
