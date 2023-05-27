@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-24T14:32:02.899+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:35:29.454+02:00"}
 ---
 
 #type/pole
@@ -11,7 +11,7 @@
 - [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] is the function of humility 
 - The [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] or [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - The [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]‘ final product is humility 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 - [[CARDS/Depth Psychology Theory/Humility\|Humility]] is a prerequisite for [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
 - Ego Death is embracing [[CARDS/Depth Psychology Theory/Humility\|Humility]] as a result of the pain in your life.  
 - Taking responsibility for your actions and mistakes. 
