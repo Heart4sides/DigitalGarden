@@ -1,15 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-05-10T19:51:57.508+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-05-27T21:38:30.459+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                            | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                         | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                  | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                           |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Se#What others experience\|Se > What others experience]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] |
 
 { .block-language-dataview}
 # Type Grid 
+
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛| ESTJ|ESTP| ENTJ| ENFJ| ➡️| 👋| 🏆|
