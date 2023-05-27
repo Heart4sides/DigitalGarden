@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/c-g-jung/","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-04-29T17:02:07.777+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/c-g-jung/","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-05-27T15:36:25.062+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy
 | MOC                                                             | Type | Concepts                                                                                                                                                                                                                                                                                                                  | Reference                                                                                                                                                                                                             |
 | --------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | \-   | <ul><li>[[Cognitive Functions\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[CARDS/Depth Psychology Theory/Shadow👤.md\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> | <ul><li>[[SOURCES/Contents/CG Jung - Aion.md\\|Aion]]</li><li>[[SOURCES/Contents/Psychological Types.md\\|Psychological Types]]</li><li>[[SOURCES/Contents/C Jung-1962.md\\|Memories, Dreams, Reflections]]</li></ul> |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | \-   | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[Shadow👤\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> | <ul><li>[[SOURCES/Contents/CG Jung - Aion.md\\|Aion]]</li><li>[[SOURCES/Contents/Psychological Types.md\\|Psychological Types]]</li><li>[[SOURCES/Contents/C Jung-1962.md\\|Memories, Dreams, Reflections]]</li></ul> |
 
 { .block-language-dataview}
 
@@ -20,8 +20,8 @@
 > [Wikipedia](https://en.wikipedia.org/wiki/Carl%20Jung)
 
 # Quotes 
-> [!quote]- [[CARDS/Individuals/C.G. Jung\|C.G. Jung]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]] 
-> *“The [[CARDS/Depth Psychology Theory/Shadow👤\|unconscious]] always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung
+> [!quote]- [[CARDS/Individuals/C.G. Jung\|C.G. Jung]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] [[CARDS/· Related Concepts & Theories ·/Growth\|Growth]] 
+> *“The [[CARDS/Depth Psychology Theory/Shadow👥\|unconscious]] always tries to produce an impossible situation in order to force the individual to bring out his very best. Otherwise one stops short of one's best, one is not complete, one does not realize oneself. What is needed is an impossible situation where one has to renounce one's own will and one's own wit and do nothing but wait and trust to the impersonal power of growth and development. When you are up against a wall, be still and put down roots like a tree, until clarity comes from deeper sources to see over that wall.”* ~ Carl Jung
 { #f56118}
 
 
