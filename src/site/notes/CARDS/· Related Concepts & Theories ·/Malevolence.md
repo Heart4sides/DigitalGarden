@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-08T22:09:08.898+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-27T15:36:25.665+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 ---
 # Definition by [[CARDS/Individuals/CS Joseph\|CSJ]]  
 - Vengeful 
