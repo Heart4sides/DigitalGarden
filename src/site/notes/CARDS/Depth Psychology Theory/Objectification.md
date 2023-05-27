@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-10T21:28:02.326+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:35:29.760+02:00"}
 ---
 
 #type/pole 
@@ -7,7 +7,7 @@
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Intimacy\|Intimacy Dyad]] :
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]  
-	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Humanity’s and Individual’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 ---
 # Definition by CSJ
 - Broader understanding of people instead of seeing them in their uniqueness 
