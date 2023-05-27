@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-12T08:21:15.770+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-27T15:36:21.810+02:00"}
 ---
 
 
@@ -26,11 +26,11 @@
 
 # 4 Sides in Axis
 - [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] - [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] - [[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]
 
 # Temples in Axis
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
-- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] - [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind⚒️]] 
+- [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]] - [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] 
+- [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] - [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]] 
 
 # Personal Observations
 - One function protects the other. 
