@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T17:50:39.987+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:13.789+02:00"}
 ---
 
 #type/pole 
@@ -7,7 +7,7 @@
 [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]pole of the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 ---
 # Definition by CSJ 
 - Over-indulgence 
