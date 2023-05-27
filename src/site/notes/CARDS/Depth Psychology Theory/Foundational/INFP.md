@@ -1,16 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-05-27T15:35:34.781+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-05-27T21:42:01.364+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-[[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]][[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted  to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
+[[CARDS/Depth Psychology Theory/Background🔙\|Background🔙]] [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] devoted  to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]]. 
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                        | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                     | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                                    | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                 |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What others desire\|Ne > What others desire]] | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] |
 
 { .block-language-dataview}
 ---
 # Type Grid 
+
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]]</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | ESTJ                      |           ESTP            | ENTJ                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
@@ -27,6 +29,7 @@
 
 ---
 # Temple / 4 sides of the Mind
+
 |  | INFP Ego          | [[CARDS/Depth Psychology Theory/ESTJ Sub🤸\|ESTJ Sub🤸]] |
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]     |
