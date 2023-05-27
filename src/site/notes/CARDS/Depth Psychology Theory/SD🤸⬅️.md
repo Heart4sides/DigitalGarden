@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-05-03T20:49:41.453+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-05-27T15:35:31.022+02:00"}
 ---
 
 
@@ -9,11 +9,11 @@ Meaning the person favored and developed his or her [[CARDS/Depth Psychology The
 
 The default goal of the brain is to become SD/SF
 
-Attached to the Subconscious Temple = [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
+Attached to the Subconscious Temple = [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]
 
 [[CARDS/Depth Psychology Theory/Primary\|Primary]] preference of the mind. 
 
-Attached to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] or the [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] (in [[CARDS/Depth Psychology Theory/Temple🙏#Temples of Humanity’s Mind\|Temple🙏#Temples of Humanity’s Mind]])
+Attached to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] or the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] (in [[CARDS/Depth Psychology Theory/Temple🙏#Temples of Humanity’s Mind\|Temple🙏#Temples of Humanity’s Mind]])
 
 | Extravert | Introvert | SD Pole              | 
 | --------- | --------- | ------------------------- |
