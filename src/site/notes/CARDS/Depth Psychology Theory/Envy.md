@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-08T22:06:52.587+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-27T15:35:31.333+02:00"}
 ---
 
 #type/pole 
@@ -8,7 +8,7 @@
 [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 ---
 # Definition by [[CARDS/Individuals/CS Joseph\|CSJ]] 
 - Projection of the satisfaction in other people’s lives, reminding them of their own dissatisfaction 
