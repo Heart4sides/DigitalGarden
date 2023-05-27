@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-05-02T21:20:14.919+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-05-27T15:36:26.766+02:00"}
 ---
 
 #on/depthpsychology 
@@ -20,7 +20,7 @@
 | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]  | Vulnerability | Happiness      |
 
 
-| ➕  | [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]           | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]     |                
+| ➕  | [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]           | [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]     |                
 | ---------------- | ------------ | -------------- |
 |     🔗             | [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] | [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] |
 |                  | Depth  (-/+)      | Revelation     |
