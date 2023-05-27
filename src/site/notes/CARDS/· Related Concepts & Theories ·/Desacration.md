@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-04T17:42:22.531+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:25.267+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] : 
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 ---
 # Desecration by Dictionary.com 
 [Desecration Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/desecration)
