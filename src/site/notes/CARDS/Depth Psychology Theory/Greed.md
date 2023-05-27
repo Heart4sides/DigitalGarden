@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-04T17:49:46.015+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.835+02:00"}
 ---
 
 #type/pole 
@@ -27,7 +27,7 @@
 </div></div>
 
 - There is greed in generosity when what they give has strings attached 
-- Fills the lack of identity ([[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul👥]]) with achievements 
+- Fills the lack of identity ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]) with achievements 
 ---
 # Greed through Subjugation 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
