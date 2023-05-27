@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-12T08:21:17.768+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-27T15:36:14.406+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -48,5 +48,5 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 
 ---
 # Temple 
-[[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] | [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+[[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] | [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 
