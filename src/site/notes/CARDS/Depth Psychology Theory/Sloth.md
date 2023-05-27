@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-10T19:09:12.149+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-27T15:36:24.006+02:00"}
 ---
 
 #type/pole 
@@ -11,7 +11,7 @@
 ---
 # Personal Observations 
 - Sloth is caused by a lack of [[CARDS/Depth Psychology Theory/Foundational/Ni\|desire]], which comes from the individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
-- The effect of this focus is a lack of [[CARDS/· Related Concepts & Theories ·/action\|action]], which comes from the individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- The effect of this focus is a lack of [[CARDS/· Related Concepts & Theories ·/action\|action]], which comes from the individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 - It creates the [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]], which “attempts to get something for nothing” ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22). 
 - [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] is “the indication of the existence of something” ([Wordnik](https://www.wordnik.com/words/manifestation)), but through sloth, it indicates the presence of something that isn’t there.  
 ---
