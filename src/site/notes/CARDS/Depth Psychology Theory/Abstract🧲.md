@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T20:25:56.745+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/abstract/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:29:30.665+02:00"}
 ---
 
 #type/grid 
@@ -30,7 +30,7 @@
 
 ---
 # Temple 
-- [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+- [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 - [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 ---
@@ -42,6 +42,7 @@ Whats possible matters more to me than what "is".
 # Companion Guide 
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
 ## Abstract 
+-	Prefers to start with what could be and works to make it happen.
 -	Abstract is a focus on intangibles such as concepts, implications, visualizations, and meanings.
 -	Abstract perceives through impression and intuition. 
 -	Abstract asks “What if?” 
