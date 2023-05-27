@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-12T08:21:15.464+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-27T15:36:21.609+02:00"}
 ---
 
 
 # 1. Ego 🙋‍♂️
-- Our Type = Our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] = Our 4 preferred [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|Cognitive Functions🛠️]] in a specific order. 
+- Our Type = Our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] = Our 4 preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]] in a specific order. 
 - We spend around 75% of our time in our [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]].  But events in our lives push us to momentarily modify this order of preference by transitioning into one of the other 3 sides of our mind. 
 
 > ***Example** : the ISTJ type prefers using these 4 functions : 
@@ -22,11 +22,11 @@
 > ***Example** : An IxTP, naturally focused on what is true or false ([[Ti)\|Ti)]], will prefer to care for other people’s values and to act ethically ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe]]) when transitioning into his [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]].* 
 ---
 # 3. Shadow 👤
-- When we are forced or allowed to express the repressed functions of our mind (our [[CARDS/Depth Psychology Theory/Secund\|secundary]] preferences), we transition into the [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]], where we experience the other side of the coin.
+- When we are forced or allowed to express the repressed functions of our mind (our [[CARDS/Depth Psychology Theory/Secund\|secundary]] preferences), we transition into the [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]], where we experience the other side of the coin.
 - This side is naturally pessimistic and source of suffering in our lives. Only adversity can push us towards this side of the mind.  
 - Provided that we can overcome our [[CARDS/· Related Concepts & Theories ·/Worry\|worry]] and antagonistic attitude towards the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] , we will get [[CARDS/· Related Concepts & Theories ·/Wisdom\|wisdom]] out of this transition. 
 
-> ***Example** : An ISxJ, naturally focused on his own experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]), will perceive the experiences of others ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]) when he transitions into his [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]].*
+> ***Example** : An ISxJ, naturally focused on his own experience ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]), will perceive the experiences of others ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]) when he transitions into his [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]].*
 ---
 # 4. Superego 👹
 - When we are forced or allowed to express the least valued functions of our mind ([[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] & [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]), we transition into the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]], where we experience revelation about ourself.
