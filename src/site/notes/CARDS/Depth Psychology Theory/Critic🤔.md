@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-24T14:03:48.729+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-27T15:36:21.937+02:00"}
 ---
 
 
@@ -13,12 +13,12 @@
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
 ---
 # Cynical 
-**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow]]** 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow]]** 
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
 ---
 # Wise 
-**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
+**Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 - [[CARDS/· Related Concepts & Theories ·/Adds➕\|Adds➕]] [[CARDS/Depth Psychology Theory/Humility\|Humility]] to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - Valued by the Ego, to which it reveals its ignorance. 
 ---
@@ -31,7 +31,7 @@
 ---
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit🔄\|💫]] with the Parent 
-- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] ([[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]) : 
+- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] ([[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]) : 
 	- [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 	- Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
 - Optimistic ([[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] ) : 
