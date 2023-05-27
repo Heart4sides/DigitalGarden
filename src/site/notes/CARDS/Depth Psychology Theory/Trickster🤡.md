@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-24T14:18:36.840+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/trickster/","created":"2022-12-31T00:59:13.583+01:00","updated":"2023-05-27T15:36:24.461+02:00"}
 ---
 
 7th [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]]
@@ -7,11 +7,11 @@
 - You think you’re very aware of it when actually you are completely unaware 
 ---
 # Foolish 
-**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 
 ---
 # Curious
-**Behaviour in an [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]** 
+**Behaviour in an [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 
 ---
 # Double-Binding 
@@ -42,7 +42,15 @@
 ---
 # In Reflection
 - The trickster is trying to replace the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]. It can fill the role of the parent more easily because it’s an [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] function. It comes into play earlier in life than the parent, through [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] with the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]. 
-
+---
+# Mentions 
+“1. Hynes and Doty, in Mythical Trickster Figures (1997) state that every trickster has several of the following six traits:[1]
+- fundamentally ambiguous 
+- anomalous deceiver and trick-player 
+- shape-shifter or master of disguise 
+- situation-inverter
+- messenger and imitator of the gods 
+- sacred and lewd bricoleur”
 
 
 ---
