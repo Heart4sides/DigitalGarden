@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-03T18:57:23.343+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-27T15:36:21.697+02:00"}
 ---
 
 #on/psychology
@@ -14,7 +14,7 @@
 
 [[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
 
-| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
+| ==[[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
 | ----------------------- | ---------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Nemesis😟#Worried\|Nemesis😟#Worried]]   | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#Hateful\|Demon😈#Hateful]]                    |
 | [[CARDS/Depth Psychology Theory/Critic🤔#Cynical\|Critic🤔#Cynical]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Double-Binding\|Trickster🤡#Double-Binding]]                    |
@@ -33,7 +33,7 @@
 
 [[CARDS/Depth Psychology Theory/Orbit🔄\|🔄]] 
 
-| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
+| ==[[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]==        | [[CARDS/Depth Psychology Theory/Axis↔️\|↔️]] | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]== |
 | ----------------------- | ---------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Nemesis😟#Ally\|Nemesis😟#Ally]]   | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|🌊]] | [[CARDS/Depth Psychology Theory/Demon😈#\|Demon😈#]]                    |
 | [[CARDS/Depth Psychology Theory/Critic🤔#Wise\|Critic🤔#Wise]]     | [[CARDS/Depth Psychology Theory/Guidance Function🚿\|🚿]]| [[CARDS/Depth Psychology Theory/Trickster🤡#Master\|Trickster🤡#Master]]                    |
