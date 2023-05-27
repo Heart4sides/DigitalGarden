@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-26T18:10:17.893+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-05-27T15:36:16.716+02:00"}
 ---
 
 #on/depthpsychology 
@@ -51,7 +51,7 @@ High Ne users are :
 
 ---
 # Temple 
-[[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] 
+[[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 
 --- 
 # 1💧 
