@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-02T19:34:17.386+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-27T15:35:32.118+02:00"}
 ---
 
 | Type                                  | Reference                                 |
@@ -116,7 +116,7 @@
 
 > *"Peut-être est-ce le cœur en moi qui est impuissant."*
 - Thème de l’[[CARDS/Depth Psychology Theory/Authority\|Authority]] (origine cognitive de l’INFP & ESTJ) 
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] on an [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] with [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
+- [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] on an [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]] with [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 > *"Puis comme la marche l'essoufflait un peu, on s'arrêtait sous une porte cochère et il racontait des anecdotes anciennes, se plongeait dans les souvenirs. Sa voix haute sonnait dans la solitude de Paris endormi. Souvent, aux éclats de cette parole, deux agents s'approchaient doucement comme deux ombres, et s'éloignaient sans bruit après avoir jeté un coup d'œil furtif sur ce géant en gilet blanc qui criait si fort en frappant les pavés de sa canne. Alors, chez cet écrivain de génie, chez ce prodigieux romancier, on découvrait une naïveté d'enfant, presque de l'ingénuité parfois. Son observation, si aiguë et si brutale dans le livre, semblait émoussée dans la pratique usuelle de la vie. On l'avait imaginé sceptique ; il était au contraire plein de croyances, non de croyances religieuses bien entendu, mais de cet abandonnement si humain à toutes les espérances, à tous les sentiments doux et réconfortants. Blessé souvent, comme on l'est du reste chaque jour dans le pêle-mêle féroce du monde, il s'était formé dans son âme un fond permanent de tristesse ; et, sa nature impressionnable luttant avec sa forte raison, il passait sans cesse d'une sorte de gaieté inconsciente à la mélancolie noire. »* Guy de Maupassant
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] + [[CARDS/Typing Toolbox/-informative↪️\|-informative↪️]]  = raconter des anecdotes de son passé
