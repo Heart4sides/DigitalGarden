@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-26T22:05:55.706+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-27T15:36:21.349+02:00"}
 ---
 
 # Vectors to Understand the Types 
 To explore the basics of depth psychology, I suggest you start with the following pages :
-- [[CARDS/Depth Psychology Theory/Cognitive Functions🛠️\|8 Cognitive Functions🛠️]] 
+- [[CARDS/Depth Psychology Theory/Cognitive Functions\|8 Cognitive Functions🛠️]] 
 - [[CARDS/Depth Psychology Theory/Attitude🎭\|8 attitudes🎭]] 
 - [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 
@@ -33,7 +33,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 - # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 	- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 	- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-	- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+	- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 - # c3
 
@@ -43,7 +43,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 # Authors 
 | File                                                  | Concepts                                                                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[Cognitive Functions\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[CARDS/Depth Psychology Theory/Shadow👤.md\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
+| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[Shadow👤\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
 | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[Guidance Function\\|Guidance Function]]</li><li>[[Gateway Function\\|Gateway Function]]</li></ul>                                                                                                                                      |
 | [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind➕.md\\|4 sides of the Mind➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[Temple\\|Temple]]</li><li>[[Octogram\\|Octogram]]</li></ul>                                                                                 |
 | [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                                         |
@@ -60,10 +60,10 @@ To explore the basics of depth psychology, I suggest you start with the followin
 |  2[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                    |
 |  3[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                    |
 |  4[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    |  [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                   |
-|    5[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
-|    6[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
-|   7[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
-|   8[[CARDS/Depth Psychology Theory/Shadow👤\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
+|    5[[CARDS/Depth Psychology Theory/Shadow👥\|👤]]    |  [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]                   |
+|    6[[CARDS/Depth Psychology Theory/Shadow👥\|👤]]    | [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]                    |
+|   7[[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     |  [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]                   |
+|   8[[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]                    |  
 
 ---
 # 4 sides of the Mind
@@ -71,7 +71,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 | ==[[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]==  |   [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]]| ==[[CARDS/Depth Psychology Theory/Sub🤸\|Sub🤸]]== |
 | -------------- | ------------------ | ------------------- |
 | [[CARDS/Depth Psychology Theory/Orbit🔄\|Orbit🔄]] | [[CARDS/Depth Psychology Theory/Axis↔️\|Axis↔️]]     |                     |
-| ==[[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
+| ==[[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]==  |                    | ==[[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]]==     |
 
 ---
 # 4 Interaction Styles x 4 Temperaments 
@@ -128,7 +128,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 ---
 # 4 Temples 
 
-| [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
+| [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] |[[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]]| [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] |  [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
 | --- | ------------------ | ------------------ | ------------- |
 |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
 |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] |  [[Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]        | [[Se🌪️Inferior😨\|4🌪️]] [[Ti🗡️Child👼\|3🗡️]]             | 
