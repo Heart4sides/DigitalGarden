@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-04T17:57:36.783+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.016+02:00"}
 ---
 
 #type/pole 
@@ -7,8 +7,8 @@
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
-	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple 👥\|Soul Temple 👥]]  
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]
+	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]  
 ---
 # [[CARDS/Depth Psychology Theory/Initiative\|Initiative]] through Credulity
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
