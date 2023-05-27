@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-26T21:56:20.975+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-27T21:39:54.006+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -7,8 +7,9 @@
 [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|Future-Thinker🔮]] [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]] devoted to the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]. 
 
 # Cognitive Function Stack 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] |
-| ------------- | ------------ | ----------- | ------------ |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                          | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                 | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                          | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                             |
+| -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Se#What others experience\|Se > What others experience]] |
 
 { .block-language-dataview}
 ---
