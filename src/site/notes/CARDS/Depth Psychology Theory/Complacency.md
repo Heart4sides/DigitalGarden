@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-04T17:38:38.459+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-27T15:35:27.539+02:00"}
 ---
 
 #type/pole 
@@ -7,7 +7,7 @@
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]  
-	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 # Definition by CSJ 
