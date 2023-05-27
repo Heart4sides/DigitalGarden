@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/vainglory/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-10T21:50:50.349+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/vainglory/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:35:32.946+02:00"}
 ---
 
 #type/pole 
@@ -8,7 +8,7 @@
 [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 ---
 # Egotism expressed through [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] 
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
