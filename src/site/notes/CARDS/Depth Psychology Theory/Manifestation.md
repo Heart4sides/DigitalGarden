@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T17:42:08.030+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:22.645+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]] 
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  
 
