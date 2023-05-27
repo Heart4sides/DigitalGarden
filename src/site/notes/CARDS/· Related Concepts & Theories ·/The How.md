@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","created":"2022-12-31T00:36:30.657+01:00","updated":"2023-05-24T13:51:58.330+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","created":"2022-12-31T00:36:30.657+01:00","updated":"2023-05-27T15:36:25.934+02:00"}
 ---
 
 ## Related Notes 
 - [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]
-- [[CARDS/Depth Psychology Theory/Shadow👤\|Shadow👤]]
+- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]
 - [[CARDS/· Related Concepts & Theories ·/Skill\|Skill]]
-- [[CARDS/Depth Psychology Theory/Mind Temple ⚒️\|Mind Temple ⚒️]]
+- [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]]
 
 ## Wordnik 
