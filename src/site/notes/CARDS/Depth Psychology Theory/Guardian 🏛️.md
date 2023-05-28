@@ -1,5 +1,5 @@
 ---
-{"alias":"🏛️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","dgPassFrontmatter":true,"created":"2023-01-12T12:07:29.951+01:00","updated":"2023-05-28T11:24:24.655+02:00"}
+{"alias":"🏛️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T12:07:29.951+01:00","updated":"2023-05-28T11:24:24.655+02:00"}
 ---
 
 ref :: ["[[CARDS/Individuals/David Keirsey\|David Keirsey]]", "[[Plato\|Plato]]"]
