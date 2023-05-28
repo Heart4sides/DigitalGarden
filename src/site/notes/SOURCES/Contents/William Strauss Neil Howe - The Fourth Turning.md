@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/william-strauss-neil-howe-the-fourth-turning/","created":"2023-02-24T16:37:26.468+01:00","updated":"2023-04-20T12:41:44.077+02:00"}
+{"alias":"The Fourth Turning","author":"William Strauss, Neil Howe","category":"History","publisher":"Crown","publish":"2009-01-16","pages":400,"isbn":"0307485056 9780307485052","cover_url":"https://books.google.com/books/content?id=d8bBFGJq79sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"unread","created":"2023-02-24T16:37:26.468+01:00","dg-publish":true,"permalink":"/sources/contents/william-strauss-neil-howe-the-fourth-turning/","dgPassFrontmatter":true,"updated":"2023-04-20T12:41:44.077+02:00"}
 ---
 
 **Title:** The Fourth Turning  
