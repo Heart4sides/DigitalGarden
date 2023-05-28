@@ -1,5 +1,5 @@
 ---
-{"alias":"how, manner, mean","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","dgPassFrontmatter":true,"created":"2022-12-31T00:36:30.657+01:00","updated":"2023-05-27T15:36:25.934+02:00"}
+{"alias":"how, manner, mean","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T00:36:30.657+01:00","updated":"2023-05-27T15:36:25.934+02:00"}
 ---
 
 ## Related Notes 
