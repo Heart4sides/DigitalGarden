@@ -1,5 +1,5 @@
 ---
-{"Source":"Comedia Dell'Arte","Author":null,"Au_Type":null,"Ch_Type":null,"Cat":"fiction","Me_Cat":"watch 🎞️ / read 🔠","Theme":null,"languague":"fr","Tag":"examples","dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-29T16:25:19.886+01:00","updated":"2023-01-29T17:38:18.260+01:00"}
+{"dg-publish":true,"permalink":"/sources/contents/comedia-dell-arte/","noteIcon":"1","created":"2023-01-29T16:25:19.886+01:00","updated":"2023-01-29T17:38:18.260+01:00"}
 ---
 
 
