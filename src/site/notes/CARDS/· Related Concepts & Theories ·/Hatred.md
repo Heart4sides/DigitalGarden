@@ -1,5 +1,5 @@
 ---
-{"alias":"Hateful","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/hatred/","dgPassFrontmatter":true,"created":"2023-05-03T00:17:35.861+02:00","updated":"2023-05-08T21:06:39.170+02:00"}
+{"alias":"Hateful","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/hatred/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-03T00:17:35.861+02:00","updated":"2023-05-08T21:06:39.170+02:00"}
 ---
 
 # Depth Psychology 
