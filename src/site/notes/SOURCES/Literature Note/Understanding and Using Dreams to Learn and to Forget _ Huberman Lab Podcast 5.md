@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/understanding-and-using-dreams-to-learn-and-to-forget-huberman-lab-podcast-5/","noteIcon":"1","created":"2023-04-25T16:13:16.435+02:00","updated":"2023-05-28T19:10:26.035+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/understanding-and-using-dreams-to-learn-and-to-forget-huberman-lab-podcast-5/","noteIcon":"1","created":"2023-04-25T16:13:16.435+02:00","updated":"2023-05-28T22:50:57.760+02:00"}
 ---
 
 #video #on/neuroscience #on/education 
-| MOC | Author | Type | Reference |
-| --- | ------ | ---- | --------- |
+| MOC | Author                                                    | Type                                                         | Reference                                                                                                                       |
+| --- | --------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| \-  | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] | [Understanding and Using Dreams to Learn and to Forget \| Huberman Lab Podcast #5](https://www.youtube.com/watch?v=FFwA0QFmpQ4) |
 
 { .block-language-dataview}
 
