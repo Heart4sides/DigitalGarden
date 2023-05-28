@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-27T15:36:14.406+02:00"}
+{"alias":"Philosopher, Dquad, 🏞️⚖️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","dgPassFrontmatter":true,"created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-27T15:36:14.406+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
