@@ -1,5 +1,5 @@
 ---
-{"Source":"Four Lenses Unfolded","GDrive":"https://docs.google.com/spreadsheets/d/1ChMfk0Wa_Gg9g0VJYH-ECg9JjYwh2a7s/edit#gid=1864531936","dg-publish":true,"permalink":"/sources/temperament-cultural-equivalents/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-02T21:30:42.351+01:00","updated":"2023-01-12T12:05:16.213+01:00"}
+{"dg-publish":true,"permalink":"/sources/temperament-cultural-equivalents/","noteIcon":"1","created":"2023-01-02T21:30:42.351+01:00","updated":"2023-01-12T12:05:16.213+01:00"}
 ---
 
 
