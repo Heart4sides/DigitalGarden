@@ -1,5 +1,5 @@
 ---
-{"Alias":"Dominant, Hero, hero, heroes, dominant, Warrior👨‍🚒, F1","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","dgPassFrontmatter":true,"created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-24T13:38:54.211+02:00"}
+{"Alias":"Dominant, Hero, hero, heroes, dominant, Warrior👨‍🚒, F1","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-24T13:38:54.211+02:00"}
 ---
 
 
