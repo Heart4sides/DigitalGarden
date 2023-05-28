@@ -1,5 +1,5 @@
 ---
-{"alias":"golden, Golden, Aff","dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-05-26T20:02:54.569+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affection-pair/","noteIcon":"1","created":"2022-12-21T11:17:48.140+01:00","updated":"2023-05-26T20:02:54.569+02:00"}
 ---
 
 #on/depthpsychology 
