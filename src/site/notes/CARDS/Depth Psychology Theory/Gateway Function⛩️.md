@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway-function/","created":"2022-12-31T18:11:31.592+01:00","updated":"2023-05-24T14:01:00.124+02:00"}
+{"alias":"Gateway⛩️, ⛩️, Gateways⛩️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/gateway-function/","dgPassFrontmatter":true,"created":"2022-12-31T18:11:31.592+01:00","updated":"2023-05-24T14:01:00.124+02:00"}
 ---
 
 
