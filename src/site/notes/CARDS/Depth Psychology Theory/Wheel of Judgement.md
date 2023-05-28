@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-12T08:21:17.074+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","dgPassFrontmatter":true,"created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-12T08:21:17.074+02:00"}
 ---
 
 #on/depthpsychology 
