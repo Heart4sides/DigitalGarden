@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/camaraderie/","created":"2023-05-24T17:16:22.615+02:00","updated":"2023-05-24T17:47:23.004+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/camaraderie/","dgPassFrontmatter":true,"created":"2023-05-24T17:16:22.615+02:00","updated":"2023-05-24T17:47:23.004+02:00"}
 ---
 
 
