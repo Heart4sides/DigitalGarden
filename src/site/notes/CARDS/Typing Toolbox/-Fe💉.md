@@ -8,5 +8,6 @@
 | [[CARDS/Individuals/Frankenstein\|Frankenstein]]         | [[CARDS/Individuals/-INTP\|-INTP]] |
 | [[CARDS/Individuals/Gustave Flaubert\|Gustave Flaubert]] | [[CARDS/Individuals/-INFP\|-INFP]] |
 | [[CARDS/Individuals/Peggy Blomquist\|Peggy Blomquist]]   | [[CARDS/Individuals/-INFP\|-INFP]] |
+| [[CARDS/Individuals/Roselyn Bachelot\|Roselyn Bachelot]] | [[CARDS/Individuals/-ESFP\|-ESFP]] |
 
 { .block-language-dataview}
