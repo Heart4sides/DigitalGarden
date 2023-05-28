@@ -1,5 +1,5 @@
 ---
-{"alias":"depraved, Depraved, depravity","dg-publish":true,"permalink":"/cards/depth-psychology-theory/depravity/","dgPassFrontmatter":true,"created":"2023-01-29T21:16:40.809+01:00","updated":"2023-04-10T10:45:42.273+02:00"}
+{"alias":"depraved, Depraved, depravity","dg-publish":true,"permalink":"/cards/depth-psychology-theory/depravity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-29T21:16:40.809+01:00","updated":"2023-04-10T10:45:42.273+02:00"}
 ---
 
 
