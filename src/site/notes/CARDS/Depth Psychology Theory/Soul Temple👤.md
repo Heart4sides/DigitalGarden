@@ -1,5 +1,5 @@
 ---
-{"alias":"👤, Soul👤, souls","dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-27T15:35:51.615+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","noteIcon":"1","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-27T15:35:51.615+02:00"}
 ---
 
 # Themes 
