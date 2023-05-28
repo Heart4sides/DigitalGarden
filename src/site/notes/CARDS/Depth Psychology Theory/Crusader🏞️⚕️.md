@@ -1,5 +1,5 @@
 ---
-{"alias":"Crusader, Aquad, 🏞️⚕️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","dgPassFrontmatter":true,"created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-24T18:09:36.510+02:00"}
+{"alias":"Crusader, Aquad, 🏞️⚕️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-28T15:52:40.195+02:00"}
 ---
 
 
@@ -32,13 +32,14 @@
 
 # Virtu & Vice
 [[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
-| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]    | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]              |
-| ---------------- | ------------- | --------------- |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]  | //              |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]   | //              |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]] | //              |
-| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]     | [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]] |
-| Vice             |  [[Insincerity\|Insincerity]]    |  [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] |
+
+| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
+| ---------------- | ------------------------------ | ----------------------- |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]               | //                      |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                    | //                      |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]]                  | //                      |
+| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]                  | [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]               |
+| Vice             | [[Insincerity\|Insincerity]]                | [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]]                |
 
 # Temple 
 - [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]
@@ -74,6 +75,7 @@
 
 </div></div>
 
+- 
 
 [[SOURCES/Literature Note/Crusader (ENTP, INTP, ESFJ, ISFJ) Abusers_ _ Season 17 Part 2 Quadras _ CS Joseph\|Crusader (ENTP, INTP, ESFJ, ISFJ) Abusers_ _ Season 17 Part 2 Quadras _ CS Joseph]]
 
