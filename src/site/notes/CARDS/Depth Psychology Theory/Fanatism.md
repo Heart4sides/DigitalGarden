@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/fanatism/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:35:29.088+02:00"}
+{"alias":"fanatic, zealous","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/fanatism/","dgPassFrontmatter":true,"created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:35:29.088+02:00"}
 ---
 
 #type/pole 
