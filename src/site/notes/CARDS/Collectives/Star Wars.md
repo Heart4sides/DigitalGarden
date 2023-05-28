@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/collectives/star-wars/","created":"2022-12-13T22:16:55.809+01:00","updated":"2023-04-26T22:05:40.948+02:00"}
+{"Containertitle":"[[-Star Wars]]","Author":null,"Au_Type":null,"type":["[[ENTP]]","[[ESTJ]]","[[-INTJ]]","[[INFJ]]","[[ISFJ]]"],"Cat":"fiction","Me_Cat":"watch 🎞️","Theme":null,"moc":"[[MOC 🗺️ Fiction]]","dg-publish":true,"permalink":"/cards/collectives/star-wars/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.809+01:00","updated":"2023-04-26T22:05:40.948+02:00"}
 ---
 
 | MOC                                           | Containertitle             | Type                                                                                                                                                                                                                                                                                                                                             | Reference |
