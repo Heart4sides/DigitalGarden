@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-27T15:36:21.609+02:00"}
+{"Alias":"4 sides, Four sides, 4 sides of the Mind, 4 sides of your mind, Garden, side of the mind, sides of the mind","moc":"[[MOC 🗺️ Psychology]]","ref":"[[CS Joseph]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/4-sides-of-the-mind/","dgPassFrontmatter":true,"created":"2023-01-07T15:30:40.601+01:00","updated":"2023-05-27T15:36:21.609+02:00"}
 ---
 
 
