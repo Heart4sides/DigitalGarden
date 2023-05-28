@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"alias":"educate, educated","language":"en","permalink":"/sources/contents/education-x-typology/","dgPassFrontmatter":true,"created":"2023-01-02T17:32:56.736+01:00","updated":"2023-05-27T15:35:34.137+02:00"}
+{"dg-publish":true,"alias":"educate, educated","language":"en","permalink":"/sources/contents/education-x-typology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-05-27T15:35:34.137+02:00"}
 ---
 
 #on/education 
