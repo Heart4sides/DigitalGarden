@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pride/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-10T21:28:41.785+02:00"}
+{"alias":"prideful","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/pride/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-10T21:28:41.785+02:00"}
 ---
 
 
