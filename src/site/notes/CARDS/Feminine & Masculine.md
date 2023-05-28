@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-05-27T15:36:12.087+02:00"}
+{"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","noteIcon":"1","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-05-27T15:36:12.087+02:00"}
 ---
 
 #on/psychology 
