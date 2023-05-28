@@ -1,5 +1,5 @@
 ---
-{"containertitle":null,"au_Type":"STP","concept":"[[Temperament🌍]]","cat":"irl","me_Cat":"read 🔠","theme":null,"language":"en","moc":"[[MOC 🗺️ Depth Psychology]]","ref":["[Keirsey](https://keirsey.com/temperament-overview/)","[David West Keirsey, How to Learn: Practice with Immediate Feedback - YouTube](https://www.youtube.com/watch?v=5rmaCTaSNqM&list=PLyeRkAWZDJZsWrueU5rPPIsAURrZ47t-j)"],"dg-publish":true,"permalink":"/cards/individuals/david-keirsey/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-07T11:40:14.962+02:00","updated":"2023-05-28T12:51:18.557+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/david-keirsey/","noteIcon":"1","created":"2023-04-07T11:40:14.962+02:00","updated":"2023-05-28T12:51:18.557+02:00"}
 ---
 
 #on/depthpsychology 
