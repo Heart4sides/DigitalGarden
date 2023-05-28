@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/coldness/","created":"2023-05-10T21:31:52.959+02:00","updated":"2023-05-10T21:36:27.068+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/coldness/","dgPassFrontmatter":true,"created":"2023-05-10T21:31:52.959+02:00","updated":"2023-05-10T21:36:27.068+02:00"}
 ---
 
 # [[ATLAS/MOC 🗺️ Depth Psychology\|Depth Psychology]] 
