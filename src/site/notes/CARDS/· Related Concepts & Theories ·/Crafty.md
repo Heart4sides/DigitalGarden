@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","dgPassFrontmatter":true,"created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-27T14:03:22.119+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-27T14:03:22.119+02:00"}
 ---
 
 
