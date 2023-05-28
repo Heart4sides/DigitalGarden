@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-24T14:01:44.742+02:00"}
+{"Alias":"Inferior, Royalty, King👑, F4","category":"attitude","dg-publish":true,"alias":"Inferior, Infant, fear, fearful, frightened, insecure, insecurity","permalink":"/cards/depth-psychology-theory/infant/","dgPassFrontmatter":true,"created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-24T14:01:44.742+02:00"}
 ---
 
 
