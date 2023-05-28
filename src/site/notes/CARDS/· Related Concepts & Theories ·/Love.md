@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/love/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-03-30T20:01:08.642+02:00","updated":"2023-05-03T01:03:04.605+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/love/","noteIcon":"1","created":"2023-03-30T20:01:08.642+02:00","updated":"2023-05-03T01:03:04.605+02:00"}
 ---
 
 # Depth Psychology 
