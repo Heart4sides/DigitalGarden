@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/infp/","dgPassFrontmatter":true,"created":"2023-04-28T07:49:03.660+02:00","updated":"2023-05-02T11:09:43.117+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/infp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-28T07:49:03.660+02:00","updated":"2023-05-02T11:09:43.117+02:00"}
 ---
 
 | File                                                                        | octogram                                                                                                                            | External Link                                                                                                            |
