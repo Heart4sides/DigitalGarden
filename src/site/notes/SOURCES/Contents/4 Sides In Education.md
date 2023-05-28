@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/4-sides-in-education/","created":"2023-03-28T19:11:54.975+02:00","updated":"2023-04-23T20:53:57.744+02:00"}
+{"Source":"What Role Can 4 Sides Play In Education - Chris Taylor","Author":"[[Chris Taylor]]","Au_Type":"[[ENFP]]","Ch_Type":null,"Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"language":"en","moc":"[[MOC 🗺️ Depth Psychology]]","Ref":"[What Role Can 4 Sides Play In Education? | CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=qi1bNXHJ6Sc&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=2)","dg-publish":true,"permalink":"/sources/contents/4-sides-in-education/","dgPassFrontmatter":true,"created":"2023-03-28T19:11:54.975+02:00","updated":"2023-04-23T20:53:57.744+02:00"}
 ---
 
 #on/education, #on/depthpsychology 
