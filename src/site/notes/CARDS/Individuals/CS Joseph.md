@@ -1,5 +1,5 @@
 ---
-{"Alias":"CSJ","Source":"C.S. Joseph","Author":"C.S. Joseph","type":"[[-ENTP]]","Ch_Type":"ENTP","Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","concept":["[[4 sides of the Mind➕]]","[[Compatibility]]","[[Temple]]","[[Octogram]]"],"moc":"[[MOC 🗺️ Depth Psychology]]","Ref":["[Begin Your Journey Here | C.S. Joseph](https://csjoseph.life/)","[Udja App (Typing Tool)](https://www.udja.app/#/)","[CS Joseph - Youtube](https://www.youtube.com/@CSJoseph)","[CSJ Members Portal](https://offers.csjoseph.life/portal)","[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)"],"dg-publish":true,"location":[36.7014631,-118.755997],"permalink":"/cards/individuals/cs-joseph/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-28T19:05:47.585+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"1","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-28T19:05:47.585+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy #on/education 
