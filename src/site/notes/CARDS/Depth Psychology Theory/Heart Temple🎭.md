@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-27T15:36:22.249+02:00"}
+{"alias":"🎭, Heart🎭","dg-publish":true,"permalink":"/cards/depth-psychology-theory/heart-temple/","dgPassFrontmatter":true,"created":"2022-12-27T19:47:14.301+01:00","updated":"2023-05-27T15:36:22.249+02:00"}
 ---
 
 #on/depthpsychology #type/temple 
