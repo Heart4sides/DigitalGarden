@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:35:31.263+02:00"}
+{"alias":"servile","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","Itemple":"[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","dgPassFrontmatter":true,"created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:35:31.263+02:00"}
 ---
 
 #type/pole 
@@ -7,7 +7,7 @@
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]  
 	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
-	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
+	- Individual’s [[Heart Temple🎭]] 
 
 # Definition by CSJ
 1) “an excessive willingness to serve or please others.”
