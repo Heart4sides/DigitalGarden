@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-27T15:36:21.349+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T10:27:44.507+02:00"}
 ---
 
 # Vectors to Understand the Types 
@@ -10,14 +10,33 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 > [!multi-column]
 >
->> [!note]+ Work
->> your notes or lists here. using markdown formatting
+>>[!note] 8 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
+>>[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]
+>>- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] 
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]
+>>	- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
 >
->> [!warning]+ Personal
->> your notes or lists here. using markdown formatting
+>> [!warning] 8 [[CARDS/Depth Psychology Theory/Attitude🎭\|attitudes]]
+>> - [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]
+>> - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
+>> - [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
+>> - [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]
+>> - [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]]
+>> - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
+>> - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
+>> - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 >
->> [!summary]+ Charity
->> your notes or lists here. using markdown formatting
+>> [!summary] 4 [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
+>>- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
+>>- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
+>>- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
+>>- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
 - # Cognitive Functions 
 	- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
