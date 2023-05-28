@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic-and-affiliative/","dgPassFrontmatter":true,"created":"2023-01-20T11:10:18.367+01:00","updated":"2023-04-18T14:10:43.220+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pragmatic-and-affiliative/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-20T11:10:18.367+01:00","updated":"2023-04-18T14:10:43.220+02:00"}
 ---
 
 
