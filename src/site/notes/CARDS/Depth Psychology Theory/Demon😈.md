@@ -1,5 +1,5 @@
 ---
-{"Alias":"Demon, Angel😇, F8, Eighth","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","dgPassFrontmatter":true,"created":"2023-01-06T15:26:13.606+01:00","updated":"2023-05-24T13:35:18.930+02:00"}
+{"Alias":"Demon, Angel😇, F8, Eighth","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-05-24T13:35:18.930+02:00"}
 ---
 
 # Summary 
