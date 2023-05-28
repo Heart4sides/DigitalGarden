@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-24T18:09:36.510+02:00"}
+{"alias":"Crusader, Aquad, 🏞️⚕️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","dgPassFrontmatter":true,"created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-24T18:09:36.510+02:00"}
 ---
 
 
