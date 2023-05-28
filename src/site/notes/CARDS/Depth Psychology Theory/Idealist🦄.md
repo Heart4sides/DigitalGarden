@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/idealist-unicorn/","created":"2023-02-24T19:02:03.515+01:00","updated":"2023-05-24T16:33:26.331+02:00"}
+{"alias":"idealism, NF, NFs, 🦄","dg-publish":true,"permalink":"/cards/depth-psychology-theory/idealist-unicorn/","dgPassFrontmatter":true,"created":"2023-02-24T19:02:03.515+01:00","updated":"2023-05-24T16:33:26.331+02:00"}
 ---
 
 1 of 4 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]], characterized by preference for : 
