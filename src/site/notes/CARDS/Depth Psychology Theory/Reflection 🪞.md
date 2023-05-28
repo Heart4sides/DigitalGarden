@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","created":"2022-12-13T22:16:55.861+01:00","updated":"2023-05-27T15:36:23.615+02:00"}
+{"alias":"🪞, Reflection, reflection, reflector, reflect","dg-publish":true,"permalink":"/cards/depth-psychology-theory/reflection/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.861+01:00","updated":"2023-05-27T15:36:23.615+02:00"}
 ---
 
 
