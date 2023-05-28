@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-psychology/","created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-28T19:00:59.557+02:00"}
+{"alias":"Psychology","dg-publish":true,"dg-note-icon":1,"permalink":"/atlas/moc-psychology/","dgPassFrontmatter":true,"created":"2022-12-27T18:31:49.166+01:00","updated":"2023-04-28T19:00:59.557+02:00"}
 ---
 
 #on/psychology
