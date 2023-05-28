@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/monotonous/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-10T21:11:37.386+02:00","updated":"2023-05-10T21:12:39.605+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/monotonous/","noteIcon":"1","created":"2023-05-10T21:11:37.386+02:00","updated":"2023-05-10T21:12:39.605+02:00"}
 ---
 
 What the [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] seeks to avoid. 
