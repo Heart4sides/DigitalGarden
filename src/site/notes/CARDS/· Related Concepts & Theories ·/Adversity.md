@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/adversity/","dgPassFrontmatter":true,"created":"2023-05-03T16:43:40.252+02:00","updated":"2023-05-27T15:36:25.088+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/adversity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-03T16:43:40.252+02:00","updated":"2023-05-27T15:36:25.088+02:00"}
 ---
 
 
