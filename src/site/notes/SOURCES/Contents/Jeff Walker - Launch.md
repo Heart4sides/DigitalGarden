@@ -1,5 +1,5 @@
 ---
-{"alias":"Launch","author":"[[Jeff Walker]]","category":"Business & Economics","publisher":"Alisio","publish":"2020-02-18","total":209,"isbn":"2379350825 9782379350825","cover_url":"https://books.google.com/books/content?id=kXyrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"reading","created":"2023-02-24T19:30:57.648+01:00","dg-publish":true,"permalink":"/sources/contents/jeff-walker-launch/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-04-30T15:22:25.444+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/jeff-walker-launch/","noteIcon":"1","created":"2023-02-24T19:30:57.648+01:00","updated":"2023-04-30T15:22:25.444+02:00"}
 ---
 
 #book #on/business 
