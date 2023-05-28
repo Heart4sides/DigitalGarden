@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-26T18:11:41.558+02:00"}
+{"dg-home":true,"dg-publish":true,"dg-note-icon":1,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"dgPassFrontmatter":true,"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-28T10:44:43.930+02:00"}
 ---
 
 # Type a Cross 💠
@@ -13,17 +13,5 @@ The 4 lands🌾 are guarded by the [[CARDS/Depth Psychology Theory/Gateway Funct
 Yet, with the proper [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guidance🚿]], the lands🌾 will yield [[CARDS/· Related Concepts & Theories ·/Order\|Order]], [[CARDS/· Related Concepts & Theories ·/Happiness\|Happiness]], [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]] and [[CARDS/· Related Concepts & Theories ·/Love\|Love]].  
 
 This Digital Garden👩‍🌾 provides some paths 🛤️ to explore, transform, educate and integrate the 4👨‍👩‍👧‍👦residents of your Self. 
+<p style="text-align:center;"><font size="4"><a href="MOC 🗺️ Depth Psychology.md" class="internal-link">MOC 🗺️ Depth Psychology</a></font></p>
 
-# Primary Focus 
-
-My [[CARDS/Depth Psychology Theory/Primary\|primary]] focus is on improving the quality of my understanding of [[ATLAS/MOC 🗺️ Depth Psychology\|Depth Psychology]] following the trails🛤️ of the detectives🕵️of the psyche : [[CARDS/Individuals/CS Joseph\|CS Joseph]], [[CARDS/Individuals/C.G. Jung\|C.G. Jung]], [[CARDS/Individuals/John Beebe\|John Beebe]] mainly. 
-
-# Secundary Focus 
-
-The [[CARDS/Depth Psychology Theory/Secund\|secundary]] focus is on studying the relationship of depth psychology with other theories as well as concrete material on themes such as : 
-
-- [[ATLAS/MOC 🗺️ Psychology\|Psychology]] | #on/psychology 
-- [[ATLAS/MOC 🗺️ Philosophy\|Philosophy]]  | #on/philosophy
-- [[ATLAS/MOC 🗺️ Politics\|Politics]] | #on/politics 
-- Neuroscience | #on/neuroscience 
-- [[ATLAS/MOC 🗺️ Fiction\|Fiction]] 
