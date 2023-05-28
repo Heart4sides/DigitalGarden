@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wrath/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:51:05.059+02:00"}
+{"alias":"wrathful","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wrath/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:51:05.059+02:00"}
 ---
 
 #type/pole 
