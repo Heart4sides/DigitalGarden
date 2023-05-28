@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-27T15:36:21.697+02:00"}
+{"alias":"Attitude, attitudes, 8 attitudes🎭","dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","dgPassFrontmatter":true,"created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-27T15:36:21.697+02:00"}
 ---
 
 #on/psychology
