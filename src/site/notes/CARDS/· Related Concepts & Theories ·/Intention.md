@@ -1,5 +1,5 @@
 ---
-{"alias":"intend, intended, intent","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","dgPassFrontmatter":true,"created":"2023-01-02T00:15:28.243+01:00","updated":"2023-05-02T19:34:11.852+02:00"}
+{"alias":"intend, intended, intent","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-05-02T19:34:11.852+02:00"}
 ---
 
 
