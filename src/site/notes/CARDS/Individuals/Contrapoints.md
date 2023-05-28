@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-27T15:36:15.347+02:00"}
+{"source":"Contrapoints","author":"Contrapoints","type":"[[-INFJ]]","ch_Type":"[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]","cat":"irl","me_Cat":"watch 🎞️","theme":null,"dg-publish":true,"ref":"[ContraPoints - YouTube](https://www.youtube.com/@ContraPoints)","permalink":"/cards/individuals/contrapoints/","dgPassFrontmatter":true,"created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-27T15:36:15.347+02:00"}
 ---
 
 #on/philosophy #on/politics 
@@ -13,7 +13,7 @@
 - [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] : empathize with the person but still criticize  
 - [[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] : analyzing situations on a case by case basis 
 - [[SOURCES/Contents/Vultology\|Vultology]] : intentional (Ni) + emotionless (Fe) gaze 
-- [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] or [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] 
+- [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] or [[INFJ]] 
 
 ## The Darkness 
 [The Darkness | ContraPoints - YouTube](```timestamp-url 
