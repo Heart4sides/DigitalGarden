@@ -1,5 +1,5 @@
 ---
-{"alias":"🌍, Worldview, Temperaments🌍","dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-05-27T22:48:20.651+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","noteIcon":"1","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-05-27T22:48:20.651+02:00"}
 ---
 
 #type/grid 
