@@ -1,5 +1,5 @@
 ---
-{"alias":"(2023), @neurolifestyleNEUROSCIENTISTHowACTUALLY2023","containertitle":null,"author":"[[Andrew Huberman]]","au_type":"[[]]","date":2023,"pages":null,"cover_url":null,"language":"en","status":"unread / reading / done","ref":"[NEUROSCIENTIST: How To ACTUALLY LEARN](https://www.youtube.com/watch?v=sW0iNSrmcDQ)","dg-publish":true,"permalink":"/sources/literature-note/neuroscientist-how-to-actually-learn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-30T10:28:44.035+02:00","updated":"2023-05-28T19:06:55.513+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/neuroscientist-how-to-actually-learn/","noteIcon":"1","created":"2023-04-30T10:28:44.035+02:00","updated":"2023-05-28T19:06:55.513+02:00"}
 ---
 
 #book #on/education 
