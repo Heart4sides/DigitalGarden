@@ -1,5 +1,5 @@
 ---
-{"alias":"🐜, affiliative, Affiliative","dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","dgPassFrontmatter":true,"created":"2023-01-01T13:10:48.722+01:00","updated":"2023-05-27T15:36:12.770+02:00"}
+{"alias":"🐜, affiliative, Affiliative","dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-05-27T15:36:12.770+02:00"}
 ---
 
 #type/grid 
