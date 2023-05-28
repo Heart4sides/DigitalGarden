@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/arrogance/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-03T00:10:33.196+02:00","updated":"2023-05-03T00:13:46.326+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/arrogance/","noteIcon":"1","created":"2023-05-03T00:10:33.196+02:00","updated":"2023-05-03T00:13:46.326+02:00"}
 ---
 
 # Depth Psychology 
