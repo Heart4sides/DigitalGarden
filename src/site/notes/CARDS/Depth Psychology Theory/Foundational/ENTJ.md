@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entj/","created":"2023-01-05T15:27:16.947+01:00","updated":"2023-05-27T21:35:37.081+02:00"}
+{"alias":"The Marshall","dg-publish":true,"tag":"type","permalink":"/cards/depth-psychology-theory/foundational/entj/","dgPassFrontmatter":true,"created":"2023-01-05T15:27:16.947+01:00","updated":"2023-05-27T21:35:37.081+02:00"}
 ---
 
 #on/depthpsychology  #type 
