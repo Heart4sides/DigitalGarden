@@ -1,5 +1,5 @@
 ---
-{"alias":"The Cavalier","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-05-27T21:38:05.885+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfj/","noteIcon":"1","created":"2023-01-05T15:24:07.134+01:00","updated":"2023-05-27T21:38:05.885+02:00"}
 ---
 
 #on/depthpsychology #type 
