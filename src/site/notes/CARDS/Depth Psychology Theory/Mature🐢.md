@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mature/","created":"2023-01-05T14:29:41.970+01:00","updated":"2023-05-24T13:54:19.408+02:00"}
+{"alias":"Mature, developed, maturity, 🐢","dg-publish":true,"permalink":"/cards/depth-psychology-theory/mature/","dgPassFrontmatter":true,"created":"2023-01-05T14:29:41.970+01:00","updated":"2023-05-24T13:54:19.408+02:00"}
 ---
 
 vs [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]]
