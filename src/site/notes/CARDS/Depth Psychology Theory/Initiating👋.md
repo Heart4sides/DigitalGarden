@@ -1,5 +1,5 @@
 ---
-{"alias":"👋, Extroversion, Extraversion, extraversion, extraverted, initiate","ref":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","dgPassFrontmatter":true,"created":"2023-01-01T13:14:12.804+01:00","updated":"2023-05-26T20:52:25.554+02:00"}
+{"alias":"👋, Extroversion, Extraversion, extraversion, extraverted, initiate","ref":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiating/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-01T13:14:12.804+01:00","updated":"2023-05-26T20:52:25.554+02:00"}
 ---
 
 #type/grid 
