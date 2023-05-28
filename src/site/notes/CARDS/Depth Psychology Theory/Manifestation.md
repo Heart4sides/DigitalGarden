@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:22.645+02:00"}
+{"alias":"manifest, manifesting","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Body Temple 🌳|Body🌳]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:22.645+02:00"}
 ---
 
 #type/pole 
