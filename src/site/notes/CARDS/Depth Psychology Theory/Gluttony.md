@@ -1,5 +1,5 @@
 ---
-{"alias":"glutton, gluttonous","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:13.789+02:00"}
+{"alias":"glutton, gluttonous","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:13.789+02:00"}
 ---
 
 #type/pole 
