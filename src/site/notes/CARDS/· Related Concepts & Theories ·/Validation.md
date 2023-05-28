@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:26.045+02:00"}
+{"alias":"valid, validate, validity, validating, validates, Validation Dyad","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:26.045+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
