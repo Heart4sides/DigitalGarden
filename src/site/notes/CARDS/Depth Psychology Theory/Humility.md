@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:35:29.454+02:00"}
+{"alias":"humble","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:35:29.454+02:00"}
 ---
 
 #type/pole
