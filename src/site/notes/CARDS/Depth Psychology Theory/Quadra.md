@@ -1,5 +1,5 @@
 ---
-{"alias":"Quadra","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/quadra/","dgPassFrontmatter":true,"created":"2023-01-06T10:07:05.312+01:00","updated":"2023-05-24T16:59:24.070+02:00"}
+{"alias":"Quadra","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/quadra/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-06T10:07:05.312+01:00","updated":"2023-05-24T16:59:24.070+02:00"}
 ---
 
 Source of the theory : Socionics 
