@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-education/","dgPassFrontmatter":true,"created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-02T10:44:18.821+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-education/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-28T19:07:20.816+02:00"}
 ---
 
 
@@ -14,32 +14,33 @@
 
 
 # Content
-| File                                                                                                                                                                                                                         | author                                              | language |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
-| [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]                                                                                                                                                            | \-                                                  | \-       |
-| [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]                                                                                                                                                                | \-                                                  | \-       |
-| [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                  | \-       |
-| [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                  | \-       |
-| [[SOURCES/Contents/4 Sides In Education\|4 Sides In Education]]                                                                                                                                                           | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] | en       |
-| [[SOURCES/Contents/Education x Typology\|Education x Typology]]                                                                                                                                                           | \-                                                  | en       |
-| [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                  | en       |
-| [[SOURCES/Contents/Educational Philosophies Comparison\|Educational Philosophies Comparison]]                                                                                                                             | \-                                                  | en       |
-| [[SOURCES/Contents/Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy\|Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy]] | \-                                                  | en       |
-| [[SOURCES/Contents/Liberal education\|Liberal education]]                                                                                                                                                                 | \-                                                  | en       |
-| [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]]                                                                                 | [[Noam Chomsky\|Noam Chomsky]]                      | en       |
-| [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                                                                                                         | [[CARDS/Individuals/Tabibian\|Tabibian]]         | fr       |
-| [[SOURCES/Contents/Les ministres passent, l'éducation trépasse\|Les ministres passent, l'éducation trépasse]]                                                                                                             | [[Le Média Pour Tous\|Le Média Pour Tous]]          | fr       |
-| [[SOURCES/Contents/Montessori\|Montessori]]                                                                                                                                                                               | Maria Montessori                                    | fr       |
+| File                                                                                                                                                                                                                         | author                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]                                                                                                                                                            | \-                                                        |
+| [[CARDS/· Related Concepts & Theories ·/Explain\|Explain]]                                                                                                                                                                | \-                                                        |
+| [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                        |
+| [[CARDS/· Related Concepts & Theories ·/Learning Styles\|Learning Styles]]                                                                                                                                                | \-                                                        |
+| [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                        |
+| [[SOURCES/Literature Note/Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast #5.md\|Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast #5]]                              | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] |
+| [[SOURCES/Contents/4 Sides In Education\|4 Sides In Education]]                                                                                                                                                           | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]       |
+| [[SOURCES/Contents/Education x Typology\|Education x Typology]]                                                                                                                                                           | \-                                                        |
+| [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                        |
+| [[SOURCES/Contents/Educational Philosophies Comparison\|Educational Philosophies Comparison]]                                                                                                                             | \-                                                        |
+| [[SOURCES/Contents/Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy\|Exploring the Connections Between Teaching Philosophies, Educational Philosophies, and Philosophy]] | \-                                                        |
+| [[SOURCES/Contents/Liberal education\|Liberal education]]                                                                                                                                                                 | \-                                                        |
+| [[SOURCES/Contents/The Strange Bubble of French Intellectuals · Noam Chomsky\|The Strange Bubble of French Intellectuals · Noam Chomsky]]                                                                                 | [[Noam Chomsky\|Noam Chomsky]]                            |
+| [[SOURCES/Literature Note/Neuroscientist_How To Actually Learn\|Neuroscientist_How To Actually Learn]]                                                                                                                    | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] |
+| [[SOURCES/Contents/Montessori\|Montessori]]                                                                                                                                                                               | Maria Montessori                                          |
 
 { .block-language-dataview}
 
 # Authors
-| File                                                        | Type | language |
-| ----------------------------------------------------------- | ---- | -------- |
-| [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]   | \-   | \-       |
-| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]         | \-   | \-       |
-| [[CARDS/Individuals/CS Joseph\|CS Joseph]]               | ENTP | \-       |
-| [[CARDS/Individuals/Jacques Rancière\|Jacques Rancière]] | \-   | \-       |
+| File                                                        | Type                                      | language |
+| ----------------------------------------------------------- | ----------------------------------------- | -------- |
+| [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]   | [[CARDS/Individuals/-ENFP\|-ENFP]]     | \-       |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]         | <ul><li><ul><li>-ENFP</li></ul></li></ul> | \-       |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]               | [[CARDS/Individuals/-ENTP\|-ENTP]]     | \-       |
+| [[CARDS/Individuals/Jacques Rancière\|Jacques Rancière]] | \-                                        | \-       |
 
 { .block-language-dataview}
 | File                                                          | Type       |
