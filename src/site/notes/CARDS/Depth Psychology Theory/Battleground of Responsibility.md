@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","created":"2023-01-06T16:46:08.251+01:00","updated":"2023-05-08T21:06:37.995+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground-of-responsibility/","dgPassFrontmatter":true,"created":"2023-01-06T16:46:08.251+01:00","updated":"2023-05-08T21:06:37.995+02:00"}
 ---
 
 Links :: [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]] 
