@@ -1,5 +1,5 @@
 ---
-{"alias":"🏃, progression, movement, progress","dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","dgPassFrontmatter":true,"created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T15:35:30.632+02:00"}
+{"alias":"🏃, progression, movement, progress","dg-publish":true,"permalink":"/cards/depth-psychology-theory/progression/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T15:35:30.632+02:00"}
 ---
 
 #type/grid 
