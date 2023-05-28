@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","created":"2023-01-03T21:09:33.203+01:00","updated":"2023-05-02T10:39:17.116+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","dgPassFrontmatter":true,"created":"2023-01-03T21:09:33.203+01:00","updated":"2023-05-02T10:39:17.116+02:00"}
 ---
 
 #on/education 
