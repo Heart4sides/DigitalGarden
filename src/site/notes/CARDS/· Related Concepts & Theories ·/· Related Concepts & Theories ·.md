@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-28T18:08:57.589+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","noteIcon":"1","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-28T18:08:57.589+02:00"}
 ---
 
 
