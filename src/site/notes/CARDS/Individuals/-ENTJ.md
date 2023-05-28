@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/entj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-28T19:48:11.602+02:00","updated":"2023-05-02T11:08:39.310+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/entj/","noteIcon":"1","created":"2023-04-28T19:48:11.602+02:00","updated":"2023-05-02T11:08:39.310+02:00"}
 ---
 
 #type 
