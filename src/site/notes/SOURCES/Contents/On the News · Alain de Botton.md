@@ -1,5 +1,5 @@
 ---
-{"Source":"On the News","Author":"Alain de Botton","Au_Type":null,"Ch_Type":null,"Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","dg-publish":true,"permalink":"/sources/contents/on-the-news-alain-de-botton/","dgPassFrontmatter":true,"created":"2023-04-08T13:48:00.511+02:00","updated":"2023-04-27T17:29:49.073+02:00"}
+{"Source":"On the News","Author":"Alain de Botton","Au_Type":null,"Ch_Type":null,"Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","dg-publish":true,"permalink":"/sources/contents/on-the-news-alain-de-botton/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-08T13:48:00.511+02:00","updated":"2023-04-27T17:29:49.073+02:00"}
 ---
 
 #on/politics #on/philosophy 
