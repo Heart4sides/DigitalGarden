@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/streamline/","dgPassFrontmatter":true,"created":"2023-01-12T13:17:44.369+01:00","updated":"2023-04-10T10:45:43.443+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/streamline/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T13:17:44.369+01:00","updated":"2023-04-10T10:45:43.443+02:00"}
 ---
 
 ## Related Notes 
