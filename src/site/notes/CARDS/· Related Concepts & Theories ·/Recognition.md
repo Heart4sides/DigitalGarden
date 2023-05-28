@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/recognition/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-27T19:10:22.852+01:00","updated":"2023-05-10T21:23:08.766+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/recognition/","noteIcon":"1","created":"2023-02-27T19:10:22.852+01:00","updated":"2023-05-10T21:23:08.766+02:00"}
 ---
 
 - Perception
