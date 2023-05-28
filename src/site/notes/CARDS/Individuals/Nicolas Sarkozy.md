@@ -1,5 +1,5 @@
 ---
-{"alias":"Sarkozy","ch_type":"ESTJ?","dg-publish":true,"language":"fr","permalink":"/cards/individuals/nicolas-sarkozy/","dgPassFrontmatter":true,"created":"2023-04-20T11:08:13.508+02:00","updated":"2023-05-02T10:42:26.190+02:00"}
+{"alias":"Sarkozy","ch_type":"ESTJ?","dg-publish":true,"language":"fr","permalink":"/cards/individuals/nicolas-sarkozy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-20T11:08:13.508+02:00","updated":"2023-05-02T10:42:26.190+02:00"}
 ---
 
 > [!Info]- Navigation 💠
