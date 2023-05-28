@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/character/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-07T11:55:12.978+01:00","updated":"2023-05-02T10:39:12.811+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/character/","noteIcon":"1","created":"2023-01-07T11:55:12.978+01:00","updated":"2023-05-02T10:39:12.811+02:00"}
 ---
 
 #
