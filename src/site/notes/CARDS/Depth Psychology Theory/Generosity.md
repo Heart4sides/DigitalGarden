@@ -1,5 +1,5 @@
 ---
-{"alias":"generous","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/generosity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.661+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/generosity/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.661+02:00"}
 ---
 
 #type/pole 
