@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"author":null,"Ref":["[[MOC 🗺️ Depth Psychology]]","[Udja App (Typing Tool)](https://www.udja.app/#/)","[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)"],"permalink":"/cards/depth-psychology-theory/type-grid/","dgPassFrontmatter":true,"created":"2023-01-12T12:33:41.904+01:00","updated":"2023-05-21T23:20:18.976+02:00"}
+{"alias":null,"dg-publish":true,"author":null,"Ref":["[[MOC 🗺️ Depth Psychology]]","[Udja App (Typing Tool)](https://www.udja.app/#/)","[Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)"],"permalink":"/cards/depth-psychology-theory/type-grid/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T12:33:41.904+01:00","updated":"2023-05-21T23:20:18.976+02:00"}
 ---
 
 #on/depthpsychology #type/grid 
