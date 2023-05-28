@@ -1,5 +1,5 @@
 ---
-{"alias":"Intimate, Intimacy Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.405+02:00"}
+{"alias":"Intimate, Intimacy Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.405+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] and [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] 
