@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-27T21:34:46.330+02:00"}
+{"alias":"The Paladin","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infj/","dgPassFrontmatter":true,"created":"2023-01-05T15:50:12.666+01:00","updated":"2023-05-27T21:34:46.330+02:00"}
 ---
 
 #on/depthpsychology  #type 
