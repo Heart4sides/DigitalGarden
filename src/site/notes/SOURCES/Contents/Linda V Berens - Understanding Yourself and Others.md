@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/linda-v-berens-understanding-yourself-and-others/","created":"2023-03-08T17:14:21.272+01:00","updated":"2023-04-24T09:22:46.047+02:00"}
+{"alias":"Understanding Yourself and Others","author":"Linda V. Berens","category":"Myers-Briggs Type Indicator","publisher":"Telos Publications","date":2006,"pages":52,"isbn":"097437511X 9780974375113","cover_url":"https://books.google.com/books/content?id=7AbYVKn0_MYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"unread","created":"2023-03-08T17:14:21.272+01:00","dg-publish":true,"permalink":"/sources/contents/linda-v-berens-understanding-yourself-and-others/","dgPassFrontmatter":true,"updated":"2023-04-24T09:22:46.047+02:00"}
 ---
 
 **Title:** Understanding Yourself and Others  
