@@ -1,5 +1,5 @@
 ---
-{"alias":"teacher, teaching","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/teach/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-03-31T16:09:25.504+02:00","updated":"2023-05-28T18:18:13.438+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/teach/","noteIcon":"1","created":"2023-03-31T16:09:25.504+02:00","updated":"2023-05-28T21:51:48.690+02:00"}
 ---
 
 #on/education 
@@ -22,11 +22,11 @@
 </div></div>
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/related-concepts-and-theories/learn/#f385ca" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
 
-- Target the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] to [[CARDS/· Related Concepts & Theories ·/Teach\|teach]] someone a lesson. People listen when you call them out on their [[Hypocricy\|Hypocricy]], even if they don’t seem to.   
+“When you criticize somebody on their critic function and you focus your entire attack your verbal attack everything that you're doing to hit this person hard in their critic function guess what they're gonna listen to you they're going to learn from you this is how you [[CARDS/· Related Concepts & Theories ·/Teach\|teach]] a human being lessons you do it through their critic function you grab that critic function you stab it so many times until it finally is listening to you they may get upset at you and  angry but deep down they know you're right because you're pointing out their hypocrisy” `=this.Shortref` 
 
 </div></div>
 
