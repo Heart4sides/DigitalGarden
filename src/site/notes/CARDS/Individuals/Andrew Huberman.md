@@ -1,5 +1,5 @@
 ---
-{"type":"[[-ENFP]]","octogram":["[[SD🤸⬅️]]","[[UF👤➡️]]"],"alias":null,"dg-publish":true,"permalink":"/cards/individuals/andrew-huberman/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-01T18:05:58.167+01:00","updated":"2023-05-05T11:34:10.254+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/andrew-huberman/","noteIcon":"1","created":"2023-02-01T18:05:58.167+01:00","updated":"2023-05-05T11:34:10.254+02:00"}
 ---
 
 #on/neuroscience #on/health #on/education 
