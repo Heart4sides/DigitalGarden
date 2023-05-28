@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/diogene/","created":"2023-04-08T17:30:42.290+02:00","updated":"2023-05-24T23:43:53.015+02:00"}
+{"containertitle":null,"author":null,"au_Type":null,"type":"[[-ESTP]]","cat":"irl","me_Cat":"read 🔠","theme":null,"languague":"fr","dg-publish":true,"ref":"Diogène le Cynique - Pensées et anecdotes","permalink":"/cards/individuals/diogene/","dgPassFrontmatter":true,"created":"2023-04-08T17:30:42.290+02:00","updated":"2023-05-24T23:43:53.015+02:00"}
 ---
 
 > [!Info]- Navigation 💠
