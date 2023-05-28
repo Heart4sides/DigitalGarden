@@ -1,5 +1,5 @@
 ---
-{"alias":"temple, Temples🙏","dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","dgPassFrontmatter":true,"created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-27T15:36:24.141+02:00"}
+{"alias":"temple, Temples🙏","dg-publish":true,"permalink":"/cards/depth-psychology-theory/temple/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-06T12:36:08.723+01:00","updated":"2023-05-27T15:36:24.141+02:00"}
 ---
 
 A temple is comprised of 4 types (constituting [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]) worshiping a particular philosophy of life. 
