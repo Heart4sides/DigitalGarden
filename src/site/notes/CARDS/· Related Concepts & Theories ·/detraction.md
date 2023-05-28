@@ -1,5 +1,5 @@
 ---
-{"alias":"detractive, Detracting","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/detraction/","dgPassFrontmatter":true,"created":"2023-05-08T20:34:09.368+02:00","updated":"2023-05-08T20:45:02.184+02:00"}
+{"alias":"detractive, Detracting","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/detraction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-08T20:34:09.368+02:00","updated":"2023-05-08T20:45:02.184+02:00"}
 ---
 
 > In Christian theology, **detraction** is the sin of revealing another person's real faults to a third person without a valid reason, thereby lessening the reputation of that person. It holds, in the Roman Catholic Church, the status of a mortal sin from the perspective of moral theology.
