@@ -1,5 +1,5 @@
 ---
-{"alias":"discovery, discover, discovered, Discovery Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-26T20:02:57.329+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/discovery/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-26T20:02:57.329+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] and [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]
