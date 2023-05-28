@@ -1,5 +1,5 @@
 ---
-{"alias":"The Duelist","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-05-27T21:38:30.459+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/esfp/","noteIcon":"1","created":"2023-01-05T15:37:27.736+01:00","updated":"2023-05-27T21:38:30.459+02:00"}
 ---
 
 #on/depthpsychology  #type 
