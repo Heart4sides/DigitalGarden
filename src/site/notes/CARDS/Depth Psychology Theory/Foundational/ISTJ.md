@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-05-27T21:39:26.130+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-05-28T10:15:39.955+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -11,18 +11,19 @@
 
 { .block-language-dataview}
 # Type Grid 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
-|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
-| 🔛  | ESTJ       |    ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==       | ENTJ            |ENFJ          | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
-| [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    |ESFJ    |ESFP    | ENTP            | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==           | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| 🔝   | ==[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]==             |   ISTP   |INTJ          | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==           | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| 🔙 | ISFJ        |  ISFP  | INTP        | INFP          | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
-|  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]  |  [[CARDS/Depth Psychology Theory/Interest⚖️\|👀]]   | [[CARDS/Depth Psychology Theory/Systematic⚙️\|⚙️]]      | [[CARDS/Depth Psychology Theory/Interest⚖️\|👀]]    |                       |                            |                       |
+
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |    | |  | 
+|:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |
+|   | ESTJ       |    ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==       | ENTJ            |ENFJ          | 
+|     |ESFJ    |ESFP    | ENTP            | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==           |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]  | ==**[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]**==             |   ISTP   |INTJ          | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==           |
+|  | ISFJ        |  ISFP  | INTP        | INFP          |
+
+Characters : [[CARDS/Individuals/-ISTJ\|-ISTJ]] 
 
 ---
 # Virtues & Vices
+
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
@@ -54,10 +55,6 @@
 
 The ISTJ belongs to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] .
 Its cognitive origin is [[CARDS/Depth Psychology Theory/Justification\|Justification]] .
-
----
-# Examples 
-See [[CARDS/Individuals/-ISTJ\|-ISTJ]] 
 
 ---
 # Mentions
