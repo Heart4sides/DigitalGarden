@@ -1,5 +1,5 @@
 ---
-{"alias":"Justification Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.543+02:00"}
+{"alias":"Justification Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-28T15:32:15.580+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] and [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]
@@ -14,6 +14,7 @@
 - Justification comes before the action. It is a reason to act, a motive 
 - Provides justification based on who someone is 
 - The orderly, rational, and moral expression of character.
+- “Walking excuse-generators”
 ---
 # ENFP’s Mind 
 
