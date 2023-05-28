@@ -1,5 +1,5 @@
 ---
-{"alias":"🔛, In charge🔛","dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-27T21:50:46.010+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/structure/","noteIcon":"1","created":"2022-12-31T00:02:04.467+01:00","updated":"2023-04-27T21:50:46.010+02:00"}
 ---
 
 
