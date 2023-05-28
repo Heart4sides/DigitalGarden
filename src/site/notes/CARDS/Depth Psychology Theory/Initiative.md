@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.966+02:00"}
+{"alias":null,"side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.966+02:00"}
 ---
 
 #type/pole 
