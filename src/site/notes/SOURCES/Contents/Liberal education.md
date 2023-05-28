@@ -1,5 +1,5 @@
 ---
-{"Source":"Liberal education","Author":null,"Au_Type":null,"Ch_Type":null,"Cat":"irl","Me_Cat":"read 🔠","Theme":null,"language":"en","ref":"[Liberal education - Wikipedia](https://en.wikipedia.org/wiki/Liberal%20education)","dg-publish":true,"permalink":"/sources/contents/liberal-education/","dgPassFrontmatter":true,"created":"2023-04-06T22:06:08.325+02:00","updated":"2023-05-02T10:44:56.395+02:00"}
+{"Source":"Liberal education","Author":null,"Au_Type":null,"Ch_Type":null,"Cat":"irl","Me_Cat":"read 🔠","Theme":null,"language":"en","ref":"[Liberal education - Wikipedia](https://en.wikipedia.org/wiki/Liberal%20education)","dg-publish":true,"permalink":"/sources/contents/liberal-education/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-06T22:06:08.325+02:00","updated":"2023-05-02T10:44:56.395+02:00"}
 ---
 
 #on/education 
