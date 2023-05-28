@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/isfp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-28T19:43:54.478+02:00","updated":"2023-05-02T11:09:34.046+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/isfp/","noteIcon":"1","created":"2023-04-28T19:43:54.478+02:00","updated":"2023-05-02T11:09:34.046+02:00"}
 ---
 
 #type
