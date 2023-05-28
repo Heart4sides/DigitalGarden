@@ -1,5 +1,5 @@
 ---
-{"alias":"🔮, NT, Intellectual","dg-publish":true,"permalink":"/cards/depth-psychology-theory/future-thinker/","dgPassFrontmatter":true,"created":"2023-01-21T13:03:38.857+01:00","updated":"2023-05-24T16:13:19.575+02:00"}
+{"alias":"🔮, NT, Intellectual","dg-publish":true,"permalink":"/cards/depth-psychology-theory/future-thinker/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-21T13:03:38.857+01:00","updated":"2023-05-24T16:13:19.575+02:00"}
 ---
 
 
