@@ -1,5 +1,5 @@
 ---
-{"alias":"modest, modesty, modeste","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","dgPassFrontmatter":true,"created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:14.097+02:00"}
+{"alias":"modest, modesty, modeste","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:14.097+02:00"}
 ---
 
 #type/pole 
