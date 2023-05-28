@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/intp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T12:08:29.265+02:00","updated":"2023-05-02T11:09:37.720+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/intp/","noteIcon":"1","created":"2023-04-29T12:08:29.265+02:00","updated":"2023-05-02T11:09:37.720+02:00"}
 ---
 
 #type
