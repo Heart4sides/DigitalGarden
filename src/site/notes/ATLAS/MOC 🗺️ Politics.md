@@ -10,7 +10,7 @@
 | --------------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
 | [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]                 | \-                                                           | fr       |
 | [[CARDS/Individuals/Christiane Taubira\|Christiane Taubira]]       | \-                                                           | \-       |
-| [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] | \-       |
+| [[CARDS/Individuals/Contrapoints\|Contrapoints]]                   | \-                                                           | \-       |
 | [[CARDS/Individuals/Eisenhower\|Eisenhower]]                       | \-                                                           | \-       |
 | [[CARDS/Individuals/Eric Zemmour\|Eric Zemmour]]                   | \-                                                           | fr       |
 | [[CARDS/Individuals/Etienne Chouard\|Etienne Chouard]]             | \-                                                           | fr       |
