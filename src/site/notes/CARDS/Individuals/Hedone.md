@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/hedone/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-21T15:02:22.674+01:00","updated":"2023-03-08T10:04:30.531+01:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/hedone/","noteIcon":"1","created":"2023-01-21T15:02:22.674+01:00","updated":"2023-03-08T10:04:30.531+01:00"}
 ---
 
 
