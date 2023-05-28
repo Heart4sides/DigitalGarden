@@ -1,5 +1,5 @@
 ---
-{"alias":"credule","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.016+02:00"}
+{"alias":"credule","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.016+02:00"}
 ---
 
 #type/pole 
