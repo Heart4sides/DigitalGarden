@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-04-28T18:51:22.291+02:00"}
+{"Alias":"Peggy","Containertitle":"[[SOURCES/Contents/Fargo\|Fargo]] S2","Author":null,"Au_Type":null,"type":"[[-INFP]]","octogram":["[[UD👤⬅️]]","[[UF👤➡️]]"],"Cat":"fiction","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","moc":"[[MOC 🗺️ Fiction]]","ref":"[Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))","dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","dgPassFrontmatter":true,"created":"2023-04-17T10:27:35.720+02:00","updated":"2023-04-28T18:51:22.291+02:00"}
 ---
 
 | MOC                                           | Containertitle | Type                                  | Octogram                                                                                                                            | Reference                                                                        |
 | --------------------------------------------- | -------------- | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[SOURCES/Contents/Fargo\|Fargo]] S2   | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series)) |
+| [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[Fargo]] S2   | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series)) |
 
 { .block-language-dataview}
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] & [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] : prefers to ignore the problematic reality of the crash 
