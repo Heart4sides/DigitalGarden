@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/tabibian/","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-05-02T10:41:05.539+02:00"}
+{"alias":null,"language":"fr","dg-publish":true,"permalink":"/cards/individuals/tabibian/","dgPassFrontmatter":true,"created":"2023-02-24T17:15:32.572+01:00","updated":"2023-05-02T10:41:05.539+02:00"}
 ---
 
 Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)
