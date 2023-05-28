@@ -1,5 +1,5 @@
 ---
-{"containertitle":null,"author":"[[John Beebe]]","au_Type":"[[INTP]]","ch_Type":null,"cat":"irl","me_Cat":"watch 🎞️ / read 🔠","theme":null,"language":"en","moc":"[[MOC 🗺️ Depth Psychology]]","ref":"[[Energies and Patterns in Psychological Type]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/eight-function-model/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-23T10:55:01.771+02:00","updated":"2023-04-27T22:14:21.327+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/eight-function-model/","noteIcon":"1","created":"2023-04-23T10:55:01.771+02:00","updated":"2023-04-27T22:14:21.327+02:00"}
 ---
 
 | MOC                                                             | Author                                          | Type                                                         | Reference                                                                                                        |
