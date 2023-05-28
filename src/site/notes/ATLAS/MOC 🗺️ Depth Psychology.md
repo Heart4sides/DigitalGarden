@@ -1,5 +1,5 @@
 ---
-{"alias":"Depth Psychology Theory, Depth Psychology","dg-publish":true,"cssClass":"two-column-grid-list","permalink":"/atlas/moc-depth-psychology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T16:16:29.036+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T16:16:29.036+02:00"}
 ---
 
 
