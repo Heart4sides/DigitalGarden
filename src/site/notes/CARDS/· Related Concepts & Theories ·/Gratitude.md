@@ -1,5 +1,5 @@
 ---
-{"alias":"grateful, gratefulness, thankful, thankfulness","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/gratitude/","dgPassFrontmatter":true,"created":"2023-05-10T21:23:57.632+02:00","updated":"2023-05-10T21:25:07.879+02:00"}
+{"alias":"grateful, gratefulness, thankful, thankfulness","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/gratitude/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-10T21:23:57.632+02:00","updated":"2023-05-10T21:25:07.879+02:00"}
 ---
 
 ---
