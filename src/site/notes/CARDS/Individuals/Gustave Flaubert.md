@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-27T15:35:32.118+02:00"}
+{"Source":"Gustave Flaubert","Author":null,"Au_Type":null,"type":"[[-INFP]]","octogram":"[[SF🤸➡️]]","Cat":"irl","Me_Cat":"read 🔠","Theme":null,"Tag":"examples","alias":null,"dg-publish":true,"Ref":"Télérama, hors-série sur Gustave Flaubert","permalink":"/cards/individuals/gustave-flaubert/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-27T15:35:32.118+02:00"}
 ---
 
 | Type                                  | Reference                                 |
