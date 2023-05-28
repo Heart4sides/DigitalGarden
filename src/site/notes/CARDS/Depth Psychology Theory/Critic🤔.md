@@ -1,5 +1,5 @@
 ---
-{"category":"attitude, F6","dg-publish":true,"alias":"Critic, witch, grandparent, Sage🧙‍♂️","permalink":"/cards/depth-psychology-theory/critic/","dgPassFrontmatter":true,"created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-27T15:36:21.937+02:00"}
+{"category":"attitude, F6","dg-publish":true,"alias":"Critic, witch, grandparent, Sage🧙‍♂️","permalink":"/cards/depth-psychology-theory/critic/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-27T15:36:21.937+02:00"}
 ---
 
 
