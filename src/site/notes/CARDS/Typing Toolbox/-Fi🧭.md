@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/typing-toolbox/fi/","dgPassFrontmatter":true,"created":"2023-04-14T15:06:37.011+02:00","updated":"2023-05-28T12:45:29.538+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/typing-toolbox/fi/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-14T15:06:37.011+02:00","updated":"2023-05-28T12:45:29.538+02:00"}
 ---
 
 #type/grid  
