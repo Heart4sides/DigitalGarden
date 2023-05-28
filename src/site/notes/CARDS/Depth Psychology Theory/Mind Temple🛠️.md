@@ -1,5 +1,5 @@
 ---
-{"alias":"🛠️, Mind🛠️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-27T15:36:27.140+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-27T15:36:27.140+02:00"}
 ---
 
 # Themes 
