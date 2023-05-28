@@ -1,5 +1,5 @@
 ---
-{"alias":"happiness, happy","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/happiness/","dgPassFrontmatter":true,"created":"2023-01-31T18:37:42.420+01:00","updated":"2023-05-03T00:57:19.815+02:00"}
+{"alias":"happiness, happy","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/happiness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-31T18:37:42.420+01:00","updated":"2023-05-03T00:57:19.815+02:00"}
 ---
 
 # Depth Psychology 
