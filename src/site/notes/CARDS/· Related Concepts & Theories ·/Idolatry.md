@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/idolatry/","created":"2022-12-20T15:48:12.129+01:00","updated":"2023-05-27T15:36:25.363+02:00"}
+{"aliases":"Idolatrous","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Shadow👤|👤]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/idolatry/","dgPassFrontmatter":true,"created":"2022-12-20T15:48:12.129+01:00","updated":"2023-05-27T15:36:25.363+02:00"}
 ---
 
 #type/pole 
