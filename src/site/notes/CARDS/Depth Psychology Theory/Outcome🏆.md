@@ -1,5 +1,5 @@
 ---
-{"alias":"🏆, result, control","dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","dgPassFrontmatter":true,"created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-23T15:58:25.213+02:00"}
+{"alias":"🏆, result, control","dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-23T15:58:25.213+02:00"}
 ---
 
 #type/grid 
