@@ -1,5 +1,5 @@
 ---
-{"alias":"superego, parasite, 👹","dg-publish":true,"permalink":"/cards/depth-psychology-theory/superego/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T11:16:52.690+01:00","updated":"2023-05-24T13:36:39.322+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/superego/","noteIcon":"1","created":"2023-01-05T11:16:52.690+01:00","updated":"2023-05-24T13:36:39.322+02:00"}
 ---
 
 - The Parasite 
