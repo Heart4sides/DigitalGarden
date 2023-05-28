@@ -1,6 +1,7 @@
 ---
-{"alias":"Depth Psychology Theory, Depth Psychology","dg-publish":true,"cssClass":"two-column-grid-list","permalink":"/atlas/moc-depth-psychology/","dgPassFrontmatter":true,"created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T10:33:05.558+02:00"}
+{"alias":"Depth Psychology Theory, Depth Psychology","dg-publish":true,"cssClass":"two-column-grid-list","permalink":"/atlas/moc-depth-psychology/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T16:16:29.036+02:00"}
 ---
+
 
 # Vectors to Understand the Types 
 To explore the basics of depth psychology, I suggest you start with the following pages :
@@ -39,25 +40,16 @@ To explore the basics of depth psychology, I suggest you start with the followin
 >>- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 >>- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 
-- # Cognitive Functions 
-	- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
+- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
 		- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]
-	- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] 
+- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] 
 		- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]
 		- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
-- # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
-	- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-	- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
-	- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
-	- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
-- # c3
-
-
 
 ---
 # Authors 
