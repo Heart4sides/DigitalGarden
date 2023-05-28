@@ -1,5 +1,5 @@
 ---
-{"alias":"Malevolent","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Soul Temple 👥|Soul👥]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","dgPassFrontmatter":true,"created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-27T15:36:25.665+02:00"}
+{"alias":"Malevolent","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Soul Temple 👥|Soul👥]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-27T15:36:25.665+02:00"}
 ---
 
 #type/pole 
