@@ -1,5 +1,5 @@
 ---
-{"alias":"No More Mr. Nice Guy!","author":"Robert A. Glover","category":"Family & Relationships","publisher":"Running PressBook Pub","publish":"2002-12-18","total":180,"isbn":"0762415339 9780762415335","cover_url":"https://books.google.com/books/content?id=qWkHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","status":"reading","created":"2023-02-26T16:38:01.397+01:00","dg-publish":true,"permalink":"/sources/contents/robert-a-glover-no-more-mr-nice-guy/","dgPassFrontmatter":true,"updated":"2023-04-07T15:55:19.619+02:00"}
+{"alias":"No More Mr. Nice Guy!","author":"Robert A. Glover","category":"Family & Relationships","publisher":"Running PressBook Pub","publish":"2002-12-18","total":180,"isbn":"0762415339 9780762415335","cover_url":"https://books.google.com/books/content?id=qWkHAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","status":"reading","created":"2023-02-26T16:38:01.397+01:00","dg-publish":true,"permalink":"/sources/contents/robert-a-glover-no-more-mr-nice-guy/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-04-07T15:55:19.619+02:00"}
 ---
 
 **Ref::** No More Mr. Nice Guy!  
