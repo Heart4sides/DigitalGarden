@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/strained/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-10T18:35:10.436+02:00","updated":"2023-05-10T18:36:35.833+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/strained/","noteIcon":"1","created":"2023-05-10T18:35:10.436+02:00","updated":"2023-05-10T18:36:35.833+02:00"}
 ---
 
 # Dictionary.com 
