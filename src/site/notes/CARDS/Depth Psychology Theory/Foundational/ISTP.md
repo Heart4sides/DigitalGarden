@@ -1,5 +1,5 @@
 ---
-{"alias":"The Artificer","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","dgPassFrontmatter":true,"created":"2023-01-05T15:34:59.704+01:00","updated":"2023-05-27T21:39:40.090+02:00"}
+{"alias":"The Artificer","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T15:34:59.704+01:00","updated":"2023-05-27T21:39:40.090+02:00"}
 ---
 
 #on/depthpsychology  #type 
