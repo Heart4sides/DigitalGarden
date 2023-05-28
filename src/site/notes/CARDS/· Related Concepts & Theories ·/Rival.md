@@ -1,5 +1,5 @@
 ---
-{"alias":"rivalry, rivals, rivaux","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/rival/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-18T15:00:21.703+01:00","updated":"2023-01-18T15:08:01.483+01:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/rival/","noteIcon":"1","created":"2023-01-18T15:00:21.703+01:00","updated":"2023-01-18T15:08:01.483+01:00"}
 ---
 
 
