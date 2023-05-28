@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-education/","noteIcon":"1","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-28T19:07:20.816+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-education/","noteIcon":"1","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-28T22:42:19.213+02:00"}
 ---
 
 
@@ -13,7 +13,8 @@
 </div></div>
 
 
-# Content
+---
+# CONTENT
 | File                                                                                                                                                                                                                         | author                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
 | [[CARDS/· Related Concepts & Theories ·/Deductive\|Deductive]]                                                                                                                                                            | \-                                                        |
@@ -21,7 +22,7 @@
 | [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]                                                                                                                                                                    | \-                                                        |
 | [[CARDS/· Related Concepts & Theories ·/Learning Styles\|Learning Styles]]                                                                                                                                                | \-                                                        |
 | [[CARDS/· Related Concepts & Theories ·/Teach\|Teach]]                                                                                                                                                                    | \-                                                        |
-| [[SOURCES/Literature Note/Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast #5.md\|Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast #5]]                              | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] |
+| [[SOURCES/Literature Note/Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast 5\|Understanding and Using Dreams to Learn and to Forget _ Huberman Lab Podcast 5]]                                | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]] |
 | [[SOURCES/Contents/4 Sides In Education\|4 Sides In Education]]                                                                                                                                                           | [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]       |
 | [[SOURCES/Contents/Education x Typology\|Education x Typology]]                                                                                                                                                           | \-                                                        |
 | [[SOURCES/Contents/Educational perennialism\|Educational perennialism]]                                                                                                                                                   | \-                                                        |
@@ -33,8 +34,8 @@
 | [[SOURCES/Contents/Montessori\|Montessori]]                                                                                                                                                                               | Maria Montessori                                          |
 
 { .block-language-dataview}
-
-# Authors
+---
+# AUTHORS
 | File                                                        | Type                                      | language |
 | ----------------------------------------------------------- | ----------------------------------------- | -------- |
 | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]   | [[CARDS/Individuals/-ENFP\|-ENFP]]     | \-       |
