@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-02T10:45:09.786+02:00"}
+{"alias":"learning, Learning","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","dgPassFrontmatter":true,"created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-02T10:45:09.786+02:00"}
 ---
 
 #on/education 
