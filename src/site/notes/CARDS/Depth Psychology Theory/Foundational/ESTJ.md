@@ -1,5 +1,5 @@
 ---
-{"alias":"The Judicator","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estj/","dgPassFrontmatter":true,"created":"2023-01-05T11:09:22.669+01:00","updated":"2023-05-28T10:19:49.547+02:00"}
+{"alias":"The Judicator","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T11:09:22.669+01:00","updated":"2023-05-28T10:19:49.547+02:00"}
 ---
 
 #on/depthpsychology  #type 
