@@ -1,5 +1,5 @@
 ---
-{"alias":"The 48 Laws Of Power","author":"[[Robert Greene]]","au_type":"[[-INFP]]","category":"Body, Mind & Spirit","publisher":"Profile Books","date":"2010-09-03","pages":463,"isbn":"1847651348 9781847651341","cover_url":"http://books.google.com/books/content?id=P_zMW3EHnTEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"reading","moc":"[[MOC 🗺️ Psychology]]","created":"2023-04-28T09:02:39.653+02:00","ref":null,"dg-publish":true,"permalink":"/sources/contents/robert-greene-the-48-laws-of-power/","dgPassFrontmatter":true,"updated":"2023-05-28T14:38:54.700+02:00"}
+{"alias":"The 48 Laws Of Power","author":"[[Robert Greene]]","au_type":"[[-INFP]]","category":"Body, Mind & Spirit","publisher":"Profile Books","date":"2010-09-03","pages":463,"isbn":"1847651348 9781847651341","cover_url":"http://books.google.com/books/content?id=P_zMW3EHnTEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"reading","moc":"[[MOC 🗺️ Psychology]]","created":"2023-04-28T09:02:39.653+02:00","ref":null,"dg-publish":true,"permalink":"/sources/contents/robert-greene-the-48-laws-of-power/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-05-28T14:38:54.700+02:00"}
 ---
 
 #book 
