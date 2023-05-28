@@ -1,5 +1,5 @@
 ---
-{"alias":"The Knight","Quadra":"[[Crusader]]","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","dgPassFrontmatter":true,"created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-28T15:41:32.023+02:00"}
+{"alias":"The Knight","Quadra":"[[Crusader]]","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/isfj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T19:27:25.866+01:00","updated":"2023-05-28T15:41:32.023+02:00"}
 ---
 
 #on/depthpsychology  #type 
