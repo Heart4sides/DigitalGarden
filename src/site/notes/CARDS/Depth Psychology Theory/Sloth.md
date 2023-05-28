@@ -1,5 +1,5 @@
 ---
-{"alias":null,"side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","dgPassFrontmatter":true,"created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-27T15:36:24.006+02:00"}
+{"alias":null,"side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/sloth/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-24T17:36:14.616+01:00","updated":"2023-05-27T15:36:24.006+02:00"}
 ---
 
 #type/pole 
