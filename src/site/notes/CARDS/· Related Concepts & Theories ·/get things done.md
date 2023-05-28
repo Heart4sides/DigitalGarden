@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/get-things-done/","dgPassFrontmatter":true,"created":"2023-05-10T18:51:01.177+02:00","updated":"2023-05-10T18:57:28.821+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/get-things-done/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-10T18:51:01.177+02:00","updated":"2023-05-10T18:57:28.821+02:00"}
 ---
 
 
