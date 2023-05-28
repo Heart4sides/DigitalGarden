@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"ref":"[C.S. Joseph Member's Area](https://offers.csjoseph.life/portal)","permalink":"/cards/depth-psychology-theory/softlocking/","dgPassFrontmatter":true,"created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-19T18:43:58.711+02:00"}
+{"alias":null,"dg-publish":true,"ref":"[C.S. Joseph Member's Area](https://offers.csjoseph.life/portal)","permalink":"/cards/depth-psychology-theory/softlocking/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T10:41:54.218+01:00","updated":"2023-04-19T18:43:58.711+02:00"}
 ---
 
 [C.S. Joseph Member's Area](https://offers.csjoseph.life/portal) - “Softlocking” 
