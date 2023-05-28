@@ -1,5 +1,5 @@
 ---
-{"alias":"spiteful, spite, Spiteful","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/spite/","dgPassFrontmatter":true,"created":"2023-05-08T20:02:55.828+02:00","updated":"2023-05-08T21:11:18.673+02:00"}
+{"alias":"spiteful, spite, Spiteful","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/spite/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-08T20:02:55.828+02:00","updated":"2023-05-08T21:11:18.673+02:00"}
 ---
 
 # Dictonary.com 
