@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.835+02:00"}
+{"alias":"greedy","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","dgPassFrontmatter":true,"created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.835+02:00"}
 ---
 
 #type/pole 
