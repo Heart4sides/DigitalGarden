@@ -1,5 +1,5 @@
 ---
-{"alias":"impartial","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/impartiality/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:35:32.487+02:00"}
+{"alias":"impartial","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/impartiality/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:35:32.487+02:00"}
 ---
 
 #type/pole 
