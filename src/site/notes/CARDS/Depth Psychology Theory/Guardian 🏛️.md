@@ -1,10 +1,11 @@
 ---
-{"alias":"🏛️","dg-publish":true,"ref":["[[CARDS/Individuals/David Keirsey\|David Keirsey]]","[[Plato\|Plato]]"],"permalink":"/cards/depth-psychology-theory/guardian/","dgPassFrontmatter":true,"created":"2023-01-12T12:07:29.951+01:00","updated":"2023-05-24T15:46:17.511+02:00"}
+{"alias":"🏛️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","dgPassFrontmatter":true,"created":"2023-01-12T12:07:29.951+01:00","updated":"2023-05-28T11:22:49.182+02:00"}
 ---
 
+ref :: ["[[CARDS/Individuals/David Keirsey\|David Keirsey]]", "[[Plato\|Plato]]"]
 > [!Info]- Navigation 💠
 > [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]  #on/politics 
-> [[David Keirsey]] | [[Plato]]
+> [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[Plato\|Plato]]
 
 # Types 
 [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]
