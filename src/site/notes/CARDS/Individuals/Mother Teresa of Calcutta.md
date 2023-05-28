@@ -1,9 +1,10 @@
 ---
-{"containertitle":null,"au_Type":null,"type":"[[-ISFJ]]","octogram":"[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]","cat":"fiction / irl","me_Cat":"watch 🎞️ / listen 🎧 / read 🔠","theme":null,"language":"en / fr","moc":"[[]]","ref":"[Emotions in the Christian Tradition (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Comp)","dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","dgPassFrontmatter":true,"created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-28T12:37:10.569+02:00"}
+{"containertitle":null,"au_Type":null,"type":"[[-ISFJ]]","cat":"fiction / irl","me_Cat":"watch 🎞️ / listen 🎧 / read 🔠","theme":null,"language":"en / fr","moc":"[[]]","ref":"[Emotions in the Christian Tradition (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Comp)","dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","dgPassFrontmatter":true,"created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-28T12:40:47.926+02:00"}
 ---
 
-| MOC                                                                           | Type                                  | Octogram                                            | Reference                                                                                                                                         |
-| ----------------------------------------------------------------------------- | ------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+octogram:: "[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]"
+| MOC                                                                           | Type                                  | Octogram   | Reference                                                                                                                                         |
+| ----------------------------------------------------------------------------- | ------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[CARDS/Individuals/Mother Teresa of Calcutta\|Mother Teresa of Calcutta]] | [[CARDS/Individuals/-ISFJ\|-ISFJ]] | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] | [Emotions in the Christian Tradition (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Comp) |
 
 { .block-language-dataview}
@@ -15,7 +16,7 @@ Though you hide yourself behind the unattractive disguise of the irritable ([[CA
 
 “Jesus, my patient, how sweet it is to serve you.”
 
-Lord, give me this seeing [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]), then my work will never be [[CARDS/· Related Concepts & Theories ·/monotonous\|monotonous]]. I will ever find joy ([[SF🤸➡️]]) in humoring the fancies and gratifying the wishes ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]) of all poor sufferers.
+Lord, give me this seeing [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]), then my work will never be [[CARDS/· Related Concepts & Theories ·/monotonous\|monotonous]]. I will ever find joy ([[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]) in humoring the fancies and gratifying the wishes ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]) of all poor sufferers.
 
 O beloved sick, how doubly dear ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) you are to me, when you personify Christ; and what a privilege ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) is mine to be allowed to tend you.
 
