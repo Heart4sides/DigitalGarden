@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/fear/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-26T18:30:48.838+01:00","updated":"2023-05-24T13:10:10.302+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/fear/","noteIcon":"1","created":"2023-02-26T18:30:48.838+01:00","updated":"2023-05-24T13:10:10.302+02:00"}
 ---
 
 - Attitude of the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] 
