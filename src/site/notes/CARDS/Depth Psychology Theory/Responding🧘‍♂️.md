@@ -1,5 +1,5 @@
 ---
-{"alias":"🧘‍♂️, Introverted, Introvert, introverted","dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","dgPassFrontmatter":true,"created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T20:51:57.008+02:00"}
+{"alias":"🧘‍♂️, Introverted, Introvert, introverted","dg-publish":true,"permalink":"/cards/depth-psychology-theory/responding/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-26T20:51:57.008+02:00"}
 ---
 
 #type/grid
