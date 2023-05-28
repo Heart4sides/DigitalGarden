@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/bigotry/","created":"2023-01-18T14:15:17.601+01:00","updated":"2023-04-23T11:02:31.191+02:00"}
+{"alias":"bigot","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/bigotry/","dgPassFrontmatter":true,"created":"2023-01-18T14:15:17.601+01:00","updated":"2023-04-23T11:02:31.191+02:00"}
 ---
 
 
