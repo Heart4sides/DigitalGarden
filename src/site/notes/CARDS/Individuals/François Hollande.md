@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","created":"2023-04-20T14:28:23.896+02:00","updated":"2023-05-02T10:46:24.422+02:00"}
+{"alias":"Hollande","type":"[[-ISFJ]]","dg-publish":true,"permalink":"/cards/individuals/francois-hollande/","dgPassFrontmatter":true,"created":"2023-04-20T14:28:23.896+02:00","updated":"2023-05-02T10:46:24.422+02:00"}
 ---
 
 > [!Info]- Navigation 💠
