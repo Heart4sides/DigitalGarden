@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/c-jung-1962/","created":"2023-04-20T10:41:05.423+02:00","updated":"2023-04-30T11:51:14.112+02:00"}
+{"source":"Unknown Volume, 1962","alias":["Memories, Dreams, Reflections"],"author":"[[Carl Jung]]","authors":"A. Jaffé","pages":"Unknown Pages","ref":"[External Link](https://www.semanticscholar.org/paper/72cebce9f2d9a9530c23bcd6c7fad8c6b5ce0ebc)","dg-publish":true,"permalink":"/sources/contents/c-jung-1962/","dgPassFrontmatter":true,"created":"2023-04-20T10:41:05.423+02:00","updated":"2023-04-30T11:51:14.112+02:00"}
 ---
 
 
