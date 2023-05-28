@@ -1,5 +1,5 @@
 ---
-{"alias":"subconscious-developed, subconscious-developed","dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-05-27T15:35:31.022+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sd/","noteIcon":"1","created":"2023-01-12T14:07:09.318+01:00","updated":"2023-05-27T15:35:31.022+02:00"}
 ---
 
 
