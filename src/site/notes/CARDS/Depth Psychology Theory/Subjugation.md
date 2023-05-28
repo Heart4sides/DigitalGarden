@@ -1,5 +1,5 @@
 ---
-{"alias":"subjugate, subjugating","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/subjugation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:24.113+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/subjugation/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:24.113+02:00"}
 ---
 
 #type/pole 
