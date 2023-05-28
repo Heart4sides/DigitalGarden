@@ -1,5 +1,5 @@
 ---
-{"annotation-target":"file:///C:/Users/thais/Downloads/SSRN-id1298493.pdf","dg-publish":true,"permalink":"/sources/contents/the-self-reinforcing-nature-of-social-hierarchy-origins-and-consequences-of-power-and-status/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-31T17:32:06.672+01:00","updated":"2023-05-10T21:21:47.105+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/the-self-reinforcing-nature-of-social-hierarchy-origins-and-consequences-of-power-and-status/","noteIcon":"1","created":"2023-01-31T17:32:06.672+01:00","updated":"2023-05-10T21:21:47.105+02:00"}
 ---
 
 [The Self-Reinforcing Nature of Social Hierarchy: Origins and Consequences of Power and Status by Joseph C. Magee, Adam D. Galinsky :: SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1298493)
