@@ -1,5 +1,5 @@
 ---
-{"alias":"Hollande2018, @theoucafePortraitIntimisteHollande2018","ch_type":"ISFJ","containertitle":null,"author":"[[Catherine Ceylac]]","date":"2018-06-16","ref":"[Lien](https://www.youtube.com/watch?v=IYwLTmBnwKk)","dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","dgPassFrontmatter":true,"created":"2023-04-20T14:35:21.066+02:00","updated":"2023-05-28T14:38:48.893+02:00"}
+{"alias":"Hollande2018, @theoucafePortraitIntimisteHollande2018","ch_type":"ISFJ","containertitle":null,"author":"[[Catherine Ceylac]]","date":"2018-06-16","ref":"[Lien](https://www.youtube.com/watch?v=IYwLTmBnwKk)","dg-publish":true,"permalink":"/sources/literature-note/portrait-intimiste-de-francois-hollande-1ere-partie-the-ou-cafe-2018/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-20T14:35:21.066+02:00","updated":"2023-05-28T14:38:48.893+02:00"}
 ---
 
 > [!Info]- Navigation 💠
