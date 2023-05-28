@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/john-bodine/","created":"2023-04-22T10:57:20.572+02:00","updated":"2023-04-29T17:07:18.986+02:00"}
+{"containertitle":null,"author":"[[John Bodine]]","au_Type":null,"type":"[[-INFJ]]","cat":"irl","me_Cat":"read 🔠","theme":null,"language":"en","moc":"[[MOC 🗺️ Depth Psychology]]","ref":"[John Bodine, Author at C.S. Joseph](https://csjoseph.life/author/john/)","dg-publish":true,"permalink":"/cards/individuals/john-bodine/","dgPassFrontmatter":true,"created":"2023-04-22T10:57:20.572+02:00","updated":"2023-04-29T17:07:18.986+02:00"}
 ---
 
 | MOC                                                             | Author                                            | Type | Reference                                                                |
