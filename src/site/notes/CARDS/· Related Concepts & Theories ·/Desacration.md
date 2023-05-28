@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:25.267+02:00"}
+{"alias":"desacrate, desacrating, desecrate, desecrating, desecration","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Soul Temple 👥|Soul👥]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","dgPassFrontmatter":true,"created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:25.267+02:00"}
 ---
 
 #type/pole 
