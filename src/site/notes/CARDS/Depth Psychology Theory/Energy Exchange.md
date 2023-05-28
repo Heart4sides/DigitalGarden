@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-05-02T14:16:48.181+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/energy-exchange/","noteIcon":"1","created":"2023-01-06T17:17:39.065+01:00","updated":"2023-05-02T14:16:48.181+02:00"}
 ---
 
 > [!Info]- Navigation 💠
