@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/isfj/","dgPassFrontmatter":true,"created":"2023-04-29T12:08:47.375+02:00","updated":"2023-05-21T21:02:38.599+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/isfj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T12:08:47.375+02:00","updated":"2023-05-21T21:02:38.599+02:00"}
 ---
 
 #type
