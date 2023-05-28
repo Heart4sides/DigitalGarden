@@ -1,5 +1,5 @@
 ---
-{"alias":"The Archivist","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","dgPassFrontmatter":true,"created":"2023-01-05T13:44:15.646+01:00","updated":"2023-05-28T10:15:39.955+02:00"}
+{"alias":"The Archivist","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-05-28T10:15:39.955+02:00"}
 ---
 
 #on/depthpsychology  #type 
