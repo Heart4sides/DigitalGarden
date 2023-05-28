@@ -1,5 +1,5 @@
 ---
-{"alias":"explaining, explanation, explains","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/explain/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-17T11:24:42.259+02:00","updated":"2023-05-02T10:50:11.807+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/explain/","noteIcon":"1","created":"2023-04-17T11:24:42.259+02:00","updated":"2023-05-02T10:50:11.807+02:00"}
 ---
 
 #on/education 
