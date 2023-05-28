@@ -1,5 +1,5 @@
 ---
-{"alias":"The Rogue","category":"type","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","dgPassFrontmatter":true,"created":"2022-12-27T18:59:13.675+01:00","updated":"2023-05-27T21:38:40.184+02:00"}
+{"alias":"The Rogue","category":"type","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-05-27T21:38:40.184+02:00"}
 ---
 
 #on/depthpsychology  #type
