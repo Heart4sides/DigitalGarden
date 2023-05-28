@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:15.864+02:00"}
+{"alias":"obstinate, obstinacy","side":"[[Sub🤸|🤸]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:15.864+02:00"}
 ---
 
 #type/pole 
