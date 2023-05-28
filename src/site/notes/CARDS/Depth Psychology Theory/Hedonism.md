@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hedonism/","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:22.379+02:00"}
+{"alias":"hedonist, hedonistic","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/hedonism/","dgPassFrontmatter":true,"created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:22.379+02:00"}
 ---
 
 #type/pole 
