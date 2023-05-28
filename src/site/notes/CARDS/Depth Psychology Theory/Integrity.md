@@ -1,5 +1,5 @@
 ---
-{"alias":"Integration","dg-publish":true,"permalink":"/cards/depth-psychology-theory/integrity/","dgPassFrontmatter":true,"created":"2023-01-05T11:29:08.366+01:00","updated":"2023-05-25T11:30:34.734+02:00"}
+{"alias":"Integration","dg-publish":true,"permalink":"/cards/depth-psychology-theory/integrity/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T11:29:08.366+01:00","updated":"2023-05-25T11:30:34.734+02:00"}
 ---
 
 # Depth Psychology 
