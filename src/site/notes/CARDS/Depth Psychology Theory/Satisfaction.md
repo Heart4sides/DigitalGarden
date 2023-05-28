@@ -1,5 +1,5 @@
 ---
-{"alias":"satisfaction, satisfying, satisfy, satisfied, Satisfaction Dyad, content","dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-26T20:02:59.569+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/satisfaction/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-26T20:02:59.569+02:00"}
 ---
 
 Satisfaction is the [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]] and [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] personality types. Satisfaction is found when the [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] desires are fulfilled. 
