@@ -1,5 +1,5 @@
 ---
-{"alias":"-Fe","dg-publish":true,"permalink":"/cards/typing-toolbox/fe/","dgPassFrontmatter":true,"created":"2023-02-26T21:13:43.805+01:00","updated":"2023-05-28T12:44:16.685+02:00"}
+{"alias":"-Fe","dg-publish":true,"permalink":"/cards/typing-toolbox/fe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-26T21:13:43.805+01:00","updated":"2023-05-28T12:44:16.685+02:00"}
 ---
 
 #on/depthpsychology #type/grid  
