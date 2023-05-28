@@ -1,5 +1,5 @@
 ---
-{"alias":"🔙, Behind the scenes🔙","dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-04-27T21:48:15.073+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","noteIcon":"1","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-04-27T21:48:15.073+02:00"}
 ---
 
 
