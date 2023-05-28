@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-27T15:34:43.912+02:00"}
+{"Alias":"Parent, parents, mother, father, Teen👦, F2, Secund","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","dgPassFrontmatter":true,"created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-27T15:34:43.912+02:00"}
 ---
 
 2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|cognitive function]], but last to develop in the ego (20s). 
