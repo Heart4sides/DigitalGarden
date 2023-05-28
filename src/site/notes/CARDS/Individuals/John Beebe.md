@@ -1,5 +1,5 @@
 ---
-{"alias":"Beebe, J. Beebe","au_type":"[[-INTP]]","concept":["[[Eight-Function Model]]","[[Attitudes]]"],"moc":"[[MOC 🗺️ Depth Psychology]]","ref":"[[Energies and Patterns in Psychological Type]]","dg-publish":true,"permalink":"/cards/individuals/john-beebe/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-29T17:07:13.523+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/john-beebe/","noteIcon":"1","created":"2022-12-26T14:40:11.967+01:00","updated":"2023-04-29T17:07:13.523+02:00"}
 ---
 
 #on/depthpsychology 
