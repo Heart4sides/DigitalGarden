@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-typed/","dgPassFrontmatter":true,"created":"2023-04-29T12:12:22.894+02:00","updated":"2023-05-02T11:09:43.925+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-typed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T12:12:22.894+02:00","updated":"2023-05-02T11:09:43.925+02:00"}
 ---
 
 
@@ -121,8 +121,10 @@
 | [[CARDS/Individuals/Anakin Skywalker\|Anakin Skywalker]]   | \-                                                                                         |
 | [[CARDS/Individuals/Antoine de Maximy\|Antoine de Maximy]] | \-                                                                                         |
 | [[CARDS/Individuals/Bernard Tapie\|Bernard Tapie]]         | \-                                                                                         |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]                 | \-                                                                                         |
 | [[CARDS/Individuals/Elizabeth Bennet\|Elizabeth Bennet]]   | \-                                                                                         |
 | [[CARDS/Individuals/Emmanuel Macron\|Emmanuel Macron]]     | \-                                                                                         |
+| [[CARDS/Individuals/George Carlin\|George Carlin]]         | <ul><li></li><li></li></ul>                                                                |
 | [[CARDS/Individuals/Hitler\|Hitler]]                       | \-                                                                                         |
 | [[CARDS/Individuals/Littlefinger\|Littlefinger]]           | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Pearl Warren\|Pearl Warren]]           | \-                                                                                         |
@@ -130,6 +132,7 @@
 | [[CARDS/Individuals/The Grinch\|The Grinch]]               | \-                                                                                         |
 | [[CARDS/Individuals/The Joker\|The Joker]]                 | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] </li></ul> |
 | [[CARDS/Individuals/Tyrion Lannister\|Tyrion Lannister]]   | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] </li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Weird Al Yankovic\|Weird Al Yankovic]] | <ul><li></li><li></li></ul>                                                                |
 
 { .block-language-dataview}
 
@@ -266,12 +269,13 @@
 
 
 
-| File                                                | octogram |
-| --------------------------------------------------- | -------- |
-| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]       | \-       |
-| [[CARDS/Individuals/Frankenstein\|Frankenstein]] | \-       |
-| [[CARDS/Individuals/Kant\|Kant]]                 | \-       |
-| [[CARDS/Individuals/Stephen King\|Stephen King]] | \-       |
+| File                                                        | octogram                    |
+| ----------------------------------------------------------- | --------------------------- |
+| [[CARDS/Individuals/Alfred Hitchcock\|Alfred Hitchcock]] | <ul><li></li><li></li></ul> |
+| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]               | \-                          |
+| [[CARDS/Individuals/Frankenstein\|Frankenstein]]         | \-                          |
+| [[CARDS/Individuals/Kant\|Kant]]                         | \-                          |
+| [[CARDS/Individuals/Stephen King\|Stephen King]]         | \-                          |
 
 { .block-language-dataview}
 
