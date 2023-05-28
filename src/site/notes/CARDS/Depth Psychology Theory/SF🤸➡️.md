@@ -1,5 +1,5 @@
 ---
-{"alias":"subconscious-focused, Sub🤸➡️Focus","dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-27T15:36:15.032+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-27T15:36:15.032+02:00"}
 ---
 
 
