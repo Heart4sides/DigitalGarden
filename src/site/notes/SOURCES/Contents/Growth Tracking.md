@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/growth-tracking/","created":"2023-04-08T18:40:05.302+02:00","updated":"2023-05-27T15:36:26.766+02:00"}
+{"Source":"Growth Tracking","Author":"[[Chris Taylor]]","Au_Type":"[[ENFP]]","Ch_Type":null,"Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","moc":"[[MOC 🗺️ Depth Psychology]]","Ref":"[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)","dg-publish":true,"permalink":"/sources/contents/growth-tracking/","dgPassFrontmatter":true,"created":"2023-04-08T18:40:05.302+02:00","updated":"2023-05-27T15:36:26.766+02:00"}
 ---
 
 #on/depthpsychology 
