@@ -1,5 +1,5 @@
 ---
-{"alias":"Nat, Bronze","dg-publish":true,"permalink":"/cards/depth-psychology-theory/natural-pair/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-21T11:22:42.871+01:00","updated":"2023-05-26T20:02:58.741+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/natural-pair/","noteIcon":"1","created":"2022-12-21T11:22:42.871+01:00","updated":"2023-05-26T20:02:58.741+02:00"}
 ---
 
 # Benefit : Acceptance 
