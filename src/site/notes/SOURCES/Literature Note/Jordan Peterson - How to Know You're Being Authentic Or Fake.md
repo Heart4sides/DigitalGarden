@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/jordan-peterson-how-to-know-you-re-being-authentic-or-fake/","created":"2023-05-25T13:53:01.392+02:00","updated":"2023-05-25T14:23:03.171+02:00"}
+{"alias":"(2019), @thebestsJordanPetersonHow2019","containertitle":null,"author":"[[Jordan Peterson]]","type":"[[-INTP]]","date":2019,"pages":null,"MOC":"[[MOC 🗺️ Psychology]]","cover_url":null,"status":"unread / reading / done","ref":"[Jordan Peterson - How to Know You're Being Authentic Or Fake](https://www.youtube.com/watch?v=ph2Ddo36wC4)","Shortref":"[Peterson on Authenticity](https://www.youtube.com/watch?v=ph2Ddo36wC4)","dg-publish":true,"permalink":"/sources/literature-note/jordan-peterson-how-to-know-you-re-being-authentic-or-fake/","dgPassFrontmatter":true,"created":"2023-05-25T13:53:01.392+02:00","updated":"2023-05-25T14:23:03.171+02:00"}
 ---
 
 | MOC                                                 | Type                                  | Reference                                                               | Links                                                                                                                                                                                                                                                                 |
