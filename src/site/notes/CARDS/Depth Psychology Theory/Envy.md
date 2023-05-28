@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-27T15:35:31.333+02:00"}
+{"alias":"envie, envious","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/envy/","dgPassFrontmatter":true,"created":"2023-01-17T21:29:50.558+01:00","updated":"2023-05-27T15:35:31.333+02:00"}
 ---
 
 #type/pole 
