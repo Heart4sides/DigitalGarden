@@ -1,5 +1,5 @@
 ---
-{"containertitle":"The Founder","author":null,"au_Type":null,"type":"[[-ENFP]]","cat":"fiction","me_Cat":"watch 🎞️","theme":null,"language":"en","moc":"[[MOC 🗺️ Fiction]]","ref":null,"dg-publish":true,"permalink":"/cards/individuals/ray-kroc/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-19T19:58:37.990+02:00","updated":"2023-05-02T10:41:45.906+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/ray-kroc/","noteIcon":"1","created":"2023-04-19T19:58:37.990+02:00","updated":"2023-05-02T10:41:45.906+02:00"}
 ---
 
 | MOC                                           | Author | Type                                  | Reference |
