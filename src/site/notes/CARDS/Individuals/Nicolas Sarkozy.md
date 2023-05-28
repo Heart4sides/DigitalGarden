@@ -17,7 +17,7 @@
 > *"Qu'est-ce qui demandent les gens ? Ils disent laissez-nous travailler pour gagner plus. Pourquoi on les empêcherait ?"* 
 > 
 >  [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]] 
-> [[CARDS/Typing Toolbox/-interest👀\|-interest👀]] 
+> [[CARDS/Typing Toolbox/-interest⚖️\|-interest⚖️]] 
 
 
 </div></div>
