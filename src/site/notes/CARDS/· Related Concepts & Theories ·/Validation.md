@@ -1,12 +1,14 @@
 ---
-{"alias":"valid, validate, validity, validating, validates, Validation Dyad","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:26.045+02:00"}
+{"alias":"valid, validate, validity, validating, validates, Validation Dyad","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-28T18:17:37.172+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
 ---
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-Seeking accuracy helps me become a better teacher. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] about.
+Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories ·/Teach\|teacher]]. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] about.
+{ #268204}
+
 - **Dismiss**, Disregard, Abrasive, Compelling, Resolute, Somber
 - **Acceptance**, Affirmation, Appreciation, Compromise, Verification, Certainty
 ---
@@ -33,7 +35,7 @@ Seeking accuracy helps me become a better teacher. I must learn to listen to oth
 
 
 # Notes on Validation by CSJ 
-- Validation is about how the decision of who should teach is made. Verify if one has the integrity or the the strength or the actual knowledge or the skill to be a teacher.
+- Validation is about how the decision of who should [[CARDS/· Related Concepts & Theories ·/Teach\|teach]] is made. Verify if one has the integrity or the the strength or the actual knowledge or the skill to be a teacher. ^309b4b
 - Validation happens after the act 
 - ISTPs tend to validate  /  ENFJs tend to seek to be validated 
 
