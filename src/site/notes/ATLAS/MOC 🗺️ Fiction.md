@@ -1,5 +1,5 @@
 ---
-{"alias":"Fiction","dg-publish":true,"permalink":"/atlas/moc-fiction/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-19T17:29:47.405+02:00","updated":"2023-05-02T10:34:33.778+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-fiction/","noteIcon":"1","created":"2023-04-19T17:29:47.405+02:00","updated":"2023-05-02T10:34:33.778+02:00"}
 ---
 
 
