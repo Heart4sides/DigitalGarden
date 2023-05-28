@@ -1,5 +1,5 @@
 ---
-{"alias":"unconscious, Unconscious👥, Shadow, 👥, unc, U👥","dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","dgPassFrontmatter":true,"created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:36:01.588+02:00"}
+{"alias":"unconscious, Unconscious👥, Shadow, 👥, unc, U👥","dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:36:01.588+02:00"}
 ---
 
 # Summary  
