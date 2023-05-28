@@ -1,14 +1,8 @@
 ---
-{"alias":"learning, Learning","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-28T19:12:07.989+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","noteIcon":"1","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-28T21:50:52.617+02:00"}
 ---
 
 #on/education 
-
-# Attitudes 
-- Target the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] to [[CARDS/· Related Concepts & Theories ·/Teach\|teach]] someone a lesson. People listen when you call them out on their [[Hypocricy\|Hypocricy]], even if they don’t seem to.  
-{ #f385ca}
-
-- The [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] must learn to explore the unknown with the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]. 
 
 # Functions 
 
@@ -16,6 +10,16 @@ Learning from :
 - Your own [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] : fastest way to grow, but most painful. Challenges your ego investments. 
 - Your [[CARDS/Depth Psychology Theory/Golden Quadra\|Golden Quadra]] : teaches you in a way that protects your ego investments, so learning is slower. 
 
+[[SOURCES/Type Theory by CSJ/Functions/Philosopher (by CSJ)\|Philosopher (by CSJ)]]
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+- Their job is to read and [[CARDS/· Related Concepts & Theories ·/Learn\|learn]] from the lessons of the past 
+
+</div></div>
+
+## Perception
 [[SOURCES/Type Theory by CSJ/Functions/Orbit Si-Se (by CSJ)\|Orbit Si-Se (by CSJ)]]
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -27,15 +31,19 @@ Solo book reading impacts Si + Ni. So ESXP hate reading books. They like having 
 
 </div></div>
 
-[[SOURCES/Type Theory by CSJ/Functions/Philosopher (by CSJ)\|Philosopher (by CSJ)]]
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+[[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] 
+- Focus on one thing, learn from other’s mistakes 
 
+[[SOURCES/Type Theory by CSJ/Functions/⛰️Si-Ne💧\|⛰️Si-Ne💧]]
+- Multilinear learning : learn from a variety of sources, find connections between them with Ne  
 
+# Judgement
 
-- Their job is to read and [[CARDS/· Related Concepts & Theories ·/Learn\|learn]] from the lessons of the past 
+[[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]]
+- learn in groups - your knowledge = the group’s knowledge 
 
-</div></div>
-
+[[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]] 
+- learn by yourself - your knowledge is build by yourself 
 
 # Mind Temple 
 [[SOURCES/Type Theory by CSJ/Temples/Mind Temple/Validation Dyad/Humility (by CSJ)\|Humility (by CSJ)]] 
