@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"noteIcon":1,"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-28T19:45:27.561+02:00"}
+{"dg-publish":true,"permalink":"/atlas/type-a-cross/","tags":["gardenEntry"],"noteIcon":1,"created":"2023-01-02T16:17:52.012+01:00","updated":"2023-05-28T22:41:55.015+02:00"}
 ---
 
 # TYPE A CROSS 💠
@@ -14,10 +14,12 @@ Yet, with the proper [[CARDS/Depth Psychology Theory/Guidance Function🚿\|Guid
 
 This Digital Garden👩‍🌾 provides some paths 🛤️ to explore, transform, educate and integrate the 4👨‍👩‍👧‍👦residents of your Self. 
 
+---
 # START HERE → [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
 
 With my deepest gratitude to [[CARDS/Individuals/CS Joseph\|CS Joseph]], [[CARDS/Individuals/C.G. Jung\|Carl Jung]], [[CARDS/Individuals/John Beebe\|John Beebe]], [[CARDS/Individuals/Linda Berens\|Linda Berens]] and [[CARDS/Individuals/David Keirsey\|David Keirsey]] for their contribution to the understanding of human nature & nurture, for most of what I share here is grown upon the fruits of their minds. 
 
+---
 # PURPOSE - WHY SHARE ?
 - To provide material for individuals who wish to understand & understand themselves & others, and thrive to become integrated, wholly human beings.  
 - To gratefully welcome feedback, criticism and ressources so I can become a wiser individual myself. 
