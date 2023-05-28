@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:13.004+02:00"}
+{"alias":"compassionate","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","dgPassFrontmatter":true,"created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:13.004+02:00"}
 ---
 
 #type/pole 
