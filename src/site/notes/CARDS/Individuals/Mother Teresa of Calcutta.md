@@ -1,5 +1,5 @@
 ---
-{"containertitle":null,"au_Type":null,"type":"[[-ISFJ]]","cat":"fiction / irl","me_Cat":"watch 🎞️ / listen 🎧 / read 🔠","theme":null,"language":"en / fr","moc":"[[]]","ref":"[Emotions in the Christian Tradition (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/emotion-Christian-tradition/#Comp)","dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-28T12:40:47.926+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","noteIcon":"1","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-28T12:40:47.926+02:00"}
 ---
 
 octogram:: "[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]"
