@@ -1,5 +1,5 @@
 ---
-{"alias":"Source Functions, Objective functions","dg-publish":true,"permalink":"/cards/depth-psychology-theory/introverted-cognitive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-19T14:30:32.402+01:00","updated":"2023-01-19T14:37:00.990+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/introverted-cognitive-functions/","noteIcon":"1","created":"2023-01-19T14:30:32.402+01:00","updated":"2023-01-19T14:37:00.990+01:00"}
 ---
 
 Source Functions
