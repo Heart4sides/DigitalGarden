@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/interest/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T21:45:09.141+02:00"}
+{"alias":"⚖️,  interest, interests","dg-publish":true,"cssClass":"wide-page","permalink":"/cards/depth-psychology-theory/interest/","dgPassFrontmatter":true,"created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T21:45:09.141+02:00"}
 ---
 
 #type/grid 
