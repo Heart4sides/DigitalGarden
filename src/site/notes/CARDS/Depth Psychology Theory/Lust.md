@@ -1,5 +1,5 @@
 ---
-{"alias":"lustful, Lust types","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/lust/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:48:53.500+02:00"}
+{"alias":"lustful, Lust types","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Superego👹|👹]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/lust/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-04T17:48:53.500+02:00"}
 ---
 
 #type/pole 
