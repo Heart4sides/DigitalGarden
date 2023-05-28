@@ -1,5 +1,5 @@
 ---
-{"alias":"functions, function, cognitive function, 8 Cognitive Functions🛠️","Ne":"[[Ne#What others desire]]","Ni":"[[Ni#What I desire]]","Se":"[[Se#What others experience]]","Si":"[[Si#What I experience]]","Te":"[[Te#What others know]]","Ti":"[[Ti#What I know]]","Fe":"[[Fe#What others value]]","Fi":"[[Fi#What I value]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","dgPassFrontmatter":true,"created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-24T12:17:02.907+02:00"}
+{"alias":"functions, function, cognitive function, 8 Cognitive Functions🛠️","Ne":"[[Ne#What others desire]]","Ni":"[[Ni#What I desire]]","Se":"[[Se#What others experience]]","Si":"[[Si#What I experience]]","Te":"[[Te#What others know]]","Ti":"[[Ti#What I know]]","Fe":"[[Fe#What others value]]","Fi":"[[Fi#What I value]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-24T12:17:02.907+02:00"}
 ---
 
 - The 8 Cognitive Functions are 8 different ways of interacting with the world. 
@@ -60,7 +60,7 @@ A("Ne💧") --> B("Ni🔥") --> C("Se🌪️") --> D("Si⛰️") --> A("Ne💧")
 
 graph LR; 
 
-Data --> Information --> Knowledge --> Value --> Data 
+Data --> Information --> Knowledge --> Wisdom --> Data 
 
 ```
 
