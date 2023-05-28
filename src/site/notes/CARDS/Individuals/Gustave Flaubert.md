@@ -1,5 +1,5 @@
 ---
-{"Source":"Gustave Flaubert","Author":null,"Au_Type":null,"type":"[[-INFP]]","octogram":"[[SF🤸➡️]]","Cat":"irl","Me_Cat":"read 🔠","Theme":null,"Tag":"examples","alias":null,"dg-publish":true,"Ref":"Télérama, hors-série sur Gustave Flaubert","permalink":"/cards/individuals/gustave-flaubert/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-27T15:35:32.118+02:00"}
+{"Source":"Gustave Flaubert","Author":null,"Au_Type":null,"type":"[[-INFP]]","octogram":"[[SF🤸➡️]]","Cat":"irl","Me_Cat":"read 🔠","Theme":null,"Tag":"examples","alias":null,"dg-publish":true,"Ref":"Télérama, hors-série sur Gustave Flaubert","permalink":"/cards/individuals/gustave-flaubert/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-28T12:51:18.678+02:00"}
 ---
 
 | Type                                  | Reference                                 |
@@ -33,7 +33,7 @@
 
 > Bovarysme selon Jules de Gaultier : *"le pouvoir départi à l'homme de se concevoir autre qu'il n'est"*
 - [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]] : sens de sa propre identité
-- [[CARDS/Typing Toolbox/-abstract\|-abstract]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
+- [[CARDS/Typing Toolbox/-Abstract🧲\|-Abstract🧲]] + [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]
 
 > *"Il part de plans et de scénarios qu'il conçoit pendant 3 mois à peu près, avant d'écrire. Mais tout est déjà là. C'est ce qu'on appelle un écrivain "à programme", contrairement à Stendhal, écrivain "à processus" qui ne fait pas de plan, qui écrit la première phrase, celle-ci en appelant une deuxième et ainsi de suite."*
 - [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]] focus 
@@ -90,7 +90,7 @@
 - [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] optimiste = valorisation du confort 
 
 > *"Les représentants du peuple ne sont autres qu'un tas immonde de vendus, leur vue c'est l'intérêt, leur penchant la bassesse, leur honneur est un orgueil stupide, leur âme un tas de boue, mais un jour, le jour qui arrivera avant peu, le peuple recommencera la troisième révolution ; gare aux têtes de rois, gare aux ruisseaux de sang"*
-- [[CARDS/Typing Toolbox/-interest👀\|-interest👀]]  
+- [[CARDS/Typing Toolbox/-interest⚖️\|-interest⚖️]]  
 - Posture d'outrage moral ([[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]])
 - [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]= prédiction sur l'avenir collectif 
 
