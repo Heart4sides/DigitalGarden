@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-05-27T15:34:45.279+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","noteIcon":"1","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-05-27T15:34:45.279+02:00"}
 ---
 
 
