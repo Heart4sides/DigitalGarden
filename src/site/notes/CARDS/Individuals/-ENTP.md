@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/entp/","created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-26T22:21:52.687+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/entp/","dgPassFrontmatter":true,"created":"2023-04-28T19:40:35.250+02:00","updated":"2023-05-26T22:21:52.687+02:00"}
 ---
 
 #type
