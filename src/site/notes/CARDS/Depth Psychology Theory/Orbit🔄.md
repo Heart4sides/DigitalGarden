@@ -1,5 +1,5 @@
 ---
-{"alias":"🔄","dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-27T15:36:22.781+02:00"}
+{"alias":"🔄","dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-27T15:36:22.781+02:00"}
 ---
 
 ## Definitions by C.S. Joseph
