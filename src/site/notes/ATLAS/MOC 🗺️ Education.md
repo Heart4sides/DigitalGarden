@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-education/","created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-02T10:44:18.821+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-education/","dgPassFrontmatter":true,"created":"2023-04-23T19:56:01.896+02:00","updated":"2023-05-02T10:44:18.821+02:00"}
 ---
 
 
