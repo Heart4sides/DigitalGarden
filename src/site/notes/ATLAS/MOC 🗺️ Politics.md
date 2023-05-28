@@ -1,5 +1,5 @@
 ---
-{"alias":"Politics","dg-publish":true,"permalink":"/atlas/moc-politics/","dgPassFrontmatter":true,"created":"2023-02-19T16:07:17.175+01:00","updated":"2023-04-21T09:34:41.502+02:00"}
+{"alias":"Politics","dg-publish":true,"permalink":"/atlas/moc-politics/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-19T16:07:17.175+01:00","updated":"2023-04-21T09:34:41.502+02:00"}
 ---
 
 > [!Info] Navigation 💠
@@ -45,13 +45,12 @@
 { .block-language-dataview}
 
 # Political Content
-| File                                                                                                                                         | ref                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| [[SOURCES/Contents/Cécile Alduy - La Langue de Zemmour\|Cécile Alduy - La Langue de Zemmour]]                                             | \-                                                                                                                         |
-| [[SOURCES/Contents/Est-ce que vous condamnez les violences · Usul\|Est-ce que vous condamnez les violences · Usul]]                       | [Usul. Est-ce que vous condamnez les violences ? - YouTube](https://www.youtube.com/watch?v=L6OW3C-Y3fU)                   |
-| [[SOURCES/Contents/L'école · Tabibian x Mr Gilou\|L'école · Tabibian x Mr Gilou]]                                                         | [ECOLE : un enseignant balance ! (avec Mr Gilou) [PAS CONTENT AVEC TABIBIAN]](https://www.youtube.com/watch?v=HtASaZOlxUU) |
-| [[SOURCES/Contents/On the News · Alain de Botton\|On the News · Alain de Botton]]                                                         | [Alain de Botton on The News - YouTube](https://www.youtube.com/watch?v=SNr-AoFLjok&t=3s)                                  |
-| [[SOURCES/Contents/Tabibian x Interviews\|Tabibian x Interviews]]                                                                         | \-                                                                                                                         |
-| [[SOURCES/Contents/The Invention of Individual Responsibility · Then and Now\|The Invention of Individual Responsibility · Then and Now]] | [The Invention of Individual Responsibility - YouTube](https://youtu.be/tp4FGAv2gks)                                       |
+| File                                                                                                                                         | ref                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [[SOURCES/Contents/Cécile Alduy - La Langue de Zemmour\|Cécile Alduy - La Langue de Zemmour]]                                             | \-                                                                                                       |
+| [[SOURCES/Contents/Est-ce que vous condamnez les violences · Usul\|Est-ce que vous condamnez les violences · Usul]]                       | [Usul. Est-ce que vous condamnez les violences ? - YouTube](https://www.youtube.com/watch?v=L6OW3C-Y3fU) |
+| [[SOURCES/Contents/On the News · Alain de Botton\|On the News · Alain de Botton]]                                                         | [Alain de Botton on The News - YouTube](https://www.youtube.com/watch?v=SNr-AoFLjok&t=3s)                |
+| [[SOURCES/Contents/Tabibian x Interviews\|Tabibian x Interviews]]                                                                         | \-                                                                                                       |
+| [[SOURCES/Contents/The Invention of Individual Responsibility · Then and Now\|The Invention of Individual Responsibility · Then and Now]] | [The Invention of Individual Responsibility - YouTube](https://youtu.be/tp4FGAv2gks)                     |
 
 { .block-language-dataview}
