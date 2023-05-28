@@ -1,8 +1,9 @@
 ---
-{"alias":"complacent","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","dgPassFrontmatter":true,"created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-28T11:11:29.589+02:00"}
+{"alias":"complacent","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","dgPassFrontmatter":true,"created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-28T11:13:51.472+02:00"}
 ---
 
 #type/pole 
+Itemple : "[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]"
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
