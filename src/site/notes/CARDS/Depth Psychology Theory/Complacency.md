@@ -1,5 +1,5 @@
 ---
-{"alias":"complacent","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","Itemple":"[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","dgPassFrontmatter":true,"created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-27T15:35:27.539+02:00"}
+{"alias":"complacent","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","dgPassFrontmatter":true,"created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-28T11:11:29.589+02:00"}
 ---
 
 #type/pole 
@@ -8,7 +8,7 @@
 [[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]] pole of the [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]  
 	- Humanity’s [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
-	- Individual’s [[Heart Temple🎭]] 
+	- Individual’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 
 # Definition by CSJ 
 
