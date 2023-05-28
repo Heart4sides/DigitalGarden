@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/guilt/","created":"2022-12-31T19:09:04.832+01:00","updated":"2023-05-12T08:21:17.449+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/guilt/","dgPassFrontmatter":true,"created":"2022-12-31T19:09:04.832+01:00","updated":"2023-05-12T08:21:17.449+02:00"}
 ---
 
 
