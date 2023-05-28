@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/marc-aurele/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-25T14:31:16.293+01:00","updated":"2023-05-28T12:55:58.091+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/marc-aurele/","noteIcon":"1","created":"2022-12-25T14:31:16.293+01:00","updated":"2023-05-28T12:55:58.091+02:00"}
 ---
 
  #on/politics #on/history 
