@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/scathing/","created":"2023-05-11T12:23:40.462+02:00","updated":"2023-05-11T12:24:06.599+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/scathing/","dgPassFrontmatter":true,"created":"2023-05-11T12:23:40.462+02:00","updated":"2023-05-11T12:24:06.599+02:00"}
 ---
 
 
