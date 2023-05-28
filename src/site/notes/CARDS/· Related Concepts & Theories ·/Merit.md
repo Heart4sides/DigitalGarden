@@ -1,5 +1,5 @@
 ---
-{"alias":"mérite, merits, mérites, mériter, meritocracy, earn, earning","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/merit/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-18T15:09:17.708+01:00","updated":"2023-04-27T18:31:14.060+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/merit/","noteIcon":"1","created":"2023-01-18T15:09:17.708+01:00","updated":"2023-04-27T18:31:14.060+02:00"}
 ---
 
 
