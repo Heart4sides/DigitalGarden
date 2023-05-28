@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/accommodation/","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T08:34:52.580+02:00"}
+{"alias":"accommodate, accommodating","dg-publish":true,"permalink":"/cards/depth-psychology-theory/accommodation/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-04T08:34:52.580+02:00"}
 ---
 
 # Definition by CSJ 
