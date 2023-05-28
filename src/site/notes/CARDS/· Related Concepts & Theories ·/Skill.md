@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/skill/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-28T23:41:41.868+01:00","updated":"2023-05-24T14:14:25.838+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/skill/","noteIcon":"1","created":"2023-02-28T23:41:41.868+01:00","updated":"2023-05-24T14:14:25.838+02:00"}
 ---
 
 
