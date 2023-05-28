@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","created":"2023-01-05T15:09:46.180+01:00","updated":"2023-05-27T21:34:00.079+02:00"}
+{"alias":"The Bard","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfp/","dgPassFrontmatter":true,"created":"2023-01-05T15:09:46.180+01:00","updated":"2023-05-27T21:34:00.079+02:00"}
 ---
 
 #on/depthpsychology  #type 
