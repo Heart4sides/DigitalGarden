@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-05-27T15:36:16.213+02:00"}
+{"alias":null,"language":"en","ref":"[https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf](https://web.augsburg.edu/~erickson/edc490/downloads/comparison_edu_philo.pdf)","moc":"[[MOC 🗺️ Education]]","dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","dgPassFrontmatter":true,"created":"2023-02-06T11:18:10.732+01:00","updated":"2023-05-27T15:36:16.213+02:00"}
 ---
 
 #on/education #on/philosophy 
