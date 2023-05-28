@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chastity/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.990+02:00"}
+{"alias":null,"side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/chastity/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.990+02:00"}
 ---
 
 #type/pole 
