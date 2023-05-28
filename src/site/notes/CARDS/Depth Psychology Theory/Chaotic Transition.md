@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chaotic-transition/","dgPassFrontmatter":true,"created":"2023-04-28T12:07:28.692+02:00","updated":"2023-05-02T10:38:42.098+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/chaotic-transition/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-28T12:07:28.692+02:00","updated":"2023-05-02T10:38:42.098+02:00"}
 ---
 
 # In the Superego 
