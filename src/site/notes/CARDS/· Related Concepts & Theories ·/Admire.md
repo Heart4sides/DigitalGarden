@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"tags":null,"permalink":"/cards/related-concepts-and-theories/admire/","dgPassFrontmatter":true,"created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-10T21:19:16.395+02:00"}
+{"alias":null,"dg-publish":true,"tags":null,"permalink":"/cards/related-concepts-and-theories/admire/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-10T21:19:16.395+02:00"}
 ---
 
 [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
