@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/dario-nardi/","created":"2023-02-18T15:53:01.848+01:00","updated":"2023-05-15T13:46:39.934+02:00"}
+{"alias":null,"au_type":"[[-INTJ]]","concept":"brain activity patterns","moc":"[[MOC 🗺️ Depth Psychology]]","ref":["[Home](http://www.darionardi.com/vpc.html)","[[Dario Nardi - Neuroscience of Personality|Neuroscience of Personality]]"],"dg-publish":true,"location":[34.070877749999994,-118.44685070595054],"permalink":"/cards/individuals/dario-nardi/","dgPassFrontmatter":true,"created":"2023-02-18T15:53:01.848+01:00","updated":"2023-05-15T13:46:39.934+02:00"}
 ---
 
 | MOC                                                             | Type                                  | Concepts                | Reference                                                                                                                                                            |
