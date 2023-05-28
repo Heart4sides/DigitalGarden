@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.543+02:00"}
+{"alias":"Justification Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/justification/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.543+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] and [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]
