@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-05-03T15:45:59.342+02:00"}
+{"alias":"Perceptive IPOF cycle","dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","dgPassFrontmatter":true,"created":"2023-04-07T16:08:07.284+02:00","updated":"2023-05-03T15:45:59.342+02:00"}
 ---
 
 ```mermaid
