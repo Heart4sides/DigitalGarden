@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","dgPassFrontmatter":true,"created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-25T17:46:02.067+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/related-concepts-and-theories/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T18:37:01.494+01:00","updated":"2023-05-28T18:08:57.589+02:00"}
 ---
 
 
@@ -86,6 +86,7 @@
 - [[CARDS/· Related Concepts & Theories ·/Kudos\|Kudos]]
 - [[CARDS/· Related Concepts & Theories ·/Lead\|Lead]]
 - [[CARDS/· Related Concepts & Theories ·/Learn\|Learn]]
+- [[CARDS/· Related Concepts & Theories ·/Learning Styles\|Learning Styles]]
 - [[CARDS/· Related Concepts & Theories ·/Living Virtu🙇\|Living Virtu🙇]]
 - [[CARDS/· Related Concepts & Theories ·/Love\|Love]]
 - [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]
