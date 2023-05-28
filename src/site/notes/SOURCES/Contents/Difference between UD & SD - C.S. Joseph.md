@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/difference-between-ud-and-sd-c-s-joseph/","created":"2023-03-28T19:00:28.277+02:00","updated":"2023-04-20T10:00:33.888+02:00"}
+{"Source":"Difference between UD & SD - C.S. Joseph","Author":"C.S. Joseph","Au_Type":"ENTP","Ch_Type":null,"Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","dg-publish":true,"ref":"[UD vs. SD Octagram | CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=2ARiBmqgAaw&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=1)","permalink":"/sources/contents/difference-between-ud-and-sd-c-s-joseph/","dgPassFrontmatter":true,"created":"2023-03-28T19:00:28.277+02:00","updated":"2023-04-20T10:00:33.888+02:00"}
 ---
 
 [UD vs. SD Octagram | CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=2ARiBmqgAaw&list=TLPQMjgwMzIwMjMQZSjG17Ndfw&index=1)
