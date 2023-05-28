@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/exacting/","created":"2023-05-10T21:09:44.142+02:00","updated":"2023-05-10T21:17:35.437+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/exacting/","dgPassFrontmatter":true,"created":"2023-05-10T21:09:44.142+02:00","updated":"2023-05-10T21:17:35.437+02:00"}
 ---
 
 
