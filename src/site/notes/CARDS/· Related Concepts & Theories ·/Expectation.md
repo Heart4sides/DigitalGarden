@@ -1,5 +1,5 @@
 ---
-{"alias":"expect, expects, expectations, expected","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-05-02T10:46:15.171+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/expectation/","noteIcon":"1","created":"2023-04-19T18:12:03.088+02:00","updated":"2023-05-02T10:46:15.171+02:00"}
 ---
 
 
