@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/the-strange-bubble-of-french-intellectuals-noam-chomsky/","created":"2023-04-07T14:35:29.897+02:00","updated":"2023-04-23T20:53:44.895+02:00"}
+{"Source":"The Strange Bubble of French Intellectuals","Author":"[[Noam Chomsky]]","Au_Type":"[[INFJ]]","Ch_Type":"INFJ","Cat":"irl","Me_Cat":"watch 🎞️","Theme":null,"language":"en","moc":"[[MOC 🗺️ Education]]","Ref":"[Noam Chomsky: The Strange Bubble of French Intellectuals - YouTube](https://youtu.be/772WncdxCSw)","dg-publish":true,"permalink":"/sources/contents/the-strange-bubble-of-french-intellectuals-noam-chomsky/","dgPassFrontmatter":true,"created":"2023-04-07T14:35:29.897+02:00","updated":"2023-04-23T20:53:44.895+02:00"}
 ---
 
 #on/education #on/philosophy
