@@ -1,5 +1,5 @@
 ---
-{"alias":"wise, wisdom, sagesse","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","dgPassFrontmatter":true,"created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-27T15:36:26.076+02:00"}
+{"alias":"wise, wisdom, sagesse","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-27T15:36:26.076+02:00"}
 ---
 
 # Depth Psychology 
