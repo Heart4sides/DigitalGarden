@@ -1,5 +1,5 @@
 ---
-{"Alias":"Spoiled Child🥳, Child, children, F3","category":"attitude","dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-24T14:34:09.117+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/child/","noteIcon":"1","created":"2023-01-05T14:31:26.323+01:00","updated":"2023-05-24T14:34:09.117+02:00"}
 ---
 
 # Rôle 
