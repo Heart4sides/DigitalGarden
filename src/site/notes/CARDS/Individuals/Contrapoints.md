@@ -1,5 +1,5 @@
 ---
-{"source":"Contrapoints","author":"Contrapoints","type":"[[-INFJ]]","cat":"irl","me_Cat":"watch 🎞️","theme":null,"dg-publish":true,"ref":"[ContraPoints - YouTube](https://www.youtube.com/@ContraPoints)","permalink":"/cards/individuals/contrapoints/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-28T12:07:34.904+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/contrapoints/","noteIcon":"1","created":"2023-01-17T23:31:44.196+01:00","updated":"2023-05-28T12:07:34.904+02:00"}
 ---
 
 #on/philosophy #on/politics 
