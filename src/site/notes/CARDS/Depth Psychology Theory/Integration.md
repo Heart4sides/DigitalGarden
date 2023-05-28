@@ -1,5 +1,5 @@
 ---
-{"alias":"integrate, integrating","dg-publish":true,"permalink":"/cards/depth-psychology-theory/integration/","dgPassFrontmatter":true,"created":"2023-05-02T14:17:01.080+02:00","updated":"2023-05-02T14:44:52.623+02:00"}
+{"alias":"integrate, integrating","dg-publish":true,"permalink":"/cards/depth-psychology-theory/integration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-02T14:17:01.080+02:00","updated":"2023-05-02T14:44:52.623+02:00"}
 ---
 
 #on/depthpsychology 
