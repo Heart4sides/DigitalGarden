@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/functions-as-sins/","dgPassFrontmatter":true,"created":"2023-04-05T01:34:17.207+02:00","updated":"2023-05-02T10:46:27.682+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/functions-as-sins/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-05T01:34:17.207+02:00","updated":"2023-05-02T10:46:27.682+02:00"}
 ---
 
 Ref :: 
