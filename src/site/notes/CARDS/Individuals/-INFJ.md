@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/infj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T12:10:55.275+02:00","updated":"2023-05-05T11:40:43.254+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/infj/","noteIcon":"1","created":"2023-04-29T12:10:55.275+02:00","updated":"2023-05-05T11:40:43.254+02:00"}
 ---
 
 #type
