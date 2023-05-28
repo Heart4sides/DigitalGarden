@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-27T22:14:20.890+02:00"}
+{"author":["[[Chris Taylor]]","[[CS Joseph]]"],"au_type":["[[ENFP]]","[[ENTP]]"],"moc":"[[MOC 🗺️ Depth Psychology]]","ref":"[CSJ Members Portal](https://offers.csjoseph.life/portal)","dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","dgPassFrontmatter":true,"created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-27T22:14:20.890+02:00"}
 ---
 
 | MOC                                                             | Author                                                                                                                        | Type                                                                                                                                                  | Reference                                                 |
