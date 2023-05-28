@@ -1,5 +1,5 @@
 ---
-{"alias":"servile","temple":"[[Body Temple 🌳|Body🌳]]","side":"[[Sub🤸|🤸]]","Htemple":"[[Mind Temple ⚒️|Mind⚒️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-28T11:25:19.448+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/servility/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-28T11:25:19.448+02:00"}
 ---
 
 Itemple : "[[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]]"  
