@@ -1,5 +1,5 @@
 ---
-{"alias":null,"language":"fr","dg-publish":true,"permalink":"/cards/individuals/tabibian/","dgPassFrontmatter":true,"created":"2023-02-24T17:15:32.572+01:00","updated":"2023-05-02T10:41:05.539+02:00"}
+{"alias":null,"language":"fr","dg-publish":true,"permalink":"/cards/individuals/tabibian/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-02-24T17:15:32.572+01:00","updated":"2023-05-02T10:41:05.539+02:00"}
 ---
 
 Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@JsuispascontentTV)
@@ -10,12 +10,12 @@ Ref :: [J'suis pas content TV - YouTube](https://www.youtube.com/@Jsuispasconten
 | ----------------------------------------------------------------------------------------------------------- | ---- | --------------------------------------------------- |
 | [[SOURCES/Literature Note/@Tabibian493ParisBrule2023\|@Tabibian493ParisBrule2023]]                       | \-   | [Lien](https://www.youtube.com/watch?v=Z1rpgTRyh3A) |
 | [[SOURCES/Literature Note/@TabibianBfmRejointFachosphere2023\|@TabibianBfmRejointFachosphere2023]]       | \-   | \-                                                  |
-| [[SOURCES/Literature Note/@TabibianMacronVSPif2023\|@TabibianMacronVSPif2023]]                           | \-   | [Lien](https://www.youtube.com/watch?v=1LBOz-PIK0Y) |
 | [[SOURCES/Literature Note/@TabibianOlivierDussopt2023\|@TabibianOlivierDussopt2023]]                     | \-   | \-                                                  |
+| [[SOURCES/Literature Note/@TabibianMacronVSPif2023\|@TabibianMacronVSPif2023]]                           | \-   | [Lien](https://www.youtube.com/watch?v=1LBOz-PIK0Y) |
 | [[SOURCES/Literature Note/@TabibianRetraitesDeputesAttaques2023\|@TabibianRetraitesDeputesAttaques2023]] | \-   | [Lien](https://www.youtube.com/watch?v=dmSOku1x4nk) |
 | [[SOURCES/Literature Note/@TabibianRetraitesMacronDussopt2023\|@TabibianRetraitesMacronDussopt2023]]     | \-   | [Lien](https://www.youtube.com/watch?v=lokVhVd6Edg) |
-| [[SOURCES/Literature Note/@TabibianSainteSolineDarmanin2023\|@TabibianSainteSolineDarmanin2023]]         | \-   | [Lien](https://www.youtube.com/watch?v=xatqyToY4F4) |
 | [[SOURCES/Literature Note/@Tabibian·MacronVsPorno·2023\|@Tabibian·MacronVsPorno·2023]]                   | \-   | [Lien](https://www.youtube.com/watch?v=EvrSwGlZMuM) |
+| [[SOURCES/Literature Note/@TabibianSainteSolineDarmanin2023\|@TabibianSainteSolineDarmanin2023]]         | \-   | [Lien](https://www.youtube.com/watch?v=xatqyToY4F4) |
 
 { .block-language-dataview}
 
