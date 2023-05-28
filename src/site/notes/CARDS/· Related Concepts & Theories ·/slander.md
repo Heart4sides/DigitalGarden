@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/slander/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-11T10:54:21.490+02:00","updated":"2023-05-11T10:55:32.393+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/slander/","noteIcon":"1","created":"2023-05-11T10:54:21.490+02:00","updated":"2023-05-11T10:55:32.393+02:00"}
 ---
 
 # Depth Psychology 
