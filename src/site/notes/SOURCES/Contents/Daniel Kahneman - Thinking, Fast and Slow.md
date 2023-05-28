@@ -1,5 +1,5 @@
 ---
-{"alias":"Thinking, Fast and Slow","author":"Daniel Kahneman","category":"Psychology","publisher":"Farrar, Straus and Giroux","publish":"2011-10-25","total":512,"isbn":"1429969350 9781429969352","cover_url":"https://books.google.com/books/content?id=ZuKTvERuPG8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"done","created":"2023-02-24T16:44:26.714+01:00","dg-publish":true,"permalink":"/sources/contents/daniel-kahneman-thinking-fast-and-slow/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-04-07T16:07:06.438+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/daniel-kahneman-thinking-fast-and-slow/","noteIcon":"1","created":"2023-02-24T16:44:26.714+01:00","updated":"2023-04-07T16:07:06.438+02:00"}
 ---
 
 **Title:** Thinking, Fast and Slow  
