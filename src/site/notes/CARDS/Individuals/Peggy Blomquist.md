@@ -1,5 +1,5 @@
 ---
-{"Alias":"Peggy","Containertitle":"[[Fargo]]","Season":2,"Author":null,"Au_Type":null,"type":"[[-INFP]]","octogram":["[[UD👤⬅️]]","[[UF👤➡️]]"],"Cat":"fiction","Me_Cat":"watch 🎞️","Theme":null,"languague":"en","moc":"[[MOC 🗺️ Fiction]]","ref":"[Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series))","dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-05-28T12:49:56.689+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","noteIcon":"1","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-05-28T12:49:56.689+02:00"}
 ---
 
 | MOC                                           | Containertitle                       | Type                                  | Octogram                                                                                                                            | Reference                                                                        |
