@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guidance-function/","created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-27T15:36:22.081+02:00"}
+{"alias":"guidance, Guidance🚿, Guidance Functions🚿","author":["[[Chris Taylor]]","[[CARDS/Individuals/CS Joseph\|CS Joseph]]"],"au_type":["[[ENFP]]","[[ENTP]]"],"dg-publish":true,"ref":"[CSJ Members Portal](https://offers.csjoseph.life/portal)","permalink":"/cards/depth-psychology-theory/guidance-function/","dgPassFrontmatter":true,"created":"2023-01-06T19:41:31.006+01:00","updated":"2023-05-27T15:36:22.081+02:00"}
 ---
 
 
@@ -21,4 +21,4 @@
 
 
 [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]]
-Source of the concept : [[CARDS/Individuals/CS Joseph\|CS Joseph]] and Chris Taylor
+Source of the concept : [[CS Joseph]] and Chris Taylor
