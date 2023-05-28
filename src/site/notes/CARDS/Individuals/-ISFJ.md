@@ -3,13 +3,13 @@
 ---
 
 #type
-| File                                                                          | octogram                                            |
-| ----------------------------------------------------------------------------- | --------------------------------------------------- |
-| [[CARDS/Individuals/Brice de Nice\|Brice de Nice]]                         | \-                                                  |
-| [[CARDS/Individuals/François Hollande\|François Hollande]]                 | \-                                                  |
-| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]                   | \-                                                  |
+| File                                                                          | octogram   |
+| ----------------------------------------------------------------------------- | ---------- |
+| [[CARDS/Individuals/Brice de Nice\|Brice de Nice]]                         | \-         |
+| [[CARDS/Individuals/François Hollande\|François Hollande]]                 | \-         |
+| [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]                   | \-         |
 | [[CARDS/Individuals/Mother Teresa of Calcutta\|Mother Teresa of Calcutta]] | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] |
-| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]                     | \-                                                  |
+| [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]                     | \-         |
 
 { .block-language-dataview}
 { #d5369d}
