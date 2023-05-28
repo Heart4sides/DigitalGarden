@@ -1,5 +1,5 @@
 ---
-{"alias":"Carl Jung, C Jung, C. Jung","type":"[[-INTP]]","ref":["[[CG Jung - Aion|Aion]]","[[Psychological Types]]","[[C Jung-1962|Memories, Dreams, Reflections]]"],"moc":"[[MOC 🗺️ Depth Psychology]]","concept":["[[Cognitive Functions]]","[[Attitude]]","[[Shadow👤]]","[[Integration]]","[[Synchronicity]]"],"dg-publish":true,"permalink":"/cards/individuals/c-g-jung/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-05-27T15:36:25.062+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/c-g-jung/","noteIcon":"1","created":"2023-03-08T17:10:16.342+01:00","updated":"2023-05-27T15:36:25.062+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy
