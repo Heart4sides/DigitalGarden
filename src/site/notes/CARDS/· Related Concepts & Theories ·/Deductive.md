@@ -1,10 +1,16 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","dgPassFrontmatter":true,"created":"2023-01-03T21:09:33.203+01:00","updated":"2023-05-02T10:39:17.116+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/deductive/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-03T21:09:33.203+01:00","updated":"2023-05-28T19:14:09.197+02:00"}
 ---
 
 #on/education 
 Ref :: [Dictionary.com](https://www.dictionary.com/)
 
+# DEPTH PSYCHOLOGY
+
+[[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]] is a deductive process. 
+
+---
+# DEFINITIONS
 ## Dictionary.com 
 
 [_Deductive_](https://www.dictionary.com/browse/deductive) reasoning (also called _[deduction](https://www.dictionary.com/browse/deduction)_) involves starting from a set of general premises and then drawing a specific conclusion that contains no more information than the premises themselves. _Deductive_ reasoning is sometimes called _deduction_ (note that _deduction_ has other meanings in the contexts of mathematics and accounting).
