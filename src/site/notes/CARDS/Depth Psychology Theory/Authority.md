@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-26T20:02:54.695+02:00"}
+{"alias":"authority, Power, power, Authority Dyad","dg-publish":true,"permalink":"/cards/depth-psychology-theory/authority/","dgPassFrontmatter":true,"created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-26T20:02:54.695+02:00"}
 ---
 
 
