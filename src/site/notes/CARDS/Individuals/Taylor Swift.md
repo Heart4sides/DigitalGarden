@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/taylor-swift/","dgPassFrontmatter":true,"created":"2023-05-14T19:48:18.973+02:00","updated":"2023-05-23T19:20:06.696+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/individuals/taylor-swift/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-14T19:48:18.973+02:00","updated":"2023-05-23T19:20:06.696+02:00"}
 ---
 
 [ESFP brain be like #taylorswift - YouTube](https://www.youtube.com/shorts/hRcjvyW7A_0)
