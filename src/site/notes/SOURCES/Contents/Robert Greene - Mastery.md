@@ -1,5 +1,5 @@
 ---
-{"alias":"Mastery","author":"Robert Greene","category":"Self-Help","publisher":"National Geographic Books","publish":"2013-10-29","total":0,"isbn":"014312417X 9780143124177","cover_url":"https://books.google.com/books/content?id=8auMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","status":"reading","created":"2023-02-28T10:54:08.122+01:00","dg-publish":true,"permalink":"/sources/contents/robert-greene-mastery/","dgPassFrontmatter":true,"updated":"2023-04-28T09:04:33.041+02:00"}
+{"alias":"Mastery","author":"Robert Greene","category":"Self-Help","publisher":"National Geographic Books","publish":"2013-10-29","total":0,"isbn":"014312417X 9780143124177","cover_url":"https://books.google.com/books/content?id=8auMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api","status":"reading","created":"2023-02-28T10:54:08.122+01:00","dg-publish":true,"permalink":"/sources/contents/robert-greene-mastery/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-04-28T09:04:33.041+02:00"}
 ---
 
 #book 
