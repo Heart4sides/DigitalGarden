@@ -1,5 +1,5 @@
 ---
-{"Alias":"Nemesis, Ally🛡️, F5","category":"attitude","dg-publish":true,"ref":null,"permalink":"/cards/depth-psychology-theory/nemesis/","dgPassFrontmatter":true,"created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-27T15:36:22.723+02:00"}
+{"Alias":"Nemesis, Ally🛡️, F5","category":"attitude","dg-publish":true,"ref":null,"permalink":"/cards/depth-psychology-theory/nemesis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-27T15:36:22.723+02:00"}
 ---
 
 ---
