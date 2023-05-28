@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/whimsical/","created":"2023-05-15T15:12:59.131+02:00","updated":"2023-05-15T15:14:24.945+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/whimsical/","dgPassFrontmatter":true,"created":"2023-05-15T15:12:59.131+02:00","updated":"2023-05-15T15:14:24.945+02:00"}
 ---
 
 Most whimsical type : [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] 
