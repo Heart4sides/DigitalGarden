@@ -1,5 +1,5 @@
 ---
-{"alias":"The Ranger","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-27T21:39:54.006+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","noteIcon":"1","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-27T21:39:54.006+02:00"}
 ---
 
 #on/depthpsychology  #type 
