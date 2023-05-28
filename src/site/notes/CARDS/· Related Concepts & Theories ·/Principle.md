@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/principle/","created":"2023-02-06T11:28:50.131+01:00","updated":"2023-04-10T10:45:47.244+02:00"}
+{"alias":"principle, principles","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/principle/","dgPassFrontmatter":true,"created":"2023-02-06T11:28:50.131+01:00","updated":"2023-04-10T10:45:47.244+02:00"}
 ---
 
 
