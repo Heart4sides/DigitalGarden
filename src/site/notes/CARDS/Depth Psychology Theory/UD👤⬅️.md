@@ -1,5 +1,5 @@
 ---
-{"alias":"shadow-developed, unconscious-developed","dg-publish":true,"permalink":"/cards/depth-psychology-theory/ud/","dgPassFrontmatter":true,"created":"2023-01-12T14:08:31.700+01:00","updated":"2023-05-27T15:36:24.858+02:00"}
+{"alias":"shadow-developed, unconscious-developed","dg-publish":true,"permalink":"/cards/depth-psychology-theory/ud/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-12T14:08:31.700+01:00","updated":"2023-05-27T15:36:24.858+02:00"}
 ---
 
 
