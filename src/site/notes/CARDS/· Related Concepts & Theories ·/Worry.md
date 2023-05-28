@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/worry/","created":"2023-01-27T22:06:01.712+01:00","updated":"2023-05-03T00:49:42.659+02:00"}
+{"alias":"worry, worried, worries","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/worry/","dgPassFrontmatter":true,"created":"2023-01-27T22:06:01.712+01:00","updated":"2023-05-03T00:49:42.659+02:00"}
 ---
 
 # Depth Psychology 
