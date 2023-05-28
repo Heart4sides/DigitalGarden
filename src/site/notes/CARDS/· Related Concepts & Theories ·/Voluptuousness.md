@@ -1,5 +1,5 @@
 ---
-{"alias":"volupté","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/voluptuousness/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-21T14:58:39.567+01:00","updated":"2023-01-21T15:31:27.365+01:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/voluptuousness/","noteIcon":"1","created":"2023-01-21T14:58:39.567+01:00","updated":"2023-01-21T15:31:27.365+01:00"}
 ---
 
 
