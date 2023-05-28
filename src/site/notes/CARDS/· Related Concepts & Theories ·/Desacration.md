@@ -1,5 +1,5 @@
 ---
-{"alias":"desacrate, desacrating, desecrate, desecrating, desecration","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Soul Temple 👥|Soul👥]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","dgPassFrontmatter":true,"created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:25.267+02:00"}
+{"alias":"desacrate, desacrating, desecrate, desecrating, desecration","side":"[[Shadow👤|👤]]","Htemple":"[[Heart Temple🎭|Heart🎭]]","Itemple":"[[Soul Temple 👥|Soul👥]]","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-28T18:15:34.224+02:00"}
 ---
 
 #type/pole 
@@ -16,7 +16,9 @@
 - the act of ruining or violating something revered or greatly valued
 ---
 # Further definitions by CSJ 
-- Humiliates to teach lessons 
+- Humiliates to [[CARDS/· Related Concepts & Theories ·/Teach\|teach]] lessons 
+{ #2e7a8c}
+
 ---
 # Descration through [[CARDS/Depth Psychology Theory/Modesty\|Modesty]] 
 [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
