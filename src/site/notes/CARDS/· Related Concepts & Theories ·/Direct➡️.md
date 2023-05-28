@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:19:44.486+02:00"}
+{"alias":"➡️","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","dgPassFrontmatter":true,"created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:19:44.486+02:00"}
 ---
 
 #type/grid 
