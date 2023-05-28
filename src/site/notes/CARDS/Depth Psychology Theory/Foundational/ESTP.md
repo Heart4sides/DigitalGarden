@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estp/","created":"2023-01-05T15:47:27.032+01:00","updated":"2023-05-27T21:35:29.336+02:00"}
+{"alias":"The Gladiator","tag":"type","cssclass":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/estp/","dgPassFrontmatter":true,"created":"2023-01-05T15:47:27.032+01:00","updated":"2023-05-27T21:35:29.336+02:00"}
 ---
 
 #on/depthpsychology  #type 
