@@ -1,5 +1,5 @@
 ---
-{"alias":"↔️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","dgPassFrontmatter":true,"created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-27T15:36:21.810+02:00"}
+{"alias":"↔️","dg-publish":true,"permalink":"/cards/depth-psychology-theory/axis/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-13T22:16:55.860+01:00","updated":"2023-05-27T15:36:21.810+02:00"}
 ---
 
 
