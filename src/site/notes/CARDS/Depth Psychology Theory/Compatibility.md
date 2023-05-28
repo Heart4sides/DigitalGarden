@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compatibility/","created":"2023-01-20T12:07:40.731+01:00","updated":"2023-04-30T13:10:08.895+02:00"}
+{"alias":null,"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compatibility/","dgPassFrontmatter":true,"created":"2023-01-20T12:07:40.731+01:00","updated":"2023-04-30T13:10:08.895+02:00"}
 ---
 
 
