@@ -1,5 +1,5 @@
 ---
-{"alias":"Philosopher, Dquad, 🏞️⚖️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","dgPassFrontmatter":true,"created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-27T15:36:14.406+02:00"}
+{"alias":"Philosopher, Dquad, 🏞️⚖️","category":"quadra","dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-28T16:41:57.833+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -38,6 +38,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 - [[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]]
 ---
 ## Virtu & Vice
+
 | Type             |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]          | //                              |
@@ -50,3 +51,6 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 # Temple 
 [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] | [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]] 
 
+# Mentions 
+- Ne-Te Loop 
+	- “In a loop you feel overwhelmed by a frenzy of tasks and possibilities you need to accomplish yesterday. You start barking out orders, critiquing people more readily, and working yourself to exhaustion forgetting about time, food, sleep, or how you’re feeling emotionally. All you see are possibilities and options that you need to bring to fruition, and you’re desperately impatient to bring them to fruition as soon as humanly possible.”
