@@ -1,5 +1,5 @@
 ---
-{"alias":"La Langue de Zemmour","author":"Cécile Alduy","category":"Social Science","publisher":"Seuil","publish":"2022-02-18","total":64,"isbn":"2021497488 9782021497489","cover_url":"http://books.google.com/books/content?id=9ZReEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"reading","created":"2023-04-15T12:49:47.127+02:00","dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","dgPassFrontmatter":true,"updated":"2023-05-02T14:49:12.132+02:00"}
+{"alias":"La Langue de Zemmour","author":"Cécile Alduy","category":"Social Science","publisher":"Seuil","publish":"2022-02-18","total":64,"isbn":"2021497488 9782021497489","cover_url":"http://books.google.com/books/content?id=9ZReEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api","status":"reading","created":"2023-04-15T12:49:47.127+02:00","dg-publish":true,"permalink":"/sources/contents/cecile-alduy-la-langue-de-zemmour/","dgPassFrontmatter":true,"noteIcon":"1","updated":"2023-05-02T14:49:12.132+02:00"}
 ---
 
 **Title:** La Langue de Zemmour  
