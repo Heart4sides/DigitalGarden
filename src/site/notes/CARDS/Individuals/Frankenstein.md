@@ -1,5 +1,5 @@
 ---
-{"containertitle":null,"author":null,"au_Type":null,"type":"[[-INTP]]","cat":"fiction","me_Cat":"watch 🎞️","theme":null,"language":"en","ref":"[Frankenstein (1931 film) - Wikipedia](https://en.wikipedia.org/wiki/Frankenstein_(1931_film))","dg-publish":true,"permalink":"/cards/individuals/frankenstein/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-05-26T20:02:59.737+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/frankenstein/","noteIcon":"1","created":"2022-12-14T16:32:51.670+01:00","updated":"2023-05-26T20:02:59.737+02:00"}
 ---
 
 > [!Info] Navigation 💠
