@@ -1,5 +1,5 @@
 ---
-{"alias":"Petty","dg-publish":true,"permalink":"/cards/related-concepts-and-theories/petty/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-05-08T21:11:19.854+02:00","updated":"2023-05-08T21:14:31.917+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/petty/","noteIcon":"1","created":"2023-05-08T21:11:19.854+02:00","updated":"2023-05-08T21:14:31.917+02:00"}
 ---
 
 ---
