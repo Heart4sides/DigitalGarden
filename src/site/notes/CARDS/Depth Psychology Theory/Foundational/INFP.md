@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-05-27T21:42:01.364+02:00"}
+{"alias":"The Mystic","tag":"type","dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","dgPassFrontmatter":true,"created":"2023-01-05T14:59:08.461+01:00","updated":"2023-05-27T21:42:01.364+02:00"}
 ---
 
 #on/depthpsychology  #type 
