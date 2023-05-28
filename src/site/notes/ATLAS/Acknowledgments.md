@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/atlas/acknowledgments/","dgPassFrontmatter":true,"created":"2023-05-02T12:41:07.124+02:00","updated":"2023-05-03T14:07:24.554+02:00"}
+{"dg-publish":true,"permalink":"/atlas/acknowledgments/","noteIcon":"1","created":"2023-05-02T12:41:07.124+02:00","updated":"2023-05-03T14:07:24.554+02:00"}
 ---
 
 # Definitions
