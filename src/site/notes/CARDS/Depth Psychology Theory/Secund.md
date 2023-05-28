@@ -1,5 +1,5 @@
 ---
-{"alias":"Secundary, secundary, 2nd","dg-publish":true,"tags":null,"permalink":"/cards/depth-psychology-theory/secund/","dgPassFrontmatter":true,"created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-27T15:36:23.988+02:00"}
+{"alias":"Secundary, secundary, 2nd","dg-publish":true,"tags":null,"permalink":"/cards/depth-psychology-theory/secund/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-07T16:05:07.672+02:00","updated":"2023-05-27T15:36:23.988+02:00"}
 ---
 
 
