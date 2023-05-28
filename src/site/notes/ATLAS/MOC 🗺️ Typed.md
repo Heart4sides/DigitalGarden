@@ -1,5 +1,5 @@
 ---
-{"alias":null,"dg-publish":true,"permalink":"/atlas/moc-typed/","dgPassFrontmatter":true,"noteIcon":"1","created":"2023-04-29T12:12:22.894+02:00","updated":"2023-05-02T11:09:43.925+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-typed/","noteIcon":"1","created":"2023-04-29T12:12:22.894+02:00","updated":"2023-05-02T11:09:43.925+02:00"}
 ---
 
 
