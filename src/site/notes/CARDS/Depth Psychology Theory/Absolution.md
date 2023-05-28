@@ -1,5 +1,5 @@
 ---
-{"alias":"absolve","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","dgPassFrontmatter":true,"created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.260+02:00"}
+{"alias":"absolve","temple":"[[Soul Temple 👥|Soul👥]]","side":"[[Ego🙋‍♂️|🙋‍♂️]]","dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","dgPassFrontmatter":true,"noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.260+02:00"}
 ---
 
 #type/pole 
