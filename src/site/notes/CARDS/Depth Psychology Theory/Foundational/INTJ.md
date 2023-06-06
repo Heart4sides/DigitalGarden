@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","noteIcon":"1","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-05-27T21:39:54.006+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intj/","noteIcon":"1","created":"2023-01-05T15:33:06.152+01:00","updated":"2023-06-04T18:35:57.521+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -24,7 +24,7 @@
 
 ---
 # Virtues & Vices
-[[CARDS/· Related Concepts & Theories ·/Trust\|Trust]] 🆚 [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]] 
+[[CARDS/· Related Concepts & Theories ·/Trust\|CARDS/· Related Concepts & Theories ·/Trust]] 🆚 [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]] 
 
 ---
 # Temple / 4 sides of the Mind
