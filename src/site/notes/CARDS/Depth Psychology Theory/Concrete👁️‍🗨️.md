@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:29:16.961+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-06-04T15:03:41.100+02:00"}
 ---
 
 #type/grid 
@@ -17,11 +17,11 @@
 - 🆚 [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] 
 - 1 of 6 [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperaments🌍]] 
 
-|                      | <font size="4">  ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]== </font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4">   🔮  </font> | <font size="4">   🦄  </font>    |  💬                       |   💬                            |    💬                     |
+|                      | <font size="4">  ==[[CARDS/Depth Psychology Theory/Guardian🏛️\|🏛️]]== </font>   |  <font size="4"> ==[[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]==</font>   | <font size="4">   🔮  </font> | <font size="4">   🦄  </font>    |  💬                       |   💬                            |    💬                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  |  ==[[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]==               |        ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==         |    ENTJ                     |   ENFJ                | ➡️      | 👋       | 🏆     |
 | 🔜    |==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==             |     ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==       |   ENTP                    |   ENFP                | ↪️ | 👋       | 🏃‍♂️ |
-| 🔝  | ==[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]==            |      ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==    |   INTJ                    |   INFJ                | ➡️      | 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+| 🔝  | ==[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]==            |      ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==    |   INTJ                    |   INFJ                | ➡️      | 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 |  🔙  |  ==[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]==             |        ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==     |    INTP                     |    INFP                 | ↪️ |  🧘‍♂️  | 🏆     |
 |   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                      | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️‍🗨️]] |  🧲         |  🧲     |                       |                            |                       |
 |   [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊       | 🐜 |                       |                            |                       |
@@ -93,7 +93,7 @@ What "is" matters more to me than what's possible.
 Video : worldview & politics
 - Entrepreneurs (sensors) :
 	1. ESTJ 
-	2. [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] 
+	2. [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] 
 	3. The ISTJ is too lazy / The ISFJ is too insecure
 
 | Si             | [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]]                |  |
