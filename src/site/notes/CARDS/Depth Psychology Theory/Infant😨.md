@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","noteIcon":"1","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-05-24T14:01:44.742+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/infant/","noteIcon":"1","created":"2022-12-31T18:08:42.192+01:00","updated":"2023-06-04T19:56:36.732+02:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Most underdeveloped function due to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] being constantly used to protect it. 
 ---
-# Vulnerable 
+# Courageous / Faithful 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Recognizes that the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] ‘s adversity is here to build up strength in the inferior 
 - Has faith (Si users) or bravery (Se users) to overcome its fear  
