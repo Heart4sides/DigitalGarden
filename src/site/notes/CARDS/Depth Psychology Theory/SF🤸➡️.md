@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-05-27T15:36:15.032+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-06-04T20:27:16.419+02:00"}
 ---
 
 
@@ -9,7 +9,7 @@ Meaning the person is currently favoring his [[CARDS/Depth Psychology Theory/Sub
 
 Double-down on ther [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] functions. 
 
-SF people are focused on being [[happy\|happy]]. 
+SF people are focused on being [[CARDS/· Related Concepts & Theories ·/Happy\|Happy]]. 
 
 SF is attached to the Ego Temple = [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
 
