@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-05-28T16:16:29.036+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-06-04T15:03:40.852+02:00"}
 ---
 
 
@@ -11,7 +11,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 > [!multi-column]
 >
->>[!note] 8 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
+>>[!danger] 8 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
 >>[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
@@ -24,7 +24,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
 >
->> [!warning] 8 [[CARDS/Depth Psychology Theory/Attitude🎭\|attitudes]]
+>> [!todo] 8 [[CARDS/Depth Psychology Theory/Attitude🎭\|attitudes]]
 >> - [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]
 >> - [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]
 >> - [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]
@@ -34,22 +34,11 @@ To explore the basics of depth psychology, I suggest you start with the followin
 >> - [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]]
 >> - [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]
 >
->> [!summary] [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
+>> [!failure] [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]]
 >>- [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 >>- [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] 
 >>- [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 >>- [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
-
-- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
-		- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]
-- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] 
-		- [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]
-		- [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
 
 ---
 # Authors 
@@ -89,11 +78,11 @@ To explore the basics of depth psychology, I suggest you start with the followin
 # 4 Interaction Styles x 4 Temperaments 
 [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]    /     [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]
 
-|                      | [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]   |  [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]   | [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]    |                       |                            |                     |
+|                      | [[CARDS/Depth Psychology Theory/Guardian🏛️\|🏛️]]   |  [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]   | [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|🔮]] | [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]    |                       |                            |                     |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]        | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]              | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
 | [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]        | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]                  | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
-| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]              | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| [[CARDS/Depth Psychology Theory/Finisher🔝\|🔝]]   | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]              |       [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]        | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]              | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | [[CARDS/Depth Psychology Theory/Background🔙\|🔙]] | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]              |       [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]        | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]                  | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]              | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
 |                      | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|👁️]] | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]        | [[CARDS/Depth Psychology Theory/Abstract🧲\|🧲]]    |                       |                            |                       |
 |                      | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |  [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]  | [[CARDS/Depth Psychology Theory/Pragmatic🦊\|🦊]]       | [[CARDS/Depth Psychology Theory/Affiliative🐜\|🐜]] |                       |                            |                       |
@@ -106,7 +95,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]]  |
-| IS**             | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]                  |
+| IS**             | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]                  | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]                  |
 | ES**             | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]                  |
 | IN**             | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]                  | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]                 | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]                 | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]                  |
 | EN**             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]                  | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]                 | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]                 | [[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]                  |
@@ -144,7 +133,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 | --- | ------------------ | ------------------ | ------------- |
 |[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]  |[[CARDS/Depth Psychology Theory/Foundational/Ne#1💧\|Ne#1💧]] [[CARDS/Depth Psychology Theory/Foundational/Fi#2🧭\|Fi#2🧭]]          | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]        | [[Se🌪️Trickster🤡\|7🌪️]] [[Ti🗡️Demon😈\|8🗡️]]              | 
 |[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] |  [[Ne💧Nemesis😟\|5💧]] [[Fi🧭Critic🤔\|6🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]        | [[Se🌪️Inferior😨\|4🌪️]] [[Ti🗡️Child👼\|3🗡️]]             | 
-|[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] | [[Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]        | [[Se🌪️hero🦸‍♂️\|1🌪️]] [[Ti🗡️Parent🤨\|2🗡️]]             | 
+|[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] | [[Ne💧Demon😈\|8💧]] [[Fi🧭Trickster🤡\|7🧭]]            | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]        | [[Se🌪️hero🦸‍♂️\|1🌪️]] [[Ti🗡️Parent🤨\|2🗡️]]             | 
 |[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] |[[Ne💧Inferior😨\|4💧]] [[Fi🧭Child👼\|3🧭]]            | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]        | [[Se🌪️Nemesis😟\|5🌪️]] [[Ti🗡️Critic🤔\|6🗡️]]             | 
 
 | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  | [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] |
