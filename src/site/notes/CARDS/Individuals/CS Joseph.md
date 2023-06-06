@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"1","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-05-28T19:05:47.585+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/cs-joseph/","noteIcon":"1","created":"2023-01-29T18:56:34.797+01:00","updated":"2023-06-02T18:34:45.837+02:00"}
 ---
 
 #on/depthpsychology #on/philosophy #on/education 
@@ -9,7 +9,7 @@
 
 { .block-language-dataview}
 
-# Notes on Videos 
+# TD NOTES ON VIDEOS
 - [ ] [S1 - Jungian Cognitive Functions](https://www.youtube.com/watch?v=kywOjcPgGl0&list=PLCPzIFw2QJDdx32WYP84vx_w2xbteYkr3&pp=iAQB) 
 	- [ ] E1
 	- [ ] E2
@@ -93,10 +93,10 @@
 	- [ ] E14
 	- [ ] E15
 	- [ ] E16
-- [ ] [S8 - Type Comparisons - J vs P](https://www.youtube.com/watch?v=e0ttE91ks70&list=PLCPzIFw2QJDdTu9FbVZNvSFXSlMbRrwvX&pp=iAQB)
+- [ ] [S8 - Type Comparisons - J vs P]([Season 8 - Type Comparisons - J vs. P - YouTube](https://www.youtube.com/playlist?list=PLCPzIFw2QJDdTu9FbVZNvSFXSlMbRrwvX))
 	- [ ] E1
 	- [ ] E2
-	- [ ] E3
+	- [x] [E3 - ENTJ vs ENTP](https://www.youtube.com/watch?v=SEHD_hUjRb0&list=PLCPzIFw2QJDdTu9FbVZNvSFXSlMbRrwvX&index=3&pp=iAQB)
 	- [ ] E4
 	- [ ] E5
 	- [ ] E6
@@ -120,3 +120,46 @@
 	- [ ] E6
 	- [ ] E7
 	- [ ] E8
+- [ ] [S16 - Attitudes of Cognitive Functions](https://www.youtube.com/watch?v=7vSqlTk5XlU&list=PLCPzIFw2QJDchH64EMt_aVn-4fqE1mjAE)
+	- [ ] E1
+	- [ ] E2
+	- [x] [E3 - Child](https://www.youtube.com/watch?v=TXCIQdyeiEs&list=PLCPzIFw2QJDchH64EMt_aVn-4fqE1mjAE&index=3)
+	- [ ] E4
+	- [ ] E5
+	- [ ] E6
+	- [ ] E7
+	- [ ] E8
+- [ ] [S22 - Cognitive Transitions](https://www.youtube.com/playlist?list=PLCPzIFw2QJDfWIw0eUTsaYfyxIbO97UQC) 
+	- [ ] E1
+	- [ ] E2
+	- [x] [E3 - ENTJ](https://www.youtube.com/watch?v=nJ-CUIoBeE4&list=PLCPzIFw2QJDfWIw0eUTsaYfyxIbO97UQC&index=3&pp=iAQB)
+	- [ ] E4
+	- [ ] E5
+	- [x] [E6 - ESFP](https://www.youtube.com/watch?v=LaO_p7FGP28&list=PLCPzIFw2QJDfWIw0eUTsaYfyxIbO97UQC&index=6)
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [x] [E11- INTJ](https://www.youtube.com/watch?v=oi4f2O0HsfQ&list=PLCPzIFw2QJDfWIw0eUTsaYfyxIbO97UQC&index=11&t=1218s&pp=iAQB)
+	- [ ] E12 
+	- [ ] E13
+	- [ ] E14
+	- [ ] E15
+	- [ ] E16
+- [ ] [S27 - The 8 Rules for Love](https://www.youtube.com/watch?v=g8h0kLLBEk4&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh) 
+	- [x] [E1 - ESTJ](https://www.youtube.com/watch?v=g8h0kLLBEk4&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh&index=1&pp=iAQB)
+	- [x] [E2 - ESTP](https://www.youtube.com/watch?v=cTtnMZ27aus&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh&index=2&pp=iAQB)
+	- [x] [E3 - ENTJ](https://www.youtube.com/watch?v=pmqmzyD6cVA&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh&index=3&pp=iAQB)
+	- [ ] E4
+	- [ ] E5
+	- [x] [E6 - ESFP](https://www.youtube.com/watch?v=PbPh0YZxRGo&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh&index=6&pp=iAQB)
+	- [ ] E7
+	- [ ] E8
+	- [ ] E9
+	- [ ] E10 
+	- [x] [E11 - INTJ](https://www.youtube.com/watch?v=OVQACf7-0-k&list=PLCPzIFw2QJDdkhEFsa3uTZq5_-d2n8nFh&index=11&pp=iAQB)
+	- [ ] E12 
+	- [ ] E13
+	- [ ] E14
+	- [ ] E15
+	- [ ] E16
