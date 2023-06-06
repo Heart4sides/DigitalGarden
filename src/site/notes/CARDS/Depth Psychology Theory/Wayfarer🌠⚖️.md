@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","noteIcon":"1","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-05-12T08:21:17.021+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","noteIcon":"1","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-06-04T18:35:57.120+02:00"}
 ---
 
 Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -46,7 +46,7 @@ Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 |                  | Virtu                     | Vice         |
 | ---------------- | ------------------------- | ------------ |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] | [[Stealing\|Stealing]]              | [[Earning\|Earning]]            |
-| [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]         | [[Delayed Gratification\|Delayed Gratification]] | [[CARDS/· Related Concepts & Theories ·/Trust\|Trust]]    |
+| [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]         | [[Delayed Gratification\|Delayed Gratification]] | [[CARDS/· Related Concepts & Theories ·/Trust\|CARDS/· Related Concepts & Theories ·/Trust]]    |
 | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]         | [[Instant gratification\|Instant gratification]] | [[CARDS/· Related Concepts & Theories ·/Paranoïa\|Paranoïa]] |
 | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]         | [[Diligence\|Diligence]]             | [[Idleness\|Idleness]] |
 | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]         | [[CARDS/Depth Psychology Theory/Generosity\|Generosity]]            | [[CARDS/Depth Psychology Theory/Greed\|Greed]]              |
