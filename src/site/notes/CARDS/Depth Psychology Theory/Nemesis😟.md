@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","noteIcon":"1","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-05-27T15:36:22.723+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","noteIcon":"1","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-06-04T20:02:39.695+02:00"}
 ---
 
 ---
@@ -15,11 +15,20 @@
 - Sometimes it just wants to make a point. 
 - Becomes a villain when it doesn’t feel heard by the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]. 
 - The Nemesis needs light to function
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“The Nemesis exists to alert us to our ignorance.” `=this.Shortref` 
+
+</div></div>
+
 
 ---
-# Ally
+# Understanding
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
-- Adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+- Ally : adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Certain 
 - Peacekeeper
 
