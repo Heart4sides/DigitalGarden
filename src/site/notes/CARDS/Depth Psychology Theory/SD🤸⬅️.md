@@ -21,7 +21,7 @@ Attached to the [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] or t
 | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  | [[CARDS/Depth Psychology Theory/Objectification\|Objectification]]   |    
 | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]  | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  | [[CARDS/Depth Psychology Theory/Fanatism\|Fanatism]]    |    
 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]  | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]  | [[CARDS/Depth Psychology Theory/Egotism\|Egotism]]  |   
-| [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]  |   
+| [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]  |   
 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]  | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]  | [[CARDS/Depth Psychology Theory/Credulity\|Credulity]]   |    
 | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]  | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]  | [[CARDS/Depth Psychology Theory/Complacency\|Complacency]]  |   
 | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]  | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]  | [[CARDS/Depth Psychology Theory/Servility\|Servility]]   |   
