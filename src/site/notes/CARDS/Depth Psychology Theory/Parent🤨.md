@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"1","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-05-27T15:34:43.912+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"1","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-06-04T20:06:52.116+02:00"}
 ---
 
 2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|cognitive function]], but last to develop in the ego (20s). 
@@ -12,25 +12,37 @@ It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the
 - Barrier between the child and the hero, to prevent a loop 
 - Expose your crap 
 - The primary source for a person’s individual sense of [meaning](https://csjoseph.life/the-source-of-meaning-for-the-16-types/)
+- Companion of the Hero 
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“In many ways, how helpful a companion they are is a measure of one’s maturity and integration.” `=this.Shortref` 
+
+</div></div>
+
 ---
-# Stifling 
+# Careless 
 **Behaviour in [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
-- Overcontrolling
-	- Micromanages the hero out of concern that he hurts the child through collateral damage
-- Takes its job too seriously, which makes it [[CARDS/Depth Psychology Theory/Pride\|prideful]] 
-	- Feels like its doing its job so well, that it doesn’t need the other side of the coin (orbit) 
-	- The critic substracts humility to the parent in its pessimistic form
 - [[CARDS/Depth Psychology Theory/Complacency\|complacent]] when allowing the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] to takes its role of parent. 
+- Gullible 
 ---
-# Skeptical 
+# Responsible 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
+- Skeptical
 - Diligent to verify 
 - The critic adds humility to the parent when in an optimistic form 
 - Doesn’t indulge the [[CARDS/Depth Psychology Theory/Child👼\|Child👼]] 
 - Helps the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] become more responsible 
 ---
-# Gullible 
+# Stiffling 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
+- Overcontrolling
+	- Micromanages the hero out of concern that he hurts the child through collateral damage
+- Takes its job too seriously, which makes it [[CARDS/Depth Psychology Theory/Pride\|prideful]] 
+	- Feels like its doing its job so well, that it doesn’t need the other side of the coin (orbit) 
+	- The critic substracts humility to the parent in its pessimistic form
 
 ---
 # Free 
@@ -43,6 +55,15 @@ It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the
 ---
 # In Orbit 
 - [[CARDS/Depth Psychology Theory/Orbit🔄\|⚛️]] with the [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]] 
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“And the carelessness of the Parent acts as a self-fulfilling prophecy to the Critic, who can double down on its judgments that only further propels it to the place of ignorant bliss. This becomes a breeding ground for foolishness.” `=this.Shortref` 
+
+</div></div>
+
 ---
 # In Reflection 
 - [[CARDS/Depth Psychology Theory/Reflection 🪞\|🪞]] with the [[CARDS/Depth Psychology Theory/Trickster🤡\|Trickster🤡]] 
