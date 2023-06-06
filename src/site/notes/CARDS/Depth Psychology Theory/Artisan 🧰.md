@@ -3,7 +3,7 @@
 ---
 
 
-SPs : [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] 
+SPs : [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]] | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] 
 
 Freedom-based creators
 - Live in the moment 
