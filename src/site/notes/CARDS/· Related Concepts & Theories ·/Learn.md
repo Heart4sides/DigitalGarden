@@ -63,7 +63,7 @@ Solo book reading impacts Si + Ni. So ESXP hate reading books. They like having 
 
 
 
-#book #on/education 
+#video #on/education 
 [NEUROSCIENTIST: How To ACTUALLY LEARN](https://www.youtube.com/watch?v=sW0iNSrmcDQ) 
     
 
