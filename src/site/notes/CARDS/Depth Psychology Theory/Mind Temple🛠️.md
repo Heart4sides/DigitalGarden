@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-27T15:36:27.140+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-31T10:25:29.790+02:00"}
 ---
 
 # Themes 
@@ -38,6 +38,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 ---
 # Struggles 
 - Understand that not everyone learns the same way 
+- Respecting their own rules, submitting themselves to their own authority 
 - 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/cards/depth-psychology-theory/foundational/ti/#ti-bias" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -48,6 +49,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 - Prefered input : creates an echo chamber 
 - Last known input 
 - Failure to listen (shadow Te) 
+
 
 </div></div>
 
@@ -75,7 +77,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]               |              -                |  [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]             |
 |                      |                              |                            |
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -91,7 +93,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | Virtu                | [[loyalty\|loyalty]]                   | [[Serenity\|Serenity]]          |
 | Vice                 | [[Treachery\|Treachery]]                  | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]            |
 
-| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type             | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]          | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | ------------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]            | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]         | //                 |
@@ -101,7 +103,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 # ENFJ Ego’s mind
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]      [[Mind Temple\|Mind⚒️]]️]]  | [[Soul Temple👥\|Soul👥]] |
 | Humanity’s Temples | [[Soul Temple👥\|Soul👥]][[Mind Temple\|Mind⚒️]]️]] |
@@ -128,7 +130,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 
 
 # ISTP Ego’s mind 
-| Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
+| Type                 |   [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]      [[Mind Temple\|Mind⚒️]]️]]  | [[Soul Temple👥\|Soul👥]] |
 | Humanity’s Temples | [[Soul Temple👥\|Soul👥]][[Mind Temple\|Mind⚒️]]️]] |
@@ -145,7 +147,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
 | [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
-| Type                 |[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
+| Type                 |[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]               | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]                | //                         |
@@ -171,7 +173,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]                         | -                             | [[CARDS/Depth Psychology Theory/Initiative\|Initiative]]                    |
 |                                |                               |                                   |
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type                 | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]     | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
@@ -187,7 +189,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | Virtu            |   [[Serenity\|Serenity]]       |           [[loyalty\|loyalty]]              |
 | Vice             |   [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]         |           [[Treachery\|Treachery]]              |
 
-| Type             | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
+| Type             | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | -------------------------- | ---------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]          | //                           |
