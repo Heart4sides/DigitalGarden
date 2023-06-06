@@ -3,7 +3,7 @@
 ---
 
 
-[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] 
+[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]] | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] 
 { #a2cd63}
 
 
