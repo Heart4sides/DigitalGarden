@@ -8,7 +8,7 @@
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ESTJ       |    ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==       | ENTJ |==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==| ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ    | ESFP    |ENTP               | ENFP           |↪️ | 👋       | 🏃‍♂️ |
-| 🔝   | ISTJ             |   ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==   | INTJ          | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==           | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
+| 🔝   | ISTJ             |   ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==   | INTJ          | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==           | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|🧘‍♂️]] | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
 | 🔙 |ISFJ          |  ISFP | INTP        | INFP          | ↪️ |  🧘‍♂️  | 🏆     |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 👁️‍🗨️ | 👁️‍🗨️ | 🧲        | 🧲    |                       |                            |                       |
 |  [[CARDS/Depth Psychology Theory/Temperament🌍\|🌍]]                     | 🐜 |  🦊  | 🦊     | 🐜                       |                            |                       |
