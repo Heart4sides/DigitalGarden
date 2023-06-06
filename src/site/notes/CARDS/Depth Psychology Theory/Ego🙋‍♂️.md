@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:36:13.294+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/ego/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-06-04T13:11:26.996+02:00"}
 ---
 
 
@@ -20,6 +20,7 @@
 - [[CARDS/· Related Concepts & Theories ·/The Why\|The Why]]
 
 # Ego Attitudes 
+
 | Rank | Role                            | [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]]              | [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]]                |
 | ---- | ------------------------------- | ---------------------------- | --------------------------- |
 | 1    | [[CARDS/Depth Psychology Theory/Gateway Function⛩️\|Gateway]]   | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Warrior👨‍🚒]] |
