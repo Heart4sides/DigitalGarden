@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","noteIcon":"1","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-05-28T19:13:13.997+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","noteIcon":"1","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-05-29T14:06:38.215+02:00"}
 ---
 
 #on/depthpsychology 
@@ -36,7 +36,7 @@ Ti users neglect the awareness of their own moral values for the sake of the tru
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | ESTJ                      |           [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]            | ENTJ| [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]                      | ➡️                          | 👋                          | 🏆                          |
 | 🔜                    | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]                      |    ESFP |[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]| ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
-| 🔝    | ISTJ                      |           [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]            | INTJ| [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+| 🔝    | ISTJ                      |           [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]            | INTJ| [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 | 🔙                    | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]        |           ISFP            | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]| INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
 |🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
 | 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
@@ -51,7 +51,7 @@ High Ti users are :
 | --------------------------------- | ----------------------------------------- | ---------------------------------------- | ----------------------------------------- | -------------------------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]]                    | ⛰️💧                  | 🔥🌪️             |🔥🌪️            |⛰️💧                |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]                     | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]                | [[SOURCES/Type Theory by CSJ/Functions/🗡️Ti-Fe💉\|🗡️Ti-Fe💉]]               | 🧭🏹               |🧭🏹                    |
-| IS**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==                             | ISFP                                      | ISTJ                                     |
+| IS**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]==                              | ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==                             | ISFP                                      | ISTJ                                     |
 | ES**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==                             | ESFP                                      | ESTJ                                    |
 | IN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==                             | INTJ                                      | INFP                                    |
 | EN**                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==                             | ENTJ                                      | ENFP                                     |
@@ -66,3 +66,6 @@ High Ti users are :
 - Prefered input : creates an echo chamber 
 - Last known input 
 - Failure to listen (shadow Te) 
+
+# Personal Observations
+- Ti is [matter-of-fact](https://dictionary.cambridge.org/dictionary/english/matter-of-fact)
