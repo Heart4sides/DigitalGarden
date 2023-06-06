@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/neuroscientist-how-to-actually-learn/","noteIcon":"1","created":"2023-04-30T10:28:44.035+02:00","updated":"2023-05-28T19:06:55.513+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/neuroscientist-how-to-actually-learn/","noteIcon":"1","created":"2023-04-30T10:28:44.035+02:00","updated":"2023-05-29T12:26:42.608+02:00"}
 ---
 
-#book #on/education 
+#video #on/education 
 [NEUROSCIENTIST: How To ACTUALLY LEARN](https://www.youtube.com/watch?v=sW0iNSrmcDQ) 
     
 
