@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"1","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-05-28T16:41:57.833+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"1","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-06-04T15:03:41.307+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -19,7 +19,7 @@ Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 
 ---
 # TypeGrid
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]==</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]| <font size="4"> ==[[CARDS/Depth Psychology Theory/Guardian🏛️\|🏛️]]==</font>   |  <font size="4"> 🧰</font>   | <font size="4"> 🔮</font> | <font size="4"> ==[[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]==</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | 🔛  | ==[[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]==       |    ESTP       | ENTJ|ENFJ| ➡️      | 👋       | 🏆     |
 | 🔜    |ESFJ    |ESFP     | ENTP          | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==           |↪️ | 👋       | 🏃‍♂️ |
