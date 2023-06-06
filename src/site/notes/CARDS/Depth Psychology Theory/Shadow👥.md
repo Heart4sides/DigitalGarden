@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-05-27T15:36:01.588+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-06-02T14:06:53.314+02:00"}
 ---
 
 # Summary  
+- Wisdom
 - The Crypt 
 - Executor of Sin Nature 
 - Exists to challenge the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] by producing chaos, to teach him the correct [[CARDS/· Related Concepts & Theories ·/Order\|order]] that it needs to follow. 
@@ -42,7 +43,7 @@
 ## Characteristics 
 - [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] / uncertain
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
-	- battle against [[ignorance\|ignorance]]
+	- battle against [[Ignorance\|ignorance]]
 	- [[CARDS/Depth Psychology Theory/Critic🤔\|Critic]] development
 	- final product
 - [[worried\|worried]]
@@ -58,7 +59,7 @@
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] form : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - vast great [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
 - [[turtle\|turtle]]
-- [[ignorance\|ignorance]]
+- [[Ignorance\|ignorance]]
 - [[unhappy\|unhappy]]
 - [[critical\|critical]] 
 
