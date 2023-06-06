@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","noteIcon":"1","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-05-26T18:10:47.092+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","noteIcon":"1","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-06-04T18:22:37.243+02:00"}
 ---
 
 #on/depthpsychology 
@@ -22,6 +22,9 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 - Was
 - Personal consciousness
 - Personal experiences
+- Seeking new experiences 
+- Reacting to first impressions 
+- Thrill Seeking 
 - Action
 - Long term memory
 - Needs
@@ -36,6 +39,7 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 - Comfort
 - Memory-Foam
 - Perseverence
+- [[conviction\|conviction]] 
 - Habit  
 --- 
 # Type Grid 
