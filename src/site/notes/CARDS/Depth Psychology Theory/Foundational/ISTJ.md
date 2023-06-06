@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","noteIcon":"1","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-05-28T10:15:39.955+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/istj/","noteIcon":"1","created":"2023-01-05T13:44:15.646+01:00","updated":"2023-06-04T15:03:42.879+02:00"}
 ---
 
 #on/depthpsychology  #type 
 
-[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]devoted to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]. 
+[[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Guardian🏛️\|Guardian🏛️]] [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]devoted to the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]. 
 | [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                                  | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                 | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                          | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                     |
 | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
 | [[CARDS/Depth Psychology Theory/Foundational/Si#What I experience\|Si > What I experience]] | [[CARDS/Depth Psychology Theory/Foundational/Te#What others know\|Te > What others know]] | [[CARDS/Depth Psychology Theory/Foundational/Fi#What I value\|Fi > What I value]] | [[CARDS/Depth Psychology Theory/Foundational/Ne#What others desire\|Ne > What others desire]] |
@@ -12,7 +12,7 @@
 { .block-language-dataview}
 # Type Grid 
 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |    | |  | 
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian🏛️\|🏛️]]</font>   |    | |  | 
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |
 |   | ESTJ       |    ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==       | ENTJ            |ENFJ          | 
 |     |ESFJ    |ESFP    | ENTP            | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==           |
