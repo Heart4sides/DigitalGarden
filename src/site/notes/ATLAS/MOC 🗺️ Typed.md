@@ -148,6 +148,7 @@
 | File                                                          | octogram                                                                                                                            |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | [[CARDS/Individuals/Andrew Huberman\|Andrew Huberman]]     | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]           | \-                                                                                                                                  |
 | [[CARDS/Individuals/Joffrey Baratheon\|Joffrey Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
 | [[CARDS/Individuals/Lana Wachowski\|Lana Wachowski]]       | \-                                                                                                                                  |
 | [[CARDS/Individuals/Ray Kroc\|Ray Kroc]]                   | \-                                                                                                                                  |
