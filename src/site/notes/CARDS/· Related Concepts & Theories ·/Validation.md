@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-28T18:17:37.172+02:00"}
 ---
 
-[[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
+[[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
 ---
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
@@ -59,7 +59,7 @@ Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories
 ---
 # ENFJ’s Mind 
 
-| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
+| Type                 | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      |  [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]     [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Individual’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[Mind Temple\|Mind⚒️]]  | [[Soul Temple👥\|Soul👥]] |
 | Humanity’s Temples | [[Soul Temple👥\|Soul👥]] | [[Mind Temple\|Mind⚒️]] |
@@ -79,7 +79,7 @@ Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories
 ---
 # ITSP’s Mind 
 
-| Type                 |   [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
+| Type                 |   [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]      | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]  |
 | -------------------- | ---------------------------- | -------------------------- |
 | Mind’s [[CARDS/Depth Psychology Theory/Temple🙏\|Temples🙏]]       | [[Mind Temple\|Mind⚒️]]  | [[Soul Temple👥\|Soul👥]] |
 | Humanity’s Temples | [[Soul Temple👥\|Soul👥]] | [[Mind Temple\|Mind⚒️]] |
