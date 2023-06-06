@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","noteIcon":"1","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-27T15:35:35.001+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","noteIcon":"1","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-05-29T11:11:24.051+02:00"}
 ---
 
 #on/depthpsychology 
@@ -36,7 +36,7 @@ Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Foundational/N
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
 | 🔛                    | ESTJ                      |           [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]            | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
 | 🔜                    | ESFJ                      |    [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] |ENTP                                   | ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
-| 🔝    | ISTJ                      |           [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]            | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]| [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+| 🔝    | ISTJ                      |           [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]            | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]| [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
 | 🔙                    | ISFJ        |           [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
 |🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
 | 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
@@ -53,7 +53,7 @@ High Se users are :
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
 | [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] |⛰️💧    | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | ⛰️💧    |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉|🗡️💉 |🧭🏹  | 🧭🏹    |
-| IS**             | ISFJ               | ==[[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==                 |ISTJ                |
+| IS**             | ISFJ               | ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==                 |ISTJ                |
 | ES**             |ESFJ                | ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==                 |ESTJ             |
 | IN**             |INTP             | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==                 |INFP             |
 | EN**             |ENTP               | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==                 |ENFP             |
@@ -63,9 +63,12 @@ High Se users are :
 [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]. 
 
 ---
-# Mentions 
+# MENTIONS 
+
+# PERSONAL OBSERVATIONS
 
 - “(cou)rage “ - Se
+- If you believe that your dream is reality, you are more likely to forget it when you wake up; so is it for Ni-Se users. Se users forget what they experience because they believe that reality is shared and external to them. They believe totems will remind them of that reality, so they don’t need to store it inside themselves. 
 
 ---
 # References
