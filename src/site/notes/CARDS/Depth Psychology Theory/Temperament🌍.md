@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","noteIcon":"1","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-05-27T22:48:20.651+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/temperament/","noteIcon":"1","created":"2023-01-12T11:52:55.997+01:00","updated":"2023-06-04T15:03:41.622+02:00"}
 ---
 
 #type/grid 
@@ -19,7 +19,7 @@ Origin : Plato's Republic
 
 # The 4 temperaments
 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]] | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|Guardian 🏛️]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|Future-Thinker🔮]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] </font> | 💬    | 💬    | 💬    |
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]] | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian🏛️\|Guardian🏛️]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Future-Thinker🔮\|Future-Thinker🔮]] </font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]] </font> | 💬    | 💬    | 💬    |
 |:------------- |:--------------------------------------- |:--------------------------------------:|:-------------------------------------------- |:-------------------------------------- |:----- |:----- |:----- |
 | 🔛            | ESTJ                                    |                  ESTP                  | ENTJ                                         | ENFJ                                   | ➡️    | 👋    | 🏆    |
 | 🔜            | ESFJ                                    |                  ESFP                  | ENTP                                         | ENFP                                   | ↪️    | 👋    | 🏃‍♂️ |
