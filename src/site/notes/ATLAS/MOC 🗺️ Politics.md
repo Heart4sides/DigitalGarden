@@ -36,11 +36,11 @@
 { .block-language-dataview}
 
 # Political Collectives 
-| File                                                                                              | Type                                                         |
-| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
-| [[CARDS/Collectives/Civilisation romaine\|Civilisation romaine]]                               | \-                                                           |
-| [[CARDS/Collectives/Denmark\|Denmark]]                                                         | [[CARDS/Depth Psychology Theory/Foundational/ISTP\|ISTP]] |
-| [[CARDS/Collectives/Typologie dans l'Histoire de France\|Typologie dans l'Histoire de France]] | \-                                                           |
+| File                                                                                              | Type                                                    |
+| ------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [[CARDS/Collectives/Civilisation romaine\|Civilisation romaine]]                               | \-                                                      |
+| [[CARDS/Collectives/Denmark\|Denmark]]                                                         | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] |
+| [[CARDS/Collectives/Typologie dans l'Histoire de France\|Typologie dans l'Histoire de France]] | \-                                                      |
 
 { .block-language-dataview}
 
