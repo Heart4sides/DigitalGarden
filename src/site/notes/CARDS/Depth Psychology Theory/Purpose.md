@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/purpose/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-04T17:07:45.410+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/purpose/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-06-04T21:39:11.210+02:00"}
 ---
 
 # Udja
@@ -11,3 +11,4 @@
 - Singular goal leading to achievement and creation ([[CARDS/Depth Psychology Theory/Outcome🏆\|Outcome🏆]])
 - Something so engaging that nothing can break their focus 
 - [[CARDS/Depth Psychology Theory/Apathy\|Apathetic]] : lacking purpose 
+
