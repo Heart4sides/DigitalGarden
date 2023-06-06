@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","noteIcon":"1","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-05-27T21:40:39.695+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/intp/","noteIcon":"1","created":"2023-01-05T15:21:02.556+01:00","updated":"2023-06-04T15:03:42.735+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -11,7 +11,7 @@
 
 { .block-language-dataview}
 # Type Grid 
-| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian 🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]                     | <font size="4"> [[CARDS/Depth Psychology Theory/Guardian🏛️\|🏛️]]</font>   |  <font size="4"> [[CARDS/Depth Psychology Theory/Artisan 🧰\|🧰]]</font>   | <font size="4"> 🔮</font> | <font size="4"> [[CARDS/Depth Psychology Theory/Idealist🦄\|🦄]]</font>    | [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                      |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                           |   [[CARDS/Depth Psychology Theory/Interaction Style💬\|💬]]                    |
 |:-------------------- |:--------------------- |:---------------------:|:------------------------- |:--------------------- |:--------------------- |:-------------------------- |:--------------------- |
 | [[CARDS/Depth Psychology Theory/Structure🔛\|🔛]]  | ESTJ       |    ESTP       |==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==              |ENFJ          | [[CARDS/· Related Concepts & Theories ·/Direct➡️\|➡️]]      | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Outcome🏆\|🎯]]     |
 | [[CARDS/Depth Psychology Theory/Starter🔜\|🔜]]    | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==     | ESFP      |ENTP               | ENFP           | [[CARDS/Depth Psychology Theory/Informative↪️\|↪️]] | [[CARDS/Depth Psychology Theory/Initiating👋\|👋]]       | [[CARDS/Depth Psychology Theory/Progression🏃\|🚧]] |
