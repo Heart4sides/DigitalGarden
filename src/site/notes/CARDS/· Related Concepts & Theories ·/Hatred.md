@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/hatred/","noteIcon":"1","created":"2023-05-03T00:17:35.861+02:00","updated":"2023-05-08T21:06:39.170+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/hatred/","noteIcon":"1","created":"2023-05-03T00:17:35.861+02:00","updated":"2023-06-04T20:40:24.298+02:00"}
 ---
 
 # Depth Psychology 
 - [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]] of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] towards the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] and vice versa. 
+- = [[CARDS/Depth Psychology Theory/Pride\|Pride]] + [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] + [[Ignorance\|Ignorance]] 
 
 # Wordnik Definition
 ## hatred
