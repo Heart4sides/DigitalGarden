@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"1","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-05-27T15:36:21.937+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"1","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-06-04T19:54:50.665+02:00"}
 ---
 
 
@@ -9,13 +9,23 @@
 - [[Witch\|Witch]]
 - [[Senile\|Senile]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
-- [[ignorance\|ignorance]]
+- [[Ignorance\|ignorance]]
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
 ---
-# Cynical 
+# Foolish 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow]]** 
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
+- Cynical
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“And the carelessness of the Parent acts as a self-fulfilling prophecy to the Critic, who can double down on its judgments that only further propels it to the place of ignorant bliss. This becomes a breeding ground for foolishness.” `=this.Shortref` 
+
+</div></div>
+
 ---
 # Wise 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
