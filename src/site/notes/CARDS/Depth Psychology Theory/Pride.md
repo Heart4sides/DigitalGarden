@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pride/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-10T21:28:41.785+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/pride/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-04T21:32:24.312+02:00"}
 ---
 
+= [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] + [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]] + [[Ignorance\|Ignorance]] 
+“Cover insecurity with Pride” = Cover the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 
 # Definition by CSJ 
 - [Pride Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/pride)
