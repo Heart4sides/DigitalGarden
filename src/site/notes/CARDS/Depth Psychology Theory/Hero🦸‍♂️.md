@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"1","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-05-24T13:38:54.211+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"1","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-06-04T20:34:14.778+02:00"}
 ---
 
 
@@ -25,23 +25,37 @@
 </div></div>
 
 ---
-# Irresponsible 
+# Prideful 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Looking for glory
 - Starts very powerful but irresponsible, so it causes collateral damage wherever it goes 
 - Doesn’t trust the [[CARDS/Depth Psychology Theory/Nemesis😟\|Nemesis😟]] so it compensates by trying to do everything by itself so protect the [[CARDS/Depth Psychology Theory/Infant😨\|Inferior]], which makes it arrogant and narrow-minded.  
 - Loops with the child, causing the latter to believe it can be a hero too 
 ---
-# Pilgrim Warrior 
+# Humble 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
 - Does its job which is to discover  
 - Is responsible, does its job without pride or complaint 
+- Pilgrim 
+- Warrior
+- 
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“Humility exists within us when we let go of our pride in the Hero. Or, as Chris Taylor said regarding his [Season 33](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=2149s&ab_channel=C.S.Joseph) opening, “When the Hero lets go of being Heroic.” In fact, the Hero’s identification with being Heroic often makes it the *least* Heroic of all the functions.” `=this.Shortref`  
+
+</div></div>
+
 ---
 # Complacent  
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Rests on its laurels because “I’ve accomplished to much”, so stops working   
 ---
 # Happy  
+{ #bd964d}
+
+
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]]** 
 - Exchanges discovery for happiness
 - Finds happiness in handing over the reigns to the infant. 
@@ -59,6 +73,8 @@
 - The Hero is in orbit with the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]. 
 - The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] reveals the Hero’s [[CARDS/· Related Concepts & Theories ·/Arrogance\|Arrogance]] in the [[CARDS/Depth Psychology Theory/Battleground of Titans\|Battleground of Titans]], for the demon is more powerful than the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] who acts like he can save the world on its own, but causes much collateral damage by doing so.
 { #2f8856}
+
+---
 
 
 ---
