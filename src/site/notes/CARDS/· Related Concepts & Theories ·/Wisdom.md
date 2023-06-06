@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","noteIcon":"1","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-05-27T15:36:26.076+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","noteIcon":"1","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-06-04T20:48:12.858+02:00"}
 ---
 
 # Depth Psychology 
@@ -7,6 +7,7 @@
 - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] : final product is wisdom 
 - [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] : “the Sage”
+- = [[CARDS/· Related Concepts & Theories ·/Responsibility\|Responsibility]] + [[Joy\|Joy]] + [[CARDS/· Related Concepts & Theories ·/Mastery\|Mastery]]
 
 # C.S. Joseph
 - “Knowing when to do good and when to do bad, when to be truthful and when to be false.”
