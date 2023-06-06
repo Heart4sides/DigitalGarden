@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/chris-taylor/","noteIcon":"1","created":"2023-04-10T10:26:21.192+02:00","updated":"2023-05-02T10:39:01.990+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/chris-taylor/","noteIcon":"1","created":"2023-04-10T10:26:21.192+02:00","updated":"2023-05-28T22:58:49.254+02:00"}
 ---
 
 #on/depthpsychology #on/education #on/philosophy 
