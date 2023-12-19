@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"1","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-05-28T12:51:18.678+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/gustave-flaubert/","noteIcon":"1","created":"2022-12-13T22:16:55.851+01:00","updated":"2023-06-22T21:01:27.336+02:00"}
 ---
 
 | Type                                  | Reference                                 |
