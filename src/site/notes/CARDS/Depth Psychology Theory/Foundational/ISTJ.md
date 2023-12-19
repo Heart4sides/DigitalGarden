@@ -30,7 +30,7 @@ Characters : [[CARDS/Individuals/-ISTJ\|-ISTJ]]
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
 | Virtu            | [[Objectivity\|Objectivity]]  | [[Charity\|Charity]]      |
-| Vice             | [[Triviality\|Triviality]]  | [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]    |
+| Vice             | [[Triviality\|Triviality]]  | [[Depravity\|Depravity]]    |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] | [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | -------------------------- | ---------------------------- |
