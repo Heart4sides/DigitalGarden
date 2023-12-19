@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","noteIcon":"1","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-06-19T15:57:56.879+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ti/","noteIcon":"1","created":"2022-12-27T19:31:40.985+01:00","updated":"2023-06-22T21:01:26.746+02:00"}
 ---
 
 #on/depthpsychology 
@@ -75,7 +75,52 @@ High Ti users are :
 
 
 
-	- Ti hero tends to believe it’s dumber than everyone else  
+
+= [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] + [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]] + [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]] 
+“Cover insecurity with Pride” = Cover the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] with the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
+
+# Definition by CSJ 
+- [Pride Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/pride) ^be61b8
+	- A high or inordinate opinion of one's own [[CARDS/· Related Concepts & Theories ·/Dignity\|Dignity]], importance, merits or superiority. 
+	- A becoming or dignified sense of what is due to oneself or one's position or character.
+- “I’m so smart/capable because…” using their own [[CARDS/Depth Psychology Theory/Authority\|Authority]] to [[CARDS/· Related Concepts & Theories ·/Validation\|validate]] themselves. 
+- Pride validates independantly from others
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+“The spirit of pride is aimed towards certainty.” ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22/23?) 
+
+</div></div>
+
+- Certainty that one can overcome any obstacle, associated with failure to act ([[CARDS/Depth Psychology Theory/Sloth\|Sloth]])
+- Ti bias : 
+	- Old input (rejection of new learning)
+	- Preferred input (echo chamber, validating their own pride)
+- Dunning Kruger Effect 
+	- Ti inferior tends to believe it’s smarter than everyone else 
+	- Ti hero tends to believe it’s dumber than everyone else 
+- Tend to give a lot of advice when they feel validated themselves. Elect themselves the teachers when they should be the students the most. 
+- Expect people to know what they think = to have high Te 
+- Most [[Assumption\|assumptive]], least listening, least understanding 
+- Intellectual doorslamming / Ti stupid zoning / Most dismissive types
+- Don’t take the risk to ask for feedback because it might invalidate them 
+---
+# Pride through Obstinance 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]][[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
+- If it doesn't make sense to me then it doesn't make sense = old input + preferred input 
+---
+# Pride through Accommodation 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]][[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
+
+---
+# Pope Gregory "Moralia in Job"
+- "For when pride, the queen of sins, has fully possessed a conquered heart, she surrenders it immediately to seven principal sins, as if to some of her generals, to lay it waste. And an army in truth follows these generals, because, doubtless, there spring up from them importunate hosts of sins. Which we set forth the better, if we specially bring forward in enumeration, as we are able, the leaders themselves and their army. For pride is the root of all evil, of which it is said, as Scripture bears witness; Pride is the beginning of all sin. [Ecclus. 10, 1]"
+---
+# Pride & Nihilism
+
+https://media.discordapp.net/attachments/906961630460530708/1055088961770500187/E14C13C6-AD62-47B4-966B-05FF629357FE.jpg
 
 </div></div>
 
