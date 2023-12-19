@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","noteIcon":"1","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-06-19T11:52:58.125+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/ne/","noteIcon":"1","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-06-22T21:01:11.496+02:00"}
 ---
 
 #on/depthpsychology 
@@ -43,7 +43,7 @@ High Ne users are :
 
 | <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]·==</font> | <font size="4"> ·Templar·</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
-| [[Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Foundational/Si⛰️\|⛰️]] [[Ne\|[[CARDS/Depth Psychology Theory/Foundational/Ne💧\|Ne💧]]�🌪️ | 🔥🌪️ | ==[[CARDS/Depth Psychology Theory/Foundational/Si⛰️\|⛰️]] [[Ne\|[[Ne💧]] [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉  | 🗡️💉 | 🧭🏹 |🧭🏹   |
+| [[Perception\|Perception]] | ==[[CARDS/Depth Psychology Theory/Foundational/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|[[CARDS/Depth Psychology Theory/Foundational/Ne💧\|Ne💧]]�🌪️ | 🔥🌪️ | ==[[CARDS/Depth Psychology Theory/Foundational/Si⛰️\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|[[Ne💧]] [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉  | 🗡️💉 | 🧭🏹 |🧭🏹   |
 | IS**             | ==[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]==                  | ISTP            | ISFP              | ==[[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]==                  |
 | ES**             | ==[[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]==                  | ESTP              | ESFP               | ==[[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]==                  |
 | IN**             | ==[[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]==                  | INFJ               | INTJ             | ==[[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]==                  |
@@ -52,7 +52,7 @@ High Ne users are :
 
 ---
 # Temple 
-[[Ne\|Ne]][[Ne💧]]e [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
+[[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]][[Ne💧]]e [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
 
 --- 
 # 🦸‍♂️Hero 
