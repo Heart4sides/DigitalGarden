@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","noteIcon":"1","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-06-19T11:51:03.602+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/te/","noteIcon":"1","created":"2022-12-27T21:20:33.776+01:00","updated":"2023-06-22T21:01:25.986+02:00"}
 ---
 
 #on/depthpsychology 
