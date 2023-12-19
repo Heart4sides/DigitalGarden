@@ -3,11 +3,11 @@
 ---
 
 #type
-| File                                                            | octogram                                                                                                                            |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]           | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
-| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]]     | \-                                                                                                                                  |
-| [[CARDS/Individuals/Emilie du Chatelet\|Emilie du Chatelet]] | <ul><li></li><li></li></ul>                                                                                                         |
+| File                                                            | octogram                                                                                           |
+| --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Cathlyn Stark\|Cathlyn Stark]]           | <ul><li>[[CARDS/Depth Psychology Theory/SD🤸⬅️.md\\|SD🤸⬅️]]</li><li>[[UF👤➡️\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Elena Richardson\|Elena Richardson]]     | \-                                                                                                 |
+| [[CARDS/Individuals/Emilie du Chatelet\|Emilie du Chatelet]] | <ul><li></li><li></li></ul>                                                                        |
 
 { .block-language-dataview}
 { #264b75}
