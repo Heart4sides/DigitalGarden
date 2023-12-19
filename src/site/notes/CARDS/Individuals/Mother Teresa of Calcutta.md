@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","noteIcon":"1","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-05-28T12:40:47.926+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/mother-teresa-of-calcutta/","noteIcon":"1","created":"2023-05-10T21:08:43.928+02:00","updated":"2023-06-22T21:01:31.573+02:00"}
 ---
 
 octogram:: "[[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]"
@@ -20,7 +20,7 @@ Lord, give me this seeing [[CARDS/· Related Concepts & Theories ·/Faith\|Faith
 
 O beloved sick, how doubly dear ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) you are to me, when you personify Christ; and what a privilege ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) is mine to be allowed to tend you.
 
-Sweetest Lord, make me [[CARDS/· Related Concepts & Theories ·/appreciate\|appreciative]] ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) of the [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]] of my high vocation, and its many responsibilities. Never permit me to disgrace it by giving way to [[CARDS/· Related Concepts & Theories ·/coldness\|coldness]], unkindness, or impatience.
+Sweetest Lord, make me [[CARDS/· Related Concepts & Theories ·/appreciate\|appreciative]] ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) of the [[CARDS/· Related Concepts & Theories ·/Dignity\|Dignity]] of my high vocation, and its many responsibilities. Never permit me to disgrace it by giving way to [[CARDS/· Related Concepts & Theories ·/coldness\|coldness]], unkindness, or impatience.
 { #fd9bb8}
 
 
