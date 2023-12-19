@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"1","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-06-04T15:03:41.307+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/philosopher/","noteIcon":"1","created":"2023-01-04T21:55:30.184+01:00","updated":"2023-06-22T21:01:01.256+02:00"}
 ---
 
 Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
@@ -8,12 +8,12 @@ Delta [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]
 - Aristocracy : elite of better people 
 { #a1a180}
 
-- [[Success\|Success]]
+- [[CARDS/· Related Concepts & Theories ·/Success\|Success]]
 	- [[I win button\|I win button]] 
 	- Alchemy - Philosopher Stone 
 	- [[Secret\|Secret]]
 - [[Academic\|Academic]]
-	- [[CARDS/· Related Concepts & Theories ·/Conservative\|Conservative]] 
+	- [[Conservative\|Conservative]] 
 	- Learn from the past 
 - [[Civic Duty\|Civic Duty]]
 
@@ -45,7 +45,7 @@ All Philosophers are [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliativ
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
 | Virtu            | [[Charity\|Charity]]  |    [[Objectivity\|Objectivity]]   |
-| Vice             | [[CARDS/Depth Psychology Theory/Depravity\|Depravity]]  |   [[Triviality\|Triviality]]  |
+| Vice             | [[Depravity\|Depravity]]  |   [[Triviality\|Triviality]]  |
 
 ---
 # Temple 
