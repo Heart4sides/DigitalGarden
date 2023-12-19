@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","noteIcon":"1","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-06-04T18:35:57.120+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wayfarer/","noteIcon":"1","created":"2023-01-04T21:45:47.303+01:00","updated":"2023-06-22T21:01:10.826+02:00"}
 ---
 
 Gamma [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] 
