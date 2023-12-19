@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"1","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-04-27T22:14:20.890+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/battleground/","noteIcon":"1","created":"2023-01-02T11:26:41.128+01:00","updated":"2023-06-12T12:02:44.907+02:00"}
 ---
 
-| MOC                                                             | Author                                                                                                                        | Type                                                                                                                                                  | Reference                                                 |
-| --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | <ul><li>[[CARDS/Individuals/Chris Taylor.md\\|Chris Taylor]]</li><li>[[CARDS/Individuals/CS Joseph.md\\|CS Joseph]]</li></ul> | <ul><li>[[CARDS/Depth Psychology Theory/Foundational/ENFP.md\\|ENFP]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/ENTP.md\\|ENTP]]</li></ul> | [CSJ Members Portal](https://offers.csjoseph.life/portal) |
+| MOC                                                             | Author | Type                                                                                                                                                  | Reference                                                 |
+| --------------------------------------------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Depth Psychology\|MOC 🗺️ Depth Psychology]] | \-     | <ul><li>[[CARDS/Depth Psychology Theory/Foundational/ENFP.md\\|ENFP]]</li><li>[[CARDS/Depth Psychology Theory/Foundational/ENTP.md\\|ENTP]]</li></ul> | [CSJ Members Portal](https://offers.csjoseph.life/portal) |
 
 { .block-language-dataview}
 
