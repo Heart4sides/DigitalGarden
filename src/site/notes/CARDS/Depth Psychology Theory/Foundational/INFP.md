@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","noteIcon":"1","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-05-27T21:42:01.364+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/infp/","noteIcon":"1","created":"2023-01-05T14:59:08.461+01:00","updated":"2023-10-03T23:10:58.040+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -25,7 +25,7 @@
 
 ---
 # Virtu & Vice
-[[Loyalty\|Loyalty]] 🆚 [[Treachery\|Treachery]] 
+[[Loyalty\|Loyalty]] 🆚 [[CARDS/· Related Concepts & Theories ·/Treachery\|Treachery]] 
 
 ---
 # Temple / 4 sides of the Mind
@@ -47,9 +47,9 @@ See [[CARDS/Individuals/-INFP\|-INFP]]
 
 ---
 # Mentions
-| File                                                                        | Author                       | External Link                                                                                                                    |
-| --------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[SOURCES/Literature Note/NP & Committment 2023\|NP & Committment 2023]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
+| File                                                                                                | Author                       | External Link                                                                                                                    |
+| --------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[SOURCES/Literature Note/NP & Committment 2023 - CS Joseph\|NP & Committment 2023 - CS Joseph]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
 
 { .block-language-dataview}
 ---
