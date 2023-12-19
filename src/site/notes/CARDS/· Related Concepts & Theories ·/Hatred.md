@@ -4,7 +4,7 @@
 
 # Depth Psychology 
 - [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Attitude🎭\|Attitude🎭]] of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] towards the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] and vice versa. 
-- = [[CARDS/Depth Psychology Theory/Pride\|Pride]] + [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] + [[Ignorance\|Ignorance]] 
+- = [[CARDS/Depth Psychology Theory/Pride\|Pride]] + [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]] + [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]] 
 
 # Wordnik Definition
 ## hatred
