@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"1","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-06-04T15:03:41.037+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/affiliative/","noteIcon":"1","created":"2023-01-01T13:10:48.722+01:00","updated":"2023-06-22T21:01:00.766+02:00"}
 ---
 
 #type/grid 
@@ -49,7 +49,7 @@ Affiliative is focus on the proper, what “should” be, or “what’s right�
 Affiliative values cooperation within a family, group, or team; Pragmatic
 values independence and self-determination. Affiliative respects authority and proven methodologies. Pragmatic challenges authority and seeks new ways of doing things. Affiliative seeks permission before acting and is apologetic. Pragmatic seeks forgiveness after acting without permission.
 
--   Being supportive is an affiliative behavior 
+-   Being [[CARDS/· Related Concepts & Theories ·/Supportive\|Supportive]] is an affiliative behavior 
 -   What's right 
 -   interdependance
 -   [[CARDS/· Related Concepts & Theories ·/Expectation\|expect]] communication with others before making a decision
