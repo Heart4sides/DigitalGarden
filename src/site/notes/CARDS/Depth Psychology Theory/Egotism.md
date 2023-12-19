@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/egotism/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:35:28.677+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/egotism/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-06-08T17:27:01.892+02:00"}
 ---
 
 #type/pole 
@@ -17,7 +17,7 @@
 - Motivation to become worthy of [[CARDS/Depth Psychology Theory/Reverence\|Reverence]]
 ---
 # Egotism expressed through [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - When don’t receive the deep respect they think they deserve 
 - Venerating oneself : “I am great because of who I am”
 - Self-obsessed, self-centered, selfish, self-flattering  
