@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","noteIcon":"1","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-06-19T12:19:48.400+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","noteIcon":"1","created":"2023-01-03T10:32:14.651+01:00","updated":"2023-06-22T21:01:11.046+02:00"}
 ---
 
 #on/depthpsychology 
@@ -53,7 +53,7 @@ High Se users are :
 
 | <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ·Crusader·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]·==</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]·==</font> | <font size="4"> ·Philosopher·</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
-| [[Perception\|Perception]] |⛰️💧    | [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|🔥]][[Se\|�[[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]🔥|🔥]][[Se\|�[[Se🌪️]]    |
+| [[Perception\|Perception]] |⛰️💧    | [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|�[[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]]🔥|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|�[[Se🌪️]]    |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉|🗡️💉 |🧭🏹  | 🧭🏹    |
 | IS**             | ISFJ               | ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==                 |ISTJ                |
 | ES**             |ESFJ                | ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==                 |ESTJ             |
@@ -74,8 +74,9 @@ High Se users are :
 
 ---
 # References
-| References |
-| ---------- |
+| References                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
 
 { .block-language-dataview}
 # 🦸‍♂️Hero 
