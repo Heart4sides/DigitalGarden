@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","noteIcon":"1","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-06-04T20:48:12.858+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/wisdom/","noteIcon":"1","created":"2022-12-31T00:51:28.608+01:00","updated":"2023-06-22T21:00:57.886+02:00"}
 ---
 
 # Depth Psychology 
@@ -7,7 +7,7 @@
 - [[CARDS/Depth Psychology Theory/Critic🤔\|Critic🤔]]
 - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] : final product is wisdom 
 - [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] : “the Sage”
-- = [[CARDS/· Related Concepts & Theories ·/Responsibility\|Responsibility]] + [[Joy\|Joy]] + [[CARDS/· Related Concepts & Theories ·/Mastery\|Mastery]]
+- = [[CARDS/· Related Concepts & Theories ·/Responsibility\|Responsibility]] + [[CARDS/· Related Concepts & Theories ·/Joy\|Joy]] + [[CARDS/· Related Concepts & Theories ·/Mastery\|Mastery]]
 
 # C.S. Joseph
 - “Knowing when to do good and when to do bad, when to be truthful and when to be false.”
@@ -18,7 +18,7 @@
 Ref :: [wise | Etymology, origin and meaning of wise by etymonline](https://www.etymonline.com/word/wise)
 
 > [!quote]- Wise (adj)
-> Old English wis "learned, sagacious, [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]; sane; prudent, discreet; experienced; having the power of discerning and judging rightly," from Proto-Germanic *wissaz (source also of Old Saxon, Old Frisian wis, Old Norse viss, Dutch wijs, German weise "wise"), from past-participle adjective *wittos of PIE root [*weid-](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference "Etymology, meaning and definition of *weid- ") "to see" (hence "to know"). Modern slang meaning "aware, cunning" first attested 1896. Related to the source of Old English witan "to know, wit."[^1]
+> Old English wis "learned, sagacious, [[cunning\|cunning]]; sane; prudent, discreet; experienced; having the power of discerning and judging rightly," from Proto-Germanic *wissaz (source also of Old Saxon, Old Frisian wis, Old Norse viss, Dutch wijs, German weise "wise"), from past-participle adjective *wittos of PIE root [*weid-](https://www.etymonline.com/word/*weid-?ref=etymonline_crossreference "Etymology, meaning and definition of *weid- ") "to see" (hence "to know"). Modern slang meaning "aware, cunning" first attested 1896. Related to the source of Old English witan "to know, wit."[^1]
 
 > [!quote]- Wise (n)
 > "way of proceeding, manner," Old English wise "way, fashion, custom, habit, manner; condition, state, circumstance," from Proto-Germanic *wison "appearance, form, manner" (see [wise](https://www.etymonline.com/word/wise?ref=etymonline_crossreference#etymonline_v_10789 "Etymology, meaning and definition of wise ") (adj.)). Compare Old Saxon wisa, Old Frisian wis, Danish vis, Middle Dutch wise, Dutch wijs, Old High German wisa, German Weise "way, manner." Most common in English now as a word-forming element (as in [likewise](https://www.etymonline.com/word/likewise?ref=etymonline_crossreference "Etymology, meaning and definition of likewise "), [clockwise](https://www.etymonline.com/word/clockwise?ref=etymonline_crossreference "Etymology, meaning and definition of clockwise ")); the adverbial -wise has been used thus since Old English. For sense evolution from "to see" to "way of proceeding," compare cognate Greek eidos "form, shape, kind," also "course of action." Ground sense is "to see/know the way." [^1]
