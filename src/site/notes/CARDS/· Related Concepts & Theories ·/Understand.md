@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","noteIcon":"1","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-05-10T21:22:14.641+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/understand/","noteIcon":"1","created":"2023-01-02T10:54:03.902+01:00","updated":"2023-06-22T21:00:55.206+02:00"}
 ---
 
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
-- [[EXTRAS/Obsidian/textgenerator/prompts/default/simplify\|simplify]]
+- [[simplify\|simplify]]
 - [[SOURCES/Type Theory by CSJ/Functions/🧭Fi-Te🏹\|🧭Fi-Te🏹]]
 - [[CARDS/Depth Psychology Theory/Affiliative🐜#Keywords\|Affiliative🐜#Keywords]]  
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] & [[CARDS/Depth Psychology Theory/Humility\|Humility]]
@@ -18,7 +18,7 @@ Understand
 *intransitive verb*: To know and be tolerant or sympathetic toward.
 *intransitive verb*: To know thoroughly by close contact or long experience with.
 *intransitive verb*: undefined
-*intransitive verb*: To learn indirectly or [[CARDS/· Related Concepts & Theories ·/infer\|infer]], as from hearsay.
+*intransitive verb*: To learn indirectly or [[infer\|infer]], as from hearsay.
 *intransitive verb*: To assume to be or accept as agreed.
 
 | cross-reference |has_topic |hypernym |hyponym |rhyme |same-context |synonym |variant |verb-form |
