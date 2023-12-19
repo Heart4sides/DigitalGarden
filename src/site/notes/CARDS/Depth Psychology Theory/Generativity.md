@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/generativity/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:13.581+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/generativity/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-08T17:27:20.285+02:00"}
 ---
 
 #type/pole 
@@ -15,7 +15,7 @@
 - Discovery of new things 
 ---
 # Generativity through [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]]
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - Work for own benefit and enjoyment 
 ---
 # Generativity through [[CARDS/Depth Psychology Theory/Servility\|Servility]] 
