@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:35:29.760+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/objectification/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-06-12T17:51:53.160+02:00"}
 ---
 
 #type/pole 
@@ -21,7 +21,7 @@
 - *transitive verb*: To cause to become an object; to cause to assume the character of an object; to represent or consider as an object; to render objective.
 - *verb*: to make something (such as an <xref>abstract</xref> idea) possible to be <xref>perceived</xref> by the <xref>senses</xref>
 - *verb*: to treat as something <xref>objectively</xref> <xref>real</xref>
-- *verb*: to treat as a <xref>mere</xref> <xref>object</xref> and deny the [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]]of
+- *verb*: to treat as a <xref>mere</xref> <xref>object</xref> and deny the [[CARDS/· Related Concepts & Theories ·/Dignity\|Dignity]]of
 { #8732af}
 
 - *verb*: make external or objective, or give reality to 
