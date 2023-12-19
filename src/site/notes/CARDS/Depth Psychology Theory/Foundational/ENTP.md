@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","noteIcon":"1","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-06-04T15:03:42.550+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/entp/","noteIcon":"1","created":"2022-12-27T18:59:13.675+01:00","updated":"2023-06-17T09:42:07.332+02:00"}
 ---
 
 #on/depthpsychology  #type
@@ -23,7 +23,7 @@
 
 ---
 # Virtues & Vices
-[[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] 🆚 [[Insincerity\|Insincerity]] 
+[[Sincerity\|Sincerity]] 🆚 [[Insincerity\|Insincerity]] 
 
 ---
 # Temple / 4 sides of the Mind
@@ -47,13 +47,13 @@ See [[CARDS/Individuals/-ENTP\|-ENTP]]
 
 ---
 # Mentions
-| File                                                                        | Author                       | External Link                                                                                                                    |
-| --------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[SOURCES/Literature Note/NP & Committment 2023\|NP & Committment 2023]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
+| File                                                                                                | Author                       | External Link                                                                                                                    |
+| --------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[SOURCES/Literature Note/NP & Committment 2023 - CS Joseph\|NP & Committment 2023 - CS Joseph]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
 
 { .block-language-dataview}
 # Notes on the ENTP 
-- Most [[CARDS/· Related Concepts & Theories ·/presumptive\|presumptive]] type ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22/23?)
+- Most [[CARDS/· Related Concepts & Theories ·/presumption\|presumptive]] type ([[CARDS/Individuals/CS Joseph\|CS Joseph]], S7E22/23?)
 
 ---
 # References
