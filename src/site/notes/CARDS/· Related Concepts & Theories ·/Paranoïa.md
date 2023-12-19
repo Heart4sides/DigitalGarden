@@ -6,14 +6,14 @@
 It is the primary vice of the [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]
 
 ## Sources 
-[[SOURCES/Contents/Paranoïa, la folie qui fait l'histoire\|Paranoïa, la folie qui fait l'histoire]]
+[[Paranoïa, la folie qui fait l'histoire\|Paranoïa, la folie qui fait l'histoire]]
 
 ## Wordnik
 paranoia
-*noun*: A psychotic disorder characterized by delusions of persecution with or without [[CARDS/· Related Concepts & Theories ·/grandeur\|grandeur]], often strenuously defended with [[apparent\|apparent]] logic and reason.
+*noun*: A psychotic disorder characterized by delusions of persecution with or without [[grandeur\|grandeur]], often strenuously defended with [[apparent\|apparent]] logic and reason.
 *noun*: Extreme, [[irrational\|irrational]] [[CARDS/· Related Concepts & Theories ·/Trust\|distrust]] of others.
 *noun*: A chronic form of insanity characterized by very [[CARDS/· Related Concepts & Theories ·/gradual\|gradual]] impairment of the intellect, [[CARDS/Depth Psychology Theory/Systematic⚙️\|systematized]] delusion, and usually by delusions of persecution or mandatory delusions producing homicidal tendency. In its mild form paranoia may consist in the well-marked crotchetiness exhibited in persons commonly called “cranks.”  Paranoiacs usually show evidences of bodily and nervous degeneration, and many have hallucinations, esp. of sight and hearing.
-*noun*: Unwarranted [[Suspicion\|Suspicion]] of the [[CARDS/· Related Concepts & Theories ·/Motive\|motives]] of others; -- used colloquially in a non-technical sense.
+*noun*: Unwarranted [[Suspicion\|Suspicion]] of the [[Motive\|motives]] of others; -- used colloquially in a non-technical sense.
 *noun*: A <xref>psychotic</xref> <xref>disorder</xref> characterized by <xref>delusions</xref> of <xref>persecution</xref>.
 *noun*: <xref>Extreme</xref>, <xref>irrational</xref> <xref>distrust</xref> of <xref>others</xref>.
 *noun*: a psychological disorder characterized by delusions of persecution or grandeur
