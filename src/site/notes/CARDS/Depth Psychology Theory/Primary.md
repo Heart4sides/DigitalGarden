@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","noteIcon":"1","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-05-27T15:36:23.529+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/primary/","noteIcon":"1","created":"2023-04-07T19:01:04.580+02:00","updated":"2023-06-22T21:01:14.586+02:00"}
 ---
 
 #on/psychology 
