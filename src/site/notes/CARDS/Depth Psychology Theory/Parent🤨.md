@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"1","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-06-04T20:06:52.116+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/parent/","noteIcon":"1","created":"2022-12-27T21:12:34.561+01:00","updated":"2023-12-19T11:04:44.970+01:00"}
 ---
 
 2nd preferred [[CARDS/Depth Psychology Theory/Cognitive Functions\|cognitive function]], but last to develop in the ego (20s). 
@@ -7,8 +7,8 @@ It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the
 
 # Roles 
 - Being responsible, dutiful 
-- [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]] : Bring maturity to teenagers 
-- [[Raising\|Raising]] : Bring happiness to children 
+- [[Teaching\|Teaching]] : Bring maturity to teenagers - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] development
+- [[Raising\|Raising]] : Bring happiness to children - [[CARDS/Depth Psychology Theory/Sub🤸\|Subconscious🤸]] development
 - Barrier between the child and the hero, to prevent a loop 
 - Expose your crap 
 - The primary source for a person’s individual sense of [meaning](https://csjoseph.life/the-source-of-meaning-for-the-16-types/)
@@ -82,4 +82,4 @@ It is a [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] function, the
 - [[CARDS/Individuals/John Beebe\|John Beebe]] 
 
 
-[^1]: [[SOURCES/Type Theory by CSJ/What Are The Four Sides of the Mind by CS Joseph\|What Are The Four Sides of the Mind by CS Joseph]]
+[^1]: [[What Are The Four Sides of the Mind by CS Joseph\|What Are The Four Sides of the Mind by CS Joseph]]
