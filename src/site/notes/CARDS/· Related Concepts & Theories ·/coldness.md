@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/coldness/","noteIcon":"1","created":"2023-05-10T21:31:52.959+02:00","updated":"2023-05-10T21:36:27.068+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/coldness/","noteIcon":"1","created":"2023-05-10T21:31:52.959+02:00","updated":"2023-06-12T18:19:26.313+02:00"}
 ---
 
 # [[ATLAS/MOC 🗺️ Depth Psychology\|Depth Psychology]] 
@@ -13,7 +13,7 @@
 *noun*: The relative lack of heat.
 *noun*: The sensation resulting from exposure to low temperatures.
 *noun*: the absence of heat
-*noun*: a lack of [[affection\|affection]] or [[enthusiasm\|enthusiasm]]
+*noun*: a lack of [[CARDS/· Related Concepts & Theories ·/Affection\|Affection]] or [[enthusiasm\|enthusiasm]]
 *noun*: the sensation produced by low temperatures
 
 | hypernym |rhyme |same-context |synonym |
