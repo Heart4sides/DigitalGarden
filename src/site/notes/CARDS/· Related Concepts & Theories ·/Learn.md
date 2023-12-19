@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","noteIcon":"1","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-05-28T21:50:52.617+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/learn/","noteIcon":"1","created":"2023-04-29T20:11:21.421+02:00","updated":"2023-06-22T21:01:25.996+02:00"}
 ---
 
 #on/education 
@@ -20,7 +20,7 @@ Learning from :
 </div></div>
 
 ## Perception
-[[SOURCES/Type Theory by CSJ/Functions/Orbit Si-Se (by CSJ)\|Orbit Si-Se (by CSJ)]]
+[[SOURCES/Type Theory by CSJ/Functions/S18 E9 - Orbit Si-Se - CSJ\|S18 E9 - Orbit Si-Se - CSJ]]
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -74,7 +74,7 @@ Neuroscientist Andrew Huberman explains how everybody can learn much faster usin
 Neuroplasticity process is triggered by 
 - dopamine
 - [[Norepinephrine\|Norepinephrine]]
-- [[SOURCES/Contents/Acetylcholine\|Acetylcholine]] 
+- [[Acetylcholine\|Acetylcholine]] 
 From very focused to very relaxed
 Everything is a 90 minute cycle
 
