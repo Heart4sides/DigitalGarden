@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:22.645+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/manifestation/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-08T17:27:21.104+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] pole of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]  
 
 # [[CARDS/Depth Psychology Theory/Initiative\|Initiative]] through Manifestation 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]  [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]  [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -24,7 +24,7 @@
 
 ---
 # [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] expressed through Manifestation
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
