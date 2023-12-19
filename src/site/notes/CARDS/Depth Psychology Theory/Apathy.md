@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/apathy/","noteIcon":"1","created":"2023-01-12T13:01:23.984+01:00","updated":"2023-05-12T08:21:15.502+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/apathy/","noteIcon":"1","created":"2023-01-12T13:01:23.984+01:00","updated":"2023-06-22T21:01:05.066+02:00"}
 ---
 
 
@@ -19,7 +19,7 @@ Vice of the [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]]
 | hypernym |same-context |synonym |
 | --- | --- | --- |
 | passiveness | boredom | Laodiceanism |
-| [[CARDS/· Related Concepts & Theories ·/Passivity\|Passivity]] | carelessness | abeyance |
+| [[Passivity\|Passivity]] | carelessness | abeyance |
 |  | dejection | abstraction |
 |  | discouragement | abulia |
 |  | hopelessness | accidia |
