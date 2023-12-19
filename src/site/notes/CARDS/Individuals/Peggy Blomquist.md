@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","noteIcon":"1","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-05-28T12:49:56.689+02:00"}
+{"dg-publish":true,"permalink":"/cards/individuals/peggy-blomquist/","noteIcon":"1","created":"2023-04-17T10:27:35.720+02:00","updated":"2023-06-22T21:01:11.026+02:00"}
 ---
 
-| MOC                                           | Containertitle                       | Type                                  | Octogram                                                                                                                            | Reference                                                                        |
-| --------------------------------------------- | ------------------------------------ | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[SOURCES/Contents/Fargo\|Fargo]] | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series)) |
+| MOC                                           | Containertitle                       | Type                                  | Octogram                                                          | Reference                                                                        |
+| --------------------------------------------- | ------------------------------------ | ------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| [[ATLAS/MOC 🗺️ Fiction\|MOC 🗺️ Fiction]] | [[SOURCES/Contents/Fargo\|Fargo]] | [[CARDS/Individuals/-INFP\|-INFP]] | <ul><li>[[UD👤⬅️\\|UD👤⬅️]]</li><li>[[UF👤➡️\\|UF👤➡️]]</li></ul> | [Fargo (TV series) - Wikipedia](https://en.wikipedia.org/wiki/Fargo_(TV_series)) |
 
 { .block-language-dataview}
 - [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] & [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] : prefers to ignore the problematic reality of the crash 
