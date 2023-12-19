@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","noteIcon":"1","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-05-27T15:35:34.137+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/education-x-typology/","noteIcon":"1","created":"2023-01-02T17:32:56.736+01:00","updated":"2023-06-12T12:12:57.820+02:00"}
 ---
 
 #on/education 
