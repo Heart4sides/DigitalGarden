@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/artisan/","noteIcon":"1","created":"2023-01-12T14:31:57.865+01:00","updated":"2023-05-24T15:45:48.883+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/artisan/","noteIcon":"1","created":"2023-01-12T14:31:57.865+01:00","updated":"2023-06-12T17:37:23.980+02:00"}
 ---
 
 
