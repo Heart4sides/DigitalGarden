@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/teach/","noteIcon":"1","created":"2023-03-31T16:09:25.504+02:00","updated":"2023-05-28T21:51:48.690+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/teach/","noteIcon":"1","created":"2023-03-31T16:09:25.504+02:00","updated":"2023-06-12T12:39:04.117+02:00"}
 ---
 
 #on/education 
@@ -54,7 +54,7 @@ TEMPLARS seek to make people better. They are interested in others’ well-being
 
 
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories ·/Teach\|teacher]]. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] about. 
+Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories ·/Teach\|teacher]]. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certainty\|CARDS/· Related Concepts & Theories ·/Certainty]] about. 
 
 </div></div>
 
