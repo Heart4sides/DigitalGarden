@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","noteIcon":"1","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-04-27T21:48:15.073+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/background/","noteIcon":"1","created":"2023-01-12T15:17:41.487+01:00","updated":"2023-12-15T16:07:18.601+01:00"}
 ---
 
-
+thais plouvier
 # Types
 [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]] | [[CARDS/Depth Psychology Theory/Foundational/INTP\|INTP]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]
 
@@ -14,3 +14,6 @@ Background is one of 4 [[CARDS/Depth Psychology Theory/Interaction Style💬\|In
 { #22a9bf}
 
 
+# Associations
+- Music
+- ASMR
