@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","noteIcon":"1","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-06-19T11:52:58.336+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/si/","noteIcon":"1","created":"2022-12-27T21:21:32.893+01:00","updated":"2023-12-19T12:20:03.953+01:00"}
 ---
 
 #on/depthpsychology 
 
 #  What I experience
 
-# Functional Relationships 
+I value my personal strength. 
+
+# Functional Relationships   
 [[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
 Introverted Sensing is awareness of one’s own experiences. Si users are the source of attention, duty and fortitude for [[CARDS/Depth Psychology Theory/Foundational/Se🌪️\|Se🌪️]] users.
 
@@ -17,7 +19,7 @@ Si users expect to be [[CARDS/Depth Psychology Theory/Foundational/Ne💧\|Ne�
 Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foundational/Ni🔥\|Ni🔥]] desires for the sake of their duty and personal comfort. 
 
 --- 
-# Keywords
+# Keywords  
 - Introverted Sensing
 - Was
 - Personal consciousness
@@ -42,7 +44,7 @@ Si users neglect the awareness of their own [[CARDS/Depth Psychology Theory/Foun
 - [[conviction\|conviction]] 
 - Habit  
 --- 
-# Type Grid 
+# Type Grid   
 
 | [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
 |:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
@@ -60,7 +62,7 @@ High Si users are :
 - [[CARDS/Depth Psychology Theory/Systematic⚙️\|Systematic⚙️]] 
 
 ---
-# Quadra 
+# Quadra   
 
 |<font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ==·[[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]·==</font> | <font size="4"> ·Templar·</font> | <font size="4"> ·Wayfarer·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]·==</font> |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
@@ -72,11 +74,27 @@ High Si users are :
 | EN**             | ==[[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]==                  | ENFJ              | ENTJ              | ==[[CARDS/Depth Psychology Theory/Foundational/ENFP\|ENFP]]==                  |
 
 ---
-# Temple 
-Si is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]. 
+# Temple   
+
+- Si is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]]. 
+- Si is the Hero Function of a [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] Type, and of a [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] Type. 
+- Si is also a function of the [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] and the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 
 ---
-# 🦸‍♂️Hero 
+# Behavior  
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+	- Seeks failure to become stronger.  
+
+</div></div>
+
+
+# 🦸‍♂️Hero
+
 # 🤨Parent 
 # 👼Child 
 # 😨Infant 
