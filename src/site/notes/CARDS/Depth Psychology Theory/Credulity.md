@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","noteIcon":"1","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.016+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/credulity/","noteIcon":"1","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-06-08T17:27:01.724+02:00"}
 ---
 
 #type/pole 
@@ -24,7 +24,7 @@
 
 ---
 # [[CARDS/Depth Psychology Theory/Sloth\|Sloth]] expressed through Credulity 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
