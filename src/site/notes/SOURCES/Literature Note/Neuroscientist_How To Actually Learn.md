@@ -13,7 +13,7 @@ Neuroscientist Andrew Huberman explains how everybody can learn much faster usin
 Neuroplasticity process is triggered by 
 - dopamine
 - [[Norepinephrine\|Norepinephrine]]
-- [[SOURCES/Contents/Acetylcholine\|Acetylcholine]] 
+- [[Acetylcholine\|Acetylcholine]] 
 From very focused to very relaxed
 Everything is a 90 minute cycle
 
