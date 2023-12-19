@@ -3,7 +3,7 @@
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC 🗺️ Philosophy\|MOC 🗺️ Philosophy]] | #on/philosophy  
+> [[MOC 🗺️ Philosophy\|MOC 🗺️ Philosophy]] | #on/philosophy  
 > Source sur Diogène : Diogène le Cynique - Pensées et anecdotes 
 
 # Tempérament 
