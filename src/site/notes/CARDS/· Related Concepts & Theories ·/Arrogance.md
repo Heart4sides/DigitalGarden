@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/arrogance/","noteIcon":"1","created":"2023-05-03T00:10:33.196+02:00","updated":"2023-05-03T00:13:46.326+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/arrogance/","noteIcon":"1","created":"2023-05-03T00:10:33.196+02:00","updated":"2023-06-17T09:38:39.872+02:00"}
 ---
 
 # Depth Psychology 
@@ -17,7 +17,7 @@
 ## arrogant
 *adjective*: Having or displaying a sense of overbearing self-worth or self-importance.
 *adjective*: Marked by or arising from a feeling or assumption of one's superiority toward others.
-*undefined*: Making or having the disposition to make unwarrantable claims of rank or estimation; giving one's self an undue degree of importance; aggressively haughty; full of assumption: applied to persons.
+*undefined*: Making or having the disposition to make unwarrantable claims of rank or estimation; giving one's self an undue degree of importance; aggressively haughty; full of [[Assumption\|assumption]]: applied to persons.
 *undefined*: Characterized by arrogance; proceeding from an overestimate of one's importance or superiority to others: applied to things: as, <em>arrogant</em> claims.
 *undefined*: <strong>Synonyms</strong> <em>Authoritative, Magisterial, Dogmatic</em>, etc. (see <internalXref urlencoded="magisterial">magisterial</internalXref>), proud, assuming, overbearing, presumptuous, supercilious, lordly, cavalier, important, swelling, blustering, grand, disdainful, overweening.
 *adjective*: Making, or having the disposition to make, exorbitant claims of rank or estimation; giving one's self an undue degree of importance; assuming; haughty; -- applied to persons.
