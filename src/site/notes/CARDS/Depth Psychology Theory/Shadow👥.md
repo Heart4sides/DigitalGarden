@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-06-02T14:06:53.314+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/shadow/","noteIcon":"1","created":"2022-12-21T17:09:42.235+01:00","updated":"2023-06-28T12:28:03.619+02:00"}
 ---
 
 # Summary  
 - Wisdom
 - The Crypt 
 - Executor of Sin Nature 
-- Exists to challenge the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] by producing chaos, to teach him the correct [[CARDS/· Related Concepts & Theories ·/Order\|order]] that it needs to follow. 
+- Exists to [[Challenge\|challenge]] the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] by producing chaos, to teach him the correct [[CARDS/· Related Concepts & Theories ·/Order\|order]] that it needs to follow. 
 - Using evil to produce good. 
 - Theme - [[Depth\|Depth]] : + or - 
 	- [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] : substracts to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
@@ -28,7 +28,7 @@
 
 ## Vice & Pole
 - [[CARDS/Depth Psychology Theory/Lust\|Lust]] - [[CARDS/Depth Psychology Theory/Idolatry\|CARDS/Depth Psychology Theory/Idolatry]]
-- [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] - [[CARDS/Depth Psychology Theory/Discrimination\|Discrimination]] 
+- [[CARDS/· Related Concepts & Theories ·/Wrath\|Wrath]] - [[Discrimination\|Discrimination]] 
 - [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] - [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]]
 - [[CARDS/Depth Psychology Theory/Envy\|Envy]] - [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]]
 - [[CARDS/Depth Psychology Theory/Pride\|Pride]] - [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]
@@ -41,9 +41,9 @@
 - [[SOURCES/Type Theory by CSJ/4 sides/Superego by CSJ\|Superego by CSJ]] : [[CARDS/Depth Psychology Theory/Reflection 🪞\|Reflection 🪞]]
 
 ## Characteristics 
-- [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] / uncertain
+- [[CARDS/· Related Concepts & Theories ·/Certainty\|CARDS/· Related Concepts & Theories ·/Certainty]] / uncertain
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
-	- battle against [[Ignorance\|ignorance]]
+	- battle against [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]]
 	- [[CARDS/Depth Psychology Theory/Critic🤔\|Critic]] development
 	- final product
 - [[worried\|worried]]
@@ -57,9 +57,9 @@
 - using [[evil\|evil]] to produce [[good\|good]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]] form : substracts from the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
 - [[CARDS/Depth Psychology Theory/Optimistic\|Optimistic]] form : adds to the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] 
-- vast great [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
+- vast great [[Knowledge\|Knowledge]]
 - [[turtle\|turtle]]
-- [[Ignorance\|ignorance]]
+- [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]]
 - [[unhappy\|unhappy]]
 - [[critical\|critical]] 
 
