@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","noteIcon":"1","created":"2022-12-31T17:46:37.695+01:00","updated":"2023-05-28T11:13:51.472+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/complacency/","noteIcon":"1","created":"2022-12-31T17:46:37.695+01:00","updated":"2023-06-08T17:27:01.644+02:00"}
 ---
 
 #type/pole 
@@ -24,7 +24,7 @@ The feeling of quiet pleasure or security, often while unaware of some potential
 - High openness to suggestions 
 ---
 # Greed through Complacency 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - When they lack purpose 
 - The dragon sitting on its mountain of gold 
 - Fill the hole with hedonism 
