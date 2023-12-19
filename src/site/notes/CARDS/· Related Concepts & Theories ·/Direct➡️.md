@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-05-27T20:19:44.486+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/direct/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-06-22T21:01:36.926+02:00"}
 ---
 
 #type/grid 
@@ -27,9 +27,9 @@ I'm clear with my words to avoid any guesswork.
 ## **DIRECT communication is** 
 -   explicit
 -   specific
--   [[concise\|concise]]
+-   [[CARDS/· Related Concepts & Theories ·/concise\|concise]]
 -   decisive
--   [[forceful\|forceful]]  
+-   [[CARDS/· Related Concepts & Theories ·/forceful\|forceful]]  
 ## **Summary**
   - Direct leaves little [[CARDS/· Related Concepts & Theories ·/Doubt\|Doubt]] as to meaning or [[CARDS/· Related Concepts & Theories ·/Intention\|intent]].
   - Direct chooses its own and other’s roles in conversation.
@@ -43,7 +43,7 @@ I'm clear with my words to avoid any guesswork.
 
 ## **Prone to** 
 -   Underexplaining
--   Being [[overbearing\|overbearing]]
+-   Being [[CARDS/· Related Concepts & Theories ·/overbearing\|overbearing]]
 -   excessive forcefulness
 -   explicitness
 -   agression
@@ -57,7 +57,7 @@ I'm clear with my words to avoid any guesswork.
 
 ## **Exhibits**
 -   Clarification
--   Certainty
+-   [[CARDS/· Related Concepts & Theories ·/Certainty\|Certainty]]
 -   Confidence
 -   [[CARDS/· Related Concepts & Theories ·/Intention\|Intent]]
 -   Restlessness 
