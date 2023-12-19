@@ -1,11 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/typing-toolbox/systematic/","noteIcon":"1","created":"2023-04-14T15:23:00.498+02:00","updated":"2023-05-28T12:51:38.525+02:00"}
+{"dg-publish":true,"permalink":"/cards/typing-toolbox/systematic/","noteIcon":"1","created":"2023-04-14T15:23:00.498+02:00","updated":"2023-06-18T09:10:33.946+02:00"}
 ---
 
 #type/grid  
-| File                                                  | Type |
-| ----------------------------------------------------- | ---- |
-| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | \-   |
+| File                                                                | Type                                  |
+| ------------------------------------------------------------------- | ------------------------------------- |
+| [[CARDS/Individuals/David Keirsey\|David Keirsey]]               | \-                                    |
+| [[CARDS/Individuals/Francis Ford Coppola\|Francis Ford Coppola]] | [[CARDS/Individuals/-ENFP\|-ENFP]] |
 
 { .block-language-dataview}
 
+| File                                                                                                        | systematic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[SOURCES/Literature Note/Francis Ford Coppola interview (1994)\|Francis Ford Coppola interview (1994)]] | "the Italian family you know drank wine with the table long before the average American family considered that" also [[CARDS/Typing Toolbox/-Se🌪️\|-Se🌪️]]                                                                                                                                                                                                                                                                                                                                                                                          |
+| [[SOURCES/Contents/How to Type Famous People - CSJ\|How to Type Famous People - CSJ]]                    | <ul><li>Write it down in such a way that...</li><li>"Christmas is the time you tell people how you feel" also [[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]]</li><li>"this is innefficient" also [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]</li><li>"it's the public that makes the artist" also [[CARDS/Typing Toolbox/-Abstract🧲\|-Abstract🧲]]</li><li>"I'm going to do this and then that" also [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]]</li><li>"It's very difficult to have a complete idea in just a few minutes" also [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]]</li><li>"Following the non-linear structure is somewhat an unusual choice" also [[CARDS/Typing Toolbox/-Outcome🏆\|-Outcome🏆]]</li></ul> |
+| [[How to Type others by text - CSJ\|How to Type others by text - CSJ]]                                   | "the best" [[SOURCES/Type Theory by CSJ/Ego-hacking by text/Ego-hacking by Text - CSJ#^c642eb\|🔗]]                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+{ .block-language-dataview}
