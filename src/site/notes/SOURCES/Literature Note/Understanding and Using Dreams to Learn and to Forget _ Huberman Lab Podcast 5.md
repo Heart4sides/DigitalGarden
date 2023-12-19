@@ -20,7 +20,7 @@ the more we sleep, the more REM sleep you get in your 90min cycle
 ## Slow Wave Sleep (~5:00)
 - Brain metabolically active 
 - High [[Serotonin\|Serotonin]] : bliss, wanting to remain still 
-- Almost no [[SOURCES/Contents/Acetylcholine\|Acetylcholine]] (= no focus)
+- Almost no [[Acetylcholine\|Acetylcholine]] (= no focus)
 - High [[Norepinephrine\|Norepinephrine]]
 - Sleep walking 
 - Motor skill learning
@@ -83,4 +83,4 @@ Alcohol & Marijuana :
 - some autistic children can’t use theory of mind (Se trickster ?)
 - Show up most in REM associated dreams 
 
-Neuroplasticity = ability to change itself in response to [[Experience\|Experience]] nce 
+Neuroplasticity = ability to change itself in response to [[CARDS/· Related Concepts & Theories ·/Experience\|Experience]] nce 
