@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"1","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-12-19T15:19:29.923+01:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/hero/","noteIcon":"1","created":"2022-12-27T21:08:31.010+01:00","updated":"2023-12-19T15:24:50.226+01:00"}
 ---
 
 
@@ -78,7 +78,7 @@
 ---
 # In Attitude   
 
-Te
+Te Button
 ```button
 name Te
 type link
