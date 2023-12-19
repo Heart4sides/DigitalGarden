@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:13.004+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/compassion/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-06-08T17:27:19.771+02:00"}
 ---
 
 #type/pole 
@@ -28,7 +28,7 @@
 - Religion of external care. But it’s often a covert contract out of repressed envy. 
 ---
 # Compassion through [[CARDS/· Related Concepts & Theories ·/Malevolence\|Malevolence]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience AS MUCH sufferings as what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured 
 - Burning something to help the person get closer to fullfillment 
 - For other’s satisfaction. 
