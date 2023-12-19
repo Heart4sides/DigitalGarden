@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-06-04T15:03:41.100+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/concrete/","noteIcon":"1","created":"2023-01-01T13:12:17.828+01:00","updated":"2023-06-22T21:01:36.923+02:00"}
 ---
 
 #type/grid 
@@ -43,7 +43,7 @@ What "is" matters more to me than what's possible.
 [Type Grid Companion Guide Download | C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)
 ## Concrete 
 - Prefers to start with what’s known and work towards potential solutions. 
-- is a focus on tangibles such as the physical world, experience, [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]], and observation. 
+- is a focus on tangibles such as the physical world, experience, [[Experimentation\|Experimentation]], and observation. 
 -   Concrete perceives through the five senses of sight, sound, touch, taste, and smell. 
 -   Concrete asks “What is?”
 -   Concrete is present/past-focused, proven, and realistic.   
@@ -77,14 +77,14 @@ What "is" matters more to me than what's possible.
 -   sensibility
 -   empiricism
 -   seing things for what they are
--   reason
+-   [[CARDS/· Related Concepts & Theories ·/reason\|reason]]
 -   realism  
     
 
 ## **Scenarios :**
 -   “ How about we talk about what does exist instead.”
 -   “ A bird in the hand is worth two in the bush.”
--   “ Focus on what we can get done here and now!”
+-   “ Focus on what we [[Can\|can]] get done here and now!”
 -   “ Everything is only what’s possible.”
 -   “ Not everything is possible.”
 ---
