@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","noteIcon":"1","created":"2023-01-12T12:07:29.951+01:00","updated":"2023-06-04T15:04:39.251+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/guardian/","noteIcon":"1","created":"2023-01-12T12:07:29.951+01:00","updated":"2023-06-12T13:08:32.592+02:00"}
 ---
 
 > [!Info]- Navigation 💠
