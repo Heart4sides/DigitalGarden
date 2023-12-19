@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:22.405+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/intimacy/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-12-15T22:01:15.895+01:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]] and [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]] 
 ---
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-- **Sexual**, Jealousy, Escapism, Obligating, Aggressive, Contempt
-- **Connectedness**, Companionship, Affection, Rapport, Confidence, Understanding
+- **[[CARDS/· Related Concepts & Theories ·/Sexual\|Sexual]]**, [[CARDS/· Related Concepts & Theories ·/Jealousy\|Jealousy]], [[CARDS/· Related Concepts & Theories ·/Escapism\|Escapism]], [[CARDS/· Related Concepts & Theories ·/Obligating\|Obligating]], [[CARDS/· Related Concepts & Theories ·/Aggressive\|Aggressive]], [[CARDS/· Related Concepts & Theories ·/Contempt\|Contempt]]
+- **[[CARDS/· Related Concepts & Theories ·/Connectedness\|Connectedness]]**, [[CARDS/· Related Concepts & Theories ·/Companionship\|Companionship]], [[CARDS/· Related Concepts & Theories ·/Affection\|Affection]], [[CARDS/· Related Concepts & Theories ·/Rapport\|Rapport]], [[CARDS/· Related Concepts & Theories ·/Confidence\|Confidence]], [[CARDS/· Related Concepts & Theories ·/Understanding\|Understanding]]
+- "Seeking the true identity of those around me propels me to understand the connections between myself and others. I will stop at nothing to obtain the object of my desire, which is feeling close and connected to those I want the most. I must be careful to not lose myself along the way."
 ---
 # Definition by CSJ
 
@@ -50,8 +51,8 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]      | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]|
 | [[CARDS/Depth Psychology Theory/Temple🙏#of Humanity\|Temple🙏#of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Justification\|Justification]]     | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/· Related Concepts & Theories ·/Idolatry\|Idolatry]]               |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               |                        |   [[CARDS/Depth Psychology Theory/Lust\|Lust]]     |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/· Related Concepts & Theories ·/Idolatry\|Idolatry]]               |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               |                        |   [[CARDS/Depth Psychology Theory/Lust\|Lust]]     |
 
 ---
 # INFJ Ego’s Mind 
@@ -70,5 +71,5 @@
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]     | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]   |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of Humanity\|Temple🙏#of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]   |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]]     | [[CARDS/Depth Psychology Theory/Justification\|Justification]]            | //                           |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]                   | [[CARDS/Depth Psychology Theory/Idolatry\|CARDS/Depth Psychology Theory/Idolatry]]                 | -                            |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]                   |                      |   [[CARDS/Depth Psychology Theory/Lust\|Lust]]                          |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]                   | [[CARDS/Depth Psychology Theory/Idolatry\|CARDS/Depth Psychology Theory/Idolatry]]                 | -                            |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]                   |                      |   [[CARDS/Depth Psychology Theory/Lust\|Lust]]                          |
