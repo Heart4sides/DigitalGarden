@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","noteIcon":"1","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-05-24T12:17:02.907+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/cognitive-functions/","noteIcon":"1","created":"2022-12-27T19:17:15.571+01:00","updated":"2023-06-22T21:01:18.296+02:00"}
 ---
 
 - The 8 Cognitive Functions are 8 different ways of interacting with the world. 
@@ -9,7 +9,7 @@
 - Our order of preference changes dynamically, depending on the [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|side of the mind]] we are in. 
 
 # 8 cognitive Functions 
-- 4 functions for gathering information ([[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]])
+- 4 functions for gathering information ([[Perception\|Perception]])
 	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Extroverted Intuition]]) : Possibilities
 	- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] ([[CARDS/Depth Psychology Theory/Foundational/Ni\|Introverted Intuition]]) : Choice
 	- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]] ([[CARDS/Depth Psychology Theory/Foundational/Se\|Extroverted Sensation]]) : Performance 
