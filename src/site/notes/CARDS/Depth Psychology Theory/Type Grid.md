@@ -23,4 +23,4 @@ Sources : [[Plato\|Plato]], [[CARDS/Individuals/David Keirsey\|David Keirsey]],
 
 Sources : [[CARDS/Individuals/Linda Berens\|Linda Berens]], [[CARDS/Individuals/CS Joseph\|CS Joseph]]
 
-![Type_Grid_HQ 1.png](/img/user/EXTRAS/Images/Type_Grid_HQ%201.png)
+![[Type_Grid_HQ 1.png\|Type_Grid_HQ 1.png]]
