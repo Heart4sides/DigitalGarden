@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","noteIcon":"1","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-05-02T19:34:11.852+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/intention/","noteIcon":"1","created":"2023-01-02T00:15:28.243+01:00","updated":"2023-06-22T21:00:55.976+02:00"}
 ---
 
 
 ## Related Notes 
 - [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
 - [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] = intent
-- [[CARDS/· Related Concepts & Theories ·/Meaning\|Meaning]] : sth that is intended  
+- [[Meaning\|Meaning]] : sth that is intended  
 
 ### Type Grid
-- [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Informative by CSJ\|Informative by CSJ]] : Informative leaves open the possibility for interpretation of meaning or intent
-- [[SOURCES/Type Theory by CSJ/Type Grid/Interaction Styles/Direct by CSJ\|Direct by CSJ]] : leaves little doubt as to meaning or intent / exhibits intent
+- [[Informative by CSJ\|Informative by CSJ]] : Informative leaves open the possibility for interpretation of meaning or intent
+- [[Direct by CSJ\|Direct by CSJ]] : leaves little doubt as to meaning or intent / exhibits intent
 
 ### Temples 
 - [[CARDS/Depth Psychology Theory/Absolution\|Absolution]] : demonstrate why sb was justified in what they did or intended 
@@ -18,11 +18,11 @@
 
 ### Examples 
 - [[CARDS/Individuals/Mozart\|Mozart]]
-- [[SOURCES/Contents/HP houses by Christine V Tran\|HP houses by Christine V Tran]]
+- [[HP houses by Christine V Tran\|HP houses by Christine V Tran]]
 
 ### Sources 
-- [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Child\|Cognitive attitude of the Child]]
-- [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Demon\|Cognitive attitude of the Demon]]
+- [[Cognitive attitude of the Child\|Cognitive attitude of the Child]]
+- [[SOURCES/Type Theory by CSJ/Attitudes/S16 E8 - What is the Cognitive attitude of the Demon - CSJ\|S16 E8 - What is the Cognitive attitude of the Demon - CSJ]]
 - [[SOURCES/Type Theory by CSJ/Attitudes/Cognitive attitude of the Trickster\|Cognitive attitude of the Trickster]]
 - [[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]] 
 - [[SOURCES/Type Theory by CSJ/Temples/Soul Temple/Soul Temple General/Soul Temple Origins\|Soul Temple Origins]]
