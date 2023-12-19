@@ -23,7 +23,7 @@
 
 ---
 # Virtues & Vices
-[[Charity\|Charity]] 🆚 [[CARDS/Depth Psychology Theory/Depravity\|Depravity]] 
+[[Charity\|Charity]] 🆚 [[Depravity\|Depravity]] 
 
 ---
 # Temple / 4 sides of the Mind
@@ -46,9 +46,9 @@ See [[CARDS/Individuals/-ENFP\|-ENFP]]
 
 ---
 # Mentions
-| File                                                                        | Author                       | External Link                                                                                                                    |
-| --------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[SOURCES/Literature Note/NP & Committment 2023\|NP & Committment 2023]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
+| File                                                                                                | Author                       | External Link                                                                                                                    |
+| --------------------------------------------------------------------------------------------------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[SOURCES/Literature Note/NP & Committment 2023 - CS Joseph\|NP & Committment 2023 - CS Joseph]] | [[C.S. Joseph\|C.S. Joseph]] | [So INTP, ENTP, INFP, ENFP are Committment-Phobes? \| CS Joseph Responds - YouTube](https://www.youtube.com/watch?v=UVclcpP962w) |
 
 { .block-language-dataview}
 ---
