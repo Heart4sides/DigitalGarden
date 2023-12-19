@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","noteIcon":"1","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-05-03T15:45:59.342+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-perception/","noteIcon":"1","created":"2023-04-07T16:08:07.284+02:00","updated":"2023-06-22T21:01:13.816+02:00"}
 ---
 
 ```mermaid
