@@ -18,4 +18,4 @@ Gateway to all human interaction and communication.
 | 🌍 | 🐜|🦊| 🦊| 🐜||                             |                             |
 |🌍| ⚙️|👀| ⚙️| 👀|                             |                             |                             |
 
-![page_0006 1.png](/img/user/EXTRAS/Images/page_0006%201.png)
+![[page_0006 1.png\|page_0006 1.png]]
