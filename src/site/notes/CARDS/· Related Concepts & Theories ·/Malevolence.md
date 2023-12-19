@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","noteIcon":"1","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-05-27T15:36:25.665+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/malevolence/","noteIcon":"1","created":"2023-05-02T13:57:00.969+02:00","updated":"2023-06-22T21:01:24.676+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] pole of the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
@@ -21,7 +21,7 @@
 
 ---
 # [[CARDS/Depth Psychology Theory/Compassion\|Compassion]] through Malevolence 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Compassion for those who experience AS MUCH sufferings as what the [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]/[[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] has endured 
 - Burning something to help the person get closer to fullfillment 
 - For other’s satisfaction. 
@@ -33,7 +33,7 @@
 
 ---
 # [[CARDS/Depth Psychology Theory/Envy\|Envy]] through Malevolence
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]][[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] 
 - Balance perceived injustice by reducing one’s fortune 
 - Holding other people responsible for the lack of satisfaction in your life 
 - For the ISFJ/ENTP’s satisfaction. 
