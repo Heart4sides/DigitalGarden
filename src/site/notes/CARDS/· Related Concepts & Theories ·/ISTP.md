@@ -5,9 +5,9 @@
 #on/depthpsychology  #type 
 
 [[CARDS/Depth Psychology Theory/Finisher🔝\|Finisher🔝]] [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] devoted to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]]. 
-| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                        | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                               | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                              | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                     |
-| ------------------------------------ | ---------------------------------------------------------- | ---------------------------------------- | ------------------------------------------------ |
-| [[Ti#What I know\|Ti > What I know]] | [[Se#What others experience\|Se > What others experience]] | [[Ni#What I desire\|Ni > What I desire]] | [[Fe#What others value\|Fe > What others value]] |
+| [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]                                                                      | [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]                                                                                             | [[CARDS/Depth Psychology Theory/Child👼\|Child👼]]                                                                            | [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]]                                                                                   |
+| ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| [[CARDS/Depth Psychology Theory/Foundational/Ti#What I know\|Ti > What I know]] | [[CARDS/Depth Psychology Theory/Foundational/Se#What others experience\|Se > What others experience]] | [[CARDS/Depth Psychology Theory/Foundational/Ni#What I desire\|Ni > What I desire]] | [[CARDS/Depth Psychology Theory/Foundational/Fe#What others value\|Fe > What others value]] |
 
 { .block-language-dataview}
 # Type Grid 
