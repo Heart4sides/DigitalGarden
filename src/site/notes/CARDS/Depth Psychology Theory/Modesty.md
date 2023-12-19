@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-27T15:36:14.097+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/modesty/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-06-17T09:41:43.582+02:00"}
 ---
 
 #type/pole 
@@ -28,7 +28,7 @@
 
 ---
 # [[CARDS/· Related Concepts & Theories ·/Desacration\|Desacration]] through Modesty 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - Killing sacred cows
 - “Mockers” in the Bible 
 - Tear things dows for the sake of it 
@@ -51,7 +51,7 @@
 *noun*: Reserve or propriety in speech, dress, or behavior.
 *noun*: The state of being unostentatious or moderate in size, quantity, or range.
 *noun*: The quality of being modest; moderation; freedom from [[CARDS/Depth Psychology Theory/exaggeration\|exaggeration]] or excess.
-*noun*: Retiring disposition or demeanor; disinclination to presumption, ostentation, or self-assertion; unobtrusiveness; reserve proceeding from absence of over-[[confidence\|confidence]] or self-[[esteem\|esteem]].
+*noun*: Retiring disposition or demeanor; disinclination to [[CARDS/· Related Concepts & Theories ·/presumption\|presumption]], ostentation, or self-assertion; unobtrusiveness; reserve proceeding from absence of over-[[CARDS/· Related Concepts & Theories ·/Confidence\|Confidence]] or self-[[esteem\|esteem]].
 *noun*: Decorous feeling or behavior; purity or delicacy of thought or manner; reserve proceeding from pure or chaste character.
 *noun*: <strong>Synonyms</strong> <em>Diffidence, Shyness</em>, etc. See <internalXref urlencoded="bashfulness">bashfulness</internalXref>.
 *undefined*: To lose from modesty: with <em>away.</em>
