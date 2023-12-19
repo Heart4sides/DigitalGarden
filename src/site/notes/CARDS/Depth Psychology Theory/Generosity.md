@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/generosity/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.661+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/generosity/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-06-08T17:27:20.273+02:00"}
 ---
 
 #type/pole 
@@ -18,7 +18,7 @@
 - Leave a legacy 
 ---
 # Generosity expressed through subjugation 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - Forcing others to receive their generosity 
 ---
 # Generosity expressed through complacency
