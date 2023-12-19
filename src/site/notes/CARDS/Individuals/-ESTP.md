@@ -3,12 +3,12 @@
 ---
 
 #type
-| File                                                      | octogram                                                                                                                            |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Balon Greyjoy\|Balon Greyjoy]]     | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul> |
-| [[CARDS/Individuals/Diogène\|Diogène]]                 | \-                                                                                                                                  |
-| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-                                                                                                                                  |
-| [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-                                                                                                                                  |
+| File                                                      | octogram                                                                                           |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/Balon Greyjoy\|Balon Greyjoy]]     | <ul><li>[[UD👤⬅️\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/SF🤸➡️.md\\|SF🤸➡️]]</li></ul> |
+| [[CARDS/Individuals/Diogène\|Diogène]]                 | \-                                                                                                 |
+| [[CARDS/Individuals/Izzy Richardson\|Izzy Richardson]] | \-                                                                                                 |
+| [[CARDS/Individuals/Takashi Kovatch\|Takashi Kovatch]] | \-                                                                                                 |
 
 { .block-language-dataview}
 { #e4121c}
