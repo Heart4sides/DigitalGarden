@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","noteIcon":"1","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-06-04T15:03:42.469+02:00"}
+{"dg-publish":true,"permalink":"/sources/contents/educational-philosophies-comparison/","noteIcon":"1","created":"2023-02-06T11:18:10.732+01:00","updated":"2023-06-22T21:01:37.097+02:00"}
 ---
 
 #on/education #on/philosophy 
@@ -19,7 +19,7 @@
 - Teachers : NPs (Ne, informative, abstract)
 - Students : Crusaders & Wayfarers 
 
-![Pasted image 20230224184433.png](/img/user/EXTRAS/Images/Pasted%20image%2020230224184433.png)
+![[Pasted image 20230224184433.png\|Pasted image 20230224184433.png]]
 | Categories                  | Traditional                                                                                | Contemporary                                                    |
 | --------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------- |
 | Philosophical - orientation | Realism ([[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]]) & Idealism ([[CARDS/Depth Psychology Theory/Idealist🦄\|Idealist🦄]])                                       | Pragmatism                                                      |
@@ -73,7 +73,7 @@
 
 ## Progressivism
 > "Progressivists believe that education should focus on the whole child, rather than on the content or the teacher." [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
-> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]) by active [[CARDS/· Related Concepts & Theories ·/Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]])." 
+> "This educational philosophy stresses that students should test ideas ([[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]]) by active [[Experimentation\|Experimentation]] ([[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]])." 
 > "Learning is rooted in the questions of learners that arise through experiencing the world ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]]). It is active ([[CARDS/Depth Psychology Theory/Initiating👋\|extraverted]]), not passive. The learner is a problem solver and thinker ([[CARDS/Typing Toolbox/-Ti🗡️\|-Ti🗡️]]) who makes meaning through his or her individual experience in the physical ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]]) and cultural ([[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]]) context"
 > "Effective teachers provide experiences so that students can learn by doing ([[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]])"
 > "Curriculum content is derived from student [[CARDS/Depth Psychology Theory/Interest⚖️\|interests]] and questions."
@@ -89,7 +89,7 @@
 > "draws upon multiple theories, styles, or ideas to gain complementary insights into a subject, or applies different theories in particular cases" [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]
 
 ## Existentialism
-[[CARDS/Individuals/Jean Paul Sartre\|Jean Paul Sartre]], [[CARDS/Individuals/Nietzsche\|Nietzsche]], [[Kierkegaard\|Kierkegaard]]
+[[Jean Paul Sartre\|Jean Paul Sartre]], [[CARDS/Individuals/Nietzsche\|Nietzsche]], [[Kierkegaard\|Kierkegaard]]
 > "While the famous existentialists would passionately disagree with one another on many basic philosophical issues, what they shared was a respect for individualism." [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] 
 > "In particular, they argued that traditional approaches to philosophy do not adequately respect the unique concerns of each individual." [[CARDS/Typing Toolbox/-Fi🧭\|-Fi🧭]]
 > "Jean Paul Sartre's classic formulation of existentialism--that "existence precedes essence"-- means that there exists no universal, inborn human nature. We are born and exist, and then we ourselves freely determine our essence (that is, our innermost nature)" [[CARDS/Typing Toolbox/-Ni🔥\|-Ni🔥]]
@@ -99,7 +99,7 @@
 > "Since feeling is not divorced from reason in decision making, the existentialist demands the education of the whole person, not just the mind." [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]]
 > "the humanities are commonly given tremendous emphasis. They are explored as a means of providing students with vicarious experiences that will help unleash their own creativity and self-expression. For example, rather than emphasizing historical events, existentialists focus upon the actions of historical individuals, each of whom provides possible models for the students' own behavior." [[CARDS/Typing Toolbox/-Te🏹\|-Te🏹]] 
 > "In teaching art, existentialism encourages individual creativity and imagination more than copying and imitating established models." [[CARDS/Depth Psychology Theory/Abstract🧲\|Abstract🧲]] over [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]]
-> "Learning is self-paced, self directed, and includes a great deal of individual contact with the teacher, who relates to each student openly and honestly." [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]], [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]] of ENTP 
+> "Learning is self-paced, self directed, and includes a great deal of individual contact with the teacher, who relates to each student openly and honestly." [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]], [[Sincerity\|Sincerity]] of ENTP 
 > 
 > 
 
