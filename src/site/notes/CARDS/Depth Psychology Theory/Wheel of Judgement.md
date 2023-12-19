@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","noteIcon":"1","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-05-31T16:14:56.819+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/wheel-of-judgement/","noteIcon":"1","created":"2023-04-29T21:32:16.290+02:00","updated":"2023-06-22T21:00:55.776+02:00"}
 ---
 
 #on/depthpsychology 
@@ -73,8 +73,8 @@ A("Te🏹") --> B("Ti🗡️") --> C("Fe💉") --> D("Fi🧭") --> A("Te🏹")
 >>	- “Know-what” “Know why is”
 >>	- “Why is”
 >
->> [!quote]- [[CARDS/Depth Psychology Theory/Knowledge\|Knowledge]]
->>	- "All knowledge is tacit” (→ [[Tacit knowledge\|Tacit knowledge]])
+>> [!quote]- [[Knowledge\|Knowledge]]
+>>	- "All knowledge is tacit” (→ [[CARDS/· Related Concepts & Theories ·/Tacit knowledge\|Tacit knowledge]])
 >>	- becomes information when made explicit
 >>	- “Know-how” 
 >>	- “Know-how” 
