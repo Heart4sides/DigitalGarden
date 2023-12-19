@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","noteIcon":"1","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-05-27T15:36:23.753+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/reverence/","noteIcon":"1","created":"2022-12-31T17:40:04.066+01:00","updated":"2023-06-22T21:01:14.146+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]] | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]. Reverence is found when they are [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] accepted. 
@@ -17,8 +17,8 @@
 ---
 # Udja 
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-- **Superficial**, Competitive, Privilege, Egotistical, Glory, Shallow
-- **Respect**, Regard, [[CARDS/· Related Concepts & Theories ·/dignity\|dignity]], Admiration, Treasure, Noticed
+- **[[CARDS/· Related Concepts & Theories ·/Superficial\|Superficial]]**, [[CARDS/· Related Concepts & Theories ·/Competitive\|Competitive]], [[CARDS/· Related Concepts & Theories ·/Privilege\|Privilege]], [[CARDS/· Related Concepts & Theories ·/Egotistical\|Egotistical]], [[CARDS/· Related Concepts & Theories ·/Glory\|Glory]], [[CARDS/· Related Concepts & Theories ·/Shallow\|Shallow]]
+- **[[CARDS/· Related Concepts & Theories ·/Respect\|Respect]]**, [[CARDS/· Related Concepts & Theories ·/Regard\|Regard]], [[CARDS/· Related Concepts & Theories ·/Dignity\|Dignity]], [[CARDS/· Related Concepts & Theories ·/Admiration\|Admiration]], [[CARDS/· Related Concepts & Theories ·/Treasure\|Treasure]], [[CARDS/· Related Concepts & Theories ·/Noticed\|Noticed]]
 { #198519}
 
 
