@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","noteIcon":"1","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-05-24T13:35:18.930+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/demon/","noteIcon":"1","created":"2023-01-06T15:26:13.606+01:00","updated":"2023-06-28T21:56:43.139+02:00"}
 ---
 
 # Summary 
@@ -7,7 +7,7 @@
 - We tend to cage the demon, but that’s a bad strategy : if you tell someone to not do something, they’re going to do it. If you tell the demon to not go out, he’s going to go out.  
 - We need to feed the demon from time to time, at the right time and place. 
 - Sometimes, we need to come to a point where we have nothing to loose and everything to gain from let everything burn so new life can grow. 
-- “He who is willing to save his life will lose it ; he who is willing it lose his life will gain it.” [[Jesus\|Jesus]]
+- “He who is willing to save his life will lose it ; he who is willing it lose his life will gain it.” [[CARDS/Individuals/Jesus\|Jesus]]
 ---
 # Apathetic 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]]** 
@@ -46,7 +46,11 @@
 
 </div></div>
 
+
+# In Fiction 
+- ['Valhalla Rising' Trailer HD - YouTube](https://www.youtube.com/watch?v=dQgoGccHJD4)
 # References 
-- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/Growth Tracking\|Growth Tracking]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
+- [[CARDS/Individuals/Chris Taylor\|Chris Taylor]] - [[SOURCES/Contents/S33 E1 - Growth Tracking - Chris Taylor\|S33 E1 - Growth Tracking - Chris Taylor]] - "[Introduction to Cognitive Growth Tracking | Season 33 | CS Joseph - YouTube](https://www.youtube.com/watch?v=Ni_1xfd_Kt8&t=283s)" 
 - [[CARDS/Individuals/CS Joseph\|CS Joseph]] - [CS Joseph - Youtube](https://www.youtube.com/@CSJoseph), [CSJ Members Portal](https://offers.csjoseph.life/portal)
 - [[CARDS/Individuals/John Beebe\|John Beebe]] - [[SOURCES/Contents/Energies and Patterns in Psychological Type\|Energies and Patterns in Psychological Type]]
+
