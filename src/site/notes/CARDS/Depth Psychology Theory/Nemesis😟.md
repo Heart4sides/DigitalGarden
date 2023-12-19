@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","noteIcon":"1","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-06-04T20:02:39.695+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/nemesis/","noteIcon":"1","created":"2022-12-27T22:26:23.610+01:00","updated":"2023-06-28T12:27:03.663+02:00"}
 ---
 
 ---
@@ -9,7 +9,7 @@
 - Substracts perspective from the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
 - Uncertain
 - Confrontational
-- Provides challenge to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], to force him to take action  
+- Provides [[Challenge\|challenge]] to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]], to force him to take action  
 - Agent of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]] 
 - The Nemesis wants to be defeated by the Hero. 
 - Sometimes it just wants to make a point. 
@@ -29,7 +29,7 @@
 # Understanding
 **Behaviour in a [[CARDS/Depth Psychology Theory/Mature🐢\|Mature🐢]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]]** 
 - Ally : adds perspective to the [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] 
-- Certain 
+- [[CARDS/· Related Concepts & Theories ·/Certainty\|Certain]] 
 - Peacekeeper
 
 ---
