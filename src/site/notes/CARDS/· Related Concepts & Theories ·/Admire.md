@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","noteIcon":"1","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-05-10T21:19:16.395+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/admire/","noteIcon":"1","created":"2023-01-19T15:18:55.013+01:00","updated":"2023-06-12T16:19:25.080+02:00"}
 ---
 
 [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
@@ -10,7 +10,7 @@
 - [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer]]
 - [[CARDS/Depth Psychology Theory/Reverence\|Reverence]] Dyad
 
-## Wordnik![Pasted image 20230404173539.png](/img/user/EXTRAS/Images/Pasted%20image%2020230404173539.png)
+## Wordnik![[Pasted image 20230404173539.png\|Pasted image 20230404173539.png]]
 Admire
 *intransitive verb*: To regard with pleasure, wonder, and approval.
 *intransitive verb*: To have a high opinion of; esteem or respect.
