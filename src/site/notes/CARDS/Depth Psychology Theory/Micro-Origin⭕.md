@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/micro-origin/","noteIcon":"1","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-05-23T14:51:40.236+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/micro-origin/","noteIcon":"1","created":"2023-01-12T14:02:55.879+01:00","updated":"2023-06-12T12:21:40.442+02:00"}
 ---
 
 
