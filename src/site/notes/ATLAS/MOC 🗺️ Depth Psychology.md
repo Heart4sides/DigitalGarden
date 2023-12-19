@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-06-04T15:03:40.852+02:00"}
+{"dg-publish":true,"permalink":"/atlas/moc-depth-psychology/","noteIcon":"1","created":"2022-12-27T18:42:43.849+01:00","updated":"2023-06-22T21:01:37.006+02:00"}
 ---
 
 
@@ -12,7 +12,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 > [!multi-column]
 >
 >>[!danger] 8 [[CARDS/Depth Psychology Theory/Cognitive Functions\|Cognitive Functions]]
->>[[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] 
+>>[[Perception\|Perception]] 
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]]
 >>	- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]
@@ -42,15 +42,15 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 ---
 # Authors 
-| File                                                  | Concepts                                                                                                                                                                                                                                                                                                                  |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[Shadow👤\\|Shadow👤]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
-| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[Guidance Function\\|Guidance Function]]</li><li>[[Gateway Function\\|Gateway Function]]</li></ul>                                                                                                                                      |
-| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind➕.md\\|4 sides of the Mind➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[Temple\\|Temple]]</li><li>[[Octogram\\|Octogram]]</li></ul>                                                                                 |
-| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                                         |
-| [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul>                                                                                                                                                                                      |
-| [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                                        |
-| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                             |
+| File                                                  | Concepts                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[CARDS/Individuals/C.G. Jung\|C.G. Jung]]         | <ul><li>[[CARDS/Depth Psychology Theory/Cognitive Functions.md\\|Cognitive Functions]]</li><li>[[Attitude\\|Attitude]]</li><li>[[CARDS/Depth Psychology Theory/Shadow👥.md\\|Shadow👥]]</li><li>[[CARDS/Depth Psychology Theory/Integration.md\\|Integration]]</li><li>[[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity.md\\|Synchronicity]]</li></ul> |
+| [[CARDS/Individuals/Chris Taylor\|Chris Taylor]]   | <ul><li>[[CARDS/Depth Psychology Theory/Battleground.md\\|Battleground]]</li><li>[[Guidance Function\\|Guidance Function]]</li><li>[[Gateway Function\\|Gateway Function]]</li></ul>                                                                                                                                                                       |
+| [[CARDS/Individuals/CS Joseph\|CS Joseph]]         | <ul><li>[[CARDS/Depth Psychology Theory/4 sides of the Mind➕.md\\|4 sides of the Mind➕]]</li><li>[[CARDS/Depth Psychology Theory/Compatibility.md\\|Compatibility]]</li><li>[[Temple\\|Temple]]</li><li>[[CARDS/Depth Psychology Theory/Octogram☀️.md\\|Octogram☀️]]</li></ul>                                                                             |
+| [[CARDS/Individuals/David Keirsey\|David Keirsey]] | [[CARDS/Depth Psychology Theory/Temperament🌍\|Temperament🌍]]                                                                                                                                                                                                                                                                                          |
+| [[CARDS/Individuals/John Beebe\|John Beebe]]       | <ul><li>[[CARDS/Depth Psychology Theory/Eight-Function Model.md\\|Eight-Function Model]]</li><li>[[Attitudes\\|Attitudes]]</li></ul>                                                                                                                                                                                                                       |
+| [[CARDS/Individuals/John Bodine\|John Bodine]]     | \-                                                                                                                                                                                                                                                                                                                                                         |
+| [[CARDS/Individuals/Linda Berens\|Linda Berens]]   | [[CARDS/Depth Psychology Theory/Interaction Style💬\|Interaction Style💬]]                                                                                                                                                                                                                                                                              |
 
 { .block-language-dataview}
 ---
@@ -93,7 +93,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] :               | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]              | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]              | [[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]             | [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]]           |
 | -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
-| [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] |
+| [[Perception\|Perception]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|⛰️]] [[CARDS/Depth Psychology Theory/Foundational/Ne\|💧]] |
 | [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]]  | [[CARDS/Depth Psychology Theory/Foundational/Ti\|🗡️]][[CARDS/Depth Psychology Theory/Foundational/Fe\|💉]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]] | [[CARDS/Depth Psychology Theory/Foundational/Fi\|🧭]][[CARDS/Depth Psychology Theory/Foundational/Te\|🏹]]  |
 | IS**             | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]                  | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ISTJ\|ISTJ]]                  |
 | ES**             | [[CARDS/Depth Psychology Theory/Foundational/ESFJ\|ESFJ]]                  | [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]                 | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]                  |
@@ -120,7 +120,7 @@ To explore the basics of depth psychology, I suggest you start with the followin
 |                    |                   |
 | [[CARDS/Depth Psychology Theory/Conflict Pair\|Conflict Pair]]                    |                   |
 | [[CARDS/Depth Psychology Theory/Dual Pair\|Dual Pair]]                   |                   |
-| [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]                    |  [[SOURCES/Type Theory by CSJ/Mechanics/Asynchronicity\|Asynchronicity]]                  |
+| [[CARDS/Depth Psychology Theory/Identity Pair\|Identity Pair]]                    |  [[SOURCES/Type Theory by CSJ/Mechanics/The Cognitive Functions Handbook - Perception Functions - John Bodine\|The Cognitive Functions Handbook - Perception Functions - John Bodine]]                  |
 
 ---
 # Internal Relationships within the Mind  
