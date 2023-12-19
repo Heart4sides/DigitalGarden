@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:15.864+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/obstinance/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-22T21:01:26.736+02:00"}
 ---
 
 #type/pole 
@@ -18,7 +18,7 @@
 - Necessary for growth but too much of it leads to stagnation  
 ---
 # Pride through Obstinance 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]][[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
 - If it doesn't make sense to me then it doesn't make sense (stuck in old input + preferred input) 
 ---
 # Wornik Definition 
