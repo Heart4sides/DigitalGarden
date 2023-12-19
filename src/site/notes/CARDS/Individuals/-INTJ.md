@@ -4,15 +4,16 @@
 
 #type
 [Famous People - C. S. Joseph](https://offers.csjoseph.life/famous)
-| File                                                          | octogram                                                                                                                            |
-| ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Batman\|Batman]]                       | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
-| [[CARDS/Individuals/Boba Fett\|Boba Fett]]                 | \-                                                                                                                                  |
-| [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]   | \-                                                                                                                                  |
-| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]   | \-                                                                                                                                  |
-| [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]] | \-                                                                                                                                  |
-| [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                   | \-                                                                                                                                  |
-| [[CARDS/Collectives/Star Wars\|Star Wars]]                 | \-                                                                                                                                  |
+| File                                                                | octogram                                                          |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [[CARDS/Individuals/Batman\|Batman]]                             | <ul><li>[[UD👤⬅️\\|UD👤⬅️]]</li><li>[[UF👤➡️\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Boba Fett\|Boba Fett]]                       | \-                                                                |
+| [[CARDS/Individuals/Elizabeth Filips\|Elizabeth Filips]]         | \-                                                                |
+| [[CARDS/Individuals/Hannah Arendt 🎭\|Hannah Arendt 🎭]]         | \-                                                                |
+| [[CARDS/Individuals/Joueur du Grenier\|Joueur du Grenier]]       | \-                                                                |
+| [[CARDS/Individuals/Mr Darcy\|Mr Darcy]]                         | \-                                                                |
+| [[CARDS/Individuals/Nicolas Winding Refn\|Nicolas Winding Refn]] | \-                                                                |
+| [[CARDS/Collectives/Star Wars\|Star Wars]]                       | \-                                                                |
 
 { .block-language-dataview}
 { #d243d1}
