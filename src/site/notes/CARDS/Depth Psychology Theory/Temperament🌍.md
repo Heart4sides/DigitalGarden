@@ -30,7 +30,7 @@ Origin : Plato's Republic
 | 🌍            | ⚙️                                      |                   👀                   | ⚙️                                           | 👀                                     |       |       |       |
 
 
-![page_0006.png](/img/user/EXTRAS/Images/page_0006.png)
+![[page_0006.png\|page_0006.png]]
 
 ## Political Worldviews
 
@@ -43,5 +43,5 @@ NF + SJ = theocracy
 NT + SP = fascism
 
 ## Mentions
-- [[SOURCES/Type Theory by CSJ/Type Grid/Temperament/Temperaments by CSJ\|Temperaments by CSJ]]
-- [[SOURCES/Temperament_Cultural_Equivalents\|Temperament_Cultural_Equivalents]]
+- [[Temperaments by CSJ\|Temperaments by CSJ]]
+- [[Temperament_Cultural_Equivalents\|Temperament_Cultural_Equivalents]]
