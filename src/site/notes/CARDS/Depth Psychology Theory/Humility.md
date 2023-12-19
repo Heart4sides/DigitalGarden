@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:35:29.454+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/humility/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-22T21:00:48.966+02:00"}
 ---
 
 #type/pole
@@ -17,7 +17,7 @@
 - Taking responsibility for your actions and mistakes. 
 ---
 # Humility through Accommodation 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/· Related Concepts & Theories ·/Validation\|Validation Dyad]] 
 - Going out of their way to find what people need instead of assuming. 
 
 ---
