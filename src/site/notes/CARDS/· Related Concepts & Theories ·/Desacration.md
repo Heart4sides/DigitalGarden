@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-05-28T18:15:34.224+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/desacration/","noteIcon":"1","created":"2022-12-31T17:40:38.411+01:00","updated":"2023-06-08T17:27:18.056+02:00"}
 ---
 
 #type/pole 
 
 # [[CARDS/Depth Psychology Theory/4 sides of the Mind➕\|4 sides of the Mind➕]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] : 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]pole of the [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] : 
 - [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow👥]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart Temple🎭]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
@@ -21,7 +21,7 @@
 
 ---
 # Descration through [[CARDS/Depth Psychology Theory/Modesty\|Modesty]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - Killing sacred cows
 - “Mockers” in the Bible 
 - Tear things dows for the sake of it 
@@ -30,7 +30,7 @@
 - Modest with people’s belief systems, including their own 
 ---
 # Desacration through [[CARDS/· Related Concepts & Theories ·/Vainglory\|Vainglory]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]  [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]]  [[CARDS/Depth Psychology Theory/Reverence\|Reverence Dyad]] 
 - Elect oneself the judge of what is sacred, and even more of what isn’t sacred 
 - Elect oneself the judge of who deserves what, like the [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction Dyad]] naturally does 
 
