@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","noteIcon":"1","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-05-27T15:34:45.279+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/yang/","noteIcon":"1","created":"2023-01-19T14:39:23.534+01:00","updated":"2023-06-22T21:01:26.896+02:00"}
 ---
 
 
-- [[CARDS/· Related Concepts & Theories ·/Intern\|Internal]] Force
+- [[Intern\|Internal]] Force
 - [[CARDS/Depth Psychology Theory/Responding🧘‍♂️\|Introverted]] [[CARDS/Depth Psychology Theory/Cognitive Functions\|functions]] 
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]
 - [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] functions 
