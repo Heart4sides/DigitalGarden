@@ -10,4 +10,4 @@
 		- The [[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]] then sees less of the consequences of his actions, which causes him to endager the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] as well. 
 - Vice of the [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] 
 - “Fear is the Mind Killer” [[Dune\|Dune]] 
-- = [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]] + [[CARDS/Depth Psychology Theory/Pride\|Pride]] + [[Ignorance\|Ignorance]] 
+- = [[CARDS/· Related Concepts & Theories ·/Hatred\|Hatred]] + [[CARDS/Depth Psychology Theory/Pride\|Pride]] + [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]] 
