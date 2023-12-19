@@ -1,0 +1,89 @@
+---
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/se/","noteIcon":"1","created":"2023-06-22T21:00:49.137+02:00","updated":"2023-06-22T21:00:59.093+02:00"}
+---
+
+#on/depthpsychology 
+
+# What others experience
+
+# Functional Relationships 
+[[CARDS/Depth Psychology Theory/⛰️Si-Se🌪️\|⛰️Si-Se🌪️]]
+Extroverted Sensation is awareness of other people’s experiences ↔️ own performance. Se users guide [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] users attention to cultivate their strength, endurence & self-awareness.   
+
+[[SOURCES/Type Theory by CSJ/Functions/🔥Ni-Se🌪️\|🔥Ni-Se🌪️]]
+Se users shape other people’s reality in the image of their own [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni]] desires. 
+
+[[💧Ne-Se🌪️\|💧Ne-Se🌪️]]
+Se users neglect the awareness of [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] possibilities and consequences for the sake of being attuned with their environement. 
+
+--- 
+## Keywords 
+- Is - what's happening
+- Collective consciousness
+- Collective present & past
+- Short term memory
+- Manipulating the collective experience 
+- Kinetic Energy 
+- Reactions
+- Guiding attention
+- Demonstrate, show
+- Performance
+- Cultivate strength & skills
+- [[CARDS/· Related Concepts & Theories ·/The How\|The How]]
+--- 
+# Type Grid
+
+| [[CARDS/Depth Psychology Theory/Type Grid\|Type Grid]]         | <font size="4"> 🏛️</font> | <font size="4"> 🧰</font> | <font size="4"> 🔮</font> | <font size="4"> 🦄</font> | 💬 |💬| 💬 |
+|:--------------------- |:------------------------- |:-------------------------:|:------------------------------------------------ |:------------------------- |:--------------------------- |:--------------------------- |:--------------------------- |
+| 🔛                    | ESTJ                      |           [[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]            | [[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]                                             | ENFJ                      | ➡️                          | 👋                          | 🏆                          |
+| 🔜                    | ESFJ                      |    [[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]] |ENTP                                   | ENFP                      | ↪️                          | 👋                          | 🏃‍♂️                       |
+| 🔝    | ISTJ                      |           [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]            | [[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]| [[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]| 🧘‍♂️ | 🏃‍♂️ | 🔙 | 
+| 🔙                    | ISFJ        |           [[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]            | INTP                                             | INFP                      | ↪️                          | 🧘‍♂️                       | 🏆                          |
+|🌍 | 👁️‍🗨️                     |           👁️‍🗨️           | 🧲                                               | 🧲                        |                             |                             |                             |
+| 🌍 | 🐜                        |            🦊             | 🦊                                               | 🐜                        |                             |                             |                             |
+|🌍| ⚙️                        |            👀             | ⚙️                                               | 👀                        |                             |                             |                             |
+High Se users are : 
+- [[CARDS/Depth Psychology Theory/Artisan 🧰\|Artisan 🧰]] 
+	- [[CARDS/Depth Psychology Theory/Concrete👁️‍🗨️\|Concrete👁️‍🗨️]] 
+	- [[CARDS/Depth Psychology Theory/Pragmatic🦊\|Pragmatic🦊]] 
+	- [[CARDS/Depth Psychology Theory/Interest⚖️\|Interest⚖️]] 
+
+---
+# Quadra 
+
+| <font size="4"> [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]</font>| <font size="4"> ·Crusader·</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]·==</font> | <font size="4"> ==·[[CARDS/Depth Psychology Theory/Wayfarer🌠⚖️\|Wayfarer🌠⚖️]]·==</font> | <font size="4"> ·Philosopher·</font> |
+| -------------- | ------------------------- | ------------------------ | ------------------------ | ------------------------- |
+| [[Perception\|Perception]] |⛰️💧    | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | [[CARDS/Depth Psychology Theory/Foundational/Ni\|🔥]][[CARDS/Depth Psychology Theory/Foundational/Se\|🌪️]] | ⛰️💧    |
+| [[CARDS/Depth Psychology Theory/Judgement\|Judgement]]  | 🗡️💉|🗡️💉 |🧭🏹  | 🧭🏹    |
+| IS**             | ISFJ               | ==[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ISFP\|ISFP]]==                 |ISTJ                |
+| ES**             |ESFJ                | ==[[CARDS/Depth Psychology Theory/Foundational/ESTP\|ESTP]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ESFP\|ESFP]]==                 |ESTJ             |
+| IN**             |INTP             | ==[[CARDS/Depth Psychology Theory/Foundational/INFJ\|INFJ]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/INTJ\|INTJ]]==                 |INFP             |
+| EN**             |ENTP               | ==[[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]==                 | ==[[CARDS/Depth Psychology Theory/Foundational/ENTJ\|ENTJ]]==                 |ENFP             |
+
+--- 
+# Temple 
+[[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] is the [[CARDS/Depth Psychology Theory/God Functions🙏\|God Function]] of the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]]. 
+
+---
+# MENTIONS 
+
+# PERSONAL OBSERVATIONS
+
+- “(cou)rage “ - Se
+- If you believe that your dream is reality, you are more likely to forget it when you wake up; so is it for Ni-Se users. Se users forget what they experience because they believe that reality is shared and external to them. They believe totems will remind them of that reality, so they don’t need to store it inside themselves. 
+
+---
+# References
+| References                                                                                                                                                                                                                                                           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li>[[ATLAS/MOC 🗺️ Depth Psychology.md\\|MOC 🗺️ Depth Psychology]]</li><li>[Udja App (Typing Tool)](https://www.udja.app/#/)</li><li>[Type Grid Companion Guide Download \\| C.S. Joseph](https://csjoseph.life/type-grid-companion-guide-download/)</li></ul> |
+
+{ .block-language-dataview}
+# 🦸‍♂️Hero 
+# 🤨Parent 
+# 👼Child 
+# 😨Infant 
+# 😟Nemesis 
+# 🤔Critic 
+# 🤡Trickster 
+# 😈Demon
