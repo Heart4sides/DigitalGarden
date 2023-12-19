@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"1","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-05-27T15:36:21.697+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/attitude/","noteIcon":"1","created":"2022-12-27T19:17:32.729+01:00","updated":"2023-06-22T21:00:55.926+02:00"}
 ---
 
 #on/psychology
@@ -119,4 +119,4 @@
 
 ## Khan Academy 
 > [Components of attitudes | Behavior | MCAT | Khan Academy - YouTube](https://www.youtube.com/watch?v=cDq1_R-J51w)
-![Pasted image 20230327092934.png](/img/user/EXTRAS/Images/Pasted%20image%2020230327092934.png)
+![[Pasted image 20230327092934.png\|Pasted image 20230327092934.png]]
