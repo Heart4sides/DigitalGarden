@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","noteIcon":"1","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-05-27T15:36:12.087+02:00"}
+{"dg-publish":true,"permalink":"/cards/feminine-and-masculine/","noteIcon":"1","created":"2023-05-14T09:27:43.870+02:00","updated":"2023-06-22T21:01:01.106+02:00"}
 ---
 
 #on/psychology 
@@ -11,8 +11,8 @@ The KEY ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) moment ([[CA
 What is required for the child’s prosperity, one must FIRST provide it to oneself : 
 Alignment ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]] [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) → Peace ([[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]][[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]) → Knowledge ([[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind⚒️]] [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]) → Prosperity ([[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] [[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]). 
 
-- [[Woman🙎‍♀️\|Women🙎‍♀️]] must have **self-respect** 
-	- ==Why ?== [[Woman🙎‍♀️\|Women🙎‍♀️]]‘s [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]] needs + [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] feelings = Fetus👶’ health = Woman🙎‍♀️’s value 
+- [[CARDS/· Related Concepts & Theories ·/Woman🙎‍♀️\|Women🙎‍♀️]] must have **self-respect** 
+	- ==Why ?== [[CARDS/· Related Concepts & Theories ·/Woman🙎‍♀️\|Women🙎‍♀️]]‘s [[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]] needs + [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]] feelings = Fetus👶’ health = Woman🙎‍♀️’s value 
 	- ==How ?== 
 		- Put their value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]) and needs ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]) above everything else. 
 		- Attend to one’s sense of security ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]]) by being [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]] desirable 
@@ -27,13 +27,13 @@ Alignment ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]] [[CARDS/D
 		- [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]] performance (stemming from [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] desire)
 		- + [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] care (stemming from  [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]] [[CARDS/· Related Concepts & Theories ·/thoughtfulness\|thoughtfulness]])
 		- = Fetus👶’ health 
-		- One can only desire & care for others if one desires and cares for oneself. The [[CARDS/Depth Psychology Theory/Self🌓\|Self🌓]] wants to be desired and cared for. If the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] rejects the Self, the Self will fight for self-love against the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] through the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] with destructive means, which makes the man dangerous to the woman. 
+		- One can only desire & care for others if one desires and cares for oneself. The [[Self🌓\|Self🌓]] wants to be desired and cared for. If the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] rejects the Self, the Self will fight for self-love against the [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|Ego🙋‍♂️]] through the [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] with destructive means, which makes the man dangerous to the woman. 
 	- ==How ?== 
 		- Nurture the [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni 🔥 desire]] to become one’s own Self 
 		- Nurture the [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]] candor to see through oneself clearly 
 		- Care for themselves via collective care ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]) and provide security to themselves via collective security ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]])
 	- ==Effect ?== 
-		- They will demonstrate [[CARDS/· Related Concepts & Theories ·/Love\|Love]] to [[Woman🙎‍♀️\|Women🙎‍♀️]] as an external manifestation of their self-love. 
+		- They will demonstrate [[CARDS/· Related Concepts & Theories ·/Love\|Love]] to [[CARDS/· Related Concepts & Theories ·/Woman🙎‍♀️\|Women🙎‍♀️]] as an external manifestation of their self-love. 
 		- They will have [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]] Knowledge & [[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]] Skill = [[CARDS/Depth Psychology Theory/Authority\|Authority]] & [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]] 
 		- They will have [[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]] Passion & [[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]] Ethics = [[CARDS/Depth Psychology Theory/Satisfaction\|Satisfaction]] +[[CARDS/Depth Psychology Theory/Reverence\|Reverence]]
 ---
