@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","noteIcon":"1","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-04-27T14:03:22.119+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/crafty/","noteIcon":"1","created":"2023-01-29T17:54:06.538+01:00","updated":"2023-06-12T19:03:46.392+02:00"}
 ---
 
-
-## Related Notes 
-- [[CARDS/· Related Concepts & Theories ·/· Related Concepts & Theories ·\|· Related Concepts & Theories ·]]
-- [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]]
+mentioned:: [[CARDS/Typing Toolbox/-Ne💧\|-Ne💧]]
 
 ## Wordnik
 
@@ -13,7 +10,7 @@
 *adjective*: Skilled in or marked by underhandedness (manigance, dissimulation), deviousness (sournoiserie, perfidie), or deception.
 *adjective*: Skillful; dexterous.
 *undefined*: Possessing or displaying skill, especially manual skill or art: as, “<em>crafty</em> work,”
-*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; [[CARDS/· Related Concepts & Theories ·/cunning\|cunning]]; artful; wily; sly.
+*undefined*: Skilful in devising and executing schemes, especially secret or evil schemes; [[cunning\|cunning]]; artful; wily; sly.
 *undefined*: Characterized by or springing from craft or deceit: as, <em>crafty</em> wiles.
 *adjective*: Relating to, or characterized by, craft or skill; dexterous.
 *adjective*: Possessing dexterity; skilled; skillful.
