@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-05-31T10:25:29.790+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/mind-temple/","noteIcon":"1","created":"2022-12-27T19:59:02.340+01:00","updated":"2023-06-22T21:01:35.904+02:00"}
 ---
 
 # Themes 
@@ -7,7 +7,7 @@
 - Knowledge ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]])
 - Skill ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]])
 - [[CARDS/· Related Concepts & Theories ·/Learn\|Learning]] 
-- [[CARDS/· Related Concepts & Theories ·/Teaching\|Teaching]] 
+- [[Teaching\|Teaching]] 
 ---
 # Functional 
 - Quadra : [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] & [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] 
@@ -82,8 +82,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
 | Type                 | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
@@ -91,14 +91,14 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[Self-sacrifice\|Self-sacrifice]]                 | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[Sacrifice of others\|Sacrifice of others]]              | //                         |
 | Virtu                | [[loyalty\|loyalty]]                   | [[Serenity\|Serenity]]          |
-| Vice                 | [[Treachery\|Treachery]]                  | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]            |
+| Vice                 | [[CARDS/· Related Concepts & Theories ·/Treachery\|Treachery]]                  | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]            |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]          | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | ------------------------- | ------------------ |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]            | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]         | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]       | //                 |
-| Virtu            |  [[Benevolence\|Benevolence]] | [[Joy\|Joy]]      |
+| Virtu            |  [[Benevolence\|Benevolence]] | [[CARDS/· Related Concepts & Theories ·/Joy\|Joy]]      |
 | Vice             | [[Cruelty\|Cruelty]] | [[Melancholy\|Melancholy]]    |
 
 # ENFJ Ego’s mind
@@ -117,8 +117,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]]          | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Superego👹\| 👹]] |
 | ---------------- | ------------------------- | ------------------ |
@@ -126,7 +126,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]            | //                 |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]           | //                 |
 | Virtu            | [[loyalty\|loyalty]]  |  [[Serenity\|Serenity]]     |
-| Vice             |  [[Treachery\|Treachery]]  | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]   |
+| Vice             |  [[CARDS/· Related Concepts & Theories ·/Treachery\|Treachery]]  | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]   |
 
 
 # ISTP Ego’s mind 
@@ -144,15 +144,15 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               | [[CARDS/Depth Psychology Theory/Pride\|Pride]]                       |    -       |
 
 | Type                 |[[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]]          | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]]     |
 | -------------------- | ---------------------------- | -------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]           | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]               | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu     | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]                | //                         |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice      | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]                | //                         |
-| Virtu                | [[Joy\|Joy]]                 | [[Benevolence\|Benevolence]]           |
+| Virtu                | [[CARDS/· Related Concepts & Theories ·/Joy\|Joy]]                 | [[Benevolence\|Benevolence]]           |
 | Vice                 | [[Melancholy\|Melancholy]]                   | [[Cruelty\|Cruelty]]           |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
@@ -161,7 +161,7 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]        | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]   | //                           |
 | Virtu            | [[Serenity\|Serenity]]              | [[loyalty\|loyalty]]                  |
-| Vice             | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]                 | [[Treachery\|Treachery]]                |
+| Vice             | [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]                 | [[CARDS/· Related Concepts & Theories ·/Treachery\|Treachery]]                |
 
 # ESTJ Ego’s Mind 
 | Type                           | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]]  [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]]   [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
@@ -178,8 +178,8 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/· Related Concepts & Theories ·/Validation\|Validation]]       | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]]                           |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               | [[CARDS/Depth Psychology Theory/Sloth\|Sloth]]                        |    -       |
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ESTJ\|ESTJ]] [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/INFP\|INFP]] [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------ | ------------------------------- |
@@ -187,13 +187,13 @@ Explore, develop and understand the mind. Shape others with knowledge. Question 
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Self-sacrifice\|Self-sacrifice]]       | //                              |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Sacrifice of others\|Sacrifice of others]]  | //                              |
 | Virtu            |   [[Serenity\|Serenity]]       |           [[loyalty\|loyalty]]              |
-| Vice             |   [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]         |           [[Treachery\|Treachery]]              |
+| Vice             |   [[CARDS/Depth Psychology Theory/Chaos\|Chaos]]         |           [[CARDS/· Related Concepts & Theories ·/Treachery\|Treachery]]              |
 
 | Type             | [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]]  [[CARDS/Depth Psychology Theory/Shadow👥\|👤]] | [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]]  [[CARDS/Depth Psychology Theory/Superego👹\|👹]] |
 | ---------------- | -------------------------- | ---------------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]]                | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/· Related Concepts & Theories ·/Righteousness\|Righteousness]]          | //                           |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[CARDS/· Related Concepts & Theories ·/Unrighteousness\|Unrighteousness]]        | //                           |
-| Virtu            | [[Joy\|Joy]]                    | [[Benevolence\|Benevolence]]            |
+| Virtu            | [[CARDS/· Related Concepts & Theories ·/Joy\|Joy]]                    | [[Benevolence\|Benevolence]]            |
 | Vice             | [[Melancholy\|Melancholy]]                      | [[Cruelty\|Cruelty]]                |
 |                  |                            |                              |
