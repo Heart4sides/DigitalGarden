@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-06-04T20:27:16.419+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/sf/","noteIcon":"1","created":"2023-01-12T13:58:03.157+01:00","updated":"2023-06-28T12:28:12.667+02:00"}
 ---
 
 
@@ -19,4 +19,4 @@ Subconscious focused people are externally expressing their [[CARDS/· Related C
 
 # Personal Notes on being SF 
 - Your Ego becomes virtuous in [[CARDS/· Related Concepts & Theories ·/equivalent exchange\|equivalent exchange]] of renouncing control ([[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]]) and pride/vanity ([[CARDS/Depth Psychology Theory/Hero🦸‍♂️\|Hero🦸‍♂️]]). 
-- [[CARDS/Depth Psychology Theory/Chaos\|chaotic]] : the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] is fearful and prideful ; it won’t meet the challenge of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], but will rather make a deal with it to get its help. The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]‘s help comes at a very high price, for it solves problems with destruction. 
+- [[CARDS/Depth Psychology Theory/Chaos\|chaotic]] : the [[CARDS/Depth Psychology Theory/Infant😨\|Infant😨]] is fearful and prideful ; it won’t meet the [[Challenge\|challenge]] of the [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]], but will rather make a deal with it to get its help. The [[CARDS/Depth Psychology Theory/Demon😈\|Demon😈]]‘s help comes at a very high price, for it solves problems with destruction. 
