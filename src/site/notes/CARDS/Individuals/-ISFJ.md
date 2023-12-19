@@ -8,6 +8,7 @@
 | ----------------------------------------------------------------------------- | ---------- |
 | [[CARDS/Individuals/Brice de Nice\|Brice de Nice]]                         | \-         |
 | [[CARDS/Individuals/François Hollande\|François Hollande]]                 | \-         |
+| [[CARDS/Individuals/Gaspard Noé\|Gaspard Noé]]                             | \-         |
 | [[CARDS/Individuals/Katniss Everdeen\|Katniss Everdeen]]                   | \-         |
 | [[CARDS/Individuals/Mother Teresa of Calcutta\|Mother Teresa of Calcutta]] | [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] |
 | [[CARDS/Individuals/The Mandalorian\|The Mandalorian]]                     | \-         |
@@ -32,7 +33,7 @@
 | Halle Berry         | actrice, productrice et ancienne mannequin                                                                |
 | Heath Ledger        | acteur                                                                                                    |
 | Jay Z               | rappeur                                                                                                   |
-| [[Julian Assange\|Julian Assange]]      | journaliste, informaticien, cybermilitant et lanceur d'alerte australien                                  |
+| [[CARDS/Individuals/Julian Assange\|Julian Assange]]      | journaliste, informaticien, cybermilitant et lanceur d'alerte australien                                  |
 | Khabib Nurmagomedov | combattant de MMA                                                                                         |
 | Louis Tomlinson     | chanteur, auteur compositeur du groupe One Direction                                                      |
 | Matt LeFleur        | joueur de football américain                                                                              |
