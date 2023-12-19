@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfj/","noteIcon":"1","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-05-27T21:34:34.488+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/foundational/enfj/","noteIcon":"1","created":"2023-01-05T15:41:27.792+01:00","updated":"2023-06-08T17:20:02.420+02:00"}
 ---
 
 #on/depthpsychology  #type 
@@ -34,7 +34,7 @@
 | ------------ | ----------------- | ----------------- |
 | SD           |                   | [[CARDS/· Related Concepts & Theories ·/Obstinance\|Obstinance]]    |
 | SF           |                   | [[CARDS/Depth Psychology Theory/Humility\|Humility]]    |
-|              | [[CARDS/Depth Psychology Theory/INFP Shadow👤\|INFP Shadow👤]]       | ESTJ Superego     |
+|              | [[INFP Shadow👥\|INFP Shadow👥]]       | ESTJ Superego     |
 | UD           | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]] |                   |
 | UF           | [[CARDS/Depth Psychology Theory/Pride\|Pride]]           |                   |
 The ENFJ belongs to the [[CARDS/Depth Psychology Theory/Mind Temple🛠️\|Mind Temple🛠️]].
