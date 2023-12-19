@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/literature-note/jordan-peterson-how-to-know-you-re-being-authentic-or-fake/","noteIcon":"1","created":"2023-05-25T13:53:01.392+02:00","updated":"2023-05-28T14:38:25.923+02:00"}
+{"dg-publish":true,"permalink":"/sources/literature-note/jordan-peterson-how-to-know-you-re-being-authentic-or-fake/","noteIcon":"1","created":"2023-05-25T13:53:01.392+02:00","updated":"2023-06-22T21:01:00.736+02:00"}
 ---
 
 | MOC                                                 | Type                                  | Reference                                                               | Links                                                                                                                                                                                                                                                                 |
