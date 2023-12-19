@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","noteIcon":"1","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-05-27T15:36:13.966+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/initiative/","noteIcon":"1","created":"2022-12-31T17:42:03.357+01:00","updated":"2023-06-22T21:01:02.147+02:00"}
 ---
 
 #type/pole 
@@ -24,7 +24,7 @@
 
 ---
 # Initiative through [[CARDS/Depth Psychology Theory/Manifestation\|Manifestation]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Authority\|Authority Dyad]] 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
