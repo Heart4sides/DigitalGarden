@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"1","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-05-23T15:58:25.213+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/outcome/","noteIcon":"1","created":"2022-12-30T12:33:54.141+01:00","updated":"2023-06-22T21:01:00.169+02:00"}
 ---
 
 #type/grid 
 # Definition & Etymology 
 - Quality of the result > Speed of progression  
 - Preference shared by those who prioritize either/both : 
-	- What others think is true ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te]])
-	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi\|CARDS/Depth Psychology Theory/Foundational/Fi]])
+	- What others think is true ([[CARDS/Depth Psychology Theory/Foundational/Te🏹\|Te🏹]])
+	- What they value ([[CARDS/Depth Psychology Theory/Foundational/Fi🗡️\|Fi🗡️]])
 - [outcome | Search Online Etymology Dictionary](https://www.etymonline.com/search?q=outcome)
 	- 1788, "that which results from something," originally Scottish, from the verbal phrase; see [out](https://www.etymonline.com/word/out?ref=etymonline_crossreference#etymonline_v_9965 "Etymology, meaning and definition of out ") (adv.) + [come](https://www.etymonline.com/word/come?ref=etymonline_crossreference#etymonline_v_15860 "Etymology, meaning and definition of come ") (v.). Popularized in English by Carlyle (c. 1830s). It was used in Middle English in sense of "an emergence, act or fact of coming out" (c. 1200), and the gerund, outcoming, was used as "an issue, a result." Old English had utancumen (n.) "stranger, foreigner."
 ---
@@ -44,7 +44,7 @@ We need to plan everything that we are going to do so we don’t waste our time.
 - Outcome values the goal above the journey,
 - Outcome is controlled, measured, and does not feel rushed; the quality of a desired outcome is preserved.
 - Outcome is patient in planning.
-- Outcome insists on certainty.
+- Outcome insists on [[CARDS/· Related Concepts & Theories ·/Certainty\|certainty]].
 - Control types believe progress can be best achieved when things are controlled. Having no control is worst case scenario and maintaining control is first priority even if it means stopping all movement.
 - Control types care more about the final outcome rather than the incremental progress along the way.
 - Control wants to slow down and get it right the first time. 
