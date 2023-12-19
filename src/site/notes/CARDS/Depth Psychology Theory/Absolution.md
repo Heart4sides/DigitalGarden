@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:36:12.260+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/absolution/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-06-08T17:27:19.396+02:00"}
 ---
 
 #type/pole 
@@ -13,7 +13,7 @@
 - Removing [[CARDS/· Related Concepts & Theories ·/Guilt\|Guilt]] by demonstrating why someone is [[CARDS/Depth Psychology Theory/Justification\|justified]] in his actions  
 ---
 # Absolution expressed through [[CARDS/· Related Concepts & Theories ·/Favouritism\|Favouritism]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]][[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
 - Give absolution based on whether they like the person 
 ---
 # Absolution through [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]] 
