@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","noteIcon":"1","created":"2022-12-31T00:36:30.657+01:00","updated":"2023-05-27T15:36:25.934+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/the-how/","noteIcon":"1","created":"2022-12-31T00:36:30.657+01:00","updated":"2023-06-22T21:01:12.776+02:00"}
 ---
 
 ## Related Notes 
