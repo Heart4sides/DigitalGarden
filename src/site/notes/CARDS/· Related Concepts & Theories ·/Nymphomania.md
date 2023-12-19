@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/nymphomania/","noteIcon":"1","created":"2023-05-24T13:12:24.812+02:00","updated":"2023-05-24T13:15:07.599+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/nymphomania/","noteIcon":"1","created":"2023-05-24T13:12:24.812+02:00","updated":"2023-06-22T21:01:31.559+02:00"}
 ---
 
 #on/depthpsychology 
