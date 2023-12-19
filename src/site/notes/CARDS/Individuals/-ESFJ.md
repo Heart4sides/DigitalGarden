@@ -3,10 +3,11 @@
 ---
 
 #type
-| File                                                        | octogram                                                                                                                            |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| [[CARDS/Individuals/Robert Baratheon\|Robert Baratheon]] | <ul><li>[[CARDS/Depth Psychology Theory/UD👤⬅️.md\\|UD👤⬅️]]</li><li>[[CARDS/Depth Psychology Theory/UF👤➡️.md\\|UF👤➡️]]</li></ul> |
-| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]]               | \-                                                                                                                                  |
+| File                                                        | octogram                                                          |
+| ----------------------------------------------------------- | ----------------------------------------------------------------- |
+| [[CARDS/Individuals/Crystalbreaktime\|Crystalbreaktime]] | <ul><li></li><li></li></ul>                                       |
+| [[CARDS/Individuals/Robert Baratheon\|Robert Baratheon]] | <ul><li>[[UD👤⬅️\\|UD👤⬅️]]</li><li>[[UF👤➡️\\|UF👤➡️]]</li></ul> |
+| [[CARDS/Individuals/Ted Bundy\|Ted Bundy]]               | \-                                                                |
 
 { .block-language-dataview}
 { #8de7f3}
