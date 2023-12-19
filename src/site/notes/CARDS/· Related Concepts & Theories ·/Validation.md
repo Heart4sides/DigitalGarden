@@ -1,16 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-28T18:17:37.172+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/validation/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-22T21:01:26.806+02:00"}
 ---
 
 [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] of the [[CARDS/· Related Concepts & Theories ·/ISTP\|ISTP]] and [[CARDS/Depth Psychology Theory/Foundational/ENFJ\|ENFJ]] 
+
 ---
 # Udja
 [Udja App (Typing Tool)](https://www.udja.app/#/)
-Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories ·/Teach\|teacher]]. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certain\|Certain]] about.
+Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories ·/Teach\|teacher]]. I must learn to listen to others before I seek to be understood. I risk incompetence when I don't [[CARDS/· Related Concepts & Theories ·/Belief\|believe]] I'm able to [[CARDS/· Related Concepts & Theories ·/Understand\|Understand]], or when I'm overly confident in the things I'm [[CARDS/· Related Concepts & Theories ·/Certainty\|CARDS/· Related Concepts & Theories ·/Certainty]] about.
 { #268204}
 
-- **Dismiss**, Disregard, Abrasive, Compelling, Resolute, Somber
-- **Acceptance**, Affirmation, Appreciation, Compromise, Verification, Certainty
+- **[[CARDS/· Related Concepts & Theories ·/Dismiss\|Dismiss]]**, [[CARDS/· Related Concepts & Theories ·/Disregard\|Disregard]], [[CARDS/· Related Concepts & Theories ·/Abrasive\|Abrasive]], [[CARDS/· Related Concepts & Theories ·/Compelling\|Compelling]], [[CARDS/· Related Concepts & Theories ·/Resolute\|Resolute]], [[CARDS/· Related Concepts & Theories ·/Somber\|Somber]]
+- **[[CARDS/· Related Concepts & Theories ·/Acceptance\|Acceptance]]**, [[CARDS/· Related Concepts & Theories ·/Affirmation\|Affirmation]], [[CARDS/· Related Concepts & Theories ·/Appreciation\|Appreciation]], [[CARDS/· Related Concepts & Theories ·/Compromise\|Compromise]], [[CARDS/· Related Concepts & Theories ·/Verification\|Verification]], [[CARDS/· Related Concepts & Theories ·/Certainty\|Certainty]]
 ---
 # Definition by CSJ
 
@@ -73,8 +74,8 @@ Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories
 | [[CARDS/Depth Psychology Theory/Temple🙏#of an Individual\|Temple🙏#of an Individual]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#of Humanity\|Temple🙏#of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]|   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]               | |  [[CARDS/Depth Psychology Theory/Pride\|Pride]]     |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]               | [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]|   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]               | |  [[CARDS/Depth Psychology Theory/Pride\|Pride]]     |
 
 ---
 # ITSP’s Mind 
@@ -92,8 +93,8 @@ Seeking accuracy helps me become a better [[CARDS/· Related Concepts & Theories
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of the Mind\|Temple🙏#Of the Mind]]       | [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]]| [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]] |
 | [[CARDS/Depth Psychology Theory/Temple🙏#Of Humanity\|Temple🙏#Of Humanity]] | [[CARDS/Depth Psychology Theory/Heart Temple🎭\|Heart🎭]]| [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body🌳]] |
 | [[CARDS/Depth Psychology Theory/Micro-Origin⭕\|Micro-Origin⭕]] | [[CARDS/Depth Psychology Theory/Authority\|Authority]]      | //                         |
-| [[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]]| [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
-| [[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]|                      |  [[CARDS/Depth Psychology Theory/Pride\|Pride]]     |
+| [[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]]| [[CARDS/Depth Psychology Theory/Accommodation\|Accommodation]]                         |   -        |
+| [[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]|                      |  [[CARDS/Depth Psychology Theory/Pride\|Pride]]     |
 
 ---
 # General Depth Psychology 
