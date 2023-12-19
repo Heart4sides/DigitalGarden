@@ -1,18 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"1","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-06-04T19:54:50.665+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/critic/","noteIcon":"1","created":"2022-12-31T00:56:27.359+01:00","updated":"2023-06-22T21:01:36.886+02:00"}
 ---
 
 
 ## Keywords 
 - [[cynicism\|cynicism]]
 - [[CARDS/· Related Concepts & Theories ·/Wisdom\|Wisdom]]
-- [[Witch\|Witch]]
-- [[Senile\|Senile]]
+- [[CARDS/· Related Concepts & Theories ·/Witch\|Witch]]
+- [[CARDS/· Related Concepts & Theories ·/Senile\|Senile]]
 - [[CARDS/Depth Psychology Theory/Pessimistic\|Pessimistic]]
-- [[Ignorance\|ignorance]]
+- [[CARDS/· Related Concepts & Theories ·/Ignorance\|Ignorance]]
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti]]
+- Negligent vs Wise 
 ---
-# Foolish 
+# Negligent 
 **Behaviour in a [[CARDS/Depth Psychology Theory/Immature🐇\|Immature🐇]] [[CARDS/Depth Psychology Theory/Shadow👥\|Shadow]]** 
 - [[CARDS/· Related Concepts & Theories ·/Substracts➖\|Substracts➖]] humility to the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] 
 - Devalued by the Ego, because the [[CARDS/Depth Psychology Theory/Parent🤨\|Parent🤨]] thinks it is [[responsible\|responsible]] enough on itself 
