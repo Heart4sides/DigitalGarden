@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-05-27T15:36:13.789+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/gluttony/","noteIcon":"1","created":"2022-12-31T17:42:57.181+01:00","updated":"2023-06-08T17:27:20.439+02:00"}
 ---
 
 #type/pole 
 
-[[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]]pole of the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
+[[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]]pole of the [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - [[CARDS/Depth Psychology Theory/Superego👹\|Superego👹]] 
 	- Humanity’s [[CARDS/Depth Psychology Theory/Body Temple 🌳\|Body Temple 🌳]] 
 	- Individual’s [[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul Temple👤]] 
@@ -15,11 +15,11 @@
 - Attempt to fill the hole of identity 
 - Bond over shared interests of consumption 
 # Gluttony through [[CARDS/Depth Psychology Theory/Hedonism\|Hedonism]] 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]] [[CARDS/Depth Psychology Theory/SF🤸➡️\|SF🤸➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - (re)discover pleasures 
 ---
 # Gluttony through [[CARDS/Depth Psychology Theory/Servility\|Servility]] 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Discovery\|Discovery Dyad]] 
 - gluttonous for appreciation & desire 
 - No filter between others’ desires and their own duty
 - often entitled to gratitude and reciprocation
