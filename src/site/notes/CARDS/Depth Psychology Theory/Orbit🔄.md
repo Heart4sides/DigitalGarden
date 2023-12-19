@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","noteIcon":"1","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-05-27T15:36:22.781+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/orbit/","noteIcon":"1","created":"2022-12-13T22:16:55.857+01:00","updated":"2023-06-22T21:01:27.046+02:00"}
 ---
 
 ## Definitions by C.S. Joseph
@@ -7,17 +7,17 @@
 - Transfer of information, stream of [[communication\|communication]] between the introverted and the extraverted variant of a function (ex: between Ne and Ni)
 - Two way street, with one unconscious door (Backdoor)
 - DC = direct current 
-- [[CARDS/· Related Concepts & Theories ·/Compensate\|compensation]]
+- [[Compensate\|compensation]]
 - [[SOURCES/Type Theory by CSJ/Mechanics/Synchronicity\|Synchronicity]] = orbit between two psyches. 
 ---
 # Functions
-- [[CARDS/Depth Psychology Theory/Te💫Ti🧠\|Te💫Ti🧠]] 
+- [[Te💫Ti🧠\|Te💫Ti🧠]] 
 	- when reading people’s mind ([[CARDS/Depth Psychology Theory/Foundational/Te\|Te🏹]]), I also build my own knowledge ([[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]])
-- [[CARDS/Depth Psychology Theory/Fe💫Fi💕\|Fe💫Fi💕]] 
+- [[Fe💫Fi💕\|Fe💫Fi💕]] 
 	- when empathizing with others ([[CARDS/Depth Psychology Theory/Foundational/Fe\|Fe💉]]), I also connect with what I feel ([[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]])
-- [[CARDS/Depth Psychology Theory/Se💫Si🪁\|Se💫Si🪁]] 
+- [[Se💫Si🪁\|Se💫Si🪁]] 
 	- when performing for others ([[CARDS/Depth Psychology Theory/Foundational/Se\|Se🌪️]]), I also experience myself ([[CARDS/Depth Psychology Theory/Foundational/Si\|Si⛰️]])
-- [[CARDS/Depth Psychology Theory/Ne💫Ni♨️\|Ne💫Ni♨️]] 
+- [[Ne💫Ni♨️\|Ne💫Ni♨️]] 
 	- when envisioning possibilities ([[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]), I also envision what I want ([[CARDS/Depth Psychology Theory/Foundational/Ni\|Ni🔥]])
 - [[CARDS/Depth Psychology Theory/Foundational/Se\|Se]] users orbit themselves
 - [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]] users orbit others 
