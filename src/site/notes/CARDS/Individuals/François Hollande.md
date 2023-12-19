@@ -3,10 +3,10 @@
 ---
 
 > [!Info]- Navigation 💠
-> [[ATLAS/MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
+> [[MOC 🗺️ Politics\|MOC 🗺️ Politics]]  #on/politics 
 > Type : [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]] 
 
-Analyse de son discours dans [[SOURCES/Literature Note/Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018\|Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018]]
+Analyse de son discours dans [[Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018\|Portrait intimiste de François Hollande (1ère partie) - Thé ou Café - 2018]]
 
 - "It's cold in here" [[CARDS/Typing Toolbox/-Si⛰️\|-Si⛰️]] 
 - "C'est très bien [...] qu'on l'ai dissuadé de le faire" [[CARDS/Typing Toolbox/-affiliative🐜\|-affiliative🐜]] 
