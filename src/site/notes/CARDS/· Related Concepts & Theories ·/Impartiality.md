@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/impartiality/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-05-27T15:35:32.487+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/impartiality/","noteIcon":"1","created":"2022-12-31T17:35:54.658+01:00","updated":"2023-06-22T21:01:36.871+02:00"}
 ---
 
 #type/pole 
@@ -16,7 +16,7 @@
 - [[CARDS/Depth Psychology Theory/Foundational/Ti\|Ti🗡️]]
 ---
 # [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]] through Wrath 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Justification\|Justification Dyad]] 
 - Exerces wrath based on facts and objectivity 
 ---
 # Absolution through [[CARDS/· Related Concepts & Theories ·/Impartiality\|Impartiality]] 
