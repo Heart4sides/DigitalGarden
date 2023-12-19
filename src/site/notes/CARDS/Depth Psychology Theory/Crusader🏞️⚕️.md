@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"1","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-05-28T15:52:40.195+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/crusader/","noteIcon":"1","created":"2023-01-04T21:24:57.397+01:00","updated":"2023-06-22T21:01:25.656+02:00"}
 ---
 
 
@@ -31,14 +31,14 @@
 [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne]] | [[CARDS/Depth Psychology Theory/Foundational/Si\|Si]]
 
 # Virtu & Vice
-[[CARDS/Depth Psychology Theory/Justice\|Justice]] | [[Injustice\|Injustice]]
+[[Justice\|Justice]] | [[Injustice\|Injustice]]
 
 | Type             | [[CARDS/Depth Psychology Theory/Foundational/ENTP\|ENTP]]   [[CARDS/Depth Psychology Theory/Ego🙋‍♂️\|🙋‍♂️]] | [[CARDS/Depth Psychology Theory/Foundational/ISFJ\|ISFJ]]  [[CARDS/Depth Psychology Theory/Sub🤸\|🤸]] |
 | ---------------- | ------------------------------ | ----------------------- |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]]       | [[CARDS/Depth Psychology Theory/Crusader🏞️⚕️\|Crusader🏞️⚕️]]               | //                      |
-| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[CARDS/Depth Psychology Theory/Justice\|Justice]]                    | //                      |
+| [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Virtu | [[Justice\|Justice]]                    | //                      |
 | [[CARDS/Depth Psychology Theory/Quadra\|Quadra]] Vice  | [[Injustice\|Injustice]]                  | //                      |
-| Virtu            | [[CARDS/Depth Psychology Theory/Sincerity\|Sincerity]]                  | [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]               |
+| Virtu            | [[Sincerity\|Sincerity]]                  | [[CARDS/· Related Concepts & Theories ·/Faith\|Faith]]               |
 | Vice             | [[Insincerity\|Insincerity]]                | [[CARDS/· Related Concepts & Theories ·/Fear\|Fear]]                |
 
 # Temple 
@@ -72,27 +72,6 @@
 - [36:00](https://www.youtube.com/watch?v=KoikKSCbwhs&t=2160s) sometimes the INTP doesn't put their faith in anything. But you need faith in order to persevere. 
 - [37:30](https://www.youtube.com/watch?v=KoikKSCbwhs&t=2250s) can backstab people for the sake of justice. 
 - [41:00](https://www.youtube.com/watch?v=KoikKSCbwhs&t=2460s) need to have critical thinking toward everything so they don't put their faith into the wrong thing.
-
-</div></div>
-
-- 
-
-[[SOURCES/Literature Note/Crusader (ENTP, INTP, ESFJ, ISFJ) Abusers_ _ Season 17 Part 2 Quadras _ CS Joseph\|Crusader (ENTP, INTP, ESFJ, ISFJ) Abusers_ _ Season 17 Part 2 Quadras _ CS Joseph]]
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-- [3:10](https://www.youtube.com/watch?v=keNewFwXxM8&t=190s) crusaders set you up for failure the most ([[CARDS/Individuals/CS Joseph\|CSJ]]2023) 
-
-</div></div>
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-- [5:35](https://www.youtube.com/watch?v=keNewFwXxM8&t=335s) "crusaders oftentime feel like they deserve to be abusive" & dont call it abuse ([[CARDS/Individuals/CS Joseph\|CSJ]]2023) 
 
 </div></div>
 
