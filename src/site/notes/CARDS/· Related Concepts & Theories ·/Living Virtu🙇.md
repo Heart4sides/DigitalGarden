@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","noteIcon":"1","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-05-14T13:58:00.990+02:00"}
+{"dg-publish":true,"permalink":"/cards/related-concepts-and-theories/living-virtu/","noteIcon":"1","created":"2023-04-28T08:15:37.631+02:00","updated":"2023-06-12T12:21:40.611+02:00"}
 ---
 
 #type/virtu
