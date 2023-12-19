@@ -23,7 +23,7 @@
 
 ---
 # Virtu & Vice 
-[[CARDS/Depth Psychology Theory/Attention\|Attention]] 🆚 [[CARDS/Depth Psychology Theory/Apathy\|Apathy]] 
+[[CARDS/· Related Concepts & Theories ·/Attention\|Attention]] 🆚 [[CARDS/Depth Psychology Theory/Apathy\|Apathy]] 
 
 ---
 # Temple / 4 sides of the Mind
