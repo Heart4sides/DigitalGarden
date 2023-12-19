@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","noteIcon":"1","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-05-27T15:35:51.615+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/soul-temple/","noteIcon":"1","created":"2022-12-20T21:29:18.567+01:00","updated":"2023-08-11T21:11:21.034+02:00"}
 ---
 
 # Themes 
-- Personal [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]] 
+- Personal [[Identity\|Identity]] 
 - [[CARDS/Depth Psychology Theory/Integrity\|Integrity]] 
-- [[Individuation\|Individuation]] Process 
+- [[CARDS/· Related Concepts & Theories ·/Individuation\|Individuation]] Process 
 - Essence 
 - [[CARDS/· Related Concepts & Theories ·/Character\|Character]] 
 - Authenticiy, [[CARDS/· Related Concepts & Theories ·/genuine\|genuine]]ness
@@ -15,7 +15,7 @@
 # Functional 
 - Quadra : [[CARDS/Depth Psychology Theory/Philosopher⚖️🏞️\|Philosopher⚖️🏞️]] and [[CARDS/Depth Psychology Theory/Templar🌠⚕️\|Templar🌠⚕️]] 
 - [[CARDS/Depth Psychology Theory/God Functions🙏\|God Functions🙏]] 
-	- [[SOURCES/Type Theory by CSJ/Mechanics/Perception\|Perception]] : [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
+	- [[Perception\|Perception]] : [[CARDS/Depth Psychology Theory/Foundational/Ne\|Ne💧]]
 		- The Collective Potential 
 	- [[CARDS/Depth Psychology Theory/Judgement\|Judgement]] : [[CARDS/Depth Psychology Theory/Foundational/Fi\|Fi🧭]]
 		- The Collective Morals
@@ -35,3 +35,6 @@ Believes humanity's problems stem from a lack of identity, integrity and quality
 - [[CARDS/Depth Psychology Theory/Affiliative🐜\|Affiliative🐜]] 
 - [[CARDS/Depth Psychology Theory/Starter🔜\|Starter🔜]] 
 
+---
+# Music 
+- [Bronski Beat - Smalltown Boy](https://www.youtube.com/watch?v=88sARuFu-tc)
