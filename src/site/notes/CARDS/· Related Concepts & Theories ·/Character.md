@@ -4,5 +4,5 @@
 
 #
 # Definitions 
-- “The container or the vessel of a person’s [[CARDS/· Related Concepts & Theories ·/Identity\|Identity]]” ([[CARDS/Individuals/CS Joseph\|CS Joseph]])
+- “The container or the vessel of a person’s [[Identity\|Identity]]” ([[CARDS/Individuals/CS Joseph\|CS Joseph]])
 - “The aggregate of features and traits that form the individual nature of some person or thing or one such feature or trait or a characteristic, a moral or ethical quality.” ([Character Definition & Meaning | Dictionary.com](https://www.dictionary.com/browse/character))
