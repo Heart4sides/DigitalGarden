@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-05-27T15:36:13.835+02:00"}
+{"dg-publish":true,"permalink":"/cards/depth-psychology-theory/greed/","noteIcon":"1","created":"2022-12-31T17:44:59.239+01:00","updated":"2023-06-08T17:27:20.497+02:00"}
 ---
 
 #type/pole 
@@ -22,7 +22,7 @@
 
 
 
-- Se child takes from other people because Ne crtici thinks it's not desired anyway --> vice of greed 
+- [[CARDS/Depth Psychology Theory/Foundational/Se#👼Child\|Se#👼Child]] child takes from other people because [[CARDS/Depth Psychology Theory/Foundational/Ne#🤔Critic\|Ne#🤔Critic]] thinks it's not desired anyway --> vice of greed 
 
 </div></div>
 
@@ -30,13 +30,13 @@
 - Fills the lack of identity ([[CARDS/Depth Psychology Theory/Soul Temple👤\|Soul👥]]) with achievements 
 ---
 # Greed through Subjugation 
-[[CARDS/Depth Psychology Theory/UD👤⬅️\|UD👤⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]][[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
+[[CARDS/Depth Psychology Theory/UD👥⬅️\|UD👥⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]][[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - Judge people on their level of utility 
 - Object of pursuit is more important than the people helping 
 - Self-subjugation to the goal (selflessness)
 ---
 # Greed through Complacency 
-[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👤➡️\|UF👤➡️]] [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
+[[CARDS/Depth Psychology Theory/SD🤸⬅️\|SD🤸⬅️]][[CARDS/Depth Psychology Theory/UF👥➡️\|UF👥➡️]] [[CARDS/Depth Psychology Theory/Purpose\|Purpose Dyad]] 
 - When they lack purpose 
 - The dragon sitting on its mountain of gold 
 - Fill the hole with hedonism 
